@@ -1,0 +1,1225 @@
+{
+  "name": "NPC Developments",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables5.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Left their old life to become a humble farmer",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Suffered a terrible injury",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Joined a local religious organization",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Became a teacher of small children",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Invented a new technology",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Magically aged 10 years",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Was thrown in prison",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Lost a leg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Made some bad investments and became poor",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Became prominent in local politics",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Got married and adopted three children",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Became homeless",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Started a successful small business",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Became a local vigilante",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Joined the military",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Became an adventurer",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Got married to someone their family does not approve of",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Went into hiding",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Lost an arm",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Has been taking care of a family member who is ill",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Joined a local cult",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Left their old life to become a monk",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "Became skilled in thievery",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Had a loved one kidnapped",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Learned how to make fine weapons",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Magically aged 25 years",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Made powerful enemies",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Was excommunicated from the local community",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Lost a loved one and got revenge",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Took a long journey to find themselves",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Lost an eye",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Started a tourist attraction",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Magically de-aged 10",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "years Performed a heroic deed that went unrecognized",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Started a religion",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Became a smuggler",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Went on an epic quest, returned triumphant",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Magically aged 50 years",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Became the 'crazy cat person'",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Suffered a minor injury",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Became an indentured servant",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Got married and had a child",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Became a scholar of dark magic, but does not practice it",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Had a loved one suffer a major injury",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Left their old life to become an assassin",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Became skilled in the use of magic",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Trained a monkey Wrote a song that",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "someone else stole and became famous",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Discovered a dark secret and was discredited for it",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Invented a powerful weapon",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Performed a heroic deed and became famous for it",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Got married, divorced, and remarried to the same person",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Lost a finger",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Joined an acrobatic troupe",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Joined a local gang",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Spent their time researching someone to help the party",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Started a small business and failed miserably",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Made some good investments and became rich",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Started a cult",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Lost a hand",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Went on an epic quest, returned defeated",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Lost their job and have been struggling to get by",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Started an orchard",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Became a wanted criminal",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Started training dogs to fight each other",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Was burned in a fire",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Became the bartender and the local tavern",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Invented a new culinary dish",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Lost a loved one",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Became skilled in combat",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Left their old life to become a knight",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Received a large scar across their face",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Has done literally nothing of importance",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Contracted a major illness",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Traveled the world and became a polyglot",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Became a gambling addict",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Spent their time gathering a resource to help the party",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Was cursed (roll on the curses table)",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Joined a local band of musicians",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Fell into a coma",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "Became a traveling bard",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Started a bakery",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Became evil and corrupted",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Went mad and started living among the wild animals",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Left their old life to become a fisher",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Wrote a song and became famous for it",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Became an innkeeper",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Became despised by the local community",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Took over an orphanage",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Unintentionally spread a disease",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Received a large scar across their body",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Created and organized a local law enforcement entity",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Spent their time telling stories to make the party famous",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Lost a loved one and now seek revenge",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Became immortal",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Became a leader in the local community",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Became head of a school",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "Was blessed (roll on the blessings table)",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "Ascended to a higher plane of existence",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Died",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables5",
+      "book": "Book Of Random Tables 5",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables 5",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "npc developments",
+  "entry_count": 100,
+  "version": 2
+}

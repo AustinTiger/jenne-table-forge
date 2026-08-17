@@ -1,0 +1,613 @@
+{
+  "name": "Critical Fails for Melee Attacks",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from greatbook-of-random-tables.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The character drops their weapon",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The character's attack succeeds",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "The character loses their balance and falls toward the target",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "The target steals some gold pieces from the character",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "The character impales themselves, taking 1D12 damage",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The character is killed by their own attack",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "The target yawns as if bored while dodging the attack",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "The character's attack succeeds as if it were a critical success",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "The character is grappled",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The character cuts offtheir own hand, taking 1D20 damage",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The attack causes the target to become enraged",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "The character jams their finger, taking 1D2 damage",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "The attack taunts all nearby enemies",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "The target steals an item from the character",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The character pokes their eye, taking 1D2 damage",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The target laughs at how pathetic the character's attack was",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The character stubs their toe, taking 1D2 damage",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The character hits an adjacent friendly target with their attack",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "The attack taunts adjacent enemies",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The character trips and falls",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "The character loses a piece of armor",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "The character causes a nearby friendly target to drop their weapon",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The character hits their head and becomes disoriented",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "The character's weapon is stuck in the target's armor",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "The attack hits but does no damage",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "The character's weapon is tossed up into the air",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "The character hits themselves with their own attack",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "The target intimidates the character, causing them to flinch",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "The character stabs themselves in the gut, taking 1D8 damage",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The character's weapon breaks",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "The character's weapon is stolen",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "The character's weapon is embedded into a nearby wall",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "The character's weapon is flung out of sight and lost",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "The character bites their tongue, taking 1D2 damage",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "The character drops their weapon onto their foot, taking 1D4 damage",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "The character accidentally embraces the target",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "The character breaks their nose, doing 1D2 damage",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "The character is spun around, disorienting them",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "The character lets out an intimidating battle cry before missing the target",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The character cuts offtheir own toe, taking 1D6 damage",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "The attack makes a loud noise that attracts nearby enemies",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "The attack is deflected back onto the character",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "The character is thrown at another friendly target",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "The character trips an adjacent friendly target",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "The character is knocked unconscious 1D6",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "The character cuts offtheir own finger, taking damage",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "The character's weapon is lodged into the ground",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "The character drops their gold pouch on the ground",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The target dodges and attacks the character",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "greatbook-of-random-tables",
+      "book": "Great Book Of Random Tables",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Great Book Of Random Tables",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "critical fails for melee attacks",
+  "entry_count": 49,
+  "version": 2
+}

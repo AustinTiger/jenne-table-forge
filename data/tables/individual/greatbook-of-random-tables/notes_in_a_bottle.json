@@ -1,0 +1,1225 @@
+{
+  "name": "Notes in a Bottle",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from greatbook-of-random-tables.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "- Deed to a castle and a town in a nearby country",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "'Look behind you.'",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "'You're dead.'",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Appears blank but has a magically hidden message",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "'The end is near and maybe my letter will find someone who",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "'Is this adventure worth your life?'",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "'Whoever opened this bottle is now king.' (details included)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Song of an ancient battle",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Spell Scroll (level 1)",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Navigation chart to an island rich in spices",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Letter revealing the location of a dragon hoard (written in",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Wanted poster of a character in the party",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "'Too late now.'",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Map to a nearby dungeon",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Map that leads to a faraway town",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Letter discussing a quarry of rare stone (written in dwarven)",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Tale of a lady who lost her mind",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Wanted poster (large reward)",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Page from a bestiary",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Leaf identification chart",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Dungeon map",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Ancient legend about a fox wedding",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "'We need warriors. Come join us.' (from a nearby town)",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "'In the nearest town, you will find the answers you are seeking.' 'I'm lost.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "My last known location was...' (directions included)",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Letter speaking of a large gemstone (written in goblin)",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Recipe for rabbit stew",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Instructions on how to build a wooden table",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "'Bounty hunter needed ASAP.' (directions included)",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Map to a sunken ship Recipe for apple pie",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "'All is lost and I cannot continue.'",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "'Blood will be shed. Tread carefully the path you walk.'",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Half of a dungeon map",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Detailed picture and description of a dragon",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "'Never come back again.'",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "'To someone beautiful and far away...'",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "'I have no reward for the finder of this message save that of friendship.' (contact details included)",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "'I have no reward for the finder of this message save that of",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Doodles",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Last will and testament of a wealthy merchant",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Heroic tale from a lost culture",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Details of a lost people group",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "'A maiden is locked in a tower.' (directions included)",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Quest to find a buried chest full of gold",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Recipe for cornbread",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Wanted poster (small reward)",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Recipe for a poison",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Love letter dated more than a thousand years ago",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Half of an ancient spell",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Spell scroll (level 2)",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "'The secret to life is found within yourself but the secret to yourself is found in life.'",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Recipe for an invisibility potion",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Map to a dungeon in a faraway land",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Riddle",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Once the piece of paper is touched it melts",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "'Whoever answers this letter with aid can have my crown...' (details included)",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Legal contract on black paper with white letters",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Recipe for a rare wine",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Ad for a blacksmith shop",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "'I am a prince. I have been kidnapped. If you were to rescue me, the reward would be...' (directions included)",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Letter discussing hidden loot (written in thieves' cant)",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Story of an ancient relic",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "'I'm watching you.'",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Ad for an inn",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "'Stranded on an island.' (directions included)",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "'This bottle is very valuable. Don't break it!'",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "'The goddess of disease and poison shall curse you.'",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Story of a man named Krimdar, he came from afar...",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Journal entry from a sailor",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "'I miss you, (insert a character's name).'",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "'You are called by the gods to battle the creatures of the underworld.'",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Picture of a mastiff",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Missing child poster",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Letter from a character's family member",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "'Abandon all hope. The Destroyer awaits.'",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Footprint chart of eight different animals",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Tale of a man who slew a dragon",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Deed to a mill in a nearby city",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "'The Blue Devil Mercenaries are traitors. Don't trust them!'",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "'Find Draco.'",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "'They're coming.'",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Piece of paper with the family crest of a boar",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "'Find the lost silver mine of Tharen before Ulmek does!'",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Tavern's secret mead recipe",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Blank piece of paper",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "'Mavis has the key.'",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "'You're now under my spell.'",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "'Head to the hermit's shack.'",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Tale of the fallen kingdom",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Tale of a powerful ring",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Recipe for a potion of healing",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Tale of an ancient beast",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Map of the local area",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "'Have Sword, Will Travel.' (contact details included)",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Detailed drawing of a mythical animal",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Blank piece of paper that bursts into flame when opened",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "'Gridlar is the killer.'",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "'Sdrawkcab eton a si sith.' (ancient language)",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "List of edible and non-edible berries",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Directions to a secret fortress",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d101",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "greatbook-of-random-tables",
+      "book": "Great Book Of Random Tables",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Great Book Of Random Tables",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d101",
+  "sort_key": "notes in a bottle",
+  "entry_count": 100,
+  "version": 2
+}

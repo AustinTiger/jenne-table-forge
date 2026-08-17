@@ -1,0 +1,2425 @@
+{
+  "name": "items in a house",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-ancientworld.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Copper bracelet",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Tin jewelry",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Quern",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Tea",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Clay oil lamp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Sage",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Goatskin bag",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Egyptian weapons",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Wool mat",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Myrrh",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Leather sandals",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Frankincense",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Reed mat",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Orpiment",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Water jar",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Olive wood",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Mattress",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Clay figurines",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Bronze oil lamp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Linen",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Pottery (1D20, various)",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Silk",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "Short tunic",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Cedar planks",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Riding boots",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Bronze swords",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Goose feathers",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Farming tools",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Footstool",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Clothing",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Wooden bed",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Olives",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Gold earrings with garnet",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Pork",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Blue dye",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Turtle shells",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Bronze earrings",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Clay vessels",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Wooden chair",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Cheese",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Small pottery figures",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Seashells",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Wood and leather folding seat",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Bronze jewelry",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Sword (hidden)",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Greek pottery",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Animal skin mat",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Jewels",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Large water jar",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Murex shells",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Loom",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Grapes",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Bloody rag",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Fir planks",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Wax",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "African weapons",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Water pitcher",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Glass jewelry",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Oil jar",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Figs",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Barley jar",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Glass beads",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Bowl for washing hands",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Pine planks",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Cooking pot",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Double axes",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Large bowl for washing feet",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Cypress planks",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Linen",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Hats",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Ball of tied up rags",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Mastic",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Dish with starburst decoration",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Sumac",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Drinking vessel",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Terebinth resin",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Papyrus manuscript",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Elephant tusks",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Wheat jar",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Cumin",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "Cooking pan",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Rhino horns",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Bronze knife",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Cypriot pottery",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Gold hoop earrings",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Beef",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Kylix decorated with bulls",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Riding tack",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Fleece covering",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Olive oil",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Salt bowl",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Greek weapons",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Ivory scarab",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Saddles",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Apulian ceramic gutto",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Safflower",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Firewood",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "Laurel leaves",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "Serving bowl",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Rope",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0100",
+      "type": 0,
+      "text": "Large basket",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0101",
+      "type": 0,
+      "text": "Papyrus",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0102",
+      "type": 0,
+      "text": "Perfumed oil",
+      "weight": 1,
+      "range": [
+        103,
+        103
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0103",
+      "type": 0,
+      "text": "Sandarac",
+      "weight": 1,
+      "range": [
+        104,
+        104
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0104",
+      "type": 0,
+      "text": "Pink dye",
+      "weight": 1,
+      "range": [
+        105,
+        105
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0105",
+      "type": 0,
+      "text": "Glass disk ingots (turquoise)",
+      "weight": 1,
+      "range": [
+        106,
+        106
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0106",
+      "type": 0,
+      "text": "Map carved on a mud brick",
+      "weight": 1,
+      "range": [
+        107,
+        107
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0107",
+      "type": 0,
+      "text": "Oak planks",
+      "weight": 1,
+      "range": [
+        108,
+        108
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0108",
+      "type": 0,
+      "text": "Small basket",
+      "weight": 1,
+      "range": [
+        109,
+        109
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0109",
+      "type": 0,
+      "text": "Faience jewelry",
+      "weight": 1,
+      "range": [
+        110,
+        110
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0110",
+      "type": 0,
+      "text": "Broom",
+      "weight": 1,
+      "range": [
+        111,
+        111
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0111",
+      "type": 0,
+      "text": "Glass disk ingots (dark blue)",
+      "weight": 1,
+      "range": [
+        112,
+        112
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0112",
+      "type": 0,
+      "text": "Shears",
+      "weight": 1,
+      "range": [
+        113,
+        113
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0113",
+      "type": 0,
+      "text": "Silver jewelry",
+      "weight": 1,
+      "range": [
+        114,
+        114
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0114",
+      "type": 0,
+      "text": "Brown dye",
+      "weight": 1,
+      "range": [
+        115,
+        115
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0115",
+      "type": 0,
+      "text": "Sugar",
+      "weight": 1,
+      "range": [
+        116,
+        116
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0116",
+      "type": 0,
+      "text": "Vase",
+      "weight": 1,
+      "range": [
+        117,
+        117
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0117",
+      "type": 0,
+      "text": "Amber",
+      "weight": 1,
+      "range": [
+        118,
+        118
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0118",
+      "type": 0,
+      "text": "Couch",
+      "weight": 1,
+      "range": [
+        119,
+        119
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0119",
+      "type": 0,
+      "text": "Shoes",
+      "weight": 1,
+      "range": [
+        120,
+        120
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0120",
+      "type": 0,
+      "text": "Thread",
+      "weight": 1,
+      "range": [
+        121,
+        121
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0121",
+      "type": 0,
+      "text": "Dates",
+      "weight": 1,
+      "range": [
+        122,
+        122
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0122",
+      "type": 0,
+      "text": "Needle",
+      "weight": 1,
+      "range": [
+        123,
+        123
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0123",
+      "type": 0,
+      "text": "Lapis lazuli",
+      "weight": 1,
+      "range": [
+        124,
+        124
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0124",
+      "type": 0,
+      "text": "Candles (1D6)",
+      "weight": 1,
+      "range": [
+        125,
+        125
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0125",
+      "type": 0,
+      "text": "Faience beads",
+      "weight": 1,
+      "range": [
+        126,
+        126
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0126",
+      "type": 0,
+      "text": "Yellow dye",
+      "weight": 1,
+      "range": [
+        127,
+        127
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0127",
+      "type": 0,
+      "text": "Ostrich eggshell vases",
+      "weight": 1,
+      "range": [
+        128,
+        128
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0128",
+      "type": 0,
+      "text": "Toy rattle",
+      "weight": 1,
+      "range": [
+        129,
+        129
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0129",
+      "type": 0,
+      "text": "Wooden figurines",
+      "weight": 1,
+      "range": [
+        130,
+        130
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0130",
+      "type": 0,
+      "text": "Bucket",
+      "weight": 1,
+      "range": [
+        131,
+        131
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0131",
+      "type": 0,
+      "text": "pistachio nuts",
+      "weight": 1,
+      "range": [
+        132,
+        132
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0132",
+      "type": 0,
+      "text": "Wooden bowl",
+      "weight": 1,
+      "range": [
+        133,
+        133
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0133",
+      "type": 0,
+      "text": "Amethyst",
+      "weight": 1,
+      "range": [
+        134,
+        134
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0134",
+      "type": 0,
+      "text": "Inflated pig's bladder",
+      "weight": 1,
+      "range": [
+        135,
+        135
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0135",
+      "type": 0,
+      "text": "Bread",
+      "weight": 1,
+      "range": [
+        136,
+        136
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0136",
+      "type": 0,
+      "text": "Bronze bull statuette",
+      "weight": 1,
+      "range": [
+        137,
+        137
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0137",
+      "type": 0,
+      "text": "Pine resin",
+      "weight": 1,
+      "range": [
+        138,
+        138
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0138",
+      "type": 0,
+      "text": "Lilies",
+      "weight": 1,
+      "range": [
+        139,
+        139
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0139",
+      "type": 0,
+      "text": "Wine",
+      "weight": 1,
+      "range": [
+        140,
+        140
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0140",
+      "type": 0,
+      "text": "Cypriot terracotta jug",
+      "weight": 1,
+      "range": [
+        141,
+        141
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0141",
+      "type": 0,
+      "text": "Gypsum",
+      "weight": 1,
+      "range": [
+        142,
+        142
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0142",
+      "type": 0,
+      "text": "Wooden platter",
+      "weight": 1,
+      "range": [
+        143,
+        143
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0143",
+      "type": 0,
+      "text": "Glass disk ingots (yellow)",
+      "weight": 1,
+      "range": [
+        144,
+        144
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0144",
+      "type": 0,
+      "text": "Silver spoon",
+      "weight": 1,
+      "range": [
+        145,
+        145
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0145",
+      "type": 0,
+      "text": "Mesopotamian pottery",
+      "weight": 1,
+      "range": [
+        146,
+        146
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0146",
+      "type": 0,
+      "text": "Mirror (polished bronze)",
+      "weight": 1,
+      "range": [
+        147,
+        147
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0147",
+      "type": 0,
+      "text": "Ivory figurines",
+      "weight": 1,
+      "range": [
+        148,
+        148
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0148",
+      "type": 0,
+      "text": "Bronze ingot",
+      "weight": 1,
+      "range": [
+        149,
+        149
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0149",
+      "type": 0,
+      "text": "Sycamore planks",
+      "weight": 1,
+      "range": [
+        150,
+        150
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0150",
+      "type": 0,
+      "text": "Scythian lion head applique",
+      "weight": 1,
+      "range": [
+        151,
+        151
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0151",
+      "type": 0,
+      "text": "Olives",
+      "weight": 1,
+      "range": [
+        152,
+        152
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0152",
+      "type": 0,
+      "text": "White lead powder",
+      "weight": 1,
+      "range": [
+        153,
+        153
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0153",
+      "type": 0,
+      "text": "Turquoise",
+      "weight": 1,
+      "range": [
+        154,
+        154
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0154",
+      "type": 0,
+      "text": "Roses",
+      "weight": 1,
+      "range": [
+        155,
+        155
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0155",
+      "type": 0,
+      "text": "Beer",
+      "weight": 1,
+      "range": [
+        156,
+        156
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0156",
+      "type": 0,
+      "text": "Serving spoon",
+      "weight": 1,
+      "range": [
+        157,
+        157
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0157",
+      "type": 0,
+      "text": "Hyssop",
+      "weight": 1,
+      "range": [
+        158,
+        158
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0158",
+      "type": 0,
+      "text": "Shattered clay pot with strange writing",
+      "weight": 1,
+      "range": [
+        159,
+        159
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0159",
+      "type": 0,
+      "text": "Pomegranates",
+      "weight": 1,
+      "range": [
+        160,
+        160
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0160",
+      "type": 0,
+      "text": "Wide-brimmed hat",
+      "weight": 1,
+      "range": [
+        161,
+        161
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0161",
+      "type": 0,
+      "text": "Glass disk ingots (purple)",
+      "weight": 1,
+      "range": [
+        162,
+        162
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0162",
+      "type": 0,
+      "text": "Astrolabe",
+      "weight": 1,
+      "range": [
+        163,
+        163
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0163",
+      "type": 0,
+      "text": "Cedar resin",
+      "weight": 1,
+      "range": [
+        164,
+        164
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0164",
+      "type": 0,
+      "text": "Ibex head earring",
+      "weight": 1,
+      "range": [
+        165,
+        165
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0165",
+      "type": 0,
+      "text": "Nets",
+      "weight": 1,
+      "range": [
+        166,
+        166
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0166",
+      "type": 0,
+      "text": "Small leather pouch with four silver coins",
+      "weight": 1,
+      "range": [
+        167,
+        167
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0167",
+      "type": 0,
+      "text": "Fragrances",
+      "weight": 1,
+      "range": [
+        168,
+        168
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0168",
+      "type": 0,
+      "text": "Chamber pot",
+      "weight": 1,
+      "range": [
+        169,
+        169
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0169",
+      "type": 0,
+      "text": "Poultry",
+      "weight": 1,
+      "range": [
+        170,
+        170
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0170",
+      "type": 0,
+      "text": "Parthian gold earrings",
+      "weight": 1,
+      "range": [
+        171,
+        171
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0171",
+      "type": 0,
+      "text": "Fishing tools",
+      "weight": 1,
+      "range": [
+        172,
+        172
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0172",
+      "type": 0,
+      "text": "Hobby horse",
+      "weight": 1,
+      "range": [
+        173,
+        173
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0173",
+      "type": 0,
+      "text": "Wooden boxes",
+      "weight": 1,
+      "range": [
+        174,
+        174
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0174",
+      "type": 0,
+      "text": "Bowl with food refuse",
+      "weight": 1,
+      "range": [
+        175,
+        175
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0175",
+      "type": 0,
+      "text": "Grain",
+      "weight": 1,
+      "range": [
+        176,
+        176
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0176",
+      "type": 0,
+      "text": "Statuette of Asclepius",
+      "weight": 1,
+      "range": [
+        177,
+        177
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0177",
+      "type": 0,
+      "text": "Almonds",
+      "weight": 1,
+      "range": [
+        178,
+        178
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0178",
+      "type": 0,
+      "text": "Doll",
+      "weight": 1,
+      "range": [
+        179,
+        179
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0179",
+      "type": 0,
+      "text": "Baltic amber",
+      "weight": 1,
+      "range": [
+        180,
+        180
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0180",
+      "type": 0,
+      "text": "Pouch with clay marbles",
+      "weight": 1,
+      "range": [
+        181,
+        181
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0181",
+      "type": 0,
+      "text": "Coriander",
+      "weight": 1,
+      "range": [
+        182,
+        182
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0182",
+      "type": 0,
+      "text": "Toy chariot",
+      "weight": 1,
+      "range": [
+        183,
+        183
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0183",
+      "type": 0,
+      "text": "Rabbit meat",
+      "weight": 1,
+      "range": [
+        184,
+        184
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0184",
+      "type": 0,
+      "text": "Knucklebones",
+      "weight": 1,
+      "range": [
+        185,
+        185
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0185",
+      "type": 0,
+      "text": "Salt",
+      "weight": 1,
+      "range": [
+        186,
+        186
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0186",
+      "type": 0,
+      "text": "Yo-yo-like toy",
+      "weight": 1,
+      "range": [
+        187,
+        187
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0187",
+      "type": 0,
+      "text": "Lamps",
+      "weight": 1,
+      "range": [
+        188,
+        188
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0188",
+      "type": 0,
+      "text": "Toy hoop",
+      "weight": 1,
+      "range": [
+        189,
+        189
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0189",
+      "type": 0,
+      "text": "Tamarisk logs",
+      "weight": 1,
+      "range": [
+        190,
+        190
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0190",
+      "type": 0,
+      "text": "Dried grass",
+      "weight": 1,
+      "range": [
+        191,
+        191
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0191",
+      "type": 0,
+      "text": "Honey",
+      "weight": 1,
+      "range": [
+        192,
+        192
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0192",
+      "type": 0,
+      "text": "Coin purse (empty)",
+      "weight": 1,
+      "range": [
+        193,
+        193
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0193",
+      "type": 0,
+      "text": "Dates",
+      "weight": 1,
+      "range": [
+        194,
+        194
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0194",
+      "type": 0,
+      "text": "Silver necklace",
+      "weight": 1,
+      "range": [
+        195,
+        195
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0195",
+      "type": 0,
+      "text": "Jade",
+      "weight": 1,
+      "range": [
+        196,
+        196
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0196",
+      "type": 0,
+      "text": "Gnathian thistle cup",
+      "weight": 1,
+      "range": [
+        197,
+        197
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0197",
+      "type": 0,
+      "text": "Gold jewelry",
+      "weight": 1,
+      "range": [
+        198,
+        198
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0198",
+      "type": 0,
+      "text": "Toy top",
+      "weight": 1,
+      "range": [
+        199,
+        199
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0199",
+      "type": 0,
+      "text": "Woodworking tools",
+      "weight": 1,
+      "range": [
+        200,
+        200
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d200",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-ancientworld",
+      "book": "Book Of Random Tables Ancient World",
+      "category": "loot",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Ancient World",
+  "category": "loot",
+  "tags": [],
+  "roll_type": "d200",
+  "sort_key": "items in a house",
+  "entry_count": 200,
+  "version": 2
+}

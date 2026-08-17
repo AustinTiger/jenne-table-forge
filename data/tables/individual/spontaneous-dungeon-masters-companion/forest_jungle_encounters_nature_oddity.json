@@ -1,0 +1,271 @@
+{
+  "name": "Forest / Jungle Encounters: Nature/Oddity",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from spontaneous-dungeon-masters-companion.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Treefall (DC 20 dex. or 6d10 bludgeon)",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Mudslide (DC 15 dex. or 2d6 bludgeon)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Thorns (DC 15 con. or 2d6 piercing)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Rainstorm (DC 10 str. or half mvmt.)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Fog (DC 15 wis or half mvmt.)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Quicksand (DC 25 str. or half mvmt.)",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Scree (DC 10 str. or half mvmt.)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Darkness (DC 10 wis. or half mvmt.)",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Fey tricks (DC 15 wis. or half mvmt.)",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Humidity (DC 10 con. or 1 lvl exhaust.)",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "100' cliffwith waterfall",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Fey glen",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Ruins of forest village",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Druidic markings",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Unicorn or Pegasus herd",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Giant mushrooms",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Sacred burial mound",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Animal graveyard",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Great Grandfather Oak",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Dancing Satyrs",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "spontaneous-dungeon-masters-companion",
+      "book": "Spontaneous Dungeon Masters Companion",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    }
+  },
+  "book": "Spontaneous Dungeon Masters Companion",
+  "category": "encounter",
+  "tags": [
+    "encounter",
+    "forest"
+  ],
+  "roll_type": "d20",
+  "sort_key": "forest / jungle encounters: nature/oddity",
+  "entry_count": 20,
+  "version": 2
+}

@@ -1,0 +1,1231 @@
+{
+  "name": "Sea Quests",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "While sailing, the party discovers a fire onboard. If they are able to put out the fire, they can find several clues to who set it.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "A fisherman needs help mending his nets. If he can't get the nets fixed, he'll miss the best part of the season.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "A captain is paying a fair price to anyone willing to scrape barnacles for a few days.  Creativity is encouraged, but not necessary.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "A captain has been murdered. The city officials have imprisoned his crew on charges of mutiny while they investigate the murder. All the crew members swear it was not them. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "One night, a derelict floats into the harbor. An investigation is called and the party is offered the job. The ship's log and other clues are found onboard leading the party to believe this wasn't the work of ordinary pirates.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The party spots a massive tree growing up out of the water. If they approach, the tree speaks to them. It is the World Tree and it needs help.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "While sailing, the party encounters an old man in a small fishing boat. His sails have torn and he is at the mercy of the waves. If the party helps him, the man reveals himself as the god of the sea and rewards them.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "A great sea serpent has decided to take a long nap on the deck of the Queen Karis. The captain is at a loss as to how to remove it.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Ancient documents have been found that describe a voyage that circumnavigated the globe. The king is interested in repeating the voyage. Any takers?",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "A  merchant  ship  went  down  in  a  storm  off  a  dangerous  point.  The  merchant  is  hiring salvagers, but it will not be an easy job.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "'Pearl Reef' is what they call it, for the reef produces pearls in abundance. But the island has recently become inhabited by a seafaring, war-like tribe. Though they have no interest in pearls, they guard their new territory viciously.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "A dragon attacked the city and then flew out to sea. The queen would like some hardy souls to sail after the beast.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "On the horizon, everyone can see it. It arose out of the sea the day before yesterday. It is a city to be sure. Who will dare sail out to it?",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "'The Serpant's Run' is considered by most to be a suicide run, but truly it is the fastest way to get to the neighboring city. The city has been crippled with a terrible epidemic, and some ship must come with the medicine as quickly as possible.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Sailors at the local pub speak of a mist that enshrouds a mysterious island. Out of the center of the island protrudes a great rock in the shape of a weeping woman. The island itself seems to move about, and one usually finds it by happenstance. But if one does come upon a strange mist on the high seas, they may behold the stone maiden, crying above her island.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The party is tasked with hunting whales and will be paid handsomely on their return to port.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Out on the high seas, there is a whirlpool which emits a beam of light from its center. Some say a great power sits at the bottom of the ocean there. The one who conquers the spiraling depths might gain this power for himself.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The great Kraken had taken up residence in a vital strait. It must be destroyed or the ships cannot pass.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "A band of refugees is hiring a ship to take them to a new land they can settle. They are willing to pay quite well.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Hauling in the fishing net reveals a chest entangled in the netting. The chest contains a map to an unknown island, a dagger with an ivory hilt, and an unsigned letter asking for help.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Exploring small islands proves fruitful when the party discovers ruins on one.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "The Pirate King is dead and the pirates are once again scattered bands. Will another pirate king or queen arise to unite them?",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "A wizard built a tower far out into the sea, for he desired to be alone with his studies. No one has seen or heard from him in a hundred years or more. Perhaps it is safe to explore or loot the tower now.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "The port leadership are looking for brave souls to attack a pirate they have just discovered. There is no pay, but the spoils belong to the victor.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "The party finds a derelict floating aimlessly. When they board her, something is not right, and there is evidence that something terrible happened onboard.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "The party finds a lifeboat adrift. It contains a chest that has a few items inside, plus a map to an unknown island.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "A violent storm forces the party offcourse and beats the vessel all night. At dawn the ship runs aground on some rocks near a small island. Low on food and the ship damaged, the party will have to make the best of the situation and explore the island.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "A  merchant  wants  to  hire  the  party  to  escort  a  heavily-loaded  ship  to  another  port.  She's paying well.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "A body washed up on shore. There is a single stab wound under the ribs on the right side. On the  body  were  two  dice  made  of  bone,  a  tiny  golden  seashell,  and  a  note  with  a  few  words written in a language no one in town knows. The town leadership is promising a reward for any information.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The party must sail through a strong band of storms the get their cargo safely into port.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "A massive tidal wave is approaching a great city by the sea. What will the party do?",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "While sailing along the shore, the party spots a large cave entrance. It may be big enough to sail into.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "In the northern seas, there is a place where the ocean appears to be boiling. Ships that are blown offcourse and drift too near the spot inevitably go down. Many ships, laden with great value, have been its victims.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "While sailing, the party observes a strange glowing beneath the surface of the water. When they investigate they find an injured merman.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "A great fleet of ships is seen on the horizon. The small, island country knew that this menace would invade their home eventually, but are they ready? They are prepared to launch their ships, but they have so few to man them. They send out a call for any able bodied person so come help in the fight. All will be richly rewarded.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Wreckage from a boat or ship has washed ashore. There were some goods and a few random mundane items.  However,  there  was  also  a  sealed  chest  that  contained  a  logbook  and  a  few treasures.  The  logbook  details  a  fantastic  journey  and  has  maps  and  sea  charts  that  lead  to islands where it is said that there are great riches in abandoned mines.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "The party is offered an old ship for free. It needs work to be made seaworthy again, but she's a good ship.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "A  merchant  ship  claims  to  have  discovered  an  old  shipwreck.  The  captain  is  selling  the location to the highest bidder. It could be some great salvage and possibly treasure.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "The party comes across jetsam. There is a ship in distress somewhere. Can they find it in time?",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The  local  government  is  staging  a  mock  sea  battle  in  the  bay  to  commemorate  a  famous battle that took place one hundred years ago. They are looking for some exuberant actors and actresses to fill the most important roles.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Humanoid creatures rise out of the sea and attack the port city. The attackers are fended off, but not without cost. The city leadership asks the party to investigate what these creatures are and where they are coming from.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "A drunken seaman brags of burying treasure on a deserted island. As he stumbles out of the tavern, some rough-looking men follow him out. It seems they intend to find the location of this treasure one way or another.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "The  party  signs  on  to  a  ship  only  to  realize  the  captain  in  obsessed  with  killing  a  certain leviathan that may or may not be white.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "The  Demon's  Chain  is  an  archipelago  where  many  ships  have  sunk.  It  is  believed  that  a monster  resides  in  its  waters.  A  wealthy  merchant  has  tasked  the  party  with  destroying  the creature. However, when the party investigates further, they find that the creature is protecting an underwater kingdom.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "A sea captain has lost his crew. He's looking for hearty adventurers up for a new challenge. The party signs on and then learns that they are taking a long, sweeping adventure to the Spice Islands and back. Encounters abound on the sea, on the islands, and in the city.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "A  great  civilization,  in  their  arrogance,  strove  to  surpass  the  gods,  and  so  the  gods  sent judgment and buried the city within the ocean. But the population did not perish. Instead, the gods  cursed  them  to  remain  in  their  city  forever  trapped  beneath  the  waves  'until  the  sun touches the depths and blesses the city with its kiss.'",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "A mermaid princess has lost her bejeweled crab somewhere in a massive kelp forest. If the party helps her locate it and she will reward them richly.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "A merchant is looking for a ship to carry some cargo to a faraway port.  However, he refuses to  reveal  what  he  has  in  his  crates.  But  the  monetary  return  on  the  venture  would  be  quite substantial.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "If the party can prove they have taken five enemy ships, the queen will grant them Letters of Marque.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "A  wizard  wishes  the  party  to  ferry  him  to  a  small  island.  He's  offering  a  nice  payment  in exchange. Once there he tries to set the ship on fire, when disrupted he runs into the jungle.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Upon  the  seven  seas  travels  a  great  sea  turtle  with  an  ancient  temple  upon  its  back.  The monks who govern the temple are said to be the wisest and most knowledgeable on earth.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "The party spots a capsized ship and sailors in the water. A rescue mission will be complicated by sharks.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "The portmaster wants the harbor channel widened. It will take very manual work to dredge it, but it's honest coin for a couple weeks.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "A mermaid tells of a scalawag who stole one of her pearl earrings. She promises one of her scales if the party returns her pearl. A mermaid's scale is said to have 'unusual' properties.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "An  old  sea  captain  has  died.  He  had  no  known  relatives,  so  his  belongings  are  being auctioned off. There is particular interest in his charts and maps.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "The party discovers a castle on a remote island. If they investigate they find a mad queen keeping her children in a tower.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "While  exploring  the  coastline  the  party  discovers  the  mouth  of  a  great  river.  The  river  is navigable. Exploring the interior could prove profitable.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "A band of pirates has joined forces with the slavers and have raided the coastline.  Who will rescue those that have been captured?",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Pirates raid the port city. As they flee with their spoil, are there any who will give chase?",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "A fantastical fish dwells somewhere in the sea. They say its scales can make an impenetrable armor. But first, one must catch it.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "A merchant offers the party positions as crew members on a huge galleon he is taking on a long journey.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "The party's ship is sinking. They need to find the problem and fix it before it's too late.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "At the local pub, an old sailor is offering a treasure map to whoever can beat him at a drinking contest.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "The  party  must  infiltrate  a  storm  giant's  island  to  locate  a  map  to  a  dungeon  filled  with treasure.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "The privateers have been commandeering vessels. The Seahawk is hiring anyone who can help them resist or outrun the privateers.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "A noble wishes to hire the party's ship. He needs to get to a city down the coast as soon as possible.  He  has  coin  and  he  offers  a  sizable  fee.  After  launching  the  party  sees  several  ships following them.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "For hundreds of years the Stonecrop Lighthouse has warned sailors of the treacherous rocks, but the light has inexplicably gone out. Those who attempt to investigate are pushed back by a powerful wind. Someone must find a way to enter the lighthouse and rekindle the flame.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "The  Pirate  Queen  has  asked  the  party  to  help  defeat  an  island  fort.  She  explains  that  the military that occupies this fort is an oppressive dictatorship and does not allow fair trade in the area.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "A ghost ship wanders the seas. Rumors of its origin abound, but all speak of treasure.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "On the bottom of the ocean floor, there is a civilization living in a literal bubble. Long ago, a powerful wizard created the city for his people. But the bubble's strength has been waning and threatens to collapse entirely.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "The party spots a ship floating adrift. When they pull alongside, they are ambushed by pirates who were hiding onboard.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "After being blown offcourse the party comes close to an island only to realize it is the home of a storm giant. He sends out an intercepting party. Can they outrun them or should they go with them?",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "The party learns of a heavily loaded merchant ship that will be arriving in port in a few days. It's a tempting target for pirates.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "A mermaid appears and asks the party for help. An evil king has taken her father's throne and she would like the party to defeat the evil king and restore her father to the throne. When they agree she casts a spell on them that gives them gills.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "A  large  group  of  rough-looking  men  want  to  hire  the  party's  ship  for  a  fishing  excursion. Should be easy money, right?",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "An innkeeper needs more fresh fish for his customers. He's offering a fair price for each.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "While the party is sailing, their ship is suddenly covered in a bubble and it plunges beneath the  waves.  The  ship  refuses  to  answer  to  anything  the  characters  do  and  continues  to  dive deeper and deeper. The ship finally docks at an underwater building. The building has air inside so the party can disembark normally. Soon they are greeted by a man who claims to be 'The King of the Sea.'",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Someone claims to have spotted ruins at low tide off the shore of a small island not too far from port. The person is willing to impart the location for a few drinks.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "The military has asked the party to help defeat the Pirate Queen. They explain that she is an unscrupulous ruffian who terrorizes law-abiding seafarers.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "The king has grown rich and the port city is now bustling with industry and activity from all across the land, even the world. With his great wealth, he constructed many ships to sail the seas and bring back foreign and exotic goods. The party is entrusted with one of these ships and adventures await them on the seas. The king awaits their return to see what treasures they will bring him.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "A group of strange visitors take up an entire table at the inn on a sad night. They are heavily cloaked and keep to themselves. However, one of the group approaches the party and asks to speak with them. He claims to be the prince of an underwater kingdom, and he needs help. Will they come with him?",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "A dead whale washed up on the shore near the port city. In its side was a harpoon of strange design,  and  the  tip  was  made  of  silver.  The  portmaster  orders  a  search  to  be  made  of  the surrounding sea to find the vessel that used the harpoon.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "While sailing the party discovers a square stone shaft protruding only about six inches out of the water. The top is sealed with a metal door.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "The Moondrifter is  one  of  the  great  sailing  vessels.  However,  during  a  terrible  storm,  its anchor chain snapped as if it were twine and sent the ship out into the troubled waters. The Moondrifter was able to recover, but her massive anchor has become lodged in shark-infested waters. They must leave soon, for the pirates monitor this area. But they cannot leave without the anchor.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "While sailing the party spies two ships closing fast and they are flying the black flag.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Stories  tell  of  a  shipwreck  that  contains  marvelous  treasures.  The  party  must  scout  the location and salvage the wreck.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "The spice trade has made the great city exceedingly wealthy. Thousands of ships have come and gone for decades. However, now the spice ships are not returning, and no one knows why. The party must investigate, otherwise the city's economy will crash.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "What a strange sight! On the back of a giant sea monster, there is a group of people sitting at a table playing cards. They invite the party to join them in their game. But they warn them that the stakes are high.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "A famed old shipwright has plans for the last ship she wishes to build. Most of the young sailors  and  seaman  think  she  is  crazy,  since  she  hasn't  built  a  ship  in  a  long  time.  She  needs materials and young hands to help build this vessel. She says those who help her can have the ship when it is done.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "The party finds a message in a bottle. It is a plea for help from a princess.  Wicked merman are attacking her kingdom. Included with the message is a map to her kingdom.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Some sort of sea monster is disrupting the tradelanes. Nearly all the merchants have agreed to offer a fantastic reward to any who will slay the vile beast from the depths.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "The  party's  vessel  becomes  stuck  in  a  sargasso  sea.  They  must  free  their  vessel  or  be stranded here with many monstrous creatures and the deranged survivors of past shipwrecks.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Some sailors speak of curious lights out over the sea. Those who come near, say that they hear whisperings carried by the wind --sighs of great danger and great riches.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "An inn built on a dock is sinking. The owner is looking for a group of people willing to dive down and fix the piers.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "A ship has caught fire in the docks. It must be pulled out to sea before the docks and all the other ships are lost.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "A horde of strange sea creatures have attached themselves to the hull of the ship, and they are now trying to gnaw their way through. Someone must get down there and destroy them!",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Some say they have seen a fleet of ships flying a yellow flag apparently searching an area of the  sea  off  the  west  coast.  It  would  be  interesting  to  learn  who  they  are  and  what  they  are looking for.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The party spies flotsam. They could salvage while searching for survivors.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "A merchant is hiring a crew to go in search of a ship of his that is late arriving at port. The pay is good, but the merchant only has a few ideas of where the search can start.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "A little girl is found floating in a lifeboat in a nearly catatonic state. Once revived the child refuses  or  cannot  speak.  The  lifeboat's  markings  show  it  belonged  to  a  ship  called  the Marie Celeste. The girl was wearing a gold locket with a portrait of a beautiful woman inside. The town leadership is asking for help in identifying the girl and discovering the fate of the ship.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests",
+      "book": "Book Of Random Tables Quests",
+      "category": "quest",
+      "tags": [
+        "quest",
+        "sea"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Quests",
+  "category": "quest",
+  "tags": [
+    "quest",
+    "sea"
+  ],
+  "roll_type": "d100",
+  "sort_key": "sea quests",
+  "entry_count": 100,
+  "version": 2
+}

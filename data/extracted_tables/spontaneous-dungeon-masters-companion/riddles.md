@@ -1,0 +1,11 @@
+## Riddles
+1. I cover cities and make men blind (A: sandstorm)
+2. Useless but blissful, requires two, silences both (A: a kiss)
+3. Runs around [name of walled city] but never moves (A: a wall)
+4. I have tongues but cannot taste (A: flames)
+5. I have fingers and thumbs, but cannot grasp on my own (A: gloves)
+6. I run everywhere, yet you have only to step out your door to find me (A: a road or path)
+7. If you are honest, then once you give me, you must keep me (A: one's word)
+8. I fall at the end of each day but never break (A: night)
+9. Though light as air, even the strongest man can't hold me for long (A: breath)
+10. In the morning, I have no head upon me. Yet each evening it returns (A: pillow)

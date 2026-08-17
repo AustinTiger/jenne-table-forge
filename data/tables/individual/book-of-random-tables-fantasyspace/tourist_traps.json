@@ -1,0 +1,1229 @@
+{
+  "name": "Tourist Traps",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-fantasyspace.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The Upside-Down Inn - An inn build completely upside down. Of course, it's a gimmick, but it seems to have worked as the inn enjoys a constant clientele.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The Chapel - A place of worship that has gained popularity for its unusual architecture and stunning mountain views.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Gail's - An inn featuring a mummified lizard/human creature.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Doll's Head Trail - A forest trail system marked with giant creepy doll heads. There's a gift shop as well.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "The Great Castle - A supposedly haunted and immensely ancient castle visitors can tour for a small fee.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The Walk Through Zoo - A zoo with a caged tunnel where guests walk through the animal habitats.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Spacer's Rest - An asteroid trading post with a gigantic statue of a frog out front. Known for buoy signs saying, 'Come see the frog!'",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Fun Over the World - An amusement park built on a small rocky moon. It features a few roller coasters and other carnival rides. However, most rides and buildings seem to be run down.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Hole In The Rock - An asteroid with a natural hole all the way through it. Some spacers have taken to flying through it as a way to bring good luck on a journey. Of course, a gift shop and tavern have popped up nearby.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Wild Blueberry Land - A farm where guests can pick berries and buy jellies and jams.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The Garden Maze - A huge curated maze cut into a beautiful garden. Visitors can explore the maze and enjoys several shops.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "The Pie Factory - A restaurant known for its wide variety of pies and homely atmosphere.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Conspiracy Theory Museum - A museum dedicated to wild theories and ideas.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Largest Working Spinning Wheel - A marketing play by a small tavern. Some spacers say the spinning is not worth the stop but the food at the tavern is actually quite good.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The Lost Mermaid Cove - An inn with a large water tank featuring several merfolk performers. Oldtimers say the shows used to be better back in the day.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Souvenir World - A whole world dedicated to the production and sale of souvenirs.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The Mystery House - A huge, eerie house with bizarre scenes set up in each room. Visitors say the price of admission is getting too high.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The Grand Aquatarium - Maybe the attraction was grand a hundred years ago but no longer. The tanks are foggy for lack of care and the variety of creatures seems to have dwindled through attrition.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Kenley Carousel - A huge elaborate carousel with a number of shops and inns nearby.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The Owlbear Caverns - A beautiful cave system on a certain world where people can take tours. Several shops and restaurants are available for visitors.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Captain's - A huge infamous inn located near a spaceport known for an enormous statue of a space captain holding a turkey leg.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Secret Caverns - Explore an intricate cave system on an asteroid for a modest fee.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The Reptile Farm - A very small, yet well-cared-for collection of exotic reptiles. Some complain the cost of the tour has been on the rise.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Beneath the Streets Museum - A walking tour through the ancient ruins located underneath a bustling city. Visitors can expect a gift shop, a cafe, and an ever-increasing admission fee.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Shimmering Springs - Located near a spaceport on a planet on a prominent trade route, this attraction features glass bottom boat rides through a beautiful, usually clear river system.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Elven Historical &amp; Cultural Museum - A museum celebrating the history and culture of various elven societies.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "The Boot Pile - For some reason that defies all logic and rationality, spacers formed a tradition of throwing an old boot offtheir vessel before leaving a certain world. Shops and several inns now surround the massive mountain of boots. Spacers can read fabricated histories of the tradition in a small pricey museum and see several plays about the first spacer to throw a boot at a ramshackle playhouse.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "The Dunstan Tomb - A massive tomb complex that visitors can tour and explore for a modest fee. Also, stop by the tavern.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Oswald's - An inn featuring the, supposedly, largest chest of drawers.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Apothecary's World - A massive drug, potion, and elixir shop that draws customers from far and wide.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "The Casino Royale - A happening spot for gambling, drink, and food all located on an asteroid.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "The Haunted World - Supposedly an entire world overrun with ghosts and spirits.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "The Rock Cafe - A massive tavern built inside a huge rock.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Forest of Spears - Tens of thousands of spears stuck in an asteroid with the points facing upwards. No one knows who placed the spears or what the purpose was behind the display. A small gift shop and tavern have sprung up nearby, so visitors can refresh themselves after exploring the forest.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Treetop - A complex of shops, attractions, and inns built inside a gargantuan tree.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "The Leaning Tower - A stone tower featuring a significant tilt that has become a common stop for spacers. Several shops and taverns have grown up around the site.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "The Wreck of the Blazing Sun - An amusement park themed as a wrecked spaceship.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Rock Gnome Land - A labyrinthine gnome village with statues, inventions, and rides. Guests can find rooms to let, hot meals, and strong drinks.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "The Toy Museum - A vast collection of odd, weird, and strange toys from a wide variety of worlds.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The Meat Museum - A museum dedicated to all kinds of meat. Needless to say, there is a restaurant in the complex that specializes in meat dishes.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Farbase - A trading post with several inns known for having the largest rocking chair. Visitors can pay a copper piece to climb it.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Spaceship Museum - The site began life as a junk pile where spacers would discard useless bits of spaceship debris. However, some enterprising soul has constructed several buildings, organized some of the junk into exhibits, and opened a tavern.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "The Tall Tower - An extremely tall tower built on a low gravity world. It looks as though it will collapse at any moment from the outside. However, it is quite sturdy on the inside as one quickly learns. Several shops and an inn surround the base, and an admission fee is required to climb the tower.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Freehold - A trading post with several inns known for a fifty-foot-tall statue of an elf holding an oversized walnut.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Randarr's Zoo - A rundown complex containing a random collection of animals in unsanitary cages. The heyday of the zoo is clearly in the past.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Alligator Farm &amp; Petting Zoo - This attraction features alligator shows every hour as well as goats and ponies that can be petted.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "The Gardens of Zinn - A gorgeous botanical garden complex offering tours, lectures, and demonstrations. An expensive gift shop and cafe are also available.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Mystery Vortex - An asteroid with an odd gravitational field. Come for the tours and stay for the restaurant.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The Guzzle House - A regular haunt for spacers with extra coin. The gigantic mead barrel out front draws in customers for overpriced mead and ale.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Outdated Cosmological Museum - A museum dedicated to different cosmological models. The vast majority of the models are from cultures and societies whose models were proven wrong.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "The Museum of Light - A hodgepodge museum featuring lamps and lanterns of all kinds. A sparse gift shop and a welcoming cafe await visitors. Visitors can also climb up into a huge lantern for the modest price of two copper pieces.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "The Salt and Pepper Shaker Museum - A large collection of salt and pepper shakers of various designs, shapes, and sizes. The museum is attached to an inn where visitors can enjoy meals and rent rooms.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Magic World - An amusement park themed around magic and wizards. There are a number of rides, shops, and a couple of inns.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Open Air Museum - A large maze of sculptures and odd objects of disputed cultural importance.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Biggest Ball of Paint - An ramshackle inn keeps a giant ball of paint in the common room in hopes of drawing in more customers.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "The Airship Museum - A fine collection of models and artifacts detailing the history of flying machines.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "The Teapot Museum - Ever want to see thousands of vintage teapots and historical tea settings? Now is your chance. The museum also features a gift shop, tea house, and a well-stocked bar.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "The Paper House - A house made entirely out of paper which has become a minor attraction. There are a couple of shops nearby.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "The Enchanted Spaceway - Along the edge of a certain trade route, someone has created sculptures and oddities that passersby can enjoy from on deck or out portholes.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Torture Museum - A macabre collection of torture devices and histories of infamous torturers. It also features a homey little cafe that offers fine lunches for high prices.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Rayburn's - An inn known for the giant statue of a mechanical humanoid out front.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Jetsam - A casino located on the back of an enormous space whale.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Old Hamlin's Mine - A depleted asteroid mine where visitors can sift some rock for themselves. There are also gift shops, clothing stores, and a bakery that makes wonderful cinnamon bread.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Alcott's - A large inn that is known for the massive statue of an orc.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "The Hammer Museum - A family of enterprising dwarves owns and operates this museum attached to their forges. Stop in to learn the history of the hammer and stay for a nice, yet pricey, meal.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Candy Visitors Center - A museum celebrating all types of candies. There is also a factory that turns out various candies and other sweets.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Monkey Island - A island stocked with rare monkey species from many worlds. In addition to monkey gazing, guests will also find shops and cafes.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Gremfeld's Winery - A winery with several shops built on an asteroid known for a giant wine bottle out front.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Dinosaur World - An entire world dedicated to dinosaur statues and other themed attractions.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Museum of Funeral History - Exhibits featuring the funerary rites and practices from a vast array of cultures and people groups.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Ralston Inn and Hunting Tours - A huge inn sits in the middle of a vast wildlife hotbed. Guests are treated with excellent rooms and meals and the hunting trips are considered unparalleled. Of course, everything comes with a price tag.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Wetherby's - Known for magic glass-walled toilets. People can't see in but the user can see out all around them.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "The Umbrella Factory - Guests can tour the factory to see how the umbrellas are made. There's also a gift shop and cafe.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "The Old Fun House - It features slanted floors, odd-shaped mirrors, and bizarrely themed rooms. Rumors say some visitors don't emerge after they enter. However, the owners strenuously deny this.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "The Smallest Versions of the Largest Things Museum - A collection of miniature models of large things like ships, spaceships, animals, and more.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Chicken Rock - A boulder bearing a passing resemblance to a chicken that has become a bit of a rite of passage for spacers to stop by and see it. There is now a tavern nearby.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Farmer's Market - A large open-air market offering strange fruits and vegetables.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "The Oddities Shop - A massive shop and museum dedicated to the macabre and bizarre.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "The Bull Horn Archway - A huge archway made out of tens of thousands of bull horns created to draw people to a small, often neglected spaceport.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "The Rock Shop - A huge shop with a vast collection of rocks, minerals, and fossils.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "The Crystalline Forest - Giant crystals that resemble trees. Visitors can take tours and spend time in the gift shop.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "The Ape House - In addition to a magnificent ape habitat, visitors will find shops, rooms to rent, and several places to get a good meal.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Trantor's - An inn known for its tours of vintage wagons.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Daralis - An entire world that is a resort.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The Country Store - A trading post on a far-flung world offering various goods like antique rocking chairs, bull whips, and fireworks.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Tillman's Max Museum - A wild and exotic collection of types of wax figures from dozens if not hundreds of worlds. Visitors can also buy highly over-priced meals in the cafe.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Miniature Horse Collection - An array of miniature horse skeletons and models. Visitors can enjoy several eateries and a gift shop.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Haunted Mansion - Reportedly an unfinished mansion haunted by the deceased, obsessed builder now surrounded by shops and inns. However, the mansion is just an attraction that was constructed fairly recently. The owners go to great lengths to sell the false story.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "The Dig - An archeological site where visitors can pay to excavate sections of the site.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "The Harva Battlefield - The remnants of a millennia-old space battle that now attracts visitors. Several gift shops and a tavern are now located nearby.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Grocery Palace - A large general store designed to look like a palace.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Shiphenge - Half-buried sailing ships arranged in a pattern that seems to align with certain astrological phenomena. Several shops and inns have popped up nearby.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The Witch Forest Trails - For a small fee, guests can hike trails marked by massive witch head statues.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Fleta's Inn - The inn is a hodgepodge of different historical architectural styles all rolled into one.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Grimdar's Food and Fuel Stop - A huge trading post known for a statue of a one-hundred-foot-tall sword.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Magical Waste Adventure Trail and Museum - A walking trail over the top of covered pits of magical waste. Also, features a museum of magic that produces waste and several shops.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "The Museum of Everyday Life - A marketing gimmick for an inn that was in decline. Visitors can see exhibits of normal everyday items like candles, clothes, and fireplace implements.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The Shrieking Swamp - Take tours of a strange swamp that shrieks and moans. Some say the sounds are faked just to prop up a failing inn and several shops.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "The Palace - A planetside casino combined with an amusement park and dozens of inns.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "The Rest Area - An asteroid stopover located in a lonely area of space. Visitors can find food, drink, entertainment, and lodging.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-fantasyspace",
+      "book": "Book Of Random Tables Fantasy Space",
+      "category": "trap",
+      "tags": [
+        "trap"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Fantasy Space",
+  "category": "trap",
+  "tags": [
+    "trap"
+  ],
+  "roll_type": "d100",
+  "sort_key": "tourist traps",
+  "entry_count": 100,
+  "version": 2
+}

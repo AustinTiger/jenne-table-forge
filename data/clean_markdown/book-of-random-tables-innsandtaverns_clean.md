@@ -1,0 +1,2530 @@
+## THE BOOK OF RANDOM TABLES
+
+## Inn or Tavern Names
+- 1. Thornton's
+- 2. Crooked Billet
+- 3. The Garrick Inn
+- 4. The Queen's Servant
+- 5. The White Elephant
+- 6. Bridge Inn
+- 7. Olde Fighting Cocks
+- 8. Riston's
+- 9. Buckley's
+- 10. Thatched House Tavern
+- 11. Chetwin's
+- 12. The Grape And The Hops
+- 13. Kilt and Clover
+- 14. Haslett's
+- 15. Ebba's
+- 16. Mervyn's
+- 17. Lobster
+- 18. Butcher and Beast
+- 19. The Dew Drop
+- 20. Ark Royal
+- 21. The Black Swan
+- 22. Tulip
+- 23. Three Wheatsheaves
+- 24. Averil's
+- 25. Festival Inn
+- 26. Stanfield's
+- 27. Four Arrows
+- 28. The Boar's Pub
+- 29. The Captain's Wife
+- 30. The Suds And Foam
+- 31. Dove
+- 32. Lifeboat Inn
+- 33. The Library
+- 34. Hardwin's
+- 35. Old Ram
+- 36. Ainsley's
+- 37. The Pheasant and The Pigeon
+- 38. The Leaping Lizard
+- 39. The Roasted Hen
+- 40. Langley's
+- 41. The Goose And Gander
+- 42. Plough and Sail
+- 43. The Sleeping Dragon
+- 44. The Golden Trinket
+- 45. The Singing Siren
+- 46. The Flower Pot
+- 47. Black Bear
+- 48. Highway Inn
+- 49. The Gravel Diggers
+- 50. Swan and Falcon Inn
+- 51. The Faun and the Hare
+- 52. Man on the Moon
+- 53. The Yew Tree
+- 54. Old Ferryboat
+- 55. The Public House
+- 56. Olde Man and Scythe
+- 57. Crooked House
+- 58. Prentice's
+- 59. The Roxbury
+- 60. The Full Pint
+- 61. Alger's
+- 62. The Buccaneer's Room
+- 63. The Black Gryphon
+- 64. Three Legged Mare
+- 65. TheRestless Adder
+- 66. Morton's
+- 67. Darrene's
+- 68. The Tankard
+- 69. Six Ringers
+- 70. Brazen George Inn
+- 71. The Winsome Maid
+- 72. The Friendly Nag
+- 73. Rosie's
+- 74. The Vaults
+- 75. Goat and Boot Inn
+- 76. The Man and the Crow
+- 77. Nutshell
+- 78. Three Horseshoes
+- 79. Bird in-Hand
+- 80. Snowden's
+- 81. Barge Inn
+- 82. Gree's House
+- 83. Ravinger's
+- 84. Heathcock Tavern
+- 85. The Playful Unicorn
+- 86. Elephant and Castle
+- 87. Snipe and Duck
+- 88. The Old Ship
+- 89. Three Fishes
+- 90. Stockton's
+- 91. The Hilt And Blade
+- 92. The Sleeping Cat
+- 93. The Drunken Wanderer
+- 94. Rising Sun
+- 95. The Feather And The Comb
+- 96. Dew Drop Inn
+- 97. The Hare And The Hound
+- 98. Tally Ho
+- 99. Fielding's
+- 100. Bull and Mouth
+- 101. The Sage and the Fool
+- 102. Morley's
+- 103. Three Crowns
+- 104. The Hook And Line
+- 105. Bag o'Nails
+- 106. The Eagle And The Child
+- 107. Pink Geranium
+- 108. The Alchemist
+- 109. The Sweet And Salty
+- 110. The Peacock Room
+- 111. The Seven Stars Inn
+- 112. The Silver Fox
+- 113. Odella's
+- 114. Cromwell's
+- 115. The Rowdy Badger
+- 116. Queen's Hall
+- 117. Nag's Head
+- 118. Millard's
+- 119. Lester's
+- 120. Stanhope's
+- 121. Swan With Two Necks
+- 122. Porch House
+- 123. Three Castles
+- 124. Drinking Bliss
+- 125. Hundred House Inn
+- 126. The Oak And The Alder
+- 127. Three Tuns
+- 128. The Bell And Beak
+- 129. Moon and Sixpence
+- 130. The Watch Tower
+- 131. Golden Hind
+- 132. Rowson's
+- 133. Zale's
+- 134. The Red Lion
+- 135. Goat and Compass
+- 136. The Quick Rabbit
+- 137. The Horse and the Hound
+- 138. Burton Stingo
+- 139. The Steps
+- 140. Silver Lion
+- 141. The Rose And Crown
+- 142. Gate Hangs Well
+- 143. The Swordfish
+- 144. Roebuck Inn
+- 145. The Jumping Donkey
+- 146. The Sand Dollar
+- 147. Leather 'n Bottle
+- 148. Kestrel's
+- 149. Three Compasses
+- 150. Gleda's
+- 151. The Golden Place
+- 152. Yule's
+- 153. The Fig and Vine
+- 154. White Hart
+- 155. Boot Inn
+- 156. Barrels
+- 157. Pineapple
+- 158. The Five Ways
+- 159. The Arrow And The Quiver
+- 160. The King's Friend
+- 161. The Fortune of War
+- 162. Sunny's
+- 163. The Flower And The Bud
+- 164. The Mary Rose
+- 165. The Lancelot Room
+- 166. Antlers
+- 167. Braeden's
+- 168. Seabrook's
+- 169. Elwin's
+- 170. The Hapless Harper
+- 171. Barley Mow
+- 172. The Minstrel and the Thief
+- 173. Candlestick
+- 174. The Pig In The Cow
+- 175. Edlin's
+- 176. Scott's
+- 177. The Whale And The Grouse
+- 178. The Broken Arrow
+- 179. Ronson's
+- 180. Eye of the Needle
+- 181. Freeman's
+- 182. The Castle
+- 183. Cat and Custard Pot
+- 184. Fisherman's Spot
+- 185. The Merry Dragon
+- 186. Ugly Bug
+- 187. The Prospect
+- 188. The Wizard and the Wand
+- 189. Blossom's
+- 190. Hand and Shears
+- 191. Holly Bush
+- 192. Red Dragon
+- 193. The King's Flagon
+- 194. Sailor's Mess
+- 195. Ramsay's
+- 196. Black Griffin
+- 197. Fiddler's Green
+- 198. Royal Oak
+- 199. The Hind's Heart
+- 200. The Fire and the Fat
+- 201. Bald Faced Stag Inn
+- 202. Pink and Lily
+- 203. Hob in the Well
+- 204. Three Goats' Heads
+- 205. The Chick And The Tadpole
+- 206. The Rainbow Trout
+- 207. Talbot Arms
+- 208. Cock and Bull
+- 209. Lilly's
+- 210. The Knife And Fork
+- 211. The Silver Stallion
+- 212. Calder's
+- 213. The Overflowing Flagon
+- 214. The Croaking Toad
+- 215. Artichoke Tavern
+- 216. Randarr's
+- 217. Red House
+- 218. The Ivy Bush
+- 219. Bull Inn
+- 220. Greyfriars Bobby
+- 221. Jolly Taxpayer
+- 222. The Graceful Deer
+- 223. Traveler's Rest
+- 224. Oglesby's
+- 225. The Barrel And Mug
+- 226. Cutty Sark
+- 227. Cam's
+- 228. The Bucket of Blood
+- 229. Four Swans
+- 230. Thorpe's
+- 231. Kip's
+- 232. Radcliffe's
+- 233. Harp and Horn
+- 234. Lindon's
+- 235. The Axe and the Gate
+- 236. Fawcett Inn
+- 237. The Lazy Goat
+- 238. Barking Dogs
+- 239. The Plough And Spade
+- 240. Crabtree
+- 241. Welby's
+- 242. Push Inn
+- 243. Three Pigeons
+- 244. The Glorm's Tavern
+- 245. Red-Hart Inn
+- 246. White Bear
+- 247. Three Cups
+- 248. Athelstan's
+- 249. Tranter's
+- 250. Fenwick's
+- 251. Blue Boar
+- 252. The Happy Home
+- 253. The White Lion
+- 254. Hop Inn
+- 255. Jackson Stops
+- 256. Elwood's
+- 257. Zephrine's
+- 258. The Flying Boat
+- 259. The Happytime Inn
+- 260. Spade and Becket Tavern
+- 261. Burke's
+- 262. The Dog And Duck
+- 263. Grapes
+- 264. Harewood End
+- 265. Heathcote's
+- 266. Radford's
+- 267. String of Horses
+- 268. Wyndam's
+- 269. The Fat Sow
+- 270. Ostrich Inn
+- 271. Coffee Pot Inn
+- 272. Boot and Slipper
+- 273. Three Bucks
+- 274. Randell's
+- 275. Chameleon
+- 276. The Hungry Squirrel
+- 277. The Warrior's Lodge
+- 278. Rampant Horse
+- 279. Norville's
+- 280. The Flint And Steel
+- 281. Ram Skin
+- 282. The Gold Piece
+- 283. The White Stag
+- 284. The Half Moon
+- 285. Cupola House
+- 286. The Black Cauldron
+- 287. Pickerel Inn
+- 288. The King's Head
+- 289. Copper Kettle
+- 290. Black Birds
+- 291. Westby's
+- 292. Kenton's
+- 293. Hedley's
+- 294. The Primrose
+- 295. Vane's
+- 296. The Red Boar
+- 297. The Root And Branch
+- 298. Ormond's
+- 299. The Brewery Tap
+- 300. Letters Inn
+- 401. Cross Keys
+- 402. Boot and Shoe
+- 403. Swan and Woolpack
+- 404. The Windmill Inn
+- 405. Bettle and Chisel
+- 406. The Gathering Place
+- 407. Ship on the Stocks
+- 408. Silent Woman
+- 409. The Malt Shovel
+- 410. Bear Inn
+- 411. The Stay Warm Inn
+- 412. The Cut Rose
+- 413. The Boiling Kettle
+- 414. The Lazy River
+- 415. The Kraken Pub
+- 416. The Sparkling Starfish
+- 417. Hollis'
+- 418. The Blind Beggar
+- 419. Waverley's
+- 420. Moonrakers
+- 421. Bustard Inn
+- 422. Cock and Bottle
+- 423. Elm Tree Inn
+- 424. The Standish Inn
+- 425. The Somerset Room
+- 426. Morland's
+- 427. The Babbling Brook
+- 428. Bear and Ragged Staff
+- 429. Tarrant's
+- 430. The Whetstone
+- 431. The Hero and the Fool
+- 432. The Crane
+- 433. Geraldine's
+- 434. The Lost Key
+- 435. Walker's
+- 436. Somerville's
+- 437. The Flint and the Stone
+- 438. Packhorse and Pig
+- 439. Green Man
+- 440. Checkers
+- 441. The Dog
+- 442. The Happy Hound
+- 443. The Mulberry Inn
+- 444. Flyta's
+- 445. Bushel
+- 446. The Byford
+- 447. Major Oak
+- 448. Udele's
+- 449. Lattice House
+- 450. Rose Tavern
+- 451. The New Inn
+- 452. The Smoke And The Fire
+- 453. Rockley's
+- 454. The Hero And The Thief
+- 455. The Shield and the Gauntlet
+- 456. The Upwood House
+- 457. Upton Green
+- 458. Buck and Ear
+- 459. The Apple Orchard Inn
+- 460. Lamb and Flag
+- 461. Q
+- 462. Nowhere
+- 463. Dolphin
+- 464. The Brawl and Call
+- 465. The Moon Under Water
+- 466. Shaven Crown
+- 467. Embers
+- 468. Three Arrows
+- 469. Fox Goes Free
+- 470. White Horse
+- 471. The White Bear
+- 472. Mildred's
+- 473. The office
+- 474. Three Hammers
+- 475. The Vulture Tavern
+- 476. The Whitby Home
+- 477. The Skipping Faun
+- 478. The Red Ship
+- 479. The Crooked Chimney
+- 480. Beartown Tap
+- 481. The Sphinx
+- 482. Graeme's
+- 483. The Horse And Mule
+- 484. The Campfire
+- 485. The Brass Button
+- 486. Barrack Tavern
+- 487. The Bronnie Lion
+- 488. The Knight And The Lad
+- 489. The Watchful Owl
+- 490. Wanderer's Haven
+- 491. Old Black Lion
+- 492. Three Coppers
+- 493. The Black Horse
+- 494. The Watering Hole
+- 495. Mash Tun
+- 496. The Pig and the Whistle
+- 497. Hand and Flower
+- 498. Pint Shop
+- 499. Hayden's
+- 500. Stratton's
+
+## Inn or Tavern Exterior Appearance
+- 1. Dusky
+- 2. Oblong
+- 3. Pristine
+- 4. Cramped
+- 5. Eye-Catching
+- 6. Brownstone
+- 7. Irregular
+- 8. Rambling
+- 9. Vast
+- 10. Flawless
+- 11. Symmetrical
+- 12. Mean
+- 13. Unpretentious
+- 14. Ghoulish
+- 15. Octagonal
+- 16. Golden
+- 17. Big
+- 18. Strong
+- 19. Splendid
+- 20. Distinctive
+- 21. Brick
+- 22. Hulking
+- 23. Curved
+- 24. Enormous
+- 25. Mad
+- 26. Beautiful
+- 27. Small
+- 28. Sprawling
+- 29. Firetrap
+- 30. Undecorated
+- 31. Brown
+- 32. Daring
+- 33. Blue
+- 34. Unmemorable
+- 35. Foul
+- 36. Bare
+- 37. Smoky
+- 38. Capacious
+- 39. Decayed
+- 40. Uninteresting
+- 41. Primitive
+- 42. Grimy
+- 43. Ochre
+- 44. Exalted
+- 45. Convenient
+- 46. Homey
+- 47. Charming
+- 48. Narrow
+- 49. Historic
+- 50. Efficient
+- 51. Scarred
+- 52. Stolid
+- 53. Squat
+- 54. Modest
+- 55. Linear
+- 56. Derelict
+- 57. Monumental
+- 58. Unimportant
+- 59. Square-Built
+- 60. Wretched
+- 61. Dilapidated
+- 62. Fantastic
+- 63. Old
+- 64. Little
+- 65. Neat
+- 66. Curious
+- 67. Devastating
+- 68. Extravagant
+- 69. Magical
+- 70. Considerable
+- 71. Peculiar
+- 72. Handsome
+- 73. Tan
+- 74. Sad
+- 75. Characterless
+- 76. Forgetful
+- 77. Shaky
+- 78. Ruined
+- 79. Low
+- 80. Romantic
+- 81. Contorted
+- 82. Pretentious
+- 83. Heavy
+- 84. Circular
+- 85. Intricate
+- 86. Scary
+- 87. Airy
+- 88. Colorless
+- 89. Conventional
+- 90. Elaborate
+- 91. Rickety
+- 92. Burned-Out
+- 93. Anonymous
+- 94. Unpleasant
+- 95. Tired
+- 96. Well-Designed
+- 97. Compact
+- 98. Tottering
+- 99. Serviceable
+- 100. Featureless
+- 101. Homely
+- 102. Striking
+- 103. Steep
+- 104. Quirky
+- 105. Imperial
+- 106. Timbered
+- 107. Hideous
+- 108. Venerable
+- 109. Orange
+- 110. Stubby
+- 111. Decrepit
+- 112. Cheap
+- 113. Mighty
+- 114. Domestic
+- 115. Unique
+- 116. Pyramidal
+- 117. Annoying
+- 118. Extensive
+- 119. Tremendous
+- 120. Gaudy
+- 121. Ill-Suited
+- 122. Faceless
+- 123. Huge
+- 124. Grandiose
+- 125. Grey
+- 126. Eccentric
+- 127. Dull
+- 128. Resplendent
+- 129. Clever
+- 130. Eerie
+- 131. Exceptional
+- 132. White
+- 133. Diverse
+- 134. Labyrinthine
+- 135. Indefensible
+- 136. Sparse
+- 137. Beige
+- 138. Frightening
+- 139. Pastel
+- 140. Dangerous
+- 141. Lumpish
+- 142. Well-Appointed
+- 143. Pleasing
+- 144. Fascinating
+- 145. Gleaming
+- 146. Undulating
+- 147. Rough
+- 148. Experimental
+- 149. Multifaceted
+- 150. Rude
+- 151. Conspicuous
+- 152. Light-Colored
+- 153. Tawdry
+- 154. Polygonal
+- 155. Upscale
+- 156. Crystalline
+- 157. Somber
+- 158. Tasteful
+- 159. Antiquated
+- 160. Solid
+- 161. Semicircular
+- 162. Flat-Topped
+- 163. Wonderful
+- 164. Unmarked
+- 165. Disused
+- 166. Unsound
+- 167. Functional
+- 168. Ordinary
+- 169. Graceful
+- 170. New
+- 171. Run-Down
+- 172. Disjointed
+- 173. Glassy
+- 174. Glossy
+- 175. Creative
+- 176. Strange
+- 177. Gigantic
+- 178. Condemned
+- 179. Clumsy
+- 180. Exquisite
+- 181. Noteworthy
+- 182. Windowless
+- 183. Monolithic
+- 184. Round
+- 185. Tiered
+- 186. Costly
+- 187. Magnificent
+- 188. Harmonious
+- 189. Shoddy
+- 190. Unornamental
+- 191. Admirable
+- 192. Ridiculous
+- 193. Palatial
+- 194. Important
+- 195. Stable
+- 196. Spacious
+- 197. Worthless
+- 198. World-Renowned
+- 199. Despicable
+- 200. Gloomy
+
+## Inn or Tavern Interior Appearance
+- 1. Ponderous
+- 2. Sacred
+- 3. Impenetrable
+- 4. Tall
+- 5. Average
+- 6. Cavernous
+- 7. Smoke-Stained
+- 8. Suitable
+- 9. Inadequate
+- 10. Noticeable
+- 11. Unsteady
+- 12. Whimsical
+- 13. Lofty
+- 14. Castle-Like
+- 15. Tiny
+- 16. Flimsy
+- 17. Undistinguished
+- 18. Multilevel
+- 19. Muffled
+- 20. Private
+- 21. Expensive
+- 22. Creaky
+- 23. Dingy
+- 24. Moated
+- 25. Snug
+- 26. Winsome
+- 27. Large
+- 28. Filthy
+- 29. Wondrous
+- 30. Monastic
+- 31. Connexional
+- 32. Wooden
+- 33. Ugly
+- 34. Domical
+- 35. Bland
+- 36. Unattractive
+- 37. Sanitary
+- 38. Multicolored
+- 39. Red
+- 40. Haughty
+- 41. Bleak
+- 42. Baffling
+- 43. Mammoth
+- 44. Regal
+- 45. Polyhedral
+- 46. Spacious
+- 47. Deplorable
+- 48. Pink
+- 49. Noble
+- 50. Massive
+- 51. Unsafe
+- 52. Overcrowded
+- 53. Gorgeous
+- 54. Bizarre
+- 55. Colossal
+- 56. Shadowy
+- 57. Ornamental
+- 58. Robust
+- 59. Towering
+- 60. Well-Guarded
+- 61. Severe
+- 62. Dour
+- 63. Squalid
+- 64. Showy
+- 65. Utilitarian
+- 66. Proud
+- 67. Bright
+- 68. Cold
+- 69. Ornate
+- 70. High-Ceilinged
+- 71. Poignant
+- 72. Artistic
+- 73. Stately
+- 74. White-Washed
+- 75. Drab
+- 76. Blocky
+- 77. Conical
+- 78. Attractive
+- 79. Cubical
+- 80. Hexagonal
+- 81. Impressive
+- 82. Substantial
+- 83. Spherical
+- 84. Marvelous
+- 85. Gray
+- 86. Delicate
+- 87. Intimate
+- 88. Boring
+- 89. Warm
+- 90. Immaculate
+- 91. Ostentatious
+- 92. Skeletal
+- 93. Walled
+- 94. Defiant
+- 95. Bewildering
+- 96. Shabby
+- 97. Fabulous
+- 98. Frowning
+- 99. Pompous
+- 100. Weird
+- 101. Coral
+- 102. Rectangular
+- 103. Plain
+- 104. Arched
+- 105. Tumbledown
+- 106. Fine
+- 107. Geometric
+- 108. different
+- 109. Poised
+- 110. Abominable
+- 111. Original
+- 112. Unsightly
+- 113. Sooty
+- 114. Stark
+- 115. Well-Kept
+- 116. Weatherbeaten
+- 117. Outdated
+- 118. Durable
+- 119. Humble
+- 120. Mediocre
+- 121. Polished
+- 122. Flashy
+- 123. Dusty
+- 124. Unlovely
+- 125. Haphazard
+- 126. Sturdy
+- 127. Thick-Walled
+- 128. Incongruous
+- 129. Oval
+- 130. Foreign
+- 131. Simple
+- 132. Congested
+- 133. Farcical
+- 134. Bad-Smelling
+- 135. Elegant
+- 136. Comfortable
+- 137. Dank
+- 138. Picturesque
+- 139. Sordid
+- 140. Prominent
+- 141. Fancy
+- 142. Ragged
+- 143. Yellow
+- 144. Extraordinary
+- 145. Unadorned
+- 146. Well-Known
+- 147. Gabled
+- 148. Impractical
+- 149. Gilded
+- 150. Rugged
+- 151. Stout
+- 152. Disturbing
+- 153. Claustral
+- 154. Mundane
+- 155. Well-Planned
+- 156. Domed
+- 157. Dirty
+- 158. Sumptuous
+- 159. Vulgar
+- 160. Silvery
+- 161. Damaged
+- 162. Common
+- 163. Ivy-Covered
+- 164. Tenuous
+- 165. Colonnaded
+- 166. Majestic
+- 167. Amazing
+- 168. Sloppy
+- 169. Boxy
+- 170. Precarious
+- 171. Immense
+- 172. Makeshift
+- 173. Colorful
+- 174. Mellow
+- 175. Tasteless
+- 176. Shuttered
+- 177. Excellent
+- 178. Quiet
+- 179. Tile-Roofed
+- 180. Ancient
+- 181. Quaint
+- 182. False-Fronted
+- 183. Cylindrical
+- 184. Vintage
+- 185. Ramshackle
+- 186. Vaulted
+- 187. Angular
+- 188. Flat
+- 189. Bulky
+- 190. Classical
+- 191. Muddy
+- 192. Famous
+- 193. Decorated
+- 194. Dark
+- 195. Miniature
+- 196. Clean
+- 197. Horrible
+- 198. Lovely
+- 199. Roomy
+- 200. Luxurious
+
+## Secret Rooms
+- 1. A series of tunnels to aid escaping slaves can be entered through a doorway behind several stacks of buckets and chairs in the storeroom.
+- 2. A hidden door behind the bar leads to a secret and extremely plush bed chamber.
+- 3. A hidden door in the storeroom conceals a tunnel that leads to a nearby blacksmith shop.
+- 4. A hidden door in the innkeeper's quarters leads to the stable.
+- 5. A stone stairway under a trapdoor in the stable leads to a series of underground canals.
+- 6. Behind a pile of dirt in the basement, a partially collapsed tunnel leads to a warehouse.
+- 7. A chamber with several skeletons carefully arranged on the floor can be found behind a hidden door in the back of a bed chamber's fireplace.
+- 8. A dungeon can be entered through a door behind a woodpile near the stable.
+- 9. A hidden door in the kitchen leads to a tunnel that makes its way to the wharf. It is used to transport kidnapped people to ships where they will be forced to work as slaves.
+- 10. A secret door in the store room leads to a cult meeting chamber.
+- 11. A hidden tunnel in the wine cellar supposedly leads to a nearby monastery.
+- 12. A secret door in the stable leads to a tunnel that exits into a nearby fortress.
+- 13. A secret door in a bed chamber leads to a comfortable sitting room with a cabinet filled with fine tobacco.
+- 14. The characters notice a trapdoor beneath their table in the common room. It leads to a disused well house.
+- 15. A hidden door in the common room leads to a secret gambling den.
+- 16. A trapdoor in a bed chamber consoles a room of stolen paintings.
+- 17. A hidden trapdoor in the innkeeper's quarters leads to a well-stocked safe room.
+- 18. A hidden door in the kitchen leads to the servants' quarters.
+- 19. A trapdoor in the ceiling of a bed chamber leads to a garret. Several unfinished paintings rest on easels under layers of dust.
+- 20. A large painting hangs in the great room. It depicts a circular room with a pedestal in its center. A purple vase rests on the pedestal. The painting conceals a circular room with a pedestal in its center. There is nothing on the pedestal.
+- 21. A hidden door in the stable leads to a hidey-hole where the stable hands take naps.
+- 22. Extremely valuable pottery is hidden in a secret room located under the main stairs.
+- 23. A trapdoor under the bed leads to a long-forgotten root cellar. Several boxes and a small chest remain in the cellar.
+- 24. A trapdoor under a table in the courtyard leads to a subterranean mushroom garden.
+- 25. A trapdoor in a bed chamber leads to a tunnel that exits into the stable.
+- 26. A massive portrait of the owner of the building conceals a secret room. Exotic smuggled items are stored on shelves here until the buyer arrives.
+- 27. A hidden door in the kitchen leads to a disused coal storage room where someone has been very obviously reading a book, probably while they are supposed to be working.
+- 28. A trapdoor in the kitchen leads to an escape tunnel that exits into a sewer.
+- 29. A trapdoor in a bed chamber leads to a secret storm shelter.
+- 30. A trapdoor in the ice house leads to a comfortable safe room.
+- 31. The hearth of the common room fireplace can be slid to the side revealing stairs down to an underground chamber.
+- 32. A secret door in the kitchen leads to a room containing a safe.
+- 33. A ransacked tomb can be entered through a hidden door in the spring house. The sarcophagus seems to be intact though.
+- 34. A hidden door in the kitchen leads to an illegal distillery.
+- 35. In a bed chamber, there is a trapdoor that leads to the basement.
+- 36. A secret door in the basement leads to the meeting chamber of a spy ring.
+- 37. There is a hidden door in the storeroom with a tunnel that leads outside the city walls.
+- 38. A doorway behind a bookcase in a bed chamber leads to a small library with a single chair and a tiny writing desk.
+- 39. A hidden door in the wellhouse conceals a passage to an ancient buried ship.
+- 40. A hidden door in a closet of a bed chamber leads to a flooded circular room that appears to have once been a scribe's chamber.
+- 41. A secret door behind shelving in the storeroom leads to smuggling tunnels with an exit near the river.
+- 42. A section of back bar shelves can be moved to reveal a storage room for contraband liquor.
+- 43. A trapdoor in the stable leads to an expansive underground storage chamber piled with odds and ends of equipment and supplies collected over decades.
+- 44. A hidden door in the spring house hides a secret town guard outpost.
+- 45. An old wagon near the icehouse covers the entrance to a buried temple.
+- 46. A secret door behind the bar leads to a well-appointed lounge reserved for town VIPs.
+- 47. A hidden door in the basement leads to the ice house.
+- 48. A hidden door in the innkeeper's quarters leads to a room of rare jewels in fine display cases.
+- 49. A hidden door in the main hallway leads to an old kitchen that has been long-forgotten and built around.
+- 50. In the spring house, there is a false wall that hides a cache of weapons.
+- 51. A hidden door in a bed chamber leads to a winding passage that exits into the kitchen.
+- 52. A hidden trapdoor in a bed chamber leads to a cell where an individual is being held.
+- 53. A trapdoor in the common room leads to an ornate chamber from some long-buried castle remains.
+- 54. Behind the bar is a trapdoor that leads to the basement.
+- 55. Under the porch is a bunker that was used during the last war. It can be entered through a crawlway in the kitchen.
+- 56. Under the floor of the gazebo in the courtyard is a secret tunnel that leads to a silver mine the innkeeper is concealing for the city authorities.
+- 57. A trapdoor in the basement leads to an abandoned underground city.
+- 58. A secret drug lounge is located behind a hidden door in the storeroom.
+- 59. False shelves in the wine cellar cover stairs and a tunnel that leads to a boat dock at an underground river.
+- 60. A hidden door in the basement conceals a partial tunnel that appears to be being dug to reach under a moneylender's offices.
+- 61. A trapdoor in the basement opens onto ancient tunnels now used as a dumping ground.
+- 62. A secret door in the kitchen leads to the basement of a house down several streets.
+- 63. A trapdoor in the basement leads to a long-forgotten wine cellar.
+- 64. There is a hidden trapdoor in the common room that leads to the spring house.
+- 65. A series of tunnels used by the city's youth as party spaces can be entered through a grate in the courtyard.
+- 66. In the garden near the outdoor eating area, a statue covers a secret tunnel that leads to the ruins of an old house in the forest.
+- 67. A door behind a bookcase in the innkeeper's quarters leads to a nearby temple.
+- 68. At the bottom of a dry cistern is a hidden doorway leading to a natural cavern.
+- 69. A false wall conceals a room where outlaws can hide from authorities.
+- 70. In the ice house, there is a hidden door that leads down to an underground stream.
+- 71. A large rug in the common room covers a trapdoor that leads to a secret room used for hiding trafficked people.
+- 72. A trapdoor in the main bedroom leads to a secret underground community.
+- 73. Gold smuggling tunnels are hidden by a false shelf in the storeroom.
+- 74. A secret street for use only by the city's military has a hidden exit in the ice house.
+- 75. Under the old fountain in the courtyard is a hiding tunnel that leads to an ancient lava tube believed to hold pirate treasure.
+- 76. A series of tunnels used to smuggle food to refugees can be entered through a trapdoor in the stable.
+- 77. A false wall in the main hallway hides a shrine of a less-than-wholesome nature.
+- 78. A hidden door in the innkeeper's quarters leads to an old copper mine.
+- 79. A doorway behind a fireplace in a bed chamber leads to a secret wizard lab.
+- 80. A hidden door in a bed chamber leads to a small room where a gnome has made a home.
+- 81. At the base of an old tree in the courtyard, a large rock covers a secret tunnel that leads into a castle nearby.
+- 82. A trapdoor in the floor of a bed chamber leads to remnants of a previous building built on the same site.
+- 83. A secret chamber holding barrels of special wine is located near the ice house with the entrance covered by old boards.
+- 84. An old grandfather clock can be climbed through to reach a small room containing several valuables.
+- 85. A trapdoor in the ceiling in the upstairs hallway leads to the attic. It is filled with old furniture and paintings covered with sheets plus a chest full of maps.
+- 86. A trapdoor behind the bar leads to a tunnel that exits near a trash dump outside of the city.
+- 87. Removing one of the stone treads of the basement stairs reveals an ancient family crypt.
+- 88. A hidden door behind the main stairs leads to a secret room used by a local organized crime group as a meeting place.
+- 89. The entrance to a series of catacombs is located behind a trapdoor in the basement.
+- 90. A hidden door in the hallway wainscoting opens onto stairs leading down to a room that seems to have been built for some religious purpose.
+- 91. Under the pavers in the courtyard is concealed a secret chamber once used for horrific means.
+- 92. Behind the bar is a trapdoor that leads to a room with several swords and survival gear stored there.
+- 93. A drug-smuggling tunnel entrance is located behind a fake pot in the basement.
+- 94. A false back of a wardrobe in a bed chamber leads to a playroom made for children.
+- 95. A hidden treasure vault can be entered through a hidden door in the main hallway.
+- 96. There is a trapdoor under the bed in a bed chamber. A ladder leads to an old graveyard the inn was built over.
+- 97. In the kitchen, a flagstone can be moved to reveal steps leading to a large, vaulted room that is full of human bones arranged in intricate designs.
+- 98. A hidden door behind some shelves leads to a room full of potions, potion ingredients, and tools for potion-making.
+- 99. A secret room housing a gold coin counterfeiting operation is located behind a hidden door in the courtyard.
+- 100. A hidden door in the basement leads to an amazing cavern which would be considered a major natural wonder of the world.
+
+## Names: Bards
+- 1. Evita Webster - human, female
+- 2. Denice Walby - human, female
+- 3. Alwine Townsend - human, male
+- 4. Benedicta Wakefield - human, female
+- 5. Dandelion Prescott - human, female
+- 6. Riva- half elf, female
+- 7. Hildie Langworth - human, female
+- 8. Valdis Rayburn - half elf, male
+- 9. Keagan Rushford - human, male
+- 10. Baxter Linley - human, male
+- 11. Angel Standish - human, female
+- 12. Damiana Dallin - human, female
+- 13. Samir Dempster - half elf, male
+- 14. Jonas Yardley - human, male
+- 15. Tianna - human, female
+- 16. Lothair Norvin - half elf, male
+- 17. Altfried - half elf, male
+- 18. Fidelius Randal - human, male
+- 19. Kaliyah Linwood - half elf, female
+- 20. Calvert Tennyson - human, male
+- 21. Raynell - half elf, male
+- 22. Abelard Shepherd - human, male
+- 23. Gotthard Tranter - human, male
+- 24. Helke Seabrook - human, male
+- 25. Marlon Rutley - human, male
+- 26. Fransiska Hagley - human, female
+- 27. Karlie Yale - human, female
+- 28. Tarik Derward - half elf, male
+- 29. Nuria - half elf, female
+- 30. Charmain - human, female
+- 31. Delane Kirkley - human, female
+- 32. Candide Reilly - human, female
+- 33. Meagan Wentworth - human, female
+- 34. Enna - human, female
+- 35. Doyle Renshaw - human, male
+- 36. Rique - half elf, female
+- 37. Rolof - half elf, male
+- 38. Alessio - half elf, male
+- 39. Hieronymus Grantham - human, male
+- 40. Lynn Welby - human, female
+- 41. Mirielle Osmar - half elf, female
+- 42. Beaman - half elf, male
+- 43. Addie Tatum - human, female
+- 44. Aldrick Denley - human, male
+- 45. Wayne Norwood - human, male
+- 46. Trudchen Alger - human, male
+- 47. Marcellina Macy - human, female
+- 48. Etelka Radford - human, female
+- 49. Cherry- half elf, female
+- 50. Chance Rockley - human, male
+- 51. Nedes Goddard - human, male
+- 52. Orvelle Oglesby - human, male
+- 53. Ulva - half elf, female
+- 54. Presley Hayden - human, female
+- 55. Wendeline Edlin - human, female
+- 56. Cherise Ridley- human, female
+- 57. Hilke Manning - human, male
+- 58. Wyn Kingston - human, female
+- 59. Thorpe Pelton - human, male
+- 60. Choncey Harlan - human, male
+- 61. Nikolaus Sherwood - human, male
+- 62. Cleve - half elf, male
+- 63. Liesel Lawford - human, female
+- 64. Patrick Freeman - human, male
+- 65. Laetitia - half elf, female
+- 66. Olympe Rowell - human, female
+- 67. Marcus Oxford - human, male
+- 68. Dany Stratton - human, female
+- 69. Lancelin Prentice - human, male
+- 70. Simone Thorne - human, female
+- 71. Fredi Stanfield - human, female
+- 72. Wallie - halfling, female
+- 73. Aurora Bromley - human, female
+- 74. Taite Eldric - half elf, male
+- 75. Shelley Seabert - human, female
+- 76. Andrijan Marley - half elf, male
+- 77. Bogdan Halstead - human, male
+- 78. Amber Riston - human, female
+- 79. Cheval - half elf, female
+- 80. Juliana - human, female
+- 81. Bo - halfling, male
+- 82. Bancroft Witton - human, male
+- 83. Coleman Cromwell - human, male
+- 84. Mirla Laibrook - human, female
+- 85. Tru Firth - half elf, male
+- 86. Berti - human, female
+- 87. Stanfield Blaxton - human, male
+- 88. Heinrike - half elf, male
+- 89. Hollace Kenley - human, female
+- 90. Mardyth Haig - human, female
+- 91. Lucy Pollock - human, female
+- 92. Deverel Randolph - human, male
+- 93. Shelby Norville - human, female
+- 94. Latimer - half elf, male
+- 95. Lyric Chetwin - human, female
+- 96. Mather Penley - human, male
+- 97. Jorden Ramsden - human, female
+- 98. Holge Lawson - human, male
+- 99. Mayra - half elf, female
+- 100. Benedetta Saunderson - human, female
+
+## Names: Inn or Tavern Owner
+- 1. Methild - elf, male
+- 2. Berthilda Wystan - human, female
+- 3. Bromley Unwin - human, male
+- 4. Edeva Wentworth - human, female
+- 5. Salton Rockley - human, male
+- 6. Eldon Radcliffe - halfling, male
+- 7. Athelstan Twyford - human, male
+- 8. Hamlow Wyndam - halfling, male
+- 9. Cleva Stratford - human, female
+- 10. Roden Nyle - human, female
+- 11. Sigril Frostmine - dwarf, female
+- 12. Dhossim Bluntbeard - dwarf, male
+- 13. Araman Copperbraid - dwarf, male
+- 14. Perri Reginald - human, female
+- 15. Ormox - gnome, male
+- 16. Warley Salisbury - human, male
+- 17. Grakim Steelforge - dwarf, female
+- 18. Drolf Chaoshelm - dwarf, male
+- 19. Samlot Stroud - halfling, male
+- 20. Dallin Linley - human, male
+- 21. Venn Lawson - human, male
+- 22. Brodrous Bloodborn - dwarf, male
+- 23. Kenrick Yale - human, male
+- 24. Velvet Fenwick - human, female
+- 25. Ainsley Marlow - human, male
+- 26. Davlin - gnome, female
+- 27. Jessup - gnome, female
+- 28. Sheldon Stowe - human, male
+- 29. Lewin Aldwyn - halfling, male
+- 30. Vorlow - gnome, male
+- 31. Bhakel Hammermane - dwarf, female
+- 32. Maxwise Fulton - halfling, male
+- 33. Marjorie Udolf - human, female
+- 34. Langworth Wilkes - human, male
+- 35. Blossom Sanborn - human, female
+- 36. Whitley Oglesby - human, female
+- 37. Hevrad Dragonaxe - dwarf, male
+- 38. Dell Bradley - human, female
+- 39. Ella Thatcher - halfling, female
+- 40. Ransom Elsdon - human, male
+- 41. Salal Blaxton - human, female
+- 42. Lindon Kirkley - human, female
+- 43. Fana - elf, female
+- 44. Arly Tannar - halfling, female
+- 45. Lilly Egerton - halfling, female
+- 46. Lena Thornley - human, female
+- 47. Riston Milbourn - human, male
+- 48. Graeme Denley - human, male
+- 49. Dalom Longbelly - dwarf, female
+- 50. Seger Ramsay - human, male
+- 51. Rumford Radnor - human, male
+- 52. Heather Hamilton - human, female
+- 53. Duchess Snowden - human, female
+- 54. Crewe Ordway - human, male
+- 55. Sunniva Hollis - human, female
+- 56. Nora Aldridge - halfling, female
+- 57. Jolene Dempster - human, female
+- 58. Rainbow Ulfred - human, female
+- 59. Welbin Sealey - halfling, male
+- 60. Samrick Penley - halfling, male
+- 61. Reilly Ramsden - human, male
+- 62. Ararie - elf, female
+- 63. Leigh Linwood - human, female
+- 64. Bulmore Langley - halfling, male
+- 65. Allura Norville - human, female
+- 66. Daisy Kirkwood - halfling, female
+- 67. Hargreave Thornton - human, male
+- 68. Kyne Rowell - human, male
+- 69. Rose Stanfield - halfling, female
+- 70. Willa Rayburn - halfling, female
+- 71. Goldie Radborne - human, female
+- 72. Rufford Kendrick - human, male
+- 73. Orford Rutledge - human, male
+- 74. Lorna Upton - human, female
+- 75. Wistan Rushford - human, male
+- 76. Edwerdina Dalbert - human, female
+- 77. Wina Prescott - halfling, female
+- 78. Zelene Reynold - human, female
+- 79. York Thurlow - human, male
+- 80. Vilnor - gnome, male
+- 81. Lancelot Eldric - human, male
+- 82. Eldrin - elf, male
+- 83. Khiiral - elf, female
+- 84. Paxton Erwin - human, male
+- 85. Elrow Tarrant - halfling, male
+- 86. Primrose Bray - human, female
+- 87. Oxton Litton - human, male
+- 88. Roxbury Walwyn - human, male
+- 89. Grantham Axton - human, male
+- 90. Woodrick Ridley - halfling, male
+- 91. Blake Whitby - human, female
+- 92. Mildred Lane - human, female
+- 93. Waverly Raynold - human, female
+- 94. Hilna Raleigh - halfling, female
+- 95. Ryle Alger - human, male
+- 96. Rowena Presley - human, female
+- 97. Jilla Lyndell - halfling, female
+- 98. Daffodil Goddard - human, female
+- 99. Groudin Mudbasher - dwarf, female
+- 100. Stanford Norwood - human, male
+
+## Names: Patrons
+- 1. Rula Udolf - halfling, female
+- 2. Carling Osmond - human, female
+- 3. Redford Packard - human, male
+- 4. Woodwil Stratford - halfling, male
+- 5. Ranald Scott - human, male
+- 6. Norsum Marblegut - dwarf, female
+- 7. Elwin Tennyson - human, male
+- 8. Brooke Upwood - human, female
+- 9. Radcliff   Thorne - human, male
+- 10. Thormox - gnome, male
+- 11. Merrill Wheaton - human, male
+- 12. Lewella Goddard - halfling, female
+- 13. Torlina Dempster - halfling, female
+- 14. Wenlow Linwood - halfling, male
+- 15. Firth Ronson - human, male
+- 16. Everild Chadwick - human, female
+- 17. Pepper Hayes - human, female
+- 18. Ralorel - elf, female
+- 19. Cherilyn Welby - human, female
+- 20. Kenley Wheeler - human, male
+- 21. Boe - gnome, female
+- 22. Jilla Whitby - halfling, female
+- 23. Therdrum Ashsunder - dwarf, female
+- 24. Brett Kingston - human, male
+- 25. Renfred Cromwell - human, male
+- 26. Farwick - gnome, male
+- 27. Louella Kemp - human, female
+- 28. Afton Jefferson - human, female
+- 29. Brela Nyle - halfling, female
+- 30. Kestrel Stanley - human, female
+- 31. Saelethil - elf, male
+- 32. Nelda Fane - human, female
+- 33. Kenley Townsend - human, male
+- 34. Thignus Chainmantle - dwarf, female
+- 35. Dryden Stanhope - human, male
+- 36. Hilmore Sanborn - halfling, male
+- 37. Romil - gnome, female
+- 38. Mead Pollock - human, male
+- 39. Tiffany Barton - human, female
+- 40. Lona Stockton - human, female
+- 41. Marley Edlin - human, male
+- 42. Grunsun Bloodbelt - dwarf, male
+- 43. Norvin Fielding - human, male
+- 44. Lari Dwennon - human, female
+- 45. Sparrow Fuller - human, female
+- 46. Saunderson Haven - human, male
+- 47. Willna Lane - halfling, female
+- 48. Hadley Lawford - human, male
+- 49. Whuldruf Boulderbrew - dwarf, male
+- 50. Scarlett Osmar - human, female
+- 51. Fleta Burke - human, female
+- 52. Wainwright Shandy - human, male
+- 53. Wilser Hollis - halfling, male
+- 54. Randolph Macy - human, male
+- 55. Channing Southwell - human, female
+- 56. Fylson - elf, male
+- 57. Jarn Shadowstone - dwarf, female
+- 58. Gafl  in Reginald - halfling, female
+- 59. Alre - elf, female
+- 60. Hagley Walby - human, male
+- 61. Delmar Whitspine - dwarf, male
+- 62. Dadgroth Brickhorn - dwarf, male
+- 63. Melinda Ransley - human, female
+- 64. Fillgrin Radborne - halfling, male
+- 65. Darrene Haslett - human, female
+- 66. Delwyn Rockwell - human, male
+- 67. Trumbul Fenwick - halfling, male
+- 68. Dora Ulfred - halfling, female
+- 69. Keryth - elf, female
+- 70. Brebit - gnome, male
+- 71. Ela Sherborne - human, female
+- 72. Rochester Linford - human, male
+- 73. Tempest Yardley - human, female
+- 74. Fairley Seabrook - human, female
+- 75. Bulrow Wentworth - halfling, male
+- 76. Rawley Gladstone - human, male
+- 77. Wilona Shepherd - human, female
+- 78. Saxon Patton - human, female
+- 79. Wallis Frayne - human, female
+- 80. Harlan Stratton - human, male
+- 81. Imogene Palmer - human, female
+- 82. Bonnie Milford - human, female
+- 83. Wemrun Coinbrew - dwarf, male
+- 84. Udele Ormond - human, female
+- 85. Nolgrol Granitebelt - dwarf, female
+- 86. Chetwin Morland - human, male
+- 87. Hardwin Ridgeway - human, male
+- 88. Farley Weston - human, female
+- 89. Rumer Edbert - human, female
+- 90. Hampton Sykes - human, male
+- 91. Tula Presley - halfling, female
+- 92. Lorton Thornley - halfling, male
+- 93. Wellesly Raynold - halfling, male
+- 94. Odella Livingston - human, female
+- 95. Renshaw Medwin - human, male
+- 96. Sambul Blaxton - halfling, male
+- 97. Halstead Tatum - human, male
+- 98. Rose Hamilton - halfling, female
+- 99. Whitcombe Randal - human, male
+- 100. Haddon Fernleigh - human, male
+
+## Names: Servers
+- 1. Woodlin Morley - halfling, female
+- 2. Devereux Seabert - human, male
+- 3. Arton Proudfoot - halfling, male
+- 4. Bognur Steeltoe - dwarf, male
+- 5. Walker Routledge - human, female
+- 6. Bevmore - gnome, female
+- 7. Willow Wakeman - human, female
+- 8. Cyran - elf, male
+- 9. Spring Wakefield - human, female
+- 10. Aldora Huntley - human, female
+- 11. Torlina Tranter - halfling, female
+- 12. Bronad Bristlemantle - dwarf, male
+- 13. Rutley Rayburn - human, male
+- 14. Saelihn - elf, male
+- 15. Simtor - gnome, male
+- 16. Norrim Magmabranch - dwarf, female
+- 17. Felberta Standish - human, female
+- 18. Whaley Risley - human, female
+- 19. Nomoli Stormbrew - dwarf, female
+- 20. Lavinia Warburton - halfling, female
+- 21. Petunia Westbrook - halfling, female
+- 22. Jefferson Thatcher - human, male
+- 23. Marden Wickham - human, male
+- 24. Crumly Calder - halfling, female
+- 25. Edlyn Lockwood - human, female
+- 26. Arlon Rudyard - halfling, male
+- 27. Wanetta Nash - human, female
+- 28. Jamieson Rowley - human, male
+- 29. Thurstan Vail - human, male
+- 30. Candace Ashliegh - human, female
+- 31. Lillian Prentice - human, female
+- 32. Kirdum Windbender - dwarf, male
+- 33. Maxford Hedley - halfling, male
+- 34. Willoughby Laibrook - human, male
+- 35. Geraldine Rudyard - human, female
+- 36. Tatum Fairley - human, female
+- 37. North Oxford - human, male
+- 38. Osmar Millard - human, male
+- 39. Eadda Randell - human, female
+- 40. Haiden Thormund - human, female
+- 41. Almore - gnome, female
+- 42. Paige Leigh - human, female
+- 43. Southwell Lester - human, male
+- 44. Hayden Westby - human, male
+- 45. Beverley Starr - human, female
+- 46. Shalanar - elf, male
+- 47. Somerset Burley - human, male
+- 48. Sherwood Raleigh - human, male
+- 49. Haslett Mervyn - human, male
+- 50. Nickson Locke - human, male
+- 51. Earl Seaborne - human, male
+- 52. Thasdan Minebuckle - dwarf, male
+- 53. Hayton Holmes - halfling, male
+- 54. Phina Tripp - halfling, female
+- 55. Coran - gnome, male
+- 56. Unity Buckley - human, female
+- 57. Hope Saxon - human, female
+- 58. Shelby Warburton - human, female
+- 59. Hama Risley - halfling, female
+- 60. Palmer Haig - human, male
+- 61. Winchester Tarrant - human, male
+- 62. Paeral - elf, female
+- 63. Shepherd Aldwyn - human, male
+- 64. Bosteg Lavaforge - dwarf, male
+- 65. Everard Stanfield - human, male
+- 66. Launcelot Aldridge - human, male
+- 67. Shelley Heathcote - human, female
+- 68. Kellyg Blackstone - dwarf, female
+- 69. Elwood Arley - human, male
+- 70. Ivy Rowson - human, female
+- 71. Nellwyn Whitfield - human, female
+- 72. Manning Kirkwood - human, male
+- 73. Dobrik Axegrip - dwarf, female
+- 74. Honbria Ronald - human, female
+- 75. Cedrica Hedley - human, female
+- 76. Perry Teddie - human, female
+- 77. Winifred Morton - human, female
+- 78. Fane Sealey - human, male
+- 79. Upwood Gresham - human, male
+- 80. Corbin Trowbridge - halfling, male
+- 81. Fillrow Buckley - halfling, male
+- 82. Pelton Shelley - human, male
+- 83. Thragg Warminer - dwarf, female
+- 84. Trina - gnome, female
+- 85. Perlen - elf, female
+- 86. Dora Rowson - halfling, female
+- 87. Bedelia Trowbridge - human, female
+- 88. Finmore Lockwood - halfling, male
+- 89. Windy Reading - halfling, female
+- 90. Rowan Somerville - halfling, male
+- 91. Corliss Raven - human, female
+- 92. Bliss Ravinger - human, female
+- 93. Warmund Kenton - human, male
+- 94. Kemp Radcliffe - human, male
+- 95. Windal Nash - halfling, female
+- 96. Stockton Remington - human, male
+- 97. Louvaine Westbrook - human, female
+- 98. Woody Saxon - halfling, male
+- 99. Byford Kinsey - human, male
+- 100. Rowrick Witton - halfling, male
+
+## People: Quirks/Distinctiveness
+- 1. Obsessed with astrology
+- 2. Missing an arm
+- 3. Extremely outgoing
+- 4. Very short
+- 5. Enjoys the finer things in life
+- 6. High-pitched voice
+- 7. Constantly mispronounces words
+- 8. Very fat
+- 9. Overconfident
+- 10. Highly intelligent, and knows it
+- 11. Nonchalant
+- 12. Has a peg leg
+- 13. Always talks about their job
+- 14. People pleaser
+- 15. Always wears flashy clothes
+- 16. Tells tales no one believes but are true
+- 17. Couldn't harm a fly
+- 18. Facial tick
+- 19. Won't make eye contact
+- 20. Overly generous
+- 21. Deaf
+- 22. Lacks confidence
+- 23. Laconic
+- 24. Constantly daydreaming
+- 25. Infatuated with a member of the party
+- 26. A bit foolheartedly
+- 27. Socially awkward
+- 28. Stutters
+- 29. Believes the world is fl at
+- 30. Shows no emotions
+- 31. Distrusts the party without knowing them
+- 32. Cries often for seemingly no reason
+- 33. Tells tall tales of their adventuring days
+- 34. Always laughing nervously
+- 35. Superstitious
+- 36. Germaphobe 38.
+- 37. Stubborn party
+- 39. Extremely shy Overly friendly to the
+- 40. Mute
+- 41. Disdains peasants
+- 42. Speaks in riddles
+- 43. Always dispensing wise sayings
+- 44. Trusts no one
+- 45. Covered in bandages
+- 46. Suffers from face blindness
+- 47. Many useful connections
+- 48. Strange accent
+- 49. Pathological liar
+- 50. Very thin ##
+- 51. Acts guilty of something
+- 52. Critical of others
+- 53. Conspiracy theorist
+- 54. Very religious
+- 55. Paranoid delusions
+- 56. Speaks with sign language
+- 57. Far too trusting
+- 58. Trades secrets and information for
+- 59. Easily offended
+- 60. Always talking negatively
+- 61. Always guessing about the future
+- 62. Blind
+- 63. Obsessively folds paper
+- 64. Claims to be religious but are not
+- 65. Prankster
+- 66. Always sees the best in people
+- 67. Smells like a wet dog
+- 68. Hypochondriac
+- 69. Obsessed with others' hairstyles
+- 70. Has six fingers on each hand
+- 71. Very tall
+- 72. Extremely talkative
+- 73. Very hospitable
+- 74. Disdains the wealthy
+- 75. Hopeless romantic
+- 76. Always drunk
+- 77. Always sees the worst in people
+- 78. Eats non-edibles
+- 79. Deep booming voice
+- 80. Incredibly prideful
+- 81. Constantly biting fingernails
+- 82. Laughs all the time
+- 83. Hopelessly unintelligent
+- 84. Terrible fashion sense
+- 85. Huge fan of a local music group
+- 86. Picky eater
+- 87. Foolish with money
+- 88. Kleptomaniac
+- 89. Speaks only gibberish
+- 90. Poor personal hygiene
+- 91. Falls in love too easily
+- 92. Secretly follows a strange religion
+- 93. Very forgetful
+- 94. Voracious reader
+- 95. Looks 20 years older than they are
+- 96. Always tired
+- 97. Hostile to one member of the
+- 98. Won't stop singing
+- 99. Missing a hand
+- 100. Always goofing off
+
+## Meals
+- 1. Bacon, dark bread, and cheese served with lager
+- 2. Onion soup, chestnuts, and rye bread served with mead
+- 3. Porridge, raisins, and walnuts served with whey
+- 4. Fish, pears, and biscuits served with caudell
+- 5. Chicken stew, chestnuts, and cheese served with mulled cider
+- 6. Pheasant stew, apple turnover, and dark bread served with perry
+- 7. Ham, carrots, and green peas served with beer
+- 8. Mutton, pottage, and apples served with cider
+- 9. Goose in sauce, pine nuts, and cheese served with wine
+- 10. Roasted pigeon, carrots, and rye bread served with almond milk
+- 11. Waffles, cheese, and strawberries served with ale
+- 12. Eggs, figs, and pine nuts served with prunelle
+- 13. Swan in an onion sauce with raisins served in a trencher with caudell
+- 14. Duck, pistachios, and beets served with lager
+- 15. Pasta, grapes, and cheese served with wine
+- 16. Venison, plums, and oat bread served with mulled wine
+- 17. Salt pork, beets, and a fritter served with ale
+- 18. Quail soup, eggs, and acorns served with mulled mead
+- 19. Mutton, pottage, and apples served with godale
+- 20. Smoked pork, eggs, and white bread served with mulberry gin
+- 21. Sausage, Stork stew with cabbage and figs served with perry doughnuts, and walnuts served with blackberry wine
+- 22. Sausage, Stork stew with cabbage and figs served with perry doughnuts, and walnuts served with blackberry wine
+- 23. Oysters in sauce, pasta, and pomegranate served with lager
+- 24. Boar steak, carrots, and white bread served with mulled wine
+- 25. Gruel, cheese, and dark bread served with ale
+- 26. Trout, carrots, and pine nuts served with beer
+- 27. Goose in sauce in a white bread trencher served with mulberry wine
+- 28. Wild boar, barley bread, and dried plums served with cider
+- 29. Gruel, butter, and white bread served with buttermilk
+- 30. Duck, white bread, and pears served with almond milk
+- 31. Peafowl, pasta, and wheat bread served with prunelle
+- 32. Sausage, porridge, and figs served with caudell
+- 33. Duck soup, fritter, and apples served with godale
+- 34. Pea, ham, and onion pottage with pear served with perry
+- 35. Venison and pea pie, with apple served with lager
+- 36. Roasted pork and cooked apples in sauce, served in a trencher with metheglin
+- 37. Roasted goose, cheese, and pistachios served with mulled mead
+- 38. Boar and cabbage stew, and plums served with mulberry gin
+- 39. Boiled beef and plum stew, with rye bread, served with melomel
+- 40. Eel and onion soup, and walnuts served with ale
+- 41. Fried salmon and pears, oat bread, served with prunelle
+- 42. Eggs, cheese, and apple served with whey
+- 43. Crane and onion soup, waffles and butter, served with metheglin
+- 44. Lamprey and leek soup, cheese, served with melomel
+- 45. Fried perch, white bread, and butter served with cider
+- 46. Venison sausage and carrot pottage, grapes, served with lager
+- 48. Sea bream cooked with bitter orange and wine, served with beer
+- 49. Gruel, dark bread, and butter served with caudell
+- 50. Salted trout, pears, and dried peas served with blackberry wine
+- 51. Roasted pheasant, cheese, and white bread served with wine
+- 52. Stew with stork and beets, apple, served with mulled mead
+- 53. Quail and pear soup, rye bread, and butter served with cider
+- 54. Smoked ham and chestnuts in sauce, served with mulled wine
+- 55. Bacon and pea pottage, barley bread, served with prunelle
+- 56. Roasted mutton, eggs, and turnips served with buttermilk
+- 57. Frumenty made with egg and almonds, served with mead
+- 58. Scallop and cabbage pottage, chestnuts, served with ale
+- 59. Sop and broth, cheese, served with mead
+- 60. Roasted rabbit, white bread, and hazelnuts served with mulberry wine
+- 61. Beef steak, cabbage, and walnuts served with blackberry wine
+- 62. Fried carp and pear, cheese, served with wine
+- 63. Salted herring, pasta, carrots, served with melomel
+- 64. Sausage and turnip stew, apples, served with wine
+- 65. Goose confit, rye bread, served with perry
+- 67. Frumenty, roasted peafowl, and cheese, served with wine
+- 68. Roasted swan, pear turnover, served with lager
+- 69. Waffles, apples, and walnuts served with almond - milk
+- 70. Oat and bacon porridge, plums, served with beer
+- 71. Dark bread served with water
+- 72. Pheasant pea and onion pottage, white bread, served with godale
+- 73. Mutton cabbage and walnut stew, apples, served with mead
+- 74. Peafowl and pea pasty, white bread and butter, served with caudell
+- 75. Mussel and scallop soup, cheese, pears, served with mead
+- 76. Beef and onion pie, pears, served with mulberry gin
+- 77. Sops and crayfish soup, pomegranate, served with wine
+- 78. Salted herring, oat and onion porridge, served with ale
+- 79. Rabbit and parsnip stew, grapes, served with - metheglin
+- 80. Salted pork, wheat bread, cheese, served with ale - mulled
+- 82. Lamp and turnip pottage, barley bread, served with ale
+- 83. Pasta and crayfish, doughnut, served with blackberry wine
+- 84. Pea and cabbage and salted pork pottage, served with - beer
+- 85. Frumenty with eggs, cooked pears, served with mulled cider
+- 86. Mutton and leek pie, plums, served with prunelle
+- 87. Salmon and cheese pasty, apples, served with mead
+- 88. Gruel served with water
+- 89. Sausage, biscuits, and pistachios served with - buttermilk
+- 90. Sops with quail and pear soup, served with mulled mead
+- 91. Stuffed eggs, Pasta, and turnips served with mead
+- 92. Cheese tart, fritter, apples, served with melomel
+- 93. Fried cod, sops and broth, served with ale
+- 94. Pork and egg pie, pears, served with mulberry gin
+- 95. Salt pork and chicken in wine sauce, plums, served with - metheglin
+- 96. Beans and onion pottage, roasted pigeon, served with mulled
+- 97. Veal and fruit pie, rye bread with almond milk butter, served - cider with perry
+- 98. Ham, pasta, and raisins served with lager
+- 99. Pike and onion pasty, pomegranate, served with beer
+- 100. Mortis of cod, oat and pea porridge, served with - prunelle
+- 81. Stork in a squash sauce on a trencher, served with - mead
+
+## Items: Inn Rooms
+- 1. Mushrooms: Kinds and Uses (book)
+- 2. Ancient scroll
+- 3. Tin bowl
+- 4. Chest
+- 5. List of local businesses
+- 6. Wooden bowl
+- 7. Robe
+- 8. Rag rug
+- 9. Iron statuette of a horse
+- 10. Washtub
+- 11. Glove
+- 12. Bowl of pottage
+- 13. Single red rose
+- 14. Shattered wine bottle
+- 15. Rotten potato
+- 16. Bag of tobacco
+- 17. Bust of a famous emperor
+- 18. Decanter
+- 19. Steel mirror
+- 20. Fireplace hook
+- 21. Small key (hidden)
+- 22. Wanted posters (1D4)
+- 23. Short sword covered in dried blood
+- 24. Painting of a child
+- 25. Bouquet of flowers
+- 26. Pin
+- 27. Large copper kettle
+- 28. Map of trade routes
+- 29. Keys (1D8)
+- 30. Potted plant (overturned)
+- 31. Pile of dead gnats
+- 32. Sealing wax (1D6 cubes)
+- 33. Monocle
+- 34. Incriminating letter
+- 35. Muddy cape
+- 36. Bandana
+- 37. Runes inscribed on a wooden stick
+- 39. Snake
+- 40. Unfinished letter to a count
+- 41. Pencil
+- 42. Fireplace shovel
+- 43. Shoe
+- 44. Tea leaves
+- 45. Gold ring
+- 46. Earring
+- 47. Bottle of hair dye
+- 48. Bottle of prune juice
+- 49. The War of Uncounted Woes (book)
+- 50. Letter asking a duchess for help ##
+- 51. Flask (half full of whiskey)
+- 52. The Fall of the Rogue Kings (book)
+- 53. Map of the city sewers
+- 54. Sandwich (half-eaten)
+- 55. Secret door (floor)
+- 56. Gold pieces (1D8)
+- 57. Tinderbox
+- 58. Needle
+- 59. Silver bracelet
+- 60. Diary
+- 61. Bed slippers
+- 62. Porcelain cups (1D8)
+- 63. Tin cup
+- 64. Deck of cards
+- 65. Polished pebbles (6)
+- 66. Cork
+- 67. Holy symbol
+- 68. Map to a secret warehouse
+- 69. Single playing card (a drop of blood on
+- 70. Star chart
+- 71. How to Wear a Cape (book)
+- 72. Gray tunic
+- 73. Red glass wolf figurine
+- 74. Doll
+- 75. Spell scroll (level 2)
+- 76. Vellum (1D8 sheets)
+- 77. Satin hat
+- 78. Dead beetle
+- 79. Coffee pot
+- 80. Washcloth
+- 81. Brass button
+- 82. Silver pieces (1D10)
+- 83. Ceramic mug
+- 84. Wide-brimmed hat
+- 85. Small mirror
+- 86. Knitting needle
+- 87. Scroll carrying case
+- 89. Silver pieces (1D6)
+- 90. Rock with a fossil
+- 91. Copper bracelet
+- 92. Chess set
+- 93. When Time Stopped (book)
+- 94. Firewood (1D8 pieces)
+- 95. Fossil of a footprint
+- 96. Statue of a woman holding a sword
+- 98. Cloth patch
+- 99. Lock of hair tied with a ribbon 
+- 100. Secret message to a mercenary
+- 101. Vial of blood
+- 102. Dagger with deer antler handle
+- 103. Ball of yarn
+- 104. Metal spoon
+- 105. Pillows (1D6)
+- 106. Fur wrap
+- 107. Map of a dungeon
+- 108. Comb
+- 109. Dark green cloak
+- 110. Canary in a cage
+- 111. Bag of snails
+- 112. Urn
+- 113. Ink bottle (empty)
+- 114. List of rare books
+- 115. Abacus
+- 116. Portrait of innkeeper
+- 117. Lost Cities and Forgotten Lands (book)
+- 118. Potion of healing
+- 119. Advertisement for a general store
+- 120. Letters 'MTY' intricately carved into a stick
+- 121. Common clothes
+- 122. Brandy (full bottle)
+- 123. Spittoon
+- 124. Shattered Lands (book)
+- 125. Twig
+- 126. Handkerchief with initials 'WSK'
+- 127. Bloody bandages
+- 128. Mop
+- 129. Silver serving tray
+- 130. List of prominent citizens (hidden)
+- 131. Parchment (1D10 sheets)
+- 132. Ways of Gold and Wealth (book)
+- 133. Short sword (hidden)
+- 134. Painting of a butterfly
+- 135. Spell scroll (level 3)
+- 136. Pair of riding gloves
+- 137. Face powder
+- 138. Quills (1D4)
+- 139. Copper piece
+- 140. Hide rug
+- 141. Iron pan
+- 142. Map to an old ruin
+- 143. Kindling
+- 144. Mothballs (1D12)
+- 145. Vellum (1D10 sheets)
+- 146. Bowl full of jelly
+- 147. Jade elephant statuette
+- 148. Foreign coin (gold)
+- 149. Dustpan
+- 150. Straw hat
+- 151. Horseshoe
+- 152. Blank paper sheets (1D8)
+- 153. Blankets (1D12)
+- 154. Bucket of coal
+- 155. Short sword
+- 156. Beard oil
+- 157. Wine (1D4 bottles)
+- 158. Ancient Mythology (book)
+- 159. Stuffed fox
+- 160. Small ruby
+- 161. Torch
+- 162. Green scarf
+- 163. Leather pouch
+- 164. Copper pieces (1D10)
+- 165. Map to a dungeon
+- 166. Copper ring
+- 167. The Evening Star of Doom (book)
+- 168. Candles (1D8)
+- 169. Prayer book
+- 170. Safe (hidden)
+- 171. Cigars (1D12)
+- 172. Wash basin
+- 173. Cotton scarf
+- 174. Basket of chicken eggs
+- 175. Wig
+- 176. Noose
+- 177. Drawing of a ruined tower
+- 178. Cast iron pot
+- 179. Blue scarf
+- 180. Used bar of soap
+- 181. Receipt for two horses
+- 182. Chamber pot
+- 183. Bone key
+- 184. Shadow From the Depths (book)
+- 185. Ceramic vase
+- 186. Spindle
+- 187. Vase
+- 188. Scarab brooch
+- 189. Two six-sided dice
+- 190. Handkerchief
+- 191. Crumbled letter
+- 192. Large tankard
+- 193. Wastebasket
+- 194. Forgery kit
+- 195. Towels (1D6)
+- 196. Cigar box (empty)
+- 197. Silver pieces (1D8)
+- 198. Love letter (hidden)
+- 199. Pewter brooch
+- 200. Smoking pipe
+- 201. Iron bracelet
+- 202. Banana peel
+- 203. Painting of a dragon
+- 204. Snuff box 
+- 205. Fine clothes
+- 206. Ball of string 
+- 207. Glittering powder
+- 208. Spectacles
+- 209. Insignia of a knightly order
+- 210. Longsword (hidden)
+- 211. The Waterfall Tunnel (book)
+- 212. Map case
+- 213. Bunch of grapes
+- 214. Vials of blue liquid (1D8)
+- 215. Map of a nearby city
+- 216. Chewing tobacco (1D6 plugs)
+- 217. Tiny wooden bird
+- 218. Clay tablet with the inscription
+- 219. Map to a hidden mine
+- 220. Dish
+- 221. Bowl of cherries
+- 222. Oak leaf
+- 223. Bed curtains
+- 224. Copper shoe buckle
+- 225. Scribe's knife
+- 226. Mage robes
+- 227. Small bag of sand
+- 228. Human baby in a basket
+- 229. Jug of milk
+- 230. Bottle of wine on ice
+- 231. Bowl of oranges
+- 232. Map of the city
+- 233. Understanding Divination (book)
+- 234. Copper pieces (1D20)
+- 235. Small cup of yellow paint
+- 236. Frost Like Ashes (book)
+- 237. Sheets (1D8)
+- 238. Wallet
+- 239. Satin cloak
+- 240. Fireplace poker
+- 241. Copper key
+- 242. Spell scroll (level 1)
+- 243. Half a map to a treasure hoard
+- 244. Demonic symbol (hidden)
+- 245. Broken chair
+- 246. Piece of broken glass
+- 247. Iron ring 
+- 248. Cup of cream
+- 249. The Hermit of the Lake (book)
+- 250. Shawl
+- 251. Bull horn
+- 252. Goose feather
+- 253. Bar of soap
+- 254. Satin pouch
+- 255. List of ship names
+- 256. Wooden tray
+- 257. Ink pen
+- 258. Gold piece
+- 259. Rug
+- 260. Keg of beer
+- 261. Prosthetic arm
+- 262. Candle wicks (1D8)
+- 263. Bed warmer
+- 264. Bowl of strawberries
+- 265. Wooden plate
+- 266. Map of the countryside
+- 267. Map to a tomb
+- 268. Lamp
+- 269. Bowl of butter
+- 270. Lost kitten
+- 271. Bundle of legal papers
+- 272. Silver arrowhead
+- 273. Flea powder
+- 274. Lute string
+- 275. Copper torc
+- 276. Vellum (1D4 sheets)
+- 277. Ocarina
+- 278. Hand fan
+- 279. Hitlist
+- 280. Wicker basket
+- 281. Bent iron nail
+- 282. Smoking pipe
+- 283. Elven Tales and Bedtime Stories (book)
+- 284. Ink blotter
+- 285. Port (full bottle)
+- 286. Hammer
+- 287. Map of shipping routes
+- 288. Wooden whistle
+- 289. Writing pigments (1D4)
+- 290. Sponge
+- 291. Compass
+- 292. Portrait of innkeeper's cat
+- 293. Red bead
+- 294. Tiny jade woman statue
+- 295. Wick trimmer
+- 296. Mummified raccoon paw
+- 297. Dead body (under the bed)
+- 298. Platinum pieces (1D12)
+- 299. Crystal
+- 300. Burnt paper remnants
+- 301. Tome of ancient proverbs
+- 302. Bust of a noblewoman
+- 303. Idol
+- 304. Portrait of a duke
+- 305. Ink bottles (1D6 empty)
+- 306. Crossbow bolt
+- 307. Pebbles in a jar
+- 308. Mortar and pestle
+- 309. Electrum pieces (1D4)
+- 310. Jug of water
+- 311. Candle snuffer
+- 312. Service bell
+- 313. Ribbon (2')
+- 314. Washcloths (1D12)
+- 315. Parchment (1D8 sheets)
+- 316. Small locked box (hidden)
+- 317. Sealed letter
+- 318. Glass eye
+- 319. Marbles (1D12)
+- 320. Magnifying glass
+- 321. Tarantula
+- 322. Pitcher
+- 323. Crossbow
+- 324. Bag of dog teeth
+- 325. Dirty socks
+- 326. Dagger (hidden)
+- 327. Wine glasses (1D20)
+- 328. Foreign coin (silver)
+- 329. Flask of oil
+- 330. Red Book of Understone (book)
+- 331. Box of bandages
+- 332. Cigar box stuffed with banknotes
+- 333. Rabbit's foot
+- 334. Vial of perfume
+- 335. Stone dragon paperweight
+- 336. Signet ring (hidden)
+- 337. Scribbled business plans on parchment
+- 338. Hard candies (1D20)
+- 339. List of names
+- 340. Mother-of-pearl hair comb
+- 341. Wooden box full of dragonfly wings
+- 342. Ink bottle (full)
+- 343. Pearl hairpin
+- 344. Leather strap
+- 345. Waistcoat
+- 346. Skinning knife
+- 347. Apple (half-eaten)
+- 348. Dead rat
+- 349. The Dust of Empires (book)
+- 350. A Man of Worth (book
+- 351. Golden thread (7')
+- 352. Bucket of hot water
+- 353. Wool scarf
+- 354. Bronze button
+- 355. Spyglass
+- 356. Short bow
+- 357. Book with blank pages
+- 358. Honeycomb (wrapped in wax paper)
+- 359. Longsword (hanging on the wall)
+- 360. The Rivers Boiled and the Sky Smoked (book)
+- 361. Silver ring
+- 362. The Season of Rain (book)
+- 363. Framed house rules
+- 364. Flagon
+- 365. Bundle of letters
+- 366. Ivory human figurine
+- 367. Bronze bell
+- 368. Thimble
+- 369. Wooden flute
+- 370. Gold elven brooch
+- 371. Gold necklace
+- 372. Bead necklace
+- 373. Hawk feather
+- 374. Satin gloves
+- 375. Wine (half-full bottle)
+- 376. Mousetrap
+- 377. Gold pieces (1D4)
+- 378. Tin box
+- 379. Onyx butterfly figurine
+- 380. Portrait of a young girl
+- 381. Arrow (stuck in a wall)
+- 382. Keys (1D4)
+- 383. Quill
+- 384. Rags (1D8)
+- 385. Candle holder
+- 386. String (3')
+- 387. Broom
+- 388. Metal box (locked)
+- 389. Child's slingshot
+- 390. Cage with white mice (1D10)
+- 391. Set of toy dishes
+- 392. Wooden carving of a bear
+- 393. Gold locket
+- 394. Clerical robes
+- 395. Gold pieces (1D6)
+- 396. Severed hand
+- 397. Bloody tooth
+- 398. Wooden cup
+- 399. Riding boots
+- 400. Arrows (1D20)
+
+## Inn Encounters #1
+- 1. A pushy snake oil salesperson approaches the party with a new miracle substance.
+- 2. The common room is filled with people, yet no one is talking.
+- 3. A group of children seems to be running the inn.
+- 4. An elf keeps staring at the party.
+- 5. All patrons glare at the party and watch every move they make until they sit down.
+- 6. One character's chair breaks as they sit down.
+- 7. Upon entering their room, the party finds a bottle of chilled wine with a note that says, 'On the house.'
+- 8. Wild dancing in the common room causes part of the floor to give in.
+- 9. A fabulously wealthy noble gets his finger stuck in a wine bottle.
+- 10. The innkeeper tells the party that their well is going dry.
+- 11. In a dark corner, a book rests on a table. However, its pages flip back and forth as if someone is reading it.
+- 12. The mirror in the party's room does not show their reflections.
+- 13. Sign: 'Barkeep wanted.'
+- 14. As the party enters the room they rented, they discover an unconscious person on the floor.
+- 15. Sign: 'Half-orcs, we don't serve your kind.'
+- 16. The party overhears a man telling someone a sob story and that he just needs ten gold pieces.
+- 17. In the middle of the night, someone knocks on the characters' door and asks for help.
+- 18. A falling tree crashes into the party's room.
+- 19. While in the common room, a pickpocket tries to steal something from one of the characters.
+- 20. A server tells the party the kitchen is closed, yet other people are getting food.
+- 21. The party finds a message hidden in their meal.
+- 22. Sign: 'Gnomes, we don't serve your kind.'
+- 23. A person runs in and hands a small box to one of the characters and then falls over dead.
+- 24. It appears that chickens are kept in the common room.
+- 25. A fish in the aquarium tells the party if they free him, he will tell them where they can find a treasure.
+- 26. A man jumps behind the bar and grabs the till. The innkeeper tries to wrest it away from him and screams for help.
+- 27. A group of thieves sprint through the inn stealing everything they can and then running out.
+- 28. A card game bursts into violence as weapons are drawn.
+- 29. The bard stops playing, his eyes go wide, and then he runs out the door screaming.
+- 30. A finely dressed human asks if the party is interested in a game of cards.
+- 31. As the party approaches the inn they see someone throw an old lady out and yell at her to never come back.
+- 32. There is a note waiting in the party's room.
+- 33. A man with bloodshot eyes asks the party if they would like to buy some 'Longbottom Leaf.'
+- 34. Sign: 'Out of wine.'
+- 35. When the party attempts to pay, the innkeeper waves it off   and says, 'I can't take money from the heroes of Dunharrows.'
+- 36. A gang demands protection money from the innkeeper. The party sees the innkeeper reaching for a weapon.
+- 37. In the common room is a huge board covered with bounty posters.
+- 38. A half-orc bumps into one character and then warns them to watch their step.
+- 39. A person crashes through one of the windows in the common room from the outside.
+- 40. When a character arrives in their room, they find it filled with cats.
+- 41. The kitchen door is ajar, and the party notices that the 'dishwasher' is licking the plates clean and putting them back on the shelves.
+- 42. As the party enters, the innkeeper apologizes because all the servers quit, so it will be a long wait for food.
+- 43. The innkeeper puts a pitcher of ale on the party's table and says, 'On the house,' then leaves with a wink.
+- 44. The innkeeper asks for everyone's attention and announces the inn will close permanently tomorrow. She says she is losing money and can't keep it open.
+- 45. The party witnesses someone trying to pick a lock on a guest room.
+- 46. A gnome wanders about the inn pulling splinters of wood out of tables, chairs, and the walls. They place the splinters in a pouch.
+- 47. The barmaid drops a tray of drinks on the player's table. Glass and liquid fly everywhere.
+- 48. A barmaid collapses as she approaches the party's table.
+- 49. The gnome innkeeper has created an elaborate machine that delivers drinks to the tables through a series of ropes, pulleys, and slides.
+- 50. As someone passes the party a jewel drops out of their pack.
+- 51. Sign: 'Bouncer wanted.'
+- 52. All the dishes are incredibly dirty.
+- 53. A goblin war party (1D20) bursts in and begins attacking patrons.
+- 54. A seemingly drunk patron slips a map into one character's hand. They whisper, 'Don't let Milgar get this.'
+- 55. As the party enters, they notice workmen rebuilding tables and chairs and cleaning the entire common room.
+- 56. The party sees a man dressed in rags slip behind the bar and hide.
+- 57. As a character sits down, they notice a bundle of legal papers in the chair.
+- 58. A sword swallower is putting on quite a show, and the crowd is having a great time.
+- 59. Someone is showing offtheir new tattoo of a unicorn when the tattoo comes alive, jumps offtheir skin, and runs out the door.
+- 60. In one corner of the common room is a section of small tables and chairs occupied by several fairies who are actively getting drunk.
+- 61. Sign: 'Halflings, we don't serve your kind.'
+- 62. An excited gnome is doing a jig on top of a table until someone throws a flagon and knocks them off.
+- 63. Party is told the gnome in the corner bought them all drinks.
+- 64. Local militia members come in to recruit new town guards.
+- 65. As the party enters, they see the innkeeper being bullied by a tall elf.
+- 66. A frantic halfling is begging the innkeeper for help.
+- 67. The innkeeper demands double the price for everything the party orders. They say adventurers only bring trouble.
+- 68. A drinking contest is being held in the common room. Bets are being placed and contestants are lining up.
+- 69. Sign: 'Dwarves, we don't serve your kind.'
+- 70. When the party enters the common room, everyone else wraps up and leaves. The innkeeper stares at them with a sour look.
+- 71. The innkeeper is busy hammering some boards onto the bar to fix a hole in it.
+- 72. Fire breaks out in the stable.
+- 73. A local vigilante group enters and sits around the room in strategic places.
+- 74. A well-run gambling operation is being run out of a back room.
+- 75. The party notices a dirty child stealing a cooling loaf of bread off   a windowsill.
+- 76. A drunken human falls from the balcony into the common room smashing a table.
+- 77. A headless chicken runs through the common room, leaps over tables, and then collapses.
+- 78. A halfling asks the party if they have seen her son.
+- 79. Sign: 'Bard wanted.'
+- 80. An elf weeps uncontrollably at the bar. Everyone around them is ignoring them.
+- 81. The figures in the large common room mural seem to move every time someone turns away and then looks back.
+- 82. Several people are sleeping in the inn's entryway.
+- 83. A bard is performing but the patrons are booing and hissing.
+- 84. All the portraits in the inn seem to follow guests with their eyes.
+- 85. Party is told the woman in the corner bought them all drinks. When the party looks over at her, she raises her glass at them.
+- 86. The common room floor is covered in mud.
+- 87. A wild game of darts has almost everyone in the common room engaged.
+- 88. Sign: 'Inn for sale.'
+- 89. Eight angry elves enter and stalk through the common room. They appear to be looking for someone or something.
+- 90. A troupe is performing a play and as the party watches, they notice the play is a satire about the state of the kingdom.
+- 91. A bard is singing about a group of adventurers. The party notices that the descriptions fit the party members exactly.
+- 92. A frightened horse crashes through the common room knocking over tables and people.
+- 93. The common room erupts into a huge brawl. Chairs and tables fly about the room.
+- 94. After staying the night in the inn, the characters notice some of their items have been moved. If asked, the innkeeper says that is just the ghost and nothing is ever stolen, just moved around.
+- 95. A server tells the party they are welcome to search the grounds for 'the lost ring' which was supposedly lost some one hundred years ago.
+- 96. A man bursts in raving about a horde of ghost children.
+- 97. A key is hooked underneath the party's tabletop.
+- 98. There is a group of card players who begin shouting and yelling.
+- 99. A scar-comparing contest is in full swing in the common room.
+- 100. A group of dwarves enter the inn and demand everyone leave.
+
+## Inn Encounters #2
+- 1. A young lady in a flamboyant costume is begging for a job playing music at the inn.
+- 2. Behind the bar is a large cage with a goblin in it. A sign says, 'The inn's mascot, Willie the Goblin. He brings us luck!'
+- 3. Fire breaks out in the kitchen.
+- 4. When the characters reach their room they find a sign on the closet door that reads, 'Haunted. DO NOT OPEN.'
+- 5. Fire breaks out in the common room.
+- 6. The only space available to sleep is in the stable's hayloft.
+- 7. As the party enters, they see that the inn is completely empty save for a tired innkeeper who is sitting on a stool weeping.
+- 8. In the common room, a huge portrait of the king falls off   the wall knocking over several tables. Crude graffiti disparaging the king is revealed on the wall where the picture previously hung.
+- 9. A rock with a note tied to it flies through a window, shattering it. The note says, 'Vengeance is coming.'
+- 10. As the party enters their room, a rainbow appears briefly, and then it's gone.
+- 11. Everyone in the common room appears to be sleeping.
+- 12. A woman is approaching every table and asks if they are adventurers for hire.
+- 13. A drunk patron pesters the party. They pepper the party with a wide range of silly questions barely giving the party time to answer.
+- 14. An old woman sits by herself humming a strange tune. When the tune ends, the woman disappears leaving only a charred letter behind.
+- 15. The singer in the inn begins coughing uncontrollably.
+- 16. Two elves draw swords and face each other. People scatter, knocking over tables.
+- 17. As the party enters, they see that a political rally is being held in the inn. Someone is giving an impassioned speech and people are cheering.
+- 18. The servers dance and sing while waiting tables.
+- 19. The characters discover a peephole in their room. However, if they look through it they see a beautiful field, not the room next door.
+- 20. During a meal, a jester performs by swinging from chandelier to chandelier.
+- 21. Town guards crash into the common room and proclaim that the mayor has ordered the inn closed. The reason cited is illegal gambling.
+- 22. A woman dressed like a blacksmith shouts at the innkeeper, 'You'll rue this day!' as she storms out.
+- 23. A well-known criminal is drinking at the bar.
+- 24. An elf keeps staring at the party.
+- 25. A local crime boss is sitting at a corner table with a bunch of lackeys around.
+- 26. An old man seems to be having trouble lighting his pipe.
+- 27. Fire breaks out in a guest room.
+- 28. An earthquake rattles the inn.
+- 29. When the innkeeper announces they are out of ale, the common room becomes unruly.
+- 30. When the characters close the door to their room, the window breaks.
+- 31. Several flaming arrows crash through the windows of the common room causing a panic.
+- 32. As the party enters the inn, a bouncer approaches them and asks for a copper piece from each member. He says they've been having a lot of trouble lately, so if you can't pay you can't come in.
+- 33. Two people are arguing loudly at a table in the common room. The dispute seems to involve a book.
+- 34. The barmaid slips a character a note, it says, 'Meet me in the basement.'
+- 35. In one corner of the common room, a wizard is furiously writing in a book.
+- 36. A portion of the ceiling collapses while the party is eating.
+- 37. Bare-knuckle fights are being held in the basement. It's a copper to join in the action. Also, the betting starts at a silver piece.
+- 38. Sign: 'Half-elves, we don't serve your kind.'
+- 39. The innkeeper doesn't speak Common.
+- 40. When the party attempts to rent a room, the innkeeper says, 'The only room left is No. 9 and no one ever wants to rent it, so I'm offering a discount.'
+- 41. A dance competition is in full swing and there are several people looking for partners.
+- 42. As the party enters they see the innkeeper intentionally breaking a huge stack of dishes.
+- 43. Sign: 'Help wanted.'
+- 44. As the party enters, several people are carrying out a dead body.
+- 45. A drunk is loudly bragging about discovering silver in the nearby hills.
+- 46. As the party enters, someone runs down the stairs and screams, 'Help! He's dead!'
+- 47. A talking dog converses with one of the patrons in a casual manner.
+- 48. Twelve green-cloaked people sit with their hoods up in the corner.
+- 49. The innkeeper and a patron get into a heated argument. It may come to blows.
+- 50. A man in the back of the common room is writing strange symbols on the wall.
+- 51. Sign: 'Battle of the Bards Tonight!'
+- 52. While sitting at a table, a fairy attempts to tie their bootlaces together.
+- 53. The innkeeper is searching frantically for a broom.
+- 54. Several thugs are beating a man in the alleyway next to the inn.
+- 55. Water begins to rush through the common room. The maximum depth is only about a foot.
+- 56. A barmaid yells, 'I quit!' and storms out.
+- 57. The innkeeper asks the party to deliver a package to the sawmill just a few streets down.
+- 58. Besides the innkeeper, the inn seems to be run by either magic or a staff   of invisible people. The plates of food float over to the tables of their own accord.  Dishes seem to wash themselves. The blankets unfold themselves and lay on the bed.
+- 59. A group of drunk dwarves begins singing loudly and splashing beer all over the room.
+- 60. The barkeep puts on a show by flipping and spinning bottles through the air as they mix drinks.
+- 61. The party sees a pickpocket lift a man's coin purse and then begin to saunter away.
+- 62. A young woman sits forlornly at a table. Around her ankle is an iron band. Other people at the table make her fetch things for them from time to time.
+- 63. A dwarf quiets the common room and asks everyone to watch him perform a feat with his axe. He attempts some sort of axe flip, but only severely cuts his hand.
+- 64. When a character pulls out their chair to sit, they find a cat sleeping on it.
+- 65. The innkeeper seems extremely haggard and appears ill.
+- 66. When the characters reach their room they discover it is run down and dirty with a boardedup window.
+- 67. A group of armed men burst into the common room and yell, 'Where's that lousy gnome!'
+- 68. The innkeeper is having trouble lighting the fire in the common room.
+- 69. As the party sits at a table they notice the seats of the chairs are drenched in beer.
+- 70. Sign: 'No vacancy.'
+- 71. As the party closes the door to their room for the night, they notice a note attached with a dagger to the back of the door.  The note appears to be written in blood.  It says, 'I hope you have a good night, for it is your last.'
+- 72. When characters are in a rented room, they notice the door will not remain closed. It swings open a few inches unless barred.
+- 73. A woman hands the party a sealed letter and says to keep it safe, then she runs off.
+- 74. The party's table wobbles terribly when weight is placed on it.
+- 75. The party finds a child hiding under their table. The child motions for them to not give away their presence.
+- 76. Sign: 'Elves, we don't serve your kind.'
+- 77. A huge rough-looking human announces, 'Every dwarf in here needs to leave now.' A hush falls over the common room.
+- 78. The innkeeper is telling a bard that she is not giving him any more credit. He needs to pay his bill and move along. The bard protests and says he'll have the money soon.
+- 79. While in the common room the party sees several people run screaming out of the entrance to the guest rooms.
+- 80. An elf rushes into the common room, quickly paints strange symbols on each of the tables, and then rushes back out.
+- 81. A woman offers to sell the party a snake that she claims can tell the future.
+- 82. A ghost wanders the inn at night asking people to tell it a story.
+- 83. Sign: 'Humans, we don't serve your kind.'
+- 84. A strong wind rips the inn's roof off.
+- 85. Several loud booms shake the inn, they probably came from the sable outside.
+- 86. The characters find their room infested with rats.
+- 87. A juggling tournament is scheduled for tonight at the inn.
+- 88. A prince's special and extremely valuable steed is currently in the inn's stable.
+- 89. A group near the party is loudly celebrating a birthday party.
+- 90. A bard asks the party if they happen to have a viol string.
+- 91. A drunk passes out in the middle of the party's table.
+- 92. A group in the common room is whacking a dummy that looks like the mayor.
+- 93. A large dragon is sleeping serenely in the middle of the common room. It must have come at night when everyone was asleep. No one can figure out how such a large creature got into the room or how to remove it.
+- 94. A gold ring lies on the floor under the table.  It is strangely cold to the touch.
+- 95. A knife thrower is performing. They ask for volunteers who are brave enough to have knives thrown at them.
+- 96. A beggar asks the party for a gold piece.
+- 97. Sign: 'Arm Wrestling Contest. Tonight Only.'
+- 98. A dog chases a cat through the entire common room, knocking over chairs and running across tables.
+- 99. As the patrons are enjoying their meals in the common room, a bell rings.  All the patrons get up, leave their meals, and go sit in another chair and start eating whatever the last patron was eating.
+- 100. The tavern seems to be trying to drum up some new business. A large sign out front reads, 'Home of the largest blackbird pie.'
+
+## Carousing #1
+- 1. You've been beaten up, but you have no idea who did it.
+- 2. You wake up in the inn but have no idea why you and your bed are soaked in milk.
+- 3. You remember drinking and playing cards, but how an ancient piece of glass with a map scratched into it got into your pack is a mystery.
+- 4. You now own a portrait of a duke.
+- 5. You wake in the morning to find yourself on a ship ready to set sail.
+- 6. When you wake up you find a note in your hand that says, 'Marked for death.'
+- 7. There is a scorpion tattooed on the bottom of your right foot.
+- 8. A wild romance. Roll 1D6 - 1-2 It ended poorly. 3-4 It ended well. 5-6 Still ongoing.
+- 9. You now own a cat.
+- 10. You now have 1D20 gold pieces that you have no idea where they came from.
+- 11. There are cuts on your right forearm that form some sort of symbol.
+- 12. You find a black snake in your backpack.
+- 13. You awake on the bank of a quick and clear stream outside of town. There are several dead bodies around you.
+- 14. You regain consciousness in a weapon shop. The owner asks what you did with the sword.
+- 15. You wake up sprawled out on the inn's roof.
+- 16. Consciousness finds you wearing a horse costume along with several kobolds. They keep telling you to be quiet and keep walking.
+- 17. You're not sure what happened last night, but the innkeeper is now demanding you pay 1D100 gold for damages.
+- 18. You now have a tattoo of a red fist on your right bicep.
+- 19. You wake up on a hay wagon slowly plodding through the streets.
+- 20. You wake up dressed like a scarecrow.
+- 21. You wake up to find a strange flute in your hand.
+- 22. You lose 1D20 gold gambling.
+- 23. You wake in your room at the inn and see a large breakfast set for you with a note that says, 'On the house.'
+- 24. Some stranger is hanging around and claiming you two are now married.
+- 25. While having breakfast, you learn that a group of gamblers are not happy with you after last night.
+- 26. You wake up to find a highly trained rat in your pocket.
+- 27. You wake up to find your belongings laid out for you. Nothing is missing. However, you notice a symbol of a dragon claw imprinted on most of the items.
+- 28. You wake up to discover a copper ring on one of your fingers. There seem to be faded symbols on the inside.
+- 29. You now have a map to a dungeon tattooed on your back.
+- 30. Though you don't remember what happened last night, your actions seem to have sparked a conflict between the goldsmith and the carpenter guilds.
+- 31. A gambling debt was paid to you in the form of a magic potion.
+- 32. You are sentenced to 1D10 dunks in a ducking stool for disorderly conduct.
+- 33. You wake up at the edge of a pond outside of town. You are covered in mud.
+- 34. You find your adventuring gear in a pile of trash.
+- 35. You find a deed to a small parcel of land in your pocket and you are missing 2D100 gold.
+- 36. You are now the proud owner of a finely crafted smoking pipe.
+- 37. You lose 2D100 gold gambling.
+- 38. You've gained the favor of a prominent citizen.
+- 39. You wake up to find yourself in a cage of a traveling oddities carnival.
+- 40. The inn burned down last night and now there are lots of town leadership asking questions. You don't remember anything, but your hands are covered in soot, and you smell of smoke.
+- 41. Consciousness finds you being lowered into a well. A person at the top shouts, 'You will find it or I'll leave you down here!'
+- 42. You are now the owner of a wagonful of highly-prized show chickens.
+- 43. You now owe a crime boss one thousand gold pieces.
+- 44. At some point during the night, you've agreed to help the duke's daughter and the miller's son elope.
+- 45. You now own a very talkative parrot.  She seems to have picked up directions to some sort of treasure, but the order is pretty garbled.
+- 46. You wake up at the bar in the tavern and the innkeeper asks if you want coffee.
+- 47. You now own more than five hundred feet of rope.
+- 48. The morning finds you wearing a coon skin cap.
+- 49. After what you did last night, the innkeeper demands you clean out the stalls of the stable.
+- 50. You find a shortsword in your backpack.
+- 51. You are expected to compete in an arm wrestling contest being held next week.
+- 52. You lost a bet and now you have to go around wearing a sign saying 'I'm a fool' for one day.
+- 53. A local crime boss is now your friend.
+- 54. You awake in the rafters of the inn's common room.
+- 55. You made friends with the owner of the potion shop.
+- 56. You wake up in the middle of the street. A town guard is standing over you.
+- 57. Among your belongings, you find a set of rusty manacles.
+- 58. You learn the potion shop is going to go out of business and the wine is making you feel generous.
+- 59. You wake up with a scrap of velvet clutched in your hand.
+- 60. You find a holy symbol among your belongings.
+- 61. You wake up at a table littered with bottles and glasses and something is pulling at your boot.
+- 62. You regain consciousness sitting with several strangers while an artist is painting your portrait.
+- 63. You wake up in an alleyway with a decent gash on your head.
+- 64. Among your belongings, you find a map to a nearby bandit camp.
+- 65. The morning finds you skipping down the main street with several strangers singing a folk song.
+- 66. A gambling debt was paid to you in the form of a large locked chest.
+- 67. In the morning, a messenger delivers you an invitation to a ball at the duke's manor on the coming evening.
+- 68. You wake up in a puddle of filth behind the tavern.
+- 69. You lost a bet. You have to put on a dance competition at the inn.
+- 70. You lost a bet. you have to stand on a busy street corner screaming, 'Shara is the best gambler in the city!'
+- 71. You wake up in the closet of your bedroom.
+- 72. As you sip coffee in the morning, the innkeeper slips you a pouch of 1D100 gold pieces, winks, and says, 'It's from you know who.'
+- 73. For some reason, you are wearing a bathrobe and slippers but you are standing in the middle of the street.
+- 74. You fell in love last night or at least you think you did. Everything is too hazy to actually be sure.
+- 75. As the sun rises, you find yourself tied to a flogging pole. A town guard with a cat-of-ninetails stands ready.
+- 76. You won a bet. The tavern owner owes you a barrel of ale.
+- 77. You come to your senses to see a pen in your hand and a man pulling a document out from under your hand.  'Excellent,' he says, 'We will make the arrangements shortly.'
+- 78. You regain consciousness tied up lying on the floor in a filthy room. Your gear is nearby and you hear two people whispering.
+- 79. You made friends with a countess.
+- 80. You regain consciousness to find yourself on the stage of a theater. There is a large crowd expecting you to perform.
+- 81. You wake up dressed like a clown standing in front of a group of children at a birthday party.
+- 82. You wake up under your bed.
+- 83. You remember meeting someone charming last night but they are gone now and so is 1D100 gold from your pouch.
+- 84. You wake up with the worst hangover you have ever had.
+- 85. You won a bet. Several patrons at the inn now have to let you shave their heads.
+- 86. You now own a wagon packed with supplies as if it was prepared for a long journey.
+- 87. Among your belongings, you now have an intricately carved music box.
+- 88. You lost a bet. A gnome now says he owns all of your belongings, and you can have them back if you help him with something.
+- 89. The innkeeper demands you help clean rooms all day.
+- 90. You find a map to a dungeon in your pack.
+- 91. You win 1D12 gold gambling.
+- 92. There is an IOU in your pocket for 250 gold pieces.
+- 93. You now have a spellbook.
+- 94. For disorderly conduct, you are sentenced to wear sackcloth and walk about the town loudly apologizing to townspeople for a day.
+- 95. You regain consciousness to find that you are being carried through the streets by a mob. They do not seem to have your best interest at heart.
+- 96. You don't remember the evening at the inn well, but you certainly remember the nightmares.
+- 97. You won a bet. An elf has to pay for your room and board at an inn for several days.
+- 98. You are thrown into jail for 1D6 days for disorderly conduct.
+- 99. A drunken inn patron bragged about having lots of gold hidden in their basement. You notice several unsavory types taking an interest.
+- 100. You now own a tiny raging dog in a cage.
+
+## Carousing #2
+- 1. You are thrown into jail for 1D8-1 days for disorderly conduct.
+- 2. You lose 1D8 gold gambling.
+- 3. A local crime boss is now your enemy.
+- 4. You find yourself with a chair in your hand facing a surly-looking woman, who is also brandishing a chair.  A crowd incircles you both, shouting.
+- 5. You awake to find yourself handcuffed to the town drunk.
+- 6. You now have a triangular silver piece with strange symbols on it.
+- 7. You lose 2D20 gold gambling.
+- 8. After several foot races last night, you are now sore and exhausted.
+- 9. When you wake up, you find several maps and journal books unfamiliar to you about the room.
+- 10. In the morning, a bard tells you they are writing about what you did last night.
+- 11. You now own a mean parrot.
+- 12. The fog of last night fades and you find yourself in a rain-catch barrel outside the inn.
+- 13. An earl is now your enemy.
+- 14. You now own a pony.
+- 15. You lost a bet. You have to wash dishes at the inn while yelling, 'Rudolfo is the best!'
+- 16. Flying through the inn's window has left you with many cuts and gashes.
+- 17. You regain consciousness at the head of a wagon full of excited children all shouting your name in unison.
+- 18. You seemed to have joined a gang. At least, that is what you're told by the recruiter.
+- 19. You are awakened by dozens of cats licking your face.
+- 20. You won a bet. A local has to walk in front of you and shout, 'Make way for the honorable one!' for the rest of the day.
+- 21. The town guard comes by in the morning and asks if you know anything about the overturned statue.
+- 22. You win 2D10 gold gambling.
+- 23. In the morning, the innkeeper informs you that there is now a 100 gold piece bounty on your head, and you should probably hide.
+- 24. Climbing to the third-story window of the inn was a bad idea. You are sore all over and one ankle is swollen.
+- 25. You find a hammer engraved with 'Hernfeltin' among your belongings.
+- 26. You now own a silk dressing gown.
+- 27. You find yourself on top of the inn's largest table.  Everyone is looking at you expectantly.
+- 28. You won a ship in a card game.
+- 29. You awake in a field to find yourself covered in beetles.
+- 30. You find three books in your backpack.
+- 31. You awake lying next to a burning pile of trash.
+- 32. You now own an ancient clay tablet.
+- 33. You overheard several thugs say they are trying to force a family offtheir land.
+- 34. You find an elven brooch in your backpack.
+- 35. You notice that 3D20 gold pieces are missing from your pouch.
+- 36. You now own a monkey that likes to steal shiny objects.
+- 37. You wake up in a blacksmith shop. A smith tells you it will take a few days to finish what you ordered.
+- 38. You awaken as a dwarf slaps you on the back.  She says that was a good one.
+- 39. You wake up at the bottom of a dry well.
+- 40. There appears to be a map drawn on the palm of your hand.
+- 41. You won a house in a card game.
+- 42. You won a bet. You will now receive free meals at the inn for 1D4 days.
+- 43. For disorderly conduct, you are sentenced to wear a bridle that prevents you from talking for a day.
+- 44. You wake up lying in a washtub in a room you do not recognize.
+- 45. You wake up in a pile of potsherds outside of town.
+- 46. You now own a lizard.
+- 47. A gambling debt was paid to you in the form of a bundle of old maps.
+- 48. Your gambling winnings include two riding horses.
+- 49. Your exploits are now the stuff   of legend. Folk songs make their way around to different inns in the region telling of your deeds.
+- 50. You remember partying at an inn but notice quite a few bumps and bruises on your hands and face.
+- 51. You've gained the favor of the mayor.
+- 52. You wake up dressed like a chef.
+- 53. You wake up in the morning to realize you have been kidnapped.
+- 54. After chatting with friends and drinking a round or two you retired to your room early and slept like a baby.
+- 55. You lost a bet. You have to stand on your head while singing a children's song in front of all of the inn's patrons.
+- 56. You wake up feeling alive and rejuvenated but have no memory of what happened last night.
+- 57. A duke is now your enemy.
+- 58. There is a small tin ring lodged on your left pinky.
+- 59. A local merchant is now your enemy.
+- 60. You wake up in a bog outside of town. Next to you is a large dead bear.
+- 61. You discover you are wearing a silver necklace in the morning.
+- 62. You have angered a gang.
+- 63. You lost a bet. You have to ride a donkey around town with a sign announcing the inn has the best lager in town.
+- 64. For disorderly conduct, you are sentenced to confinement in a cage suspended from a pole at the crossroads outside of town for a day.
+- 65. You find a key in your belongings.
+- 66. You win 2D100 gold gambling.
+- 67. You wake up to find your boots missing.
+- 68. After last night, all the miners in town treat you as some kind of hero.
+- 69. You now own an old push cart.
+- 70. You now own an old wood shed on the outskirts of town.
+- 71. For disorderly conduct, you are sentenced to wear a sign that says, I'm a drunkard,' for a day.
+- 72. You are thrown into jail for 1D12 days for disorderly conduct.
+- 73. The brawl was glorious for a while, but now you are hurt and the innkeeper is demanding damage costs from you and a few others.
+- 74. There is now a tattoo of a green dragon on the back of your left hand.
+- 75. You wake up in a small cave and notice you're sleeping next to a bear.
+- 76. You wake up wearing a sash that says, 'Best Singer.'
+- 77. You gave it a valiant effort but couldn't jump the ditch. You are now covered in slimy smelly water.
+- 78. You wake up hanging upside down in a temple. There are priests around you performing a rite.
+- 79. A gambling debt was paid to you in the form of a deed to an inn in a nearby town.
+- 80. You find a golden locket inscribed, 'For all the good times. From KOG.' in your pocket.
+- 81. After destroying public property you have been sentenced to be locked in public stocks for a day.
+- 82. You win 2D12 gold gambling.
+- 83. You won a bet. A dwarf who made the bet with you now has to wear a donkey mask for the rest of the day.
+- 84. You learn a group of goblins is going to attack while everyone is drunk.
+- 85. The next day whenever someone greets you, they shout,' Hoho, hehe, lolo!' and then slap you on the back.
+- 86. You awaken to find a note in your hand. It reads, 'Meet me at the old silver mine to get your reward.'
+- 87. You are thrown into jail for 1D6-1 days for disorderly conduct.
+- 88. The symbol of a trumpet has been branded on your arm.
+- 89. The innkeeper has confiscated your weapons and says, 'Wait until the town guard arrives.'
+- 10. You wake to find several town guards in your room. One of them says, 'Yup, that's the
+- 90. one.'
+- 91. You are thrown into jail for 1D4 days for disorderly conduct.
+- 92. Consciousness finds you clinging to the top of a flagpole.
+- 93. You wake up to find yourself sitting in a chair on top of a ladder.  A laughing crowd is trying to throw eggs at you for you to catch.  Based on the condition of your clothing and hands, you haven't been doing a very good job catching them.
+- 94. You learn that a gang is planning to burn down the inn while everyone is partying.
+- 95. The nice people you met last night turned out to not be so nice. You were robbed of all your gold.
+- 96. You have angered a merchant.
+- 97. Among your belongings is a wrapped package. If shaken, it explodes 3D6 damage. If opened, it contains a spell scroll.
+- 98. You now owe a local baker four days' work.
+- 99. You wake up wearing an important official's uniform.
+- 100. You fade back into the land of the living at a table in an inn. The woman sitting across from you seems to be waiting for an answer.
+
+## Rumors and Odd Jobs #1
+- 1. The mayor is hiring adventurers to look into reports of bandit activity around the ruins in the forest.
+- 2. The innkeeper and the mayor had a serious argument the other day.
+- 3. A local potion shop is paying for rare specimens.
+- 4. A band of mercenaries is camping in the woods.
+- 5. Everyone on the south side of town seems to be having the same dream as each other.
+- 6. An old traveler has been camped outside of town for about a month because their mule died.
+- 7. Supposed to be a big storm soon.
+- 8. A mercenary unit is looking for fresh faces to fight in a far-offwar.
+- 9. The town's tinker has created a mechanical vehicle that's not powered by a horse.
+- 10. A secretive group is gathering for 'meetings' one night a week in the basement of the general store.
+- 11. Highwaymen are working the north road.
+- 12. Some say the old horse in the field behind the inn can talk.
+- 13. A band of slavers plans to ransack the town and kidnap the children.
+- 14. The town's only fletcher is thinking about moving to another town.
+- 15. The townsfolk believe that the strange old lady who moved into the abandoned house just outside of town is an evil witch who plans to curse the town.
+- 16. A flamboyant bard passed through town recently. Now, the town is overrun with rats.
+- 17. A new temple is being built in town. Some say that the old gods are not pleased.
+- 18. The baker's cat ran away.
+- 19. Some great star alignment is going to happen soon.
+- 20. A tailor is looking for unique fabric and is willing to pay well for it.
+- 21. A group of pickpockets is targeting the market district.
+- 22. A runaway cart smashed into the side of the inn.  The innkeeper is willing to pay a premium to get it fixed quickly.
+- 23. A statue was stolen from the city square several nights ago. Strange tracks were left behind.
+- 24. On a nearby mountaintop is a hidden treasure.
+- 25. After an argument at the inn a couple of nights ago, one of the people involved has disappeared.
+- 26. A new merchant is thinking about moving to the city.
+- 27. Local merchants have created an exploration company. They are hiring adventurers to lead expeditions.
+- 28. A lot of digging is going on around the bowyer's shop.
+- 29. The innkeeper is hiring a bard.
+- 30. A robber baron is expanding their territory, and people are afraid to travel too far from town.
+- 31. The town is choosing new leadership soon.
+- 32. Four teens left town a week ago after buying rope and rations. Now, their parents are offering a reward to anyone who finds them.
+- 33. The inn was built on an old graveyard.
+- 34. The general store is selling adulterated wheat flour
+- 35. A dead body was found in an alley this morning. A map was in his pack.
+- 36. A miracle worker is said to be traveling from town to town gathering followers.
+- 37. The inn is losing money badly.
+- 38. A wizard is offering gold pieces for books.
+- 39. There will be wildfires this year.
+- 40. A paladin is recruiting adventurers to explore caves recently discovered near the town.
+- 41. Wreckage of a boat was found floating downriver. Supposedly there was a logbook.
+- 42. There's been a lot of nighttime activity at the armor shop.
+- 43. The town's 'village idiot' as they call him, is said to have recently become possessed by a demon.
+- 44. All the dogs in the village keep disappearing at sundown. They return the next morning.
+- 45. The bookshop owner has a list of rare books she is trying to find.
+- 46. Some say the mayor's daughter ran away.
+- 47. The circus is coming to town. It is said that this particular circus is quite 'unusual.'
+- 48. One of the town guards said the captain of the guard is stealing funds from the guard.
+- 49. A sword-swallowing troupe is looking for fresh talent.
+- 50. There will be a war between the kingdoms this year.
+- 51. A fired server threatened to destroy the inn.
+- 52. The crown prince is touring the land.
+- 53. A warrior is threatening to burn the entire town down.
+- 54. Lots of royal messengers have been passing through lately.
+- 55. Several disappearances were reported after a ship left port the other night.
+- 56. The mayor was given a key that is said to open ancient gates near the town square.
+- 57. It is said there is a secret tunnel under a statue near the town square.
+- 58. A lost child was found with a spell book and a wand. The authorities don't know what to do.
+- 59. There's a wizard in town who is offering 'free samples' of magic spells.
+- 60. The mayor is ill, and the doctors are baffled.
+- 61. Several nobles have gone missing.
+- 62. A lumber camp is hiring hands to cut timber on the mountain slopes.
+- 63. The inn is up for sale.
+- 64. A merchant is offering rewards for artifacts from the ruins near the swamp.
+- 65. The Macabre &amp; Oddities shop has a unique mummy on display.
+- 66. The inn's best chamber is haunted.
+- 67. The brewery is going to introduce a new lager.
+- 68. Several strangers are trying to find out the strength of the town guard.
+- 69. The strange rock formations outside of town are collapsing.
+- 70. The festival is out of control and the mayor is powerless to restore order.
+- 71. A strange little beggar girl is said to have the gift of prophecy.
+- 72. The shopkeeper at the general store said the old hermit didn't come into town for supplies this week.
+- 73. A farmer outside town is said to have a goose that lays bejeweled eggs.
+- 74. A merchant ship didn't arrive last month and is thought lost. The owner is hiring people to search for it.
+- 75. The divination shop owner has been very agitated lately.  He keeps muttering something about the 'end of the world as we know it.'
+- 76. An angry old wizard said he would 'teach the town a lesson' and then disappeared.
+- 77. Several criminals were driven out of town the other day.
+- 78. One of the servers at the inn is looking to hire a bodyguard.
+- 79. Several of the servers at the inn are going to quit soon.
+- 80. The king's wizard ran away with the princess.
+- 81. Several groups are plotting to overthrow the town leadership.
+- 82. The king had a falling out with some nobles.
+- 83. A disease is spreading from town to town.
+- 84. The big festival may have to be delayed this year. But no one knows why.
+- 85. A young boy claimed to witness a fox wedding in the forest.
+- 86. The abandoned castle on the top of the hill is said to have a trapdoor that will lead you to the land of the dead.
+- 87. It's wetter than normal, isn't it? Seems like a lot of rain already this year.  The river seems high too.
+- 88. An ogre was spotted coming down from the mountains.
+- 89. An elf is coming to the inn every night for a week asking if any travelers have arrived.
+- 90. Rangers are gathering at an inn. What could it mean?
+- 91. A strange smell is coming from a weapon shop.
+- 92. A half-orc is hiring hands for a journey into the mountains.
+- 93. A blight is spreading among farms and villages.
+- 94. A dangerous animal escaped from the carnival a week ago and is still at large.
+- 95. A criminal is being executed tomorrow.
+- 96. All the children of the local village are complaining that there is a monster in their closet.
+- 97. A rock fell from the sky and crashed through the roof of a house.
+- 98. One of the ladies in town is said to have given birth to a baby with tiny wings on her back.
+- 99. An ancient scroll was found under a stone in the town square.
+- 100. Outlying farms are being raided by orcs.
+
+## Rumors and Odd Jobs #2
+- 1. A group of goblins is moving this way.
+- 2. A nearby town discovered buried treasure.
+- 3. The nobles are angry with the queen.
+- 4. A band of wild highwaymen has taken over the inn and kicked out the owner. She is pleading for help getting her inn back from them.
+- 5. Ruins were discovered in the hills a two-day walk from the city.
+- 6. The villagers say that the next village over has been cursed with bad luck, and no one will buy or trade with that village anymore.
+- 7. A group of adventurers was supposed to return to town a month ago but they never returned.
+- 8. A man at the tavern says that the secretive widow at the edge of town is raising chickens that lay golden eggs.
+- 9. The entire town has been taken over by monkeys. They are running amok and wreaking havoc. The town has raised a large sum of money as a reward for the one who can get rid of the monkeys.
+- 10. A blacksmith is hiring workers to open up an old mine.
+- 11. The miller's son and the innkeeper's daughter are in love.
+- 12. Whispers say a rival merchant paid an arsonist to burn down several rivals' shops.
+- 13. Travelers claim they saw a large group of gnomes examining trees in the forest.
+- 14. A hunting band of orcs was seen in the forest.
+- 15. Dragon scales are washing ashore along the river banks.
+- 16. Someone has been stealing the old widow's pies off   of her windowsill.
+- 17. People say the spirit of an elf princess is appearing in the town square on certain nights.
+- 18. The toymaker was overheard screaming at a customer.
+- 19. Two horses were stolen out of the stable a couple of nights ago. The stable boy was knocked out.
+- 20. A wizard is building a library in the woods outside of the city.
+- 21. A man has been coming to the inn the last few nights trying to hire guards for a caravan.
+- 22. A traveling troupe is kidnapping children as they move from town to town.
+- 23. A nearby watering tough was found filled with blood this morning. The town guard is asking questions around town.
+- 24. A wand shop owner is paying well for rare wood.
+- 25. A drifter is suspected to have set the fire at the blacksmith shop. He's wanted for questioning.
+- 26. A giant red boar is attacking travelers.
+- 27. A riderless horse ran through the street this morning.
+- 28. The owner of the old mansion on the hill hasn't been seen in more than five years.
+- 29. Some say a drought is coming.
+- 30. One of the town's wealthy merchants is hiring adventurers and mercenaries. Whispers say they just acquired a rare map.
+- 31. A wizard has been searching the city for specific items but won't tell anyone what he is doing.
+- 32. Something exploded in the sky off   to the south several nights ago.
+- 33. A man carrying a coffin on his back has been seen the last several nights wandering through the streets.
+- 34. A farmer found thousands of dead birds a few days ago.
+- 35. There's a bandit hideout near the town.
+- 36. Fishermen reported seeing a glowing shape zigzagging under the water.
+- 37. A minor noble is trying to build a dam up the river.
+- 38. Traps are set along the forest road.
+- 39. Jewels are being stolen out of nobles' homes. It always seems to be a second-story job.
+- 40. An injured sailor washed ashore clinging to wreckage.
+- 41. A troupe is looking for new actors.
+- 42. Mothers tell their children of the ghost who comes and steals naughty children and whisks them away to the forest. It was supposed to just be a story. However lately, wayward children have gone missing in the night, and some townsfolk have said that they have seen a ghostly figure walking the streets in the dead of night.
+- 43. Two dukes are going to war.
+- 44. The thieves guild is going to attack the merchant guild's headquarters soon.
+- 45. A captain is hiring adventurers to come along on a sea voyage.
+- 46. A group of bards wants to hold a music festival.
+- 47. A legendary library was supposedly located near the town thousands of years ago.
+- 48. A baker ran out of their shop screaming this morning.
+- 49. There are a lot of cats in town recently, aren't there?
+- 50. Vandals have been defacing historical sites around town for several weeks.
+- 51. A baby was born speaking fluently.
+- 52. The old dam is leaking. No one in town seems interested in fixing it.
+- 53. The patrons at the inn are talking about a strangely-dressed merchant, who comes into local towns carrying a tall pole with several small wooden puppets tied to it. He says that, for an exorbitant price, he will place a magic spell on a puppet, and it will do whatever you wish it to do for three days. Then the magic will wear off, and it will just be a child's plaything once again. Nobody believes him.
+- 54. A con man is gathering followers in the poor section of town.
+- 55. The princess of the realm is having terrible dreams about impending doom lately.
+- 56. A diplomatic envoy is being held hostage in a fortress.
+- 57. Someone was murdered next door last night.
+- 58. A gnome is buying a lot of books around the city. People are starting to wonder what the gnome is up to.
+- 59. An art collector has reported a number of paintings have been stolen.
+- 60. Slavers are raiding nearby villages.
+- 61. A wizard is building a tower too close to town.
+- 62. The local children claim that a talking bear waylaid them in the woods and demanded all the toys they were playing with. He said that if they didn't give him the toys, he would eat them. They are all crying because the cruel bear took away all their toys.
+- 63. A Farmer claims he found a giant skeleton in his field.
+- 64. The village is competing with a neighboring village on having the biggest and best holiday celebration. They are even willing to pay large sums of money to ambitious artisans who can bring their festivities to the next level.
+- 65. The king's daughter wants to overthrow her father.
+- 66. A monster lives in the lake.
+- 67. The village weaver claims that someone sneaks into his house and completes his unfinished cloth while he is asleep.
+- 68. Ever since the king appointed the mysterious new advisor, he had been acting strangely. Some believe that the advisor is actually an evil wizard who is controlling the king.
+- 69. There are strange comings and goings at the old manor house. Many of the locals believe that the lord of the manor has joined some sort of cult and is allowing the members to meet in his mansion.
+- 70. The people of the realm say that the queen was a star that fell from the sky. When the young king saw her, he fell in love with her and married her.
+- 71. Lights have been seen at the old mine the last few weeks.
+- 72. A basket was found floating down the river. Supposedly there was a baby inside.
+- 73. The smith's beautiful wife is said to be a swan maiden, who was forced to marry the weaver after he stole her feather cloak. Some think he buried her cloak in the ground under his anvil in his shop.
+- 74. There will be a royal wedding soon.
+- 75. A magic pet shop is opening soon.
+- 76. Travelers claim that the trees in the forest are attacking them.
+- 77. A legendary bird was spotted on the mountain overlooking the village.
+- 78. An insurrection has erupted in the capital. People are being called to take up arms and overthrow the king.
+- 79. Many of the old folk say that there is a magical fountain deep in the woods bordering the village.
+- 80. An old lady has been placing curses on people. She should be driven out of town.
+- 81. All the locals claim that a monster lives in the depths of the lake beside their village.
+- 82. A woman claiming to be a messenger of the gods came into the village and started recruiting people to a quest, she says, was given to her by the gods. She seems to have an uncanny charisma and has gained great influence over many people. The local authorities want someone to investigate.
+- 83. A festival featuring a series of feats of strength is beginning tomorrow.
+- 84. City officials are holding a competition to see who can design a bridge that can cross over the tumultuous river bordering the city. The winner will receive a generous prize.
+- 85. A group of townsfolk are going to move into the hills and found their own town.
+- 86. There is a shipwreck off   the coast. The cargo is quite precious and needs to be retrieved before the ship sinks completely.
+- 87. A great dragon has taken over a mighty fortress and is demanding tribute from the towns and villages surrounding the fortress. If they do not pay up, she will burn their homes and crops to the ground.
+- 88. The dispute between the fighters guild and the rangers guild is close to turning violent.
+- 89. The king is ill.
+- 90. On the night of a full moon, if you hear an owl and toss a silver coin into the town's well, your wish will be granted.
+- 91. A large flock of ravens has been hanging around a temple recently.
+- 92. The old half-elf who lives in the cave on the hill is hiring workers.
+- 93. A countess will arrive in town in the next few days.
+- 94. Some say a special merchant caravan will arrive soon.
+- 95. A dragon was seen flying to the north several days ago.
+- 96. The roads around town are in horrible shape.
+- 97. A trapper saw troll tracks in the forest.
+- 98. A strange robe was found in the street this morning. The city guard took it and now there is talk it had blood on it.
+- 99. The locals say that everyone in the neighboring village has been infected with a bizarre dancing sickness.
+- 100. Some men were talking about robbing a jewelry shop.

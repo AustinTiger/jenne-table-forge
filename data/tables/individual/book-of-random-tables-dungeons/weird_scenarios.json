@@ -1,0 +1,109 @@
+{
+  "name": "Riddles Riddles",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-dungeons.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "0 ? O O O O ... 目 四 D",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "A mural on the dungeon wall depicts a battle. One character thinks they see the figures in the mural move. Just then the entire party is pulled into the mural. The game master can give the players a pre-generated character (possibly from a different RPG) and the players have their new characters fight in the battle. Once all the new characters die, the old ones reappear in the dungeon room.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "A group of Kobolds asks the party for help. They need tall people to help them reach something that's high up. They lead the party to a natural cavern where a young woman is trapped high up on a ledge that the Kobolds are trying to capture. There are now so many Kobolds that fighting all of them may be hopeless, what do the characters do?",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "In one room the party stumbles upon a mad wizard mixing volatile chemicals. He has his henchmen attack the party. If any fire spells are cast, there is a 50% chance the room will explode. Roll a d6. 1-3 explosion, 4-6 no explosion. Also, sparks from any sword attack start a fire that will cause the room to explode in d4 rounds.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "As the party enters a room they are teleported to the court of some ancient king. The king's son is threatening to run away if he can't marry his sweetheart. The character can either help the son or help the king who disapproves of the marriage. Also, the characters have no equipment, and no magic works. If the players help the son they are returned to the dungeon room each with a magic item. If they help the king, they are returned to the dungeon room with gold and jewels. If they do not help either or they kill someone, they are returned to the dungeon with no reward. (GMs do not make this last longer than 10 minutes in real-time unless your players are having a great time.)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "As the party enters the old lab of some mad scientist they are shrunk down to about a fourth of an inch in height. They must traverse the room to find the magic item that can return them to normal size. The item is located on a table.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "The party finds a jewel floating in midair in one room. When one of the characters touches it, the entire party is transported to modern-day New York. They retain all of their equipment and abilities. A lost child asks them for help. If they help the child find their parents they are returned to the dungeon room with the large gem as a prize. If they don't help the child after a bit of time they are returned to the dungeon, but the jewel is gone. (GMs do not make this last longer than 10 minutes in real-time unless your players are having a great time.)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-dungeons",
+      "book": "Book Of Random Tables Dungeons",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Dungeons",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d8",
+  "sort_key": "riddles riddles",
+  "entry_count": 7,
+  "version": 2
+}

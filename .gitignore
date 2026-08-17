@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+scripts/python/tableforge.env
+*.log
+.DS_Store
+Thumbs.db

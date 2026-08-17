@@ -1,0 +1,73 @@
+{
+  "name": "Fletcher",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-fantasyshops.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Arrows (+1, 20)",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The Black Arrow (+3 to hit if told verbally what the target is)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Fetching waterproofing powder",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Arrows (+2, 4)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-fantasyshops",
+      "book": "Book Of Random Tables Fantasy Shops",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Fantasy Shops",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d4",
+  "sort_key": "fletcher",
+  "entry_count": 4,
+  "version": 2
+}

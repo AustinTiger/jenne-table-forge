@@ -1,0 +1,1225 @@
+{
+  "name": "Disasters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests2.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The land is suffering from a severe drought. A local wizard has created a substance that will make it rain. However, he needs a way to seed the clouds with it.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Help sandbag a town against a flooding river.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "A landslide seems imminent, and a small village is threatened. Help the people relocate or prevent the landslide.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "A volcano is threatening to destroy ancient ruins. Explore them before the mountain erupts.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "The heavy rains this year seem unusual. People have reported seeing faces and figures in the clouds. If the rains continue, all the crops will fail. The mayor wants to hire adventurers to look into the strange occurrences.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Due to extreme drought, ruins were revealed in a nearby lake. There is a tunnel that leads deep into the earth.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "An earthquake has devastated a town. Help the people rebuild.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "A  new  plague  seems  to  be  centered  around  a  certain  well  in  the  elven  quarter  of  the  city. Investigate the well and determine the cause of the plague.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "A  plague  ship  arrived  in  the  harbor  last  night.  See  if  the  passengers  can  be  helped  without spreading the disease.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Crop blight is causing a famine. Seek a cure in other kingdoms before the people are ruined.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "A plague of locusts is about to descend. Find a way to stop it or mitigate its damage. Some ideas: smoke, noise, spraying mud on the crops, locust-eating animals such as ducks or chickens, or some magical means.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "A mudslide covered the main road leading into a town. Help clear and repair the road.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "The mosquitoes are so thick in the village that it is difficult to walk the streets. The town leadership would like someone to look into the cause of the swarms and how to get rid of them.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Lead a group of refugees to safety during an extremely cold winter.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "A mad and vengeful wizard has flooded a city in molasses. Find a way to clean up the sticky mess and deal with the wizard.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The town leadership isn't too interested in finding  a  cure,  but  they  are  trying  to  contain  the spread. A group of plague victims has been forced outside the city and they could use some help to get food, shelter, and any kind of treatment.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "A recent wildfire disturbed an ancient burial ground. Now, the dead are restless. They walk the earth tormenting and attacking travelers. Something must be done, so they will rest again.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "A recent tornado damaged the monastery and revealed previously unknown tunnels. The monks are asking for help exploring them.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "A  wizard  claims  to  know  how  to  cast  a  spell  that  will  help  people  stay  cool  during  a  severe heatwave. However, he is missing an ingredient necessary for the spell. If only there was someone willing to fetch it.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "A lava flow cut the only road to a town. Explore the nearby countryside to find another way to get supplies to the town.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "A town is starting to sink into the earth. Help the citizens find out why and how to stop it.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "A massive lahar threatens to inundate a large town located in a river valley. Find a way to divert it or get the people out quickly.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "A recent earthquake caused an ancient statue to fall. A tunnel was revealed at its base. The town sent several explorers inside a week ago, but they haven't returned.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Wizards  and  astrologers  have  observed  a  meteor  coming toward a major city. Help stop the meteor or get the people out before it hits.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "An outlaw escaped jail and started a wildfire to cover his tracks. Help contain the fire and track down the outlaw, so he can be brought to justice.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "A flood is coming, yet hardly anyone in town believes it. Convince the town to take precautions before it's too late.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "A hurricane threatens to destroy a large city. Someone needs to place a magic gemstone in the eye of the hurricane. The person who does so can then direct the storm away from the city.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "A wizard claims he can rid the coast of an algae bloom. He just needs 24 devices placed in about two feet of water up and down the coast within the bloom. Once that is done he can cast a spell.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Temperatures have been below freezing for several weeks. Now, a child is missing from the town. Help find her before it's too late.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "A tsunami is coming. Help get townspeople to safety up the side of a mountain.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "A heavy ice storm passed through the area, and the weight of ice on a local building caused it to collapse. Many are trapped inside. Some will probably be needing medical attention. However, the roads are clogged with downed trees and all means of transport are locked up in ice.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Lead a band of refugees through a flooded land.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "While traveling during an extremely cold winter, the party finds a family stranded along the road. They are suffering from frostbite and other cold-related issues.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "A mudslide has trapped a wagon train of settlers. Help free them.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "A recent earthquake caused the castle walls to collapse. The king and queen are worried that an enemy will attack. Help rebuild the castle.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "A  recent  earthquake  opened  a  fissure  into  the  earth.  Locals  are  now  reporting  that  strange sounds are coming from it.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Giant snails are devouring crops in the valley. The queen has asked for adventurers to hunt them before all the crops are gone.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "A bizarre sleep-walking sickness has affected a large town on a high bluffabove the sea. Many of those infected are walking straight for the bluff   and their deaths.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "A flash flood inundated the city. Help rescue stranded survivors.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Townsfolk sought shelter from a hurricane in caves, but the caves are flooding. Help rescue them.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "A hurricane is hitting the city. Help get people to safety.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Help a group of refugees flee a wildfire.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "A  mysterious  tornado  appeared  and  only  struck  one  section  of  a  large  city.  One  house  was destroyed and one person was killed. The city leadership considers the matter closed, but others in the city want the matter investigated. 43：",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Help move all the ships out of the harbor before a hurricane hits.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "A heatwave is punishing a small town. The mayor wants to hire adventurers to explore a cave system nearby to see if it is a safe place to take shelter.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "After a traveling troupe passed through the town, a plague began spreading. Someone needs to track down the performers to see if they are spreading the plague and if there is a cure.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "A recent wildfire revealed ancient ruins. The locals are looking for brave souls to explore them.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "A  limnic  eruption  has  occurred  on  a  lake  that  has  a  sizable  town  built  upon  it.  Rescue  the townspeople and get them to safety.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The queen's wizards and advisors assure her that this year's drought is not a natural occurrence. She is now hiring adventurers to explore the land for the cause.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "While the party is staying at an inn, an earthquake occurs. The building collapses and they are trapped by debris. They need to free themselves and help others.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Temperatures have dropped incredibly low this winter. Boats on the river have become stuck in ice. The trader's guild is paying well to any who can get them free.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "A volcano is threatening to erupt. Several towns and villages are in danger. Help warn them, and then move people to safety.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "A recent earthquake damaged an ancient temple. It needs to be repaired before it collapses.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Divert a river to provide water to crops during a drought.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "A severe tornado destroyed most of the crops in the area. Without food, people now need to relocate before winter. Help them find food and shelter for the winter.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "The land suffers  from  famine.  Legend  tells  of  an  ancient  hero  who  traveled  to  a  library  in  a faraway land and brought back knowledge that ended a famine. The people of the land are begging for new heroes to do the same.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "A tyrannical local government is confiscating crops and manufacturing a famine to exert more control over the people. Help lead a revolution.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "A dancing plague has struck the city and many are dying of exhaustion. A cure must be found soon.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "A tsunami struck a series of villages along the coast. The king asks for help searching for survivors.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "A mysterious thick fog has settled over the seaport and will not lift. People are afraid of leaving their homes and getting lost. Ships at sea are in danger of crashing into rocks, Merchants refuse to come near the city with their supplies. Find out what is causing the fog and force it to dissipate.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "The  magical  ward  that  kept  the  volcano  from  erupting  was  stolen.  The  item  needs  to  be recovered and returned before the volcano erupts.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "A plague is racing through the city. Several wizards and doctors are working on a cure. However, they need more information. They need someone to go to a fortress in the mountains to retrieve a book about diseases from ancient times.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "A wizard passed through town a few months ago and issued a curse. Now famine has struck. The town leadership is asking for someone to track down the wizard and lift the curse.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "A lake has inexplicably started draining. If the party investigates, they find out that a dwarven mine has struck the lake. Now the leak must be dammed and the trapped dwarves rescued.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "A rat horde has filled the great city. City officials are paying a bounty for every dead rat.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Discover the cause of several unseasonable wildfires in the area around an ancient ruin.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "A poisonous gas has floated down from the ruins on the mountaintop. Bring the people of the valley to safety and investigate the cause.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Help contain a wildfire before it reaches the outskirts of the city.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "A coal mine fire is threatening to get out of control. Rescue any still trapped and contain the fire.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "An unusual number of tornadoes have appeared this year. They all come from the same direction. The locals are suspicious and would like someone to investigate the storms.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "A  localized  area  is  experiencing  a  heatwave  in  the  middle  of  winter.  Residents  are  seeking someone to investigate possible causes.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Winter is so cold, the livestock in the villages are nearly freezing. Help the townspeople save their animals.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "The party has learned a hurricane is approaching a small town. Warn the people and convince them to seek shelter.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "A foul odor emanates from the river, which is a small village's only source of water. Now people are falling ill and dying. Find the source of the contamination upriver and stop it.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Acid rain is falling on the land. Find a way to protect the people and put a stop to the rain.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "A mudslide covered an ancient temple. Help dig it out and search for survivors.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "A small town is being ravaged by an unknown disease. A local wizard thinks she can create a cure, but she needs a list of ingredients quickly.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "A recent landslide has revealed a tunnel. A nearby town wants to hire adventurers to explore it.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "The  townspeople  fled  the  hurricane  and  are  safe.  However,  they  just  realized  one  family  is missing. Find the missing family and rescue them before it is too late.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "A recent tornado revealed ancient ruins. The ruins appear to have been a dungeon of some kind.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "The river is flooded and now all the fords are impassable. Look for a suitable location to build a bridge.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "A massive bridge has collapsed on both sides of the span. Now only the center remains, and many people are stranded on it. Rescue them before it also collapses.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "A volcano exploded covering several towns in ash. The mountain seems calm now. Go search for survivors.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "A volcano is erupting and a large city is in danger. A wizard who lives in the area has made a magical concoction that he says will stop the eruption if it is dropped inside the caldera. Who's brave enough to take it up the mountain?",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Protect a rural manor house and its crops from a horde of army ants.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "While the party is traveling, a hailstorm comes out of nowhere. Protect your party and any other unfortunate travelers.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Heavy rains are compromising the integrity of a dam. Help make emergency repairs before it breaks.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Messengers arrived from a faraway land with a story of great famine and pleaded for aid. The king and queen are organizing an expedition with food and supplies, but who will lead it?",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Heavy rains have caused many trees in the forest to be uprooted. A lumber company is paying well to anyone who will collect the timber and bring it to town.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "A lava flow has surrounded a small town. Help rescue the people.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Help build an aqueduct to relieve a town suffering from drought.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Keep locusts from devouring all the crops of poor farmers.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "An earthquake changed the course of a river. The mayor of a nearby town is offering a reward to any who are willing to explore the river to see if it is still safe for boats.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Heavy rains have undermined the castle walls. The king and queen are willing to pay well to any who can help reinforce the walls.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "A heatwave is exacerbating the waste problem of a large city. A sickening and even deadly odor is gripping the city. Help clean up the city for a reward.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "A tornado is headed for a small village. Help the townspeople get to shelter before it arrives.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "A stampede is threatening to destroy a refugee camp. Stop it before it reaches their tents.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "During a severe heatwave, there have been a string of disappearances in the poor section of the great city. The Captain of the Watch wishes to hire special investigators to look into the matter.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "An evil sorcerer has cast a perpetual blizzard upon the land. Travel through the blizzard without getting lost, find the sorcerer, and defeat him.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Temperatures have turned bitterly cold. A merchant caravan is overdue and the merchant is offering a reward to anyone who can find it and rescue the workers. SESPIRIIANERCHANT",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests2",
+      "book": "Book Of Random Tables Quests 2",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Quests 2",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "disasters",
+  "entry_count": 100,
+  "version": 2
+}

@@ -1,0 +1,1229 @@
+{
+  "name": "Towns Quests",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "A  note  found  on  a  dead  body  at  the  edge  of  town  speaks  of  a  conspiracy  to  kill  the  town council and to subjugate people. Armed with a few clues, the party must expose the plot and bring the conspirators to justice. Clues can be the handwriting on the note, symbols on the note, the identity of the dead body and etc.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "A band of orcs and goblins are burning and chopping down an ancient forest. The players can intervene to save the forest. If they do, they find out that the orcs and goblins are working for some crime boss who is trying to take control of several nearby towns.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "A blacksmith asks the party to fetch a load of iron ore from across town.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "The party comes to a village where all of the adults have been enslaved. The village is only populated with children. Can the party care for the children and free the adults from an evil cult?",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "An innkeeper asks the party to help finish digging his fruit seller.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "A gang is extorting money from local shopkeepers. The party is asked to help owners.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "The  party  is  employed  by  several  rich  merchants  to  construct  a  road  and  a  bridge  to  the nearest town.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "The tavern owner mentions that somebody keeps stealing her chickens. She doesn't believe it's an animal. She would like some help.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "An innkeeper asks the party to pick up a keg of beer at the brewery and bring it back.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The mayor asks the party to investigate a series of recent arsons.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "A  warlock  is  turning  villagers  into  wooden  marionettes.  He  is  forcing  these  marionettes  to then build a doomsday tower. Who will stop this mad menace?",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "A  strange  forest  sprang  up  overnight  and  surrounded  a  small  town.  Those  who  enter  this mysterious forest never come out. The players are now trapped, but if they look closely, clues emerge as to its origin.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "There's a poltergeist in the nearby town. The party must investigate.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "A spice dealer asks the party to make a special delivery. Before they get to the destination, they are attacked by thieves.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The great city is decaying from the inside out. Corruption and crime are sweeping through the ancient neighborhoods. Decent folk are living in fear or fleeing. The party can take it upon themselves  to  squelch  the  corruption  and  stem  the  crime  wave,  or  they  can  flee  to  the countryside with the rest of the cowards.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "A wicked witch cursed a man with extremely dangerous clumsiness. The party must keep him safe from himself while they figure out how to break the curse.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The party needs information from a certain NPC. However, the non-player character is being held in the city dungeon on a petty charge, and no visitors are allowed.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "An  army  of  centaurs  sweeps  across  the  vast  grasslands.  They  are  looting  and  burning  as they  go.  A  town  wishes  to  send  an  envoy,  but  no  one  is  brave  enough  to  go.  Will  the adventures take up this task?",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Pickpockets are working the marketplace. The party is asked to help catch them.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "A gang of deserters have taken control of a small village. The people are living in fear. Who will help them?",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "An arrogant noble has won the archery competition five years in a row. The town is ready to cast honors and glory on anyone who can beat him.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "While  staying  at  an  inn,  a  person  bursts  into  the  party's  rooms  and  mistakes  them  for somebody else. The person demands that they pay restitution and keeps screaming about it until the characters can calm him down. Once calm the person explains that travellers wrecked his small shop and stole his goods. Now, his livelihood is at risk. If the players are willing, they can track down these people. It's only been a few hours. They may be in another section of town.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "A baker asks the party to get a load of flour from the miller.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "A young child rushes into town and says he needs help. He tells how his family's farm was attacked.  The  party  investigates,  and  they  find  that  the  farm  was  ransacked  and  the  boy's family kidnapped. They track the attackers, and they come to an old ruin in the woods. There, a gang of half-orcs and other evil creatures are building up forces to attack the town.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "An innkeeper found a locked wooden box when a new cellar was being dug. She's offering a reward to anyone who can open it.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "The  street  urchins  of  the  great  city  have  become  more  bold  and  they  seem  to  be  more organized. There are whispers and rumors that something dreadful has come to reside in the catacombs beneath the city. It is a wicked thing using these poor children for some diabolical end. The party must investigate.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "There's a strange disease in the poor section of town. No one seems to take much interest since there's always problems in that section. However, the players are persuaded or hired to investigate because the disease may be magical in nature.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "The party must intercept a secret letter before it is delivered. Otherwise innocent blood will be shed.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Subterranean  monsters  are  plaguing  a  small  village.  The  party  becomes  trapped  in  the town with the villagers. They must kill the mother creature to stop the attacks.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "A widow is unjustly being evicted from her home. She asks the party for help.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "A baker asks the party to deliver bread to an inn.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "An innkeeper asks the party to cut firewood.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "A violent storm has wrecked a village. The party is asked to help them rebuild.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "An innkeeper asks the party to pick fruit from the orchard.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "A strange miasma has come down from the mountain, and the citizens are acting strangely. Everyone seems to have lost their sense of fear,  and  are  taking  unnecessary  risks  and  even seeking out dangerous thrills. Something must be done before the town destroys itself with its recklessness.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Several packs of feral dogs are roving the town at night. The mayor asks the party to take care of them.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "A beloved NPC's soul is trapped in a golem, the party must discover a way to restore them.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "An inn is holding a bare hand fighting tournament. The winner gets 75 gold pieces.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "An inn is holding a drinking contest. The winner gets 50 gold pieces.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The party is asked to put down a slave revolt by the town leadership. Should they accept or ally with the slaves?",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "A curio shop was burglarized. Several rare items were taken. The owner asks the party to help recover the items.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "The party sees an old man being beaten in the street. No one is helping the man. Should the party intervene? If they do, they easily drive off the attackers. However, they make enemies with a powerful crime boss in the city.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Crops  are  failing.  Animals  are  miscarrying.  The  town  asks  the  party  to  investigate.  They soon find there is some magical corruption in the land.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Local  teenagers  taking  martial  lessons  are  becoming  bullies.  Some  think  it  is  because  of their teacher, an angry ex-monk. A bullied teen asks the party for help learning how to fight back.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "A poor peasant farming family needs help against bandits trying to steal their land.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "As the town keeps growing and new foundations are dug, an entrance to a long forgotten catacomb is discovered. The players are hired to explore the catacombs.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "An innkeeper asks the party to collect gold from a patron who is refusing to pay.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "A blacksmith asks the party to deliver several swords to a particular residence.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The blacksmith's horse was stolen. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "An orphan slips one character a note. It says they need help and to meet later at a certain place. Is it the truth or a trap?",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "A giant has decided to take a nap in a local farmer's field. The farmer needs a strong, brave, and organized team to get the giant out without creating further damage to her crops.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "A  pristine  river  that  runs  near  a  city  has  become  polluted  and  unusable.  The  pollution  is coming from somewhere up stream. The town sponsors the party. They must travel upstream to find the source of the pollutant.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "A string of burglaries has the city's nobles on edge. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "The characters must take a secret message to a man on the other side of town or disaster will befall him. An assassin was hired to stop the message from being delivered.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Farms on the outskirts of town have been attacked and burned. Only a few clues have been found, but now everyone is worried. Is it bandits? Is it the work of goblins and orcs? Or is it something far far worse?",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "The  owner  of  a  potion  shop  is  paying  for  rare  herbs  and  ingredients.  Several  different varieties can be found in and around the countryside nearby the town.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "The town of Helmsfell is now abandoned. Everyone has disappeared without a trace. The characters must investigate, and there are only a handful of clues as to why an entire town went missing.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "A circus has come into town, and the beast master has gotten drunk and forgotten to lock the cages. Animals big and small, tame and wild, magical and common, are running amok!",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "A fuller asks the party to deliver a load of wool to a weaver.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "A  large  trading  town  at  the  convergence  of  two  rivers  has  always  been  a  diverse  place. Usually the denizens get along well, but a recent discovery of an ancient dwarf burial site has the town rife with conflict. The dwarves claim the area as theirs by ancient right and proceed with  further  explorations,  but  a  neighborhood  of  hafling  hill  houses  is  threatened  by  their endeavors. An elven holy sight also rests just above the area. The town may face a civil war if something isn't done.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "The local baker is actually the big boss of an underground crime syndicate involving several villages in the area. He's looking to hire someone to take his secret messages (baked in large loaves of bread) to his contacts.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "A  new  religion  has  sprung  up  in  town.  A  charismatic  leader  is  gaining  followers  and spreading  a  message  of  prosperity  and  wealth.  There  are  whispers  of  strange  rituals  and unwholesome acts. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "A weaver asks the party to deliver fabric to a tailor.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "The old inn on the hill burned down last night. The old innkeeper and his family died in the blaze. There are whispers that it wasn't an accident. The players must investigate. They find clues that will lead to a conspiracy of competitors and landowners wanting the land. The party can make sure that the land goes to the rightful heirs and put the murderers at the mercy of justice. However, there will be blood.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "A wildfire comes dangerously close to a town. The party must help put it out. After it is out the origin of the fire seems to be magical. Clues lead to an old wizard who lives in the town.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "A thunderstorm damaged the roof of the inn. The innkeeper is short on help and funds, so he asks the party for assistance.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "The players must gain entry to a secretive and reclusive town. The town wall is very strong and  the  players  must  not  make  people  angry  because  they  need  something  valuable  from them.  There  are  two  ways  to  get  in.  The  first  way  is  to  sneak  in  through  the  sewers  and underneath the wall and conduct a clandestine operation. The other way to gain entry is for the characters' to trade several rare books to the town elders.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "The  party  comes  across  a  group  of  riderless  horses.  They  have  saddles  and  bridles  and seem intelligent. They beckon the party with their eyes. If the party chooses to mount them, they will carry them to a vast, walled city. The horses grow skittish as they approach the gate, and they refuse to enter. If the party chooses to enter, they find shadows flitting across the walls and corners of the great stone city. Voices, inarticulate, call out to them. There is a sense of  desperation in the tone and a warning of danger. There is a curse upon the city that has turned the people into shadows and trapped them there. Can the party break the curse before they are turned into shadows themselves?",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "An ogre is holding an entire village hostage. The party must rescue the townspeople.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Several rare artifacts were stolen from the city's museum. A reward is offered for the return of the items and the capture of the thief or thieves.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "A miller asks the party to fetch a load of grain from the farmer's market.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "The ancient statue in the center of town was stolen. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "A brewer needs new yeast. He paid a local wizard, but he has yet to deliver. The brewer asks the party for help.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "A tailor asks the party to deliver a new cloak to a noblewoman.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "The  party  is  guarding  a  caravan  carrying  a  substantial  amount  of  silver  through  a  large seaport city. The knowledge of the caravan has been leaked, and thieves try to steal the silver all the way to the destination.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Why would somebody rob a bakery? Hardly anything was stolen. A couple copper coins, some day-old bread, and a small chalice made of silver that the baker said is barely worth the silver.  The  Silver  Chalice  is  actually  an  important  part  of  a  ritual  that  evil  clerics  want  to perform. It will raise the spirit of a long-dead ruler. The players can find clues in the bakery. They can also find information on the chalice which will lead them to a temple that is actually a front for a demon god. On the outside it operates like a temple to some unknown deity. At the climax the players confront the evil clerics during the ritual.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "The party is returning to their hometown after a long absence. Things have changed and not for the better. How will the party respond to seeing their family and friends oppressed?",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "A little girl can't find her doll. She asks the party for help finding it. It turns out that the doll was stolen by a mad wizard who needs it to complete some type of ritual.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "An innkeeper mentions he is looking for a buyer or investors.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Someone has placed a spell on all the toys. They are roving about the town of their own volition,  vandalizing and destroying property. Confusion, fear, and children's tears are left in their wake.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "A  large,  tattooed  man  comes  out  at  noon  everyday  and  challenges  anyone  around  to  a fight. He calls himself 'The Weapons Master,' and boasts that he can use any weapon better than anyone else.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "A  baby  was  found  in  the  river  floating  in  a  basket.  The  small  fishing  village  is  now  in  an uproar. The players are entrusted to take the baby to the great city to find its identity and to learn its destiny.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "There's  a  troll  that  has  taken  up  residence  under  the  bridge  leading  to  the  village.  He demands a joke from anyone who wants to pass. The locals are getting fed up with him and want him chased out.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "A serving wench at the inn is in trouble. There are gangsters threatening her family. She needs help. The party witnesses an altercation.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The town is in an uproar. It seems that a group of teenagers set off on an attempt to find a river  ship  that  supposedly  sunk  nearby.  The  parents  and  people  are  worried  because  they haven't heard from them for two days. If the party investigates. They find a sunken boat with a cave  nearby.  The  teens  have  been  captured  by  trolls.  If  the  teens  are  rescued,  the  party  is rewarded.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "A secret admirer wants to hire someone to send messages and gifts to his beloved.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "The  village  is  famous  for  its  'Hunting  of  the  Beasts.'  Proud  of  their  tradition  of  sending wild animals into the narrow streets, they invite anyone to come join the hunt. Prizes and fame will be given for the strongest and most creative teams.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "The mayor asks the party to search some abandoned buildings at the edge of town. They have fallen into disrepair and people have reported seeing strange things around them.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "An innkeeper asks the party to deliver a package to someone across town.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "The annual jousting competition is about to begin. A beautiful young noble is looking for a champion.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "The party is asked to investigate a dead body that was found last night. The body was found hanging over the side of a bridge in an apparent suicide. Several clues, however, lead the party to believe it was murder. The bridge and rope are very dirty, yet the victim's hands are  clean.  Upon  closer  examination,  a  lump  is  found  on  the  back  of  the  victim's  head.  He could have been unconscious before he was hung. The victim has papers and a scroll in his pockets. He was employed at a library and is survived by a widow and a daughter. His family insists  he  would  never  commit  suicide.  If  spoken  to  alone,  his  daughter  reveals  possible trouble at the library.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "A group of bandits have set up a roadblock on the East Road. They're demanding 'tolls' from  everyone  who  passes.  The  town  is  offering  a  substantial  reward,  if  the  road  is reopened.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "An innkeeper asks the party to clean out the attic.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "The  festival  is  about  to  start.  The  town  is  welcoming  storytellers,  artists,  bards,  poets, and more. Many prizes and honors are offered to competitors. It should be a fun time.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Several townspeople are kidnapped by goblins. The party is enlisted to rescue them. The creatures left an obvious trail.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "The local storyteller wants to hire a group during the days of the regional fair. He will pay a fair price for a troupe to pantomime his stories.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "The owner of a local curio shop has acquired a strange figurine with strange writing on it. If  the  party  helps  translate  the  writing,  they  discover  a  map  to  something  buried  by  the town's founders.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The librarian asks the party to deliver a book to a certain noble. The party notices they are being followed.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "A blacksmith asks the party to bring him a load of coal from the other side of town.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "The  dilapidated  town  cemetery  has  seemed  'unsettled'  the  past  few  days.  Strange goings-on in the vicinity have the townspeople on edge. Some of the older locals speculate that  the  spirits  are  unhappy  about  their  final  resting  places  being  forgotten  by  their descendants.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests",
+      "book": "Book Of Random Tables Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Quests",
+  "category": "quest",
+  "tags": [
+    "quest"
+  ],
+  "roll_type": "d100",
+  "sort_key": "towns quests",
+  "entry_count": 100,
+  "version": 2
+}

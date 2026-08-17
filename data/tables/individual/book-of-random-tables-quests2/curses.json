@@ -1,0 +1,1225 @@
+{
+  "name": "Curses",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests2.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The queen has been cursed. Now, if she touches someone they will die. The court wizard claims to have heard of this kind of curse and asks the party to find a cure.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "An evil witch cursed the only daughter of the queen with madness. The queen will give nearly anything to have the curse broken and her daughter healed.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "A cursed ring is turning a man into a tree. His family asks the party to help break the curse.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "An entire town has been put to sleep by an evil wizard's curse. To restore the town, the party must track the wizard to his secret hideout and read certain words from his spellbook.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "A sea captain has been cursed, and now she can never leave her vessel. Help her sail to a faraway land. There, in a sacred lagoon, she will need to catch a silver-scaled fish and eat it raw. Then the curse will be broken.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The party members are all turned into children. The curse can only be broken if they drink from a sacred pool deep in the forest.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "The party is shrunk to about one inch tall and placed in a cage by an evil sorceress. They must discover  a  way  to  free  themselves,  rappel  down  the  table  leg,  and  traverse  the  sorceress' laboratory to get to the antidote on the other side. All the while, they must dodge the resident cat and raven in addition to surmounting common items that are now obstacles.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "A town official needs help getting out of a cursed coat. She says it was a gift from an old friend.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "An evil wizard put a curse on the graveyard. Now the dead are waking. Find the wizard and break the curse.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The party is cursed to appear to be old to everyone around them. They can lift the curse by helping some people who are actually old.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The mayor of a town hires the party to find out who cursed their granaries. The granaries keep on spitting out the grain and saying, 'Ptooey!'",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "A king hires the party to discover why his land has been cursed. He fears it was something he did when he was young. However, more dark secrets are at work in the land.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "The party is cursed with clumsiness. They bungle small things, drop items, or bump into walls. Standing on their heads while reciting a poem at the mouth of a river breaks the curse.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "A wicked witch cursed an entire town with blindness. Now, she seeks to drive them all out of their homes. Help them find a way to break the curse and kill the witch.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "A professor hires the party to look into the disappearance of one of her students. The rumors around the university say the student was cursed.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "An  angry  fisherman  cursed  the  lake  nearby  the  town.  Now,  all  the  fish  are  dying.  Find  the fisherman, determine how he cursed the lake, and find a way to break it.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "After opening a tomb, the party is cursed. They become ill and will meet a terrible fate. They need to translate ancient runes and quickly discover how to break the curse.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "A  witch  cursed  the  king's  horsemen  and  now  they  cannot  dismount.  The  king  is  offering  a substantial sum for breaking the curse and killing the witch.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "A hideously pale man approaches the party. He tells them that all hope is lost for him, but they must go to a small village where several people have been turned into vampires. He gives a coin purse full of gold...and delicate purple leaves. He then collapses into a coma.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The party is plagued by horrific nightmares until they can return a lost sword to the tomb of its former owner.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Someone has cursed the night sky. The stars no longer appear, and navigation by night has become impossible.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "A goat begins following the party. There is something magical about it. The goat is actually a cursed prince hoping to find help.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The party is afflicted with a wasting disease. They will die in two weeks unless they help gather ingredients so a wizard can make a cure.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "A noble hires the party to rid his house of a cursed gemstone. The gemstone causes discord, so the party should be wary.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "A trickster gnome cursed the town's well. Anyone who drinks the water becomes drunk. Track down the gnome and learn how to break the curse.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "The fletcher hires the party to get rid of a batch of cursed feathers. Catching them all will be the hardest part.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "A statue in the town center has recently been cursed. Every night, it comes to life and terrorizes, injures, and sometimes kills the locals. The mayor hires the party to deal with the cursed statue.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "The party is cursed by a wizard to get drunk anytime they try to drink anything. In order to break the curse, the party must fetch a legendary bottle of wine from a faraway country. Only then will the wizard remove the curse.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "The party receives a cursed magic bow. It refuses arrows to be nocked. If the curse could be broken the bow would be an incredible weapon.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The land has been cursed, and no rain has fallen in three years. The party is asked to help break the curse. It is learned that the curse can be broken by salting the clouds.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "A nobleman believes his beehives have been cursed. They are attacking the local townsfolk. He wishes to hire the party to investigate.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "A wizard cursed a city with a plague of rats. The wizard is demanding 50,000 gold pieces to lift the curse. The town leadership asks the party to help break the curse or they will be forced to pay.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "The party members are all aged 40 years. The curse can only be broken if they solve the murder of the innkeeper.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "A woman hires the party to help her break the curse of lycanthropy. She is afraid that someday she will hurt somebody.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "The land is racked with terrible storms as a curse for the murder of a helpless wanderer. Find the murderer and break the curse before it is too late.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Somehow, a wizard seems to have gotten a curse on his beard. It seems his beard is now trying to get him killed. It gets tangled in machinery or caught in harnesses. The wizard tried cutting it, but it grew back immediately. He wishes to seek out a holy beard oil that can lift the curse, but he wants to hire someone to go with him, just in case he needs to be rescued from his unruly whiskers.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "A noble hires the party to get rid of a cursed set of armor. However, at the first opportunity, it tries to assemble itself onto one of the party members.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "A warrior who long ago was cursed with immortality by a dragon hires the party to help break the curse. He has lived too long without purpose and wishes to die.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "A cursed doll has been terrorizing a small town. Help them get rid of the doll.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "A  young  woman approaches the party and asks for their  help.  She  has  been  turned  into  a vampire and wishes to be free of the curse. If she can't be free, she wishes the party to kill her.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "The party members switch bodies. The curse can only be broken if they are all struck by lightning at the same time.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Stories tell of a young girl cursed to become a statue. The party enters a village with a statue of a young girl at the center. One of the party members thinks they see the statue weeping.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "A forest has been cursed. It is now dark and filled with evil creatures. To lift the curse, the party must overthrow a wicked king and his necromancer servant who are rebuilding ruins near the forest.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "A wizard asks the party to take a cursed ring and throw it into the sea. He commands them strictly not to ever put it on.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "A noble house has labored under a curse of lycanthropy for generations. Now, the heir is seeking help to break the curse.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "A hag cursed a small town, and all of the children fell into trances. The town is begging anyone to help break the curse.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "A wicked witch cursed a young child. Whenever she falls asleep, she sleepwalks into dangerous situations. Find the witch and discover how to break the curse. 48：",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "The party is infected with lycanthropy. They must break the curse before the next full moon.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "A sacred chalice has been cursed and now spills its contents every time it is used in the ritual. Take it to a spring of holy water to break the curse.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "A group of refugees is shunned throughout the land as plague carriers. However, they do not have a disease, they have been cursed. Help them break the curse.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "An old beggar, who was driven out of town, placed a curse on the townspeople. Now, the townspeople are dying in horrible accidents one by one. The townsfolk ask the party to find the beggar. They will do anything he wants as long as he lifts the curse.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "A witch has cursed the party so that every time they get wet, they turn into ducks. Find the witch and defeat her to remove the curse.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "While traveling, the party comes across a lonely manor house. The lord is a hideous beast who says he was placed under a curse.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "A man runs up and hands a small statue to a party member and runs off. That character is now cursed with a pilfering hand. The curse can only be broken if the party returns the statue to its rightful owner.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "A prince has a cursed wound that festers and will not heal. He wants someone to take him to a magical healing pool, high up in the mountains.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Inadvertently, while a wizard was translating a new book, he read a curse out loud. The curse supposedly will bring destruction to the land. He asks the party to travel to the ruins where the book was found to see how to break the curse.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "A cursed fireplace poker is chasing the mayor around his office. Help the mayor deal with the problem and receive a reward.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "A town was cursed and literally frozen under a layer of ice. The party is asked to free the town, which leads them into the frozen north to fight a snow queen and shatter her crystal staff. It is the source of her power.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "The party is cursed to dream about their worst fear every night. They must face their fear in order to break the curse.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "There are those who believe that in the sewers of the great city live an accursed people. The party is hired to explore the sewers and help these people.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "A local wizard is suffering under a curse of forgetfulness. Help him locate the cure in his huge messy laboratory.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "A blacksmith hires the party to break the curse on a hammer. If they cannot break the curse, he asks them to get rid of it, but the hammer doesn't like the sound of that.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "The party finds a cursed magic sword. Before a blow is struck it falls out of the wielder's hand. If they could find a way to break the curse it would be a valuable weapon.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "The party is cursed with bad luck. Minor things just don't seem to go their way. Rubbing bone powder on the head of a statue in a distant town breaks the curse.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "A cursed magic staffbegins following the party. Occasionally it bops one of the characters on the head. If the curse can be broken it would be a powerful weapon.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "A demon places a curse on a river and now the water is deadly. The party must find the demon and banish it to another plane of existence to remove the curse.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "The party is cursed with a reeking odor until they can bathe in a specific but distant river.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "A man cursed to have any who love him die offers the party a huge fortune to help break the curse.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "The party is infected with vampirism. They must break the curse before they need to feed.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "A cursed chair is making life miserable for the innkeeper. It always seems to topple over when someone is sitting in it. She tried to throw it away, but it always reappears and finds its way under someone's unsuspecting rear end. She hires the party to get rid of it. Soon they find that nothing will destroy it. They will need to break the curse it seems.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "A library book has been returned with a curse on it. Whenever the book is opened, it reads itself out loud in an obnoxious voice. The librarian hires the party to take the book back to the wizard who wrote it to see if the curse can be broken.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "A hag, who fancies herself a professional vocalist, curses the party with singing everything they say. She refuses to lift the curse until they arrange a performance for her in a nearby town.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "A wicked curse has shattered a kingdom and has two brothers at war. Help break the curse and restore peace to the land.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "A hideous monster approaches the party. It tells them that it is a cursed noble and asks them for help breaking the curse.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "A young queen has been imprisoned in a cursed tower. A forest of thorny vines fights any who try to reach it. Free her and restore her to her throne.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "The miller hires the party to remove a cursed milestone. It is challenging to move, and it tries to crush the party members and the miller. The curse may have to be broken before the job can be done.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "A magic warhammer has been cursed so that no one may pick it up. If the curse can be broken it would be a powerful weapon.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "An invisibility curse is placed on the party. No one can see them.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "The party is cursed with garbled speech until they can climb to the top of a nearby mountain and speak with a spirit.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "A young homesteading family is struggling to make ends meet on a once bountiful farm. They suspect a corrupt landowner had their land cursed. They ask the party for help.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "A group of researchers from a university opened an ancient tomb. Now, all of them are suffering from a curse of nightmares. Help them break the curse and find the real secret that stills the unsettled spirit within the tomb.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "A noble put on a pair of cursed boots, and now he cannot sit down or stop walking. He is offering a fortune to be set free of the accursed things.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "A prince has been imprisoned and cursed to wear a mask. Help free him and break the curse.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "The party is jinxed to tell the truth no matter what kind of danger the truth would put them or others in. They can only remove the curse by traveling to the Temple of Truth and arguing their case before the high priest.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The party receives a cursed map. The route on the map is ever-changing. If the curse can be broken the map actually leads to treasure.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "A prince was turned into a frog by an evil wizard. Many ways to restore the prince are spoken of: from a kiss to a silver ball to magic potions. However, the true way to restore the prince is by throwing him against a wall.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "A wizard cursed the land to have continuous rainfall. Flooding and erosion are destroying the common folks' livelihood. The curse can be broken by taking the wizard's staff   and burning it in the very center of the land.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Someone cursed the farmer's barn and now all his animals are trapped inside. Help the farmer break the curse.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "A priest hires the party to learn more about a cursed chalice that is now stuck to his hand.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "A wizard hires the party to give his rival a cursed quill that will change anything the writer pens into romantic couplets without being noticed by the writer. However, the quill really likes the party and doesn't want to leave them.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "After running away in a battle, a knight was cursed with the word 'coward' forever marked on his forehead. He must do something brave in order to break the curse.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "An old monster hunter hires the party to help him break a curse that a witch placed on him decades ago.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "A carpenter is having a hard time with cursed nails. He asks the party to help find out who placed the curse.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "A young sorceress put on a cursed necklace. Now she has the appearance of a corpse. She hires the party to help her break the curse.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "A good king has been cursed with extreme weakness and is now bedridden. Discover which enemy has done this and break the curse.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "The party is cursed to stick together. If they go too far from each other, they become incredibly sick.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "The party is cursed with laughing fits. The only way the curse can be broken is to sing a song underneath the full moon.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The party is cursed with uncontrollable fits of laughter anytime a bell rings.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "The party finds a woman who is cursed to only prophesy impending doom.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "An innkeeper claims a curse was placed on his inn. He says inanimate objects are trying to kill him and his guests. He asks the party to look into the matter before someone dies.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests2",
+      "book": "Book Of Random Tables Quests 2",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Quests 2",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "curses",
+  "entry_count": 100,
+  "version": 2
+}

@@ -1,0 +1,1241 @@
+{
+  "name": "Magic Items",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from greatbook-of-random-tables.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Great Sword of Dane- Whoever is attuned to this great sword can summon three war dogs during combat up to twice per day. The dogs can be dismissed at will",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Ring of Storms- This ring allows the wearer to cast a thunder spell four times a day",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Key of Secrets- When used on any keyhole there is a 5% chance it will unlock that object. There is also a 5% chance it will open a room or object located on a different plane of existence",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Cloak of Flying- This cloak allows the wearer 5 minutes of flight, once per day. Their flying speed is 60ft",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Rapier of the Vampire- This rapier drains the life force of its victims, and gifts it to its master. Whenever the wielder lands a successful attack with this weapon, it deals an extra 1D10 corruption damage, and heals the wielder equal to the damage dealt",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Dragon's Tail- This flail was made from the heart of a dragon. When found roll 1D6= 1)fire 2)frost 3)lightning 4)acid 5)poison 6)player's choice. This flail deals an extra 1D8 of the damage type rolled",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Harp of Sleep- This harp can be used to cast 1D6 sleep spells per day",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Mask of Elements- While this mask is equipped, the wearer may use an action to harness the elements. Roll 1D4. 1) Air 2) Earth 3) Fire 4) Water. The wearer assumes the shape of the Elemental rolled. When the wearer's health drop to or below 0, they revert back to their original form with one health",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Bow of Smiting- This longbow has a range of 650ft. It deals 1D8 damage, plus an additional 2D6 holy damage. If the wielder is attacking an undead creature, it deals 6D6 bonus holy damage instead",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Pair of Skeletal Feet- These feet can be placed anywhere on the same plane of existence, however far apart. They allow anyone to travel from one foot to the other in the blink of an eye. Be careful not to lose them",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Mask of Revik- Revik forged this mask with his mischievous essence. The wearer can shape shift up to three times a day into any creature they have seen. There is a 25% chance that once a day the wearer will shape shift into a random creature against their will for one hour",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Hammer of Doom- This unwieldy hammer is -10 to hit, but deals 4D12 corruption damage on a hit.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Throne of Xarexoth- This throne fits into the palm of your hand. When placed on the ground, its owner can say its command word. The throne grows up to their size. They can spend an hour sitting on the throne to regain the use of a spent spell. Usable only once per day",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Skewer of the Gods- This spear deals 1D12 damage. If the wielder downs an enemy with it, as a bonus they can restore 2D6 health to any ally",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Charred Collar- This dog collar must be worn. As an action, the wearer can summon a hellhound. This hound is loyal only to the wearer. The hound has its own turn in combat. The hound can be dismissed at will",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Dagger of Blinding- This dagger deals 1D4 damage and there a 25% chance the target is blinded for 2 turns",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Bow of Thunder - A normal looking longbow with an engraved lightning pattern. The bow performs normally except that on a critical hit it causes 3D8 thunder damage",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Amulet of Radiance- When activated, it emits a radiant aura in a radius of 15ft around the wearer. During odd rounds it deals 2D8 holy damage to all hostiles within 15ft. During even rounds it heals the wearer and their allies within the radius for 2D6 health. It lasts for the entirety of the skirmish, or until the wearer is incapacitated. Can only be used once per day",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "On a critical hit, it deals an extra 2D4 damage of the damage type to which the creature is vulnerable",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Amulet of Death- This amulet holds a small piece of the wearers soul. When the wearer is dropped to 0 health this amulet revives them 30ft from where they dropped, and brings them back to full health. After one use the amulet breaks and the wearer's health is reduced by 5",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Blade of Dehydration- After one successful attack the target has a 50% chance of being exhausted. On a second successful attack there is a 75% chance. On a third successful attack the target is exhausted",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Crown of Storms- This crown grants resistance to storm damage. As a bonus, it can deal 1D6 lightning damage to anyone within 5ft of the wearer. This crown also allows the wearer to combine the entirety of the 'Storm' items, assuming they have the other items",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "Helmet of Breathing- This helmet allows the wearer to breath underwater and keeps them from being poisoned by toxic clouds",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Helmet of Silence- This helmet renders the wearer mute, however they can now speak to anyone telepathically up to 120ft away",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Bipolar Axe- This battleaxe adds an extra 1D6 to its damage rolls. This damage alternates between fire and ice damage each attack",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Necromancer's Stone- This stone can raise up to 1D20 corpses from the grave once a week. The zombies serve the wielder until they die a second time. Upon their second death, they burst into a cloud of dust",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Armor of Notes- Doubles the wearer's musical proficiency and allows the wearer to cast a charm spell once per day",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Bow of Storms- This bow deals 1D10 lightning damage. It has a range of 60/300ft. Arrows of lightning appear when user draws the bow",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Soulbound Spellbook- This spellbook is blank, indestructible, and can't be read by anyone but the user. If this spellbook is lost, it can be summoned at will",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Rod of Detection- This rod allows the wielder to know the location of any unseen creature within 100ft. Can be used 4 times a day",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Rock of Ages- This rock can be thrown (60ft) or used as a melee weapon. The rock deals 1D8 damage. After being thrown the rock reappears in the user's hand",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Control rod- This rod grants the wielder the ability to summon a stone golem. This golem springs from the ground, and is under the wielder's control. The golem can be dismissed at will",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Bottle of Lightning- This bottle can be thrown 60ft. Once it hits the ground, it will shatter dealing 3D8 lightning damage. Once used, this item is gone forever",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Helm of the Bull - A helmet with bull horns. Gives the wearer bonus on all strength related skills and checks. Once during combat the wearer can perform a charge action dealing 3D10 damage.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Hiking Boots- These boots remove any penalties to movement caused by terrain and increase the wearer's base walking speed by 5ft",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Armor of Storms- This set of light armor grants +3. When the wearer is hit with a melee attack, the attacker takes 1D4 lightning damage",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Mask of Glaring- This mask gives proficiency in intimidation. If already proficient, it gives double proficiency. It also allows the wearer to cast a 1D4 charm spells per day",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Rabbit's Foot - A seemingly ordinary lucky rabbit's foot. Reroll all critical fails in the same encounter. Can be used in three encounters per day. The holder can also call all rabbits in a 500 foot radius to their aid. Lasts for the duration of the encounter.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Orb of Destruction- This silver orb is 6in wide in diameter. Once per day the user can cause the orb to send out a destructive cone 100ft long and 50ft wide that does 10D10 damage",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Crown of Embers- This crown allows the wearer to breathe fire three times per day. The line is 5ft wide and 20ft long and does 3D6 fire damage. While wearing this the wearer can use all of the items belong to the set of Embers",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Book of Summoning- This book allows the wielder to summon a single creature from a different dimension once every week",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Helm of Adontag- This helmet grants immunity to being charmed, or put to sleep",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Armor of Rage- Made from a mythical animal hide this armor grants an extra 1D4 to any barehanded or melee attack. The wearer's power is in their rage",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Mace of Embers- This mace deals 1D8 damage and 2D8 fire damage. If the damage dealt exceeds the remaining health of the target, whatever additional damage rolls over to the wielder's next attack. This damage is lost if the mace isn't used by the end of the following turn",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Mysterious Concoction- This small glass vial has a strange liquid inside. If ingested, roll 1D6. 1) One ability score increases by 1 point. 2) One ability score decreases by 1 point. 3) Grows wings with a flight speed of 60ft. 4) Goes blind in one eye. 5) Gain the ability to breathe underwater indefinitely. 6) Face is marred by a terrible scar",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Chakram Of Devotion- A thrown weapon with a maximum range of 100ft and it deals 1D6 damage. The chakram has two attacks. The first is the initial throw and the second attack is the chakram returning to the wielder. The wielder may choose a new target or same target. The chakram always comes back, without fail",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Gloves of Healing- These gloves allow the user to cast a heal spell at will",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Bag of Sleeping- Allows a creature to survive inside of it indefinitely in a very deep sleep. Only creatures of human size or smaller can fit inside. Once a creature is removed from the bag of sleeping, it requires 15 minutes before it can wake up",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Maggot King's Crown- This crown allows the wearer to summon 1D6 zombies. The zombies act on their own turn under the direction of the wearer, and last until defeated or dismissed. Can be used up to three times per day",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Ring of Clarity - Grants the wearer +2 to all skill rolls.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Wand of Wonders- This wand allows its wielder to use one low-level spell without cost any number of times. Player chooses the spell. Once the spell is chosen it cannot be changed",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Flask of Xengarth- This flask has unlimited uses. When a character drinks from it, they regain 1D6 health",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Cloak of Time- This cloak allows the user glimpse into the future. Any attack against them has is at disadvantage and any dexterity related reaction is at advantage",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Cloak of Shadow- The wearer gains proficiency in stealth. If the hood is up, the wearer can see clearly up to 15ft in both magical and non-magical darkness and also becomes invisible when hiding in shadows",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Sword of Storms- This longsword deals only lightning damage. On a critical hit it deals half damage to all enemies within 5ft of the target, and ¼ damage to all enemies within 10ft of the target",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Death's Scythe- Damage: 1D10 slashing + 2D8 corruption damage. The wielder of this scythe heals for � (rounded down) of the damage dealt",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Amulet of Heresy- When activated, it emits a radiant aura in a radius of 15ft around the wearer. During odd rounds it deals 2D8 corruption damage to all hostiles within 15ft. During even rounds it heals the wearer and their allies within the radius for 2D6 health. It lasts for the entirety of the skirmish, or until the wearer is incapacitated. Can only be used once per day",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Staff    of Heresy- If used in melee it deals 1D8, plus an additional 2D6 corruption damage. It can also be used to drain 1D8 health from a target 6 times per day",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Ring of Death- When the wearer kills something, they can use an action to turn that person or animal into an undead minion. It can be used three times a day and the creature fades after one hour",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Amulet of Memories- This amulet allows the user to store their memories inside of it. These memories can be viewed by anyone who wears the amulet, seeing everything through the original user's perspective. When found, roll 1D6. On a 6, there is a memory already inside",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Toy Dragon- As an action, its owner may say the command word. This toy dragon will grow to the size of a young dragon. Its owner must use their action to control the dragon. By repeating the command word, the dragon is dismissed",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Crown of Ice- Three times a day the wearer can breathe icy cold air in a 15ft cone dealing 4D6 cold damage. This crown also allows the wearer to all the items in Ice set",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Toy Ship- This ship can be set in the water. After its owner says the command word, it becomes a full size galley with a ghost crew loyal to the owner of the ship. Repeating the command word returns the ship to toy size",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Bracers of Battle- These bracers can magically store one shield and one melee weapon. When combat begins the wearer can equip the stored items automatically",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Mace of Hazards- This mace gives an advantage to all melee attacks against the wielder, but deals 4D8 damage. It also gives the wielder two reactions",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Shield of Embers- This shield grants resistance to fire damage. Also, it gives an advantage to avoid fire damage",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Cowl of Luck- While equipped, this Cowl grants the wearer good luck. Once per round, when the wearer is attacked, roll 1D6. On a 6, the attack automatically misses",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Glass Eye- This glass eye can be placed anywhere. Once placed, say its command word. This eye gives its user the ability to see what it sees. The link can only be broken when the user and the eye are no longer on the same plane of existence. You can only see what the eye sees, there is no sound/smell",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Toy Horse- As an action, the owner of this horse can say its command word. The horse changes from a small wooden toy to a full grown, live horse. As an action its owner can say the command word, and it will revert back into a toy.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Robes of Insight- These robes grant +3 to intelligence to the wearer",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Ring of Spiders- This ring allows the wearer to summon 1D4 giant spiders. These spiders are completely under the wearer's control",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Raven's Feather - A seemingly normal raven's feather attached to a bit of cord. The user can transform into a raven three times per day. The effect lasts for one hour",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Magic Broom- This broom can be mounted. It has a flying speed of 60ft.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Toy Soldier- This object is a 6' tall representation of a soldier. Upon issuing the command word this toy soldier becomes a real soldier equipped with a long sword, a short sword, a heavy crossbow, and chainmail. It follows simple commands of its master, like attack enemies or guard a specific location. If reduced to 0 health, it reverts to the toy form and is shattered. If it reverts to the toy from before all health is exhausted it regains all of it for the next use",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Staff    of Radiance- If used in melee it deals 1D8, plus an additional 2D6 holy damage. Plus it can also be used to heal the wearer or allies 2D6 heal 4 times a day",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Jar of Ooze- This jar contains an ooze-like blob monster. If this jar is smashed on the ground the ooze is released. The ooze is hostile to everyone and everything. Once used, this item is lost forever",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Survivor's Amulet- Each time the wear takes damage roll 1D20. On a roll or 15-20, the wear only takes half damage. Also, three times per day the wearer can use the item to regain 2D6 health",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Gloves of Striking- Unarmed damage is doubled",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Soulbound Weapon- The wielder may use an action to summon this weapon in their empty hand. They can choose the form that this melee weapon takes each time it is created. They are proficient with this weapon. This weapon counts as magical for the purpose of overcoming resistances and immunity to non-magical attacks and damage",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Boots of Swimming- These boots give the wearer a swimming speed of 60ft.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "Enchanted Spoon- This spoon makes every meal taste like it was prepared by the gods. When any character eats a meal with this spoon they regain 1D8 health",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Skull of a Demon Helm- It allows the wearer to take the form of a demon once a week, for 1 hour",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Cloak of Feathers- This cloak allows the user to fly at a 60ft speed for up to four hours per day",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Belt of Determination- This belt grants an advantage to all strength-based non-attack rolls",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Boots of Blazing Speed- When activated, these boots grant the wearer a base speed of 120ft. However, at this speed, the wearer takes 2D4 fire damage for each turn they use more than half of their movement",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Ring of Sorcery- Gives the wearer the ability to cast any two spells at will. Determine randomly",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Dagger of Shadows- A +2 dagger that deals an additional 1D6 corruption damage. If the wielder is concealed by magical or non-magical darkness, the dagger deals 4D6 corruption damage",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Gauntlets of Destruction- These gauntlets add 1D4 of fire damage to all melee attacks.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Socks of Comfort- These socks keep the wearer warm in extreme cold, and cool in extreme heat",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Svaldr's Lucky Dagger- This dagger critical hits on a roll of",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Ring of Reaching- This ring allows you to extend your reach out to 10ft",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Remorse- This mace refuses to kill. It will only knock creatures unconscious. It deals 1D6 nonlethal damage",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Crown of Spiders- This crown allows the wearer to transform into a spider centaur at will.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Ring of Ice- This ring lets the wearer cast an ice spell at will",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Doll House- This doll house is 5lbs, and about 10in tall by 10in wide. If set on the ground, its owner can say it's command word. It will grow to be a 3 story house, complete with a small cooking area, a dining room, and 5 bedrooms. It is a normal house, so it offers no protection from magic or intruders. Say the command word again, and the house will shrink back in size",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Lute Of Legends- This lute gives the wielder double proficiency in performance. The wielder also gains advantage on any spell attack",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Shield of Wrath- When the wielder is hit with a melee attack, they can use a reaction to bash the attacker with their shield for 2D4 damage",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "Robe of Dragonhide- This robe awards resistance to whichever dragon the hide is made of",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "Enchanted Vial Of Blood- When ingested, afflicts the drinker with lycanthropy. Roll 1D6. 1) Wererat 2) Wereboar 3) Werewolf 4) Weretiger 5) Werebear 6) Player's choice.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Goggles of Reading- These goggles allow the user to understand any written language.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0100",
+      "type": 0,
+      "text": "Amulet of Embers- The wearer releases a burst of flame in a 10ft radius each time they take 25 or more damage in a single round. This burst of flame affects friend and foe alike. It deals 3D4 fire damage",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d101",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "greatbook-of-random-tables",
+      "book": "Great Book Of Random Tables",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    }
+  },
+  "book": "Great Book Of Random Tables",
+  "category": "loot",
+  "tags": [
+    "loot"
+  ],
+  "roll_type": "d101",
+  "sort_key": "magic items",
+  "entry_count": 101,
+  "version": 2
+}

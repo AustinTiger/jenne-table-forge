@@ -1,0 +1,313 @@
+{
+  "name": "Wild Magic Surge - Icewinds",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from wild-magicsurge-table-icewinds.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "You transform into a water-looking Black Pudding for 1 minute. The Ice Pudding has a swimming speed of 40 feet and deals Cold-damage instead of Acid-damage. 53-54 A Simulacrum appears in the nearest unoccupied space of the target. The simulacrum is friendly to the target and can depict any person or creature the adventurers recognize personally.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "You cast the cold option of Chromatic Orb as a 2d4th-level spell. 57-58 You melt into a puddle of water. You cast the Misty Step-spell on yourself.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "The Sleet Storm-spell comes into effect and rages for the duration, independant of you. 59-60 You turn translucent, as were you carved from ice. A Remove Curse-spell can end this effect.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "You cast the Gust of Wind-spell. 61-62 You gain a strange desire to eat snow.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "You gain a crippling fear of fire. You have Disadvantage on Attack rolls, Saving-Throws, and Ability checks while in line of sight of a source of fire. 63-64 Your teeth chatter uncontrollably. you have Disadvantage on Saving-Throws made to maintain Concentration for the next 8 hours or until you're warmed up.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "You conjure a Simlacrum of yourself, snowy, magical equipment and all. The simulacrum is hostile towards you. 99-59 A Storm of Vengeance-spell under the DM's control comes into effect and rages for the duration, independant of you.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "You cast a 17th-level Chill Touch-cantrip. 67-68 Your hair turns white and wet.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "You cast a 17th-level Chill Touch-cantrip, on yourself. 69-70 You cast a domed Wall of Ice-spell around the target.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "You cast True Polymorph on the target. Roll percentile dice again, on a roll of 1-80, the target becomes a Yeti. On a roll of 81-00, the target becomes an Abominable Yeti. The effect lasts for the duration. 71-72 You turn into a snowman, carrot and all, until the start of your next turn. While a snowman, you are incapacitated and have yulnerability to all damage. If you drop to O Hit Points, your carrot breaks in two, and your form reverts.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "An Air Elemental under the DM's control appears next to the target. 73-74 You gain Vulnerability to Cold-damage until the end of your next turn.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "You cast Ice Storm as a 6th-level spell. 75-76 You cast Fog Cloud centred on the target.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "You gain a strange craving for whisky. 77-78 You cast the Cone of Cold-spell.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "You cast Wind Wall centred on yourself. 79-80 You breath becomes visible and hazy.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "You cast Water Walk on yourself. Water momentarily freezes over as you step on it. 81-82 You cast Erupting Earth as a 5th-level spell, dealing 3d12 Bludgeoning-damage and 2d12 Cold-damage to the target.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "You grow a pair of magical silver antlers for the next 24 hours. They deal 2d6 Piercing-damage on a hit. If they are removed by force, they remain and can be sold for up to 500 gp. 83-84 The target is encased in a massive block of ice until the end of your next turn. While encased in the block, the target is immune to all damage but unconscious.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "You cast Conjure Minor Elementals and summon four Ice Mephits friendly to you. 85-86 You cast the Warding Wind-spell centred on the target.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "You grow a long white beard along with a round belly, and become prone to fits of chuckling for the next 24 hours. 87-88 The target melts away, reappearing somewhere else. The target is affected by the Dimension Door-spell.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The target becomes encased in a layer of rime. It becomes Resistant to all damage for the next minute. 89-90 Your body temperature permanently decreases by 2d10 degrees. You suffer no negative effects from the change.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "You become encased in a layer of rime. You become Resistant to all damage for the next minute. 91-92 You cast the Prismatic Wal-spell centred on yourself, but placed 60 feet in the air above you.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "You conjure a Guardian of Faith shaped from a cold haze and wielding weapons carved from ice. The guardian is friendly to you. 93-94 You cast Polymorph on yourself. If you fail the Saving-Throw, you turn into an Arctic Fox for the spell's duration.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "You and all creatures within 30 feet of you gain Vulnerability to Fire-damage for the next minute. 95-96 You cast the Flesh to Stone-spell, the target turning into a frozen statue rather than one of stone.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "You cast Wall of Thorns, the wall being made up of icicles rather than thorns. 97-98 You cast the Investiture of Ice-spell on the target.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The target slips and falls Prone from a sheet of ice manifesting itself below it. 99-00 Roll twice on this table, ignoring. this result on subsequent rolls.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "You cast the cold option of Chromatic Orh as a 1d4th-level spell. 55-56 Your hair bursts into cold, blue flame. You cast a cold Fire Shield on yourself.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "wild-magicsurge-table-icewinds",
+      "book": "Wild Magic Surge Table Icewinds",
+      "category": "loot",
+      "tags": []
+    }
+  },
+  "book": "Wild Magic Surge Table Icewinds",
+  "category": "loot",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "wild magic surge - icewinds",
+  "entry_count": 24,
+  "version": 2
+}

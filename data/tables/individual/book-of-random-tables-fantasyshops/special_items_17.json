@@ -1,0 +1,73 @@
+{
+  "name": "Visit",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-fantasyshops.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Quill of Dictation (a quill that writes what is spoken to it)",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Rare green ink (1D6 bottles)",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "High-quality parchment (1D20 sheets)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Disappearing ink (1D4 bottles)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-fantasyshops",
+      "book": "Book Of Random Tables Fantasy Shops",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Fantasy Shops",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d4",
+  "sort_key": "visit",
+  "entry_count": 4,
+  "version": 2
+}

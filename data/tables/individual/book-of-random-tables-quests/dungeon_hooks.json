@@ -1,0 +1,1229 @@
+{
+  "name": "Royal Quests",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The town's well has gone dry. Strange sounds can be heard from below. The town set up a guard around it, but no one will investigate. The party is hired to check it out. Once down in the well, they notice the water has been diverted and the caverns lead to a dungeon.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The party is magically transported into the center of an ancient dungeon. They must fight their way from the inside out. They find clues along the way revealing both the identity of the person who imprisoned them and their location.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "The party finds a magic item at the bottom of a sinkhole. It leads the party to an evil wizard's tower and dungeon.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "A  black  stone  falls  out  of  the  sky  and  hits  one  character  on  the  head.  The  stone  starts exhibiting strange characteristics. It flashes whenever it's pointed in a certain direction. It leads the players to a dungeon.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "A small creature steals one character's prize possession and runs offwith it. When the party gives  chase,  it  leads  them  down  through  the  woods  into  a  secret  grotto.  There  is  a  small waterfall  and  cave.  If  they  venture  into  the  cave  they  find  that  orcs  are  spoiling  the  idyllic nature of the caves and polluting the grotto. If they slay the orcs, the creature appears, thanks them, and returns the stolen item.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Along the path, there are signs of a struggle. Drops and spatters of blood lead offinto the woods.  If  the  party  follows  the  trail  of  blood,  they  come  upon  the  cave-like  entrance  to  a goblin lair.  The  lair  is  built  in  an  old  dungeon.  The  party  will  find  the  goblins  holding  several travelers hostage.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "When  relaxing  in  an  inn,  one  character  notices  a  neatly  folded  piece  of  parchment  under their chair leg. It is a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "A family has disappeared, and the party is asked to investigate. When they go to the family's home to explore it, they find a basement passage that leads down to a dungeon.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "A wizard needs a vial full of swamp gas. In return to anyone who brings it to him, he will tell them of the location of an ancient ruin.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The tower of a long-dead robber baron is moldering and decaying. If any brave souls would to repair it, it would be a formidable stronghold. Of course, a dungeon is beneath it.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "A businesswoman hires the party to clear a forest near a town. While they are clearing the forest,  a  chest  is  found  with  several  important  items  inside.  One  of  the  items  is  a  map  to  a legendary library. Their employer asks them to find the library.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "An earthquake reveals the entrance to ancient ruins. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "The old man who runs the herbalist shop asks the party to gather some rare plants. He tells them of a cave not too far from the town where he used to go. However, his old knees don't allow him to go there anymore. In exchange, he will give them some healing potions. Once the party arrives at the cave, they find some of the plants. However, it becomes quickly apparent that  something  suspicious  is  going  on  at  the  cave.  There  are  bandits  and  some  unsavory characters living deep inside the cave. The cave leads to a dungeon.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "While planting an orchard, a young child falls into a pit. The parents rush to town and ask for help. If the party responds, they are able to rescue the child. However, the pit leads down into a forgotten dungeon.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "A small wooden box in a curio shop seems to be calling one of the character's names. If they inquire about the box, the owner says they can have it free of charge. If the box is opened, they find several items: a map to a ruined castle, an illustration of a beautiful woman, and a key made of ivory.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "A recent drought has revealed the entrance to a long-forgotten ruin. Rumors begin to spread of treasure.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "An innkeeper is offering a reward for any who will explore a tunnel recently uncovered in his basement. The tunnel leads to a dungeon.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "A  noble  is  hiring  help.  It  seems  something  broke  through  into  his  wine  celler  from underneath. The party finds some creatures and a shaft leading to a dungeon.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "A farmer plowing a new field unearthed an opening to a shaft leading down into the earth. He says any are welcome to explore it.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Rumor has it that something strange is going on in the old abandoned mill down by the river. The party finds that portions of the old mill are flooded, and there is a tunnel leading down into the ground.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Someone  claims  to  have  seen  a  light  at  the  ruins  of  the  old  fortress  the  other  night.  Is  it possible there could still be something valuable there after all these years?",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "While repairing a statue in the city, a tunnel was discovered. The town leadership is looking for someone to explore it.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "A thunderstorm blew over an ancient oak tree revealing a tunnel beneath it. It appears to be a ruin of some kind.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "A noble recently inherited property that contains the ruins of an old castle. The noble wishes to hire someone to explore the ruins and the old dungeon underneath.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "While  digging  a  foundation  for  a  new  building  in  town  an  underground  passage  was discovered. Is anyone brave enough to explore it?",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "A local farmer reports that something large tunneled out of the ground near his farm. The tunnel that it left is big enough to explore and it appears to be incredibly deep.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "At  the  local  inn,  the  old-timers  are  always  wishing  they  were  young  again  so  they  could explore the nearby ruins. Tales tell of treasure and gold. However, the young of the town are none too eager to explore the ruins.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Some  children  discovered  an  opening  in  the  old  stone  mound  down  near  the  creek.  It appears to lead underground for quite a distance.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "A  group  of  townspeople  went  to  collect  stones  from  the  old  ruins  three  days  ago.  They haven't returned. The party is asked to investigate. Once they arrive at the ruins, they discover a passage leading down to a dungeon.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Local miners say they are hearing strange sounds in the deepest mine shaft. They are getting concerned. The party is asked to investigate. They soon find an opening into an ancient dungeon.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Some kids snooping around in the cave just outside of town discovered a stone door in one of the caverns.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "A local farmer's ox got its foot caught in a hole. The party is asked to help. Once the ox is freed, the hole is revealed to be an entrance to a dungeon.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "A collector of oddities needs help organizing his curio shop. He will give the party a map to a dungeon if they help clean up.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "If the party helps an innkeeper stock up on firewood, the innkeeper gives them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "The  mayor  is  concerned  about  reports  of  goblin  raids.  She  gives  the  party  a  map  to  a dungeon where the goblins are thought to be living.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "While traveling along the road, the party spots a parchment tacked to a tree by a dagger. It is a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "The signs of a struggle are obvious along the path. There are bloodstains, a silver ring, and a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "If the party helps an old beggar, he gives them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "If the party gives food to a street urchin, he gives them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The  owner  of  the  potion  shop  offers  to  sell  the  party  a  map  to  a  dungeon  for  five  gold pieces.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "A party member notices something stuck to their boot. It's a map to a dungeon. How did that get there?",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "The party finds an injured man alongside the road. If they help him, he gives them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Some thugs are harassing an old woman. If the party helps her, she gives them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "A messenger raven lands near the party. It has something strapped to its foot. It's a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "The word is out that a noble is selling a map to a dungeon for 20 gold pieces.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "When  the  party  wakes  up  one  morning  they  find  a  map  to  a  dungeon  among  their belongings.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "A stranger bumps into a party member and then runs off. When they check their pockets, they find a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "While visiting a temple, a monk gives the party a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "When a party member is reading a book, a map to a dungeon falls out.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "The rough-looking dwarf is challenging inn patrons to a drinking contest. If anyone can beat him, he'll give them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "A strong man is challenging people to wrestling matches. If anyone can beat him, he will give them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "A wizard is challenging people to a battle of wits. If anyone can beat him, he will give them a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "A map to a dungeon was found on a dead body near town. The cause of death was certainly murder. The mayor is offering the map as a reward for information about the crime.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "A dead body lays in the road. When the body is searched a, lock of blonde hair tied with a scarlet ribbon, a gold brooch, and a map to a dungeon are found.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "A  courier  approaches the party and asks for one member by name. The courier delivers a package that contains a broken iron shackle, a hawk feather, and a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Workers at the old town graveyard discovered a hole in the tomb of a famed past ruler. The town leadership fears graverobbers, so they are looking for a group to investigate.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "The new dam diverted the river and revealed an entrance to ancient ruins.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "A blacksmith offers the party a map to a dungeon in exchange for them delivering a load of swords.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "A recent mudslide revealed a stone door. The townspeople have been trying to open it but without success.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "When the party stops for a rest near a clear stream, a door can be seen on the bottom.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "A strong wind blows a map to a dungeon into the face of one party member.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "A farmer found a map to a dungeon in his field. While he's at an inn enjoying a few drinks, he says he's willing to part with it for 10 gold pieces.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Mining has been going on at the salt flats for generations, but recently workers uncovered a doorway leading down into the earth. The miners are looking for someone who can open it and explore what is beyond.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "A dog drops a map to a dungeon at the feet of one party member.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "An  innkeeper asks for help milking a cow. While the party is helping, they find a map to a dungeon in the cow's collar.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "There's no room in the inn. The party sleeps in the barn. One party member finds a map to a dungeon in the hayloft.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "The party rents rooms at an inn. When one party member pulls the sheets back on the bed, they find a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "An  innkeeper  asks  the  party  for  help  sweeping  up.  One  party  member  finds  a  map  to  a dungeon in the dustpan.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "While  dining  at  a  noble's  house,  one  party  member  finds  a  map  to  a  dungeon  under  their chair.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "A town is offering a bounty on a small-time criminal. In addition to the reward, the sheriff is willing to throw in a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "The party catches a would-be pickpocket. In exchange for letting him go, he offers the party a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "A  pixie  entreats  the  party  through  gestures  and  tears  to  follow  her.  She  leads  them  to  a dungeon where her tribe is being held captive.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "It is said that the riddle inscribed on the statue at the center of town offers clues to a treasure horde. If only someone could figure out what it means.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "A bard boasts that he cannot be outplayed.  He wagers a map to a dungeon to bolster his boast.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "The mayor offers a map to a dungeon to the party on the condition they never set foot in his town again.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "A local baron is offering a map to a dungeon to anyone who can help finish building a large stone wall near his manor.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "The party finds a basket floating down a river. It contains an obsidian dagger, a pearl, and a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "The inn burned down last night. The loss of life was shocking, but even more shocking is the large tunnel leading down into the earth among the remains. The tunnel should be explored. The safety of the town depends on it.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Rumors say there is some supernatural activity at a cave not far from town. When the party investigates, they find a dungeon.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "While plowing a field, a farmer unearthed a chest. The only thing inside that the farmer can't use is a map to a dungeon. He's willing to trade it for some basic homesteading supplies.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "When the party sits down to a meal in an inn, they discover a map to a dungeon drawn on the back of a napkin.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "An innkeeper is offering a map to a dungeon in exchange for clearing his cellar of rats.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "While  digging  a  grave  workers  found  a  stone  slab  that  appears  to  be  a  doorway.  They  are looking for someone who can open it and explore what is beyond.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "A gigantic doorway has appeared on the side of a mountain. The nearby town is in a state of constant dread. What is this doorway? Will anyone ever find out?",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The underground section of a noble's manor has been locked and unused for generations. A family tradition said never to open it. However, the new lord of the manor wants it opened and explored. Perhaps some wandering adventurers would do the job.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Walking along the road, the party falls into a pit that leads to a dungeon.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "The strange old widow needs help to fix her house. After the work is done, she'll give an old map her husband left years ago to the helpers.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "A cat drops a map to a dungeon at the feet of one party member. The cat follows the party and after the dungeon has been explored, the feline turns into a woman.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "A recent forest fire revealed ancient ruins. There are several passages that lead underground.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "As the party walks along a road, a door appears. Nothing appears to be on either side of it. However, if opened it leads to a dungeon.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "The  party  encounters  a  traveling  troupe  who  put  on  a  play  for  them.  At  the  end  of  the performance, the leader hands the party a map. Then the entire troupe disappears.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "An  ethereal  woman  rises  out  of  a  lake  and  hands  the  party  a  map  to  a  dungeon.  Then  she returns to the lake without a word.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The party finds a 10-year-old girl weeping by the side of the road. She says her parents have been kidnapped. She has a map to where they are being held, but the journey is hard, and she doesn't know what she'll find there. If only she had help.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "The party finds a pack mule loaded with gear, but no one is around. If they search the gear, they find a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "A local wizard asks the party to fetch some items from his cellar, and in exchange, he'll make them some healing potions. However, once in the cellar, the party realizes they are locked in a dungeon.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "When the party is eating at an inn, they find a map to a dungeon baked inside the bread.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "An  elf  approaches the party. She asks if they are up for adventure. Then she hands them a rolled up leaf and immediately departs. On the leaf is a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "A curio shop owner offers a party member a small music box for free. Once the character plays it, it opens to reveal a map to a dungeon.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "The party finds a lute leaning against a tree. It has a map to a dungeon engraved on the back.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "As the party walks along a road they see someone has drawn a map to a dungeon in the dust.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests",
+      "book": "Book Of Random Tables Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Quests",
+  "category": "quest",
+  "tags": [
+    "quest"
+  ],
+  "roll_type": "d100",
+  "sort_key": "royal quests",
+  "entry_count": 100,
+  "version": 2
+}

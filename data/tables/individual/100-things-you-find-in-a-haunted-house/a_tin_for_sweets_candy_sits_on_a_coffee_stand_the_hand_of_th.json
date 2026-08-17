@@ -1,0 +1,637 @@
+{
+  "name": "20 - A tin for sweets/candy sits on a coffee stand. The hand of the last person to open the tin lays inside, bloody and nibbled on.",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from 100-things-you-find-in-a-haunted-house.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The shutters are loose and bang against the window frame as the wind blows outside. Every time someone gets near to try and secure them, they bang shut and lock themselves, only to start flapping in the wind again as soon as that same person tries to walk away.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "A small drop of blood moves across the floor leaving behind a thin red line. No matter how far the small drop moves it never runs out of blood to leave behind. The small blood drop leads the party room to room, floor to floor.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "In random locations throughout the house, you stumble across a recently lit cigar, sitting in an ash try, the corner of a mantle or an edge of a table.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Musty moldy books on a broken shelf, but one is curiously untouched by age and mold.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Rotting dolls in a trunk. Touching them does 1d4 necrotic damage. Throwing them at people is mean.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "A dress stand that whispers secrets of",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Curious stains on the kitchen floor and a bin full of bones. Don't move the bones… Oh, hello animated skeleton.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Strange collection of tiny colored glass",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "bottles full of different liquids. One that makes you larger… Several jars full of various herbs and spices. Everything seasoned with them",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "A trapdoor that leads nowhere, just a brick wall.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "32 33 Broken floorboards and a dusty spike trap that is half visible through them. Cracked ceramic bowl of little bits of leather. They don't taste good. Iron cage with a big pile of chain next to",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "35 Nineteen knives stuck in the wall in a smiley face. An old warlock spellbook that contains a random 2nd level warlock spell.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "A painting of what looks like your adevturing party but with different Noble clothes one. (One of you are missing from the painting)",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "A message written in blood on the walls.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "A pentagram drawn in chalk or blood with half melted candles at the points of the star.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Creepy spiderwebs everywhere.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "A diary of someone. It starts out fairly normal, but slowly descends into madness. A divan that rams into the calves of a",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "party member, knocking them down into a sitting position. It then rushes out of the room at an extremely fast pace, with the unfortunate still on board.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "A creaky door that is always cracked open. It closes and even locks with a satisfying click, but audibly creaks open again when no one is looking at it.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "A painting of a gruesome battle that took place on the house's property many years ago.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "A surprisingly fresh bowl of fruit. When eaten, the food reveals itself to be rotten and full of maggots.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "A child's bedroom with the bed meticulously made and dark stains leading to under the bed.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "An old wizard hat. When placed on one's head, it will cast produce water from the inside of the headband, soaking the wearer and continuing to produce water until they take it off.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "A portrait of an immensely obese man with at least three chins, smiling smugly and with eyes half closed in pleasure. A pile of bloody bones lie against the wall immediately underneath.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "A children's room that is in perfect condition, perfectly spotless, eerily so.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "A pentacle that contains within it a full skeleton that has collapsed, and an additional skull next to the skeleton, trying to breach the pentacle results in the discovery that a forcefield has been brought up in outer circle. And the skulls eyes light up with a blue light.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "A wing-backed chair behind a large desk. When seated in it, one hears the voice of an old man talking right behind them, even smelling the smoke from his pipe. He doesn't seem to be addressing anyone in particular, and when one turns around, no one is there.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "72 A collection of skeletons from birds and other small creatures, all preserved under glass domes.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "72 A large metal box-like structure set into the wall of the basement. The structure is open on one side revealing a complex set of gears connected to a crank. When you turn the crank, only some gears move. One gear has been removed to stop it from working.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "72 appear at all/ are only a small glowing orb emanating a black mist.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "A mirror that peers into an alternate universe that shows the viewer looking back but not performing the same actions. For some of the party they don't",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "An entire room of porcelain dolls. Nothing haunted in the room itself, but man, are they scary.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "76 A small altar with a burning candle mourning the loss of someone. A sitting room that is sparsely furnished with seats and a coffee table. If the players choose to walk around the room, they",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "76 will appear to trip or bang their legs on nothing, dealing 1d4-1 damage every 5 feet. If detect magic is used, it will reveal a simple illusion making the furniture",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "appear to be several inches away from their actual position. A Teaset with filled cups, the tea's piping hot though there is no warmth or fire to be found in the entire house.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "A wall painted with a glowing runic symbol. The symbol stabilizes the house. If the symbol is ever broken, wiped, or otherwise erased away the rooms are no longer organized, such that they teleport constantly (example: you enter the kitchen from the dining room, but when you go back through the same door to reach the kitchen, instead you are in a bedroom).",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Musical instruments dance around on their own, playing a melodic, eerie and cheerie tune, but no musicians are playing them.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "A bust of a noble that appears normal at first, but the next time you look at it bleeds from the eyes and mouth.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "A bloody and broken comb, with some hair still attached to it.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "An old nursemaid that doesn't realize she is dead. She still performs tasks like rocking a nonexsistant baby to sleep.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "The front door continually gets knocked on, as if visitors are stopping by, but no one is ever on the other side of the door.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "A window with no way of knowing what's on the other side (one side solid wall, the other the window). You see only a haze but you'd swear there is movement in the mist.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "A hallway with water reflections and wavy shadows on the ceiling and seaweed on the walls even though the house is nowhere near water. There are whispers that say 'She will swallow you too.' and 'All that will be left is crushing darkness.'",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "A door with strange runes covering it. It is being held shut with heavy chains & a large pad lock. If anyone touches the door, something heavy slams into the opposite side of the door.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "88 - The body of a large deformed monstrous humanoid. Rune covered metal stakes have been driven through it's skull and it's heart. A chalkboard with the world 'Help Me' scrawled on it hundreds of times. If anyone looks away & looks back at it, the board is blank.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "A strange black candle. When it is lit, it reveals the shadows of ghost & spiritual creatures within it's light.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "A dagger made of a strange black metal with blood red runes, rest on a small alter held up by skulls.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "A bucket containing bloody hairy mess. If anyone pulls it out, it turns out to be the skin of an entire human.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "A crib next to a rocking chair. At some point they start rocking on their own.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "A basement full of mist covering the floor. You think you saw something moving in the mist.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "95 A fireplace. Human bones can be found among the ashes. A comfortably furnished room with a fire laid in the grate ready to be lit, doors which lock properly, and several sofas which are large enough to sleep on. Any sound produced in this room will be delayed by half a second. Talking is difficult when you hear your own voice echoed back at you. The delay increases by a second every hour somebody spends in the room, and decreases by a second every hour they're out of it. This could be used creatively to give a bonus to Sneak checks.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "100-things-you-find-in-a-haunted-house",
+      "book": "100 Things You Find In A Haunted House",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "100 Things You Find In A Haunted House",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "20 - a tin for sweets/candy sits on a coffee stand. the hand of the last person to open the tin lays inside, bloody and nibbled on.",
+  "entry_count": 51,
+  "version": 2
+}

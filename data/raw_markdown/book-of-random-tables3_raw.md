@@ -1,0 +1,3905 @@
+
+
+<!-- START_PAGE_RANGE_1_TO_15 -->
+## The Book of
+
+## Random
+
+## Tables 3
+
+<!-- image -->
+
+The Book of
+
+## Random Tables 3
+
+## Written By Matt Davids
+
+With Additional Material By Erin Davids &amp; Jake Branson
+
+Edited By Ryan Thompson
+
+Layout &amp; Design By Matt Davids
+
+Patrons Scott Frega, Andrew Nagy, and Ray Joseph
+
+Special Thanks Michael Spredemann
+
+Thanks Mik Calow and Jeff   Gatlin
+
+All interior artwork is public domain. The cover is from iStockphoto and is copyrighted. Used under license.
+
+<!-- image -->
+
+The contents are copyrighted 2018 by dicegeeks and Matt Davids. The contents are copyrighted 2018 by dicegeeks and Matt Davids.
+
+## [www.dicegeeks.com](https://www.dicegeeks.com/)
+
+[2](https://www.dicegeeks.com/)
+
+## [Visit](https://www.dicegeeks.com/email-opt-in)
+
+[https://www.dicegeeks.com/free to get free random tables, dungeon maps, and more.](https://www.dicegeeks.com/email-opt-in)
+
+Paperbacks, hardbacks, and more dicegeeks RPG resources:
+
+DriveThruRPG Amazon
+
+3
+
+## Table of Contents
+
+| Credits..................................................................................................................................2   |                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| How to Use this Book..........................................................................................................5              |                                                                                                      |
+| Names                                                                                                                                        | Names                                                                                                |
+| Inn Names............................................................................................................................7       |                                                                                                      |
+| Names of Knightly Orders..................................................................................................8                  |                                                                                                      |
+| Encounters & Locations                                                                                                                       | Encounters & Locations                                                                               |
+| Desert Encounters..............................................................................................................10            |                                                                                                      |
+| Forest Locations..................................................................................................................11         |                                                                                                      |
+| Road Encounters.................................................................................................................12           |                                                                                                      |
+| Woodland Animals..............................................................................................................13             |                                                                                                      |
+| Items & Things                                                                                                                               | Items & Things                                                                                       |
+| Items in a Cell.....................................................................................................................15       |                                                                                                      |
+| Items in a Chest..................................................................................................................16         |                                                                                                      |
+| Items on a Dead Orc...........................................................................................................17             |                                                                                                      |
+| Jewelry................................................................................................................................18    |                                                                                                      |
+| Items in Adventurer's Saddlebags....................................................................................19                       |                                                                                                      |
+| Items in a Wagon...............................................................................................................20            |                                                                                                      |
+| Items in a Wine Cellar.........................................................................................................21            |                                                                                                      |
+| Food & Drink                                                                                                                                 | Food & Drink                                                                                         |
+| Beers....................................................................................................................................23  |                                                                                                      |
+| Herbal Teas..........................................................................................................................24      |                                                                                                      |
+| Seeds and Nuts....................................................................................................................25         |                                                                                                      |
+| Sweet Bread.........................................................................................................................26       |                                                                                                      |
+| Seafood................................................................................................................................27    |                                                                                                      |
+| Fruit - Table #1......................................................................................................................28     |                                                                                                      |
+| Fruit - Table #2.....................................................................................................................29      |                                                                                                      |
+| Vegetables - Table #1...........................................................................................................30           |                                                                                                      |
+| Vegetables - Table #2...........................................................................................................31           |                                                                                                      |
+| Epitaphs, Quests, & Dungeon Eff ects                                                                                                         | Epitaphs, Quests, & Dungeon Eff ects                                                                 |
+| Epitaphs...............................................................................................................................33    |                                                                                                      |
+| Thieves Guild Quests......................................................................................................34-35              |                                                                                                      |
+| Dungeon Health Side Eff                                                                                                                      | ects..............................................................................................36 |
+
+4
+
+## How to Use this Book
+
+Welcome to the third book in my series of random 1D100 tables.
+
+A  game  master  can  never  have  enough  random  tables.  Random  tables  eliminate preparation  time  and  open  up  story  options  that  would  have  never  been  explored otherwise.
+
+Flip to the table that best fi  ts your game situation and roll the dice. Or better yet, have your players roll.
+
+This book is divided into fi  ve sections: Names, Encounters &amp; Locations, Items &amp; Things, Food &amp; Drink, and Epitaphs, Quests, &amp; Dungeon Eff  ects.
+
+The names section includes names of inns, which is always helpful, and names of knightly orders. The names of knightly orders can be used to people your world with interesting encounters and historical information a real world would have.
+
+You  always  need  encounters,  so  the  Encounters  &amp;  Locations  section  was  created  to provide a broad range of options for you while you are running your game.
+
+The Items &amp; Things section has plenty of items that can be found in chests, cells, or even a wine cellar.
+
+Food and drink can always be tricky. On one hand you want to add realism, but on the other hand, you don't want to get bogged down in trivialities. These random tables help you add a touch of realism without going too far into the weeds. Plus the beer table is simply a lot of fun.
+
+The last section contains a few unique tables. The Epitaphs table is perfect for characters searching graveyards or catacombs. The Thieves Guild quests are adventures or even campaigns in a few sentences. The Dungeon Health Eff  ects table allows game masters to add extra danger to exploring dungeons.
+
+Don't spend hours prepping your session. Take these random tables and create unique and engaging adventures on the fl  y.
+
+Matt Davids 10/28/2018
+
+Names
+
+6
+
+## Inn Names
+
+| 1. The Hare And The Hound                       | 51. The Red Ship                                |
+|-------------------------------------------------|-------------------------------------------------|
+| 2. The Rainbow Trout                            | 52. The Merry Dragon                            |
+| 3. The Sweet And Salty                          | 53. Four Arrows                                 |
+| 4. The Pig In The Cow                           | 54. The Root And Branch                         |
+| 5. The Chick And The Tadpole                    | 55. The Grape And The Hops                      |
+| 6. The Hook And Line                            | 56. The Hungry Squirrel                         |
+| 7. The Public House                             | 57. The King's Friend                           |
+| 8. The Mulberry Inn                             | 58. TheRestless Adder                           |
+| 9. The Whetstone                                | 59. The Broken Arrow                            |
+| 10. The Skipping Faun                           | 60. The Happy Home                              |
+| 11. The Sleeping Dragon                         | 61. The Silver Fox                              |
+| 12. The Sleeping Cat                            | 62. The Playful Unicorn                         |
+| 13. Elm Tree Inn                                | 63. The Horse And Mule                          |
+| 14. The White Stag                              | 64. The Half Moon                               |
+| 15. The Red Boar                                | 65. The Leaping Lizard                          |
+| 16. The Hind's Heart                            | 66. The Singing Siren                           |
+| 17. The Smoke And The Fire                      | 67. The Jumping Donkey                          |
+| 18. The Eagle And The Child                     | 68. The Sparkling Starfi sh                     |
+| 19. The Rowdy Badger                            | 69. The Plough And Spade                        |
+| 20. The Bronnie Lion                            | 70. The Whale And The Grouse                    |
+| 21. The Pheasant And The Pigeon                 | 71. The Swordfi sh                              |
+| 22. The Overfl owing Flagon                     | 72. The Babbling Brook                          |
+| 23. The Fat Sow                                 | 73. The Lost Key                                |
+| 24. The Stay Warm Inn                           | 74. The Graceful Deer                           |
+| 25. The Old Ship                                | 75. The Happytime Inn                           |
+| 26. The Sand Dollar                             | 76. The Feather And The Comb 77. The Black Swan |
+| 27. The Flower And The Bud                      |                                                 |
+| 28. The White Lion                              | 78. The Gathering Place                         |
+| 29. Three Coppers                               | 79. The Moon Under Water                        |
+| 30. The Apple Orchard Inn                       | 80. The Gold Piece                              |
+| 31. The Watering Hole                           | 81. The Rose And Crown                          |
+| 32. The Lazy Goat                               | 82. The Full Pint                               |
+| 33. The Quick Rabbit                            | 83. The Hero And The Thief                      |
+| 34. The Arrow And The Quiver                    | 84. The Brass Button                            |
+| 35. The Crooked Chimney 36. The Queen's Servant | 85. The Black Horse                             |
+| 37. Sailor's Mess                               | 86. The Knife And Fork 87. The Barrel And Mug   |
+| 38. The Black Gryphon                           |                                                 |
+| Nag                                             | 88. Fisherman's Spot 89. The Bell And Beak      |
+| 39. The Friendly 40. The Lazy Goat              | 90. The Oak And The Alder                       |
+| 41. Traveler's Rest                             | 91. The Lazy River                              |
+| 42. The Croaking Toad                           | 92. The Knight And The Lad                      |
+| 43. The White Elephant                          | 93. The Roasted Hen                             |
+| 44. The Hilt And Blade                          | 94. The Happy Hound                             |
+| 45. The Dog And Duck                            | 95. The Dew Drop                                |
+| 46. The Watchful Owl 47. The Goose And Gander   | 96. The Suds And Foam 97. The Buccaneer's Room  |
+| 48. The Blind Beggar                            | 98. The Red Lion                                |
+| 49. Wanderer's Haven                            | 99. The Flint And Steel                         |
+| 50. The White Bear                              | 100. The Silver Stallion                        |
+
+## Names of Knightly Orders
+
+| 1. Order Of The Vineyard                                  | 51. Order Of The Road                                 |
+|-----------------------------------------------------------|-------------------------------------------------------|
+| 2. Order Of The Bat                                       | 52. The Order Of The Chroniclers                      |
+| 3. Order Of The Palm                                      | 53. The Order Of Unending Battle                      |
+| 4. Order Of The Key                                       | 54. The Order Of The Course                           |
+| 5. Order Of Untamed Lands                                 | 55. Order Of The Winged Beast                         |
+| 6. Order Of The Sea Serpent                               | 56. Order Of The Deep                                 |
+| 7. The Order Of The Keep Guardians                        | 57. Order Of The White Hand                           |
+| 8. The Order Of The Bronze Bowl                           | 58. Order Of The Sun                                  |
+| 9. The Order Of Orc Slayers                               | 59. Order Of The Arrow                                |
+| 10. The Order Of Blood                                    | 60. The Order Of The Broken Bow                       |
+| 11. Order Of The King                                     | 61. Order Of The Moon                                 |
+| 12. Order Of The Sabre                                    | 62. Order Of The Garter                               |
+| 13. The Order Of Spring                                   | 63. Order Of The Robe                                 |
+| 14. Order Of The Dog                                      | 64. Order Of The Hand                                 |
+| 15. Order Of The Snake                                    | 65. The Order Of Summer                               |
+| 16. The Order Of Bone                                     | 66. Order Of The Gold Dragon                          |
+| 17. Order Of The Kindle Fire                              | 67. Order Of The Foot                                 |
+| 18. The Order Of The Temple                               | 68. The Order Of The Polearm                          |
+| 19. Order Of The Sword                                    | 69. The Order Of Conquered Fear                       |
+| 20. The Order Of The Book                                 | 70. Order Of The Crow                                 |
+| 21. The Order Of The Red Jerkin                           | 71. The Order Of Giants                               |
+| 22. The Order Of Peacekeepers                             | 72. Order Of The Lightning                            |
+| 23. The Order Of The Reaches                              | 73. Order Of The Seven Seas                           |
+| 24. Order Of The King                                     | 74. Order Of The Sprint                               |
+| 25. The Order Of Stone                                    | 75. Order Of The Staff                                |
+| 26. Order Of The Raven                                    | 76. Order Of The Silverfox                            |
+| 27. The Order Of The Fox                                  | 77. Order Of The Red Fist                             |
+| 28. Order Of The Fallen Prince                            | 78. Order Of The Wolf                                 |
+| 29. Order Of The Bear                                     | 79. Order Of The Eye                                  |
+| 30. The Order Of Cloud                                    | 80. Order Of The Sun                                  |
+| 31. Order Of The Tree                                     | 81. Order Of The Sky                                  |
+| 32. The Order Of Unplowed Ground                          | 82. The Order Of The Axe                              |
+| 33. Order Of The Tears                                    | 83. Order Of The Elephant                             |
+| 34. The Order Of Water                                    | 84. Order Of The Crown                                |
+| 36. The Order Of Sable Cloaks                             | 86. Order Of The Lance                                |
+| 37. In Order Of The Tears                                 | 87. Order Of The Moon                                 |
+| 38. The Order Of The Hammer                               | 88. The Order Of The Shipwrights                      |
+| 40. The Order Of The Conquerors                           | 90. The Order Of Fire                                 |
+| 41. Order Of The Faithful Shield                          | 91. Order Of The Scorpion                             |
+| 42. Order Of The Queen                                    | 92. The Order Of Shadow                               |
+| 43. The Order Of The Timekeepers                          | 93. Order Of The Spider                               |
+| 44. Order Of The Grass                                    | 94. The Order Of The Great Clothes                    |
+| 45. The Order Of The Great Secret 46. The Order Of Autumn | 95. Order Of The Red Dragon 96. The Order Of The Rose |
+| 47. Order Of The Undying Flame                            | 97. Order Of The Queen                                |
+| 48. Order Of The Cat                                      | 98. The Order Of Goblin Killers                       |
+| 49. The Order Of Winter                                   | 99. The Order Of Earth                                |
+| 50. Order Of The Hunt                                     | 100. Order Of The Green Dragon                        |
+
+## Encounters &amp; Locations
+
+## Desert Encounters
+
+| 1. Talking cactus                                                                        | 51. Broken siege equipment                                        |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 2. Lost courier                                                                          | 52. Pilgrims on their way to a holy site                          |
+| 3. Camel (dead)                                                                          | 53. Caravan campsite                                              |
+| 4. Chest marked 'Do not open under any circumstance.'                                    | 54. Giant stone arm sticking out of the sand                      |
+| 5. Half-buried halfl ing                                                                 | 55. Oasis occupied by a group of travelers                        |
+| 6. Traveling merchants with exotic wares                                                 | 56. Coyotes (2D6)                                                 |
+| 7. Lone skeleton clutching a rusty sword                                                 | 57. Wizard mumbling to himself                                    |
+| 8. Old boot with a map inside                                                            | 58. Paladin searching for an evil cult                            |
+| 9. Sandstorm (1D20 turns until it arrives)                                               | 59. Glass bottle with a love letter inside                        |
+| 10. Trading caravan                                                                      | 60. Unmarked grave                                                |
+| 11. Beautiful oasis                                                                      | 61. Remnants of a stone road                                      |
+| 12. Giant scorpions (1D6)                                                                | 62. Hermit that wants to be left alone                            |
+| 13. Camel tracks                                                                         | 63. Demon looking to make a deal                                  |
+| 14. Handsome man that dissipates when approached                                         | 64. Vultures picking an elf carcass clean                         |
+| 15. Deserted campsite                                                                    | 65. Dead courier with undelivered messages                        |
+| 16. Remnants of a defeated army                                                          | 66. Goblins (1D6)                                                 |
+| 17. Small cave entrance                                                                  | 67. Traveling minstrel                                            |
+| 18. Signs of a battle                                                                    | 68. Sphinx                                                        |
+| 19. Tracks of an orc war party                                                           | 69. Familiar tracks, you may be lost                              |
+| 20. Reanimated skeleton sweeping                                                         | 70. Rock in the shape of a crowned head                           |
+| 21. Circular cacti grove                                                                 | 71. Abandoned quarry                                              |
+| 22. Swordsman challenges any who pass by to a duel                                       | 72. Naked man complaining about witches                           |
+| 23. Small watch tower                                                                    | 73. Squire weeping for his dead knight                            |
+| 24. Bones of a horse                                                                     | 74. Camels (1D10)                                                 |
+| 25. Poachers (1D8)                                                                       | 75. A single fl ourishing tree (30' tall)                         |
+| 26. Cultists (2D4)                                                                       | 76. Coyotes (3D6)                                                 |
+| 27. Sinkhole (6' diameter)                                                               | 77. Merchant trying to sell 'a magic lamp'                        |
+| 28. Coyotes (1D6)                                                                        | 78. Campsite of pilgrims                                          |
+| 29. Decaying corpses (1D12)                                                              | 79. Severed head stuck on a pike                                  |
+| 30. Ongoing duel between two swordsmen                                                   | 80. Woman dying of a mortal wound                                 |
+| 31. Knight weeping over his dead squire 32. Shrubbery laden with berries                 | 81. Rusty sword with 'Honor' engraved on the blade 82. Sand golem |
+| 33. Broken wagon with rotten goods inside                                                | 83. Empty crater                                                  |
+| 34. Traveling merchants with common wares                                                | 84. Cask of wine (dated 1D100 years old)                          |
+| 35. Road sign too weatherworn to read 36. Giant scorpion tracks                          | 85. Twin statues weathered by time 86. Dragon skeleton            |
+| 37. Group of children clad in armor                                                      | 87. Table set for a feast, not a soul in sight                    |
+| 38. Man grieving for his dead horse                                                      | 88. Smoldering remains of a caravan 89. Bandits (1D8)             |
+| 39. Crater with a meteor inside 40. Beautiful woman that disappears when approached      | 90. Portal to an unknown                                          |
+| 41. Stone statue of a man clad in armor 42. Dried up oasis library                       | destination 91. Necromancy ritual in progress                     |
+|                                                                                          | 92. Man dying of thirst                                           |
+| 43. Merchant trying to sell a map to a forgotten                                         | 93. Archeological dig site                                        |
+| 44. Long forgotten temple                                                                | 94. Rock formation with strange carvings                          |
+| 45. Hunter and her faithful dog                                                          | 95. Horse carrying a dead rider                                   |
+| 46. Ongoing battle                                                                       | 96. Blood stained sand                                            |
+|                                                                                          | 98. Army campground                                               |
+| 48. Skeleton clutching a piece of parchment 49. Golden statue of a woman holding a spear | 99. Fox                                                           |
+| 50. Windswept ruins of a castle                                                          | 100. Dragon                                                       |
+
+1. Plank walkway over a chasm
+2. Bridge over a river
+3. Stone property marker
+4. Cottage burned to the ground
+5. A village of an uncontacted people
+6. Flint knapping site
+7. Dry creek bed
+8. Abandoned village
+9. Natural stone arch
+10. Cascading stream
+11. Quicksand
+12. Skeleton of a dragon
+13. Small pond
+14. Pipe sticking out of the ground with water gushing out
+15. Section of an ancient aqueduct
+16. Campsite with the inhabitants slaughtered
+17. Herbalist's Shack
+18. Inn built into a huge old tree
+19. Loggers Camp
+20. Abandoned gold sluice
+21. Carne
+22. Salt lick
+23. Sword stuck in a stone
+24. Sandpit quarry no one seems to be around
+25. Entrance to a troll's cave
+26. Waterfall
+27. Lake
+28. Wishing well
+29. Stone statue that weeps
+30. Sacred grove
+31. Geyser
+32. Entrance to a hermit's cave
+33. Ancient overgrown graveyard
+34. Small pool with stones around the edges
+35. Swift fl  owing creek with a man-made ford
+36. Iron cages hang from a tree with prisoners in them
+37. Ruins of a wooden tower
+38. Village of orphaned children
+39. Large stone cut into a perfect circle
+40. Cave entrance
+41. Grotto with a statue of a woman guarding a clear pool
+42. Hermit shack
+43. Single standing Stone
+44. Talking tree
+45. Ancient stone sarcophagus
+46. Lean-to against the base of a tree
+47. Moss-covered wall of a collapsed Stone building
+48. Witch tree
+49. Ancient statue of a king
+50. Hollow tree large enough to camp in
+
+## Forest Locations
+
+51. Well-maintained fruit orchard
+52. Pleasant glade
+53. Gallows tree
+54. Blue hole
+55. Rocks jut from the forest fl  oor mimicking trees
+56. Between knobby tree roots lies a crate of swords
+57. Massive chain drawn between two immense stones
+58. Ancient road covered with grass and leaves
+59. Abandoned campsite
+60. Freshly dug grave
+61. Circle of Standing Stones
+62. Treehouse village of small furry bipeds
+63. Foundation of stone of a once stout home
+64. Alchemist's Cottage
+65. Village of tiny people
+66. Stream with a statue lying supine at the bottom
+67. Tree covered with human skulls
+68. Closed gate but no walls
+69. Hill completely covered in soft thick moss
+70. Fairy ring
+71. Forest canopy is so thick that light barely gets through
+72. Cave with a secret cache of liquor
+73. Homey cottage
+74. Stones arranged in the shape of an arrow
+75. Stream with a beaver dam
+76. Large tree stump serves a table set for tea
+77. Ruins of a castle
+78. Abandoned treehouse
+79. Lake with a dock and a rowboat
+80. Badger den
+81. Ruins of a stone tower
+82. Ruins of a stockade
+83. Ancient quarry
+84.  Grotto where the ghost of an elf princess resides
+85. Bear den
+86. Fallen hollow tree large enough to walk through
+87. Wolf pit
+88. Fur trapper trading post
+89. Ring of death
+90. Entrance to an ogre lair
+91. Field fi  lled with lifelike stone statues
+92. Hot spring
+93. River pouring into a subterranean cavern
+94. Five piles of stones
+95. Stone about 8' in diameter stained with blood
+96. Barrows
+97. Tar pits
+98. Ship (there is no sea or water nearby)
+99. Area of the forest is blighted
+100. Stone spiral staircase leading into the earth
+
+## Road Encounters
+
+| 1. Princess traveling with a retinue                                       | 51. Troupe (1D8 wagons)                                                | 51. Troupe (1D8 wagons)                       |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------|
+| 2. Stuck wagon                                                             | 52. Peasant boys throwing apples at travelers                          | 52. Peasant boys throwing apples at travelers |
+| 3. Dead bodies (1D4)                                                       | 53. Bandits (1D6)                                                      | 53. Bandits (1D6)                             |
+| 4. Broken down statue of a beautiful woman                                 | 54. Puddle of blood                                                    |                                               |
+| 5. Bandits (1D20)                                                          | 55. Road fl ooded                                                      |                                               |
+| 6. Shallow grave                                                           | 56. Four halfl ings with elven cloaks                                  |                                               |
+| 7. Bandits (1D8)                                                           | 57. Little girl walking backward                                       |                                               |
+| 8. Merchant caravan (1D12 wagons)                                          | 58. Burnt wagon                                                        |                                               |
+| 9. Standing stone                                                          | 59. Refugees (1D4)                                                     |                                               |
+| 10. Unconscious man                                                        | 60. Fallen tree across the road                                        |                                               |
+| 11. Small family with a wagon                                              | 61. Bandits (1D4)                                                      |                                               |
+| 12. Farmer taking produce to market                                        | 62. Old wanderer (actually a god in disguise)                          | 62. Old wanderer (actually a god in disguise) |
+| 13. Fortuneteller                                                          | 63. Dwarf mercenary                                                    | 63. Dwarf mercenary                           |
+| 14. Stones arranged in a crude arrow                                       | 64. Sword lying in the road                                            |                                               |
+| 15. Refugees (1D6)                                                         | 65. Skipping child                                                     |                                               |
+| 16. Golden egg                                                             | 66. Dwarf smith                                                        |                                               |
+| 17. Merchant caravan (1D20 wagons)                                         | 67. Abandoned wagon                                                    |                                               |
+| 18. Two children carrying sacks                                            | 68. Strange symbol drawn on the road                                   |                                               |
+| 19. Wounded messenger                                                      | 69. Dead bodies (1D8)                                                  |                                               |
+| 20. Man carrying a ten-foot pole                                           | 70. Merchant caravan (1D6 wagons)                                      |                                               |
+| 21. Bandits (1D10)                                                         | 71. Refugees (1D8)                                                     |                                               |
+| 22. Dead bodies (1D100)                                                    | 72. Singing bard, woodland creatures listen                            | 72. Singing bard, woodland creatures listen   |
+| 23. Refugees (1D12) 24. Merchant caravan (1D4 wagons)                      | 73. Elf wearing a crown 74. Dead bodies (1D12)                         |                                               |
+| 25. Snake oil salesman                                                     | 75. Fire in a ditch                                                    |                                               |
+| 26. Pregnant woman                                                         | 76. Refugees (1D100)                                                   |                                               |
+| 27. Landslide covering a section of the road 28. Wagon with a broken wheel | 77. Dead body 78. Dead bodies (1D10)                                   |                                               |
+| 29. Merchant caravan (1D10 wagons)                                         | 79. Talking cat                                                        |                                               |
+| 30. Dead bodies (1D20)                                                     | 80. Chest                                                              |                                               |
+| 31. Book lying in the road                                                 | 81. Barrow                                                             |                                               |
+| 32. Wooden box full of maps 33. Ancient tomb                               | 82. Wolves (1D8) 83. Gnome tinker                                      |                                               |
+| 34. Pile up dead butterfl ies                                              | 84. Refugees (1D10) 85. Section of the road                            |                                               |
+| 35. Merchant caravan (1D8 wagons)                                          | washed out                                                             |                                               |
+| 36. Troupe (1D6 wagons)                                                    | 86. Large mud pit in the road                                          |                                               |
+| 37. Refugees (1D20)                                                        | 87. Troupe (1D4 wagons)                                                |                                               |
+| 38. Bandits (1D12)                                                         | 88. Wolves (1D6)                                                       |                                               |
+| 39. Tinman chopping wood                                                   | 89. Statue with a passage at the base 90. Gold piece lying on the road |                                               |
+| 40. Weeping pixie                                                          |                                                                        |                                               |
+| 41. Troupe (1D12 wagons)                                                   | 91. Tinker                                                             |                                               |
+| 42. Two gnomes riding mules                                                | 92. Wolves (1D4)                                                       |                                               |
+| 43. Troupe (1D10 wagons)                                                   | 93. Royal courier riding a horse                                       |                                               |
+| 44. Stone circle                                                           | 94. Mercenary                                                          |                                               |
+| 45. Man with a gigantic book strapped to his back                          | 95. Old wanderer                                                       |                                               |
+| 46. Two-headed snake                                                       | 96. Coins scattered all over the road                                  |                                               |
+| 47. Washed out bridge                                                      | 97. Elf mercenary                                                      |                                               |
+| 48. Young couple eloping                                                   | 98. Noble traveling with a retinue                                     |                                               |
+| 49. Dead bodies (1D6)                                                      | 99. Bear                                                               |                                               |
+| 50. Goose nest in the middle of the road                                   | 100. Troupe (1D20                                                      |                                               |
+|                                                                            | wagons)                                                                |                                               |
+
+## Woodland Animals
+
+1. Grackle
+
+2. Erman
+
+3. Bats (1D20)
+
+4. Wild pigs (1D12)
+
+5. Robin
+
+6. Wasps
+
+7. Wild horses (1D6)
+
+8. Hummingbird
+
+9. Elk
+
+10. Moth
+
+11. Wolves (1D8)
+
+12. Cockroach
+
+13. Vole
+
+14. Dear
+
+15. Wild mule
+
+16. Caterpillar
+
+17. Butterfl  y
+
+18. Beaver
+
+19. Wild horses (1D4)
+
+20. Deer (1D4)
+
+21. Wild pigs (1D6)
+
+22. Wild pigs (1D4)
+
+23. Hawk
+
+24. Deer (1D6)
+
+25. Weasel
+
+26. Deer (1D100)
+
+27. Chickadee
+
+28. Wolves (1D6)
+
+29. Titmouse
+
+30. Wild donkey
+
+31. Rat
+
+32. Fox
+
+33. Wild dogs (1D4)
+
+34. Deer (1D20)
+
+35. Mouse
+
+36. Wolves (1D4)
+
+37. Bobcat
+
+38. Mountain Lion
+
+39. Wildcat
+
+40. Mink
+
+41. Bears (1D8)
+
+42. Flying squirrel
+
+43. Woodchuck
+
+44. Coyote
+
+45. Gnats
+
+46. Bats (1D10)
+
+47. Wild pigs (1D20)
+
+48. Muskrat
+
+49. Wild horses (1D10)
+
+50. Deer (1D8)
+
+51. Bluejay
+
+52. Gray squirrel
+
+53. Finch
+
+54. Bears (1D6)
+
+55. Praying mantis
+
+56. Bats (1D100)
+
+57. Spider
+
+58. Falcon
+
+59. Bats (1D12)
+
+60. Opossum
+
+61. Chipmunk
+
+62. Grasshopper
+
+63. Wild horses (1D20)
+
+64. Wild boar
+
+65. Wild pig
+
+66. Lemmings
+
+67. Wolves (1D20)
+
+68. Red squirrel
+
+69. Ferret
+
+70. Shrew
+
+71. Moose
+
+72. Bear
+
+73. Duck
+
+74. Wolf
+
+75. Bats (1D8)
+
+76. Hornets
+
+77. Wild pigs (1D8)
+
+78. Wild horses (1D12)
+
+79. Wolves (1D12)
+
+80. Bat
+
+81. Wild pigs (1D10)
+
+82. Snake
+
+83. Wild horses (1D100)
+
+84. Bats (1D4)
+
+85. Wild horse
+
+86. Wild horses (1D8)
+
+87. Groundhog
+
+88. Eagle
+
+89. Wild dogs (1D8)
+
+90. Deer (1D12)
+
+91. Badger
+
+92. Mosquito
+
+93. Porcupine
+
+94. Wild pigs (1D100)
+
+95. Wolves (1D10)
+
+96. Deer (1D10)
+
+97. Bats (1D6)
+
+98. Bears (1D4)
+
+99. Mole
+
+100. Honey bees
+
+Items &amp; Things
+
+深驰
+
+00
+
+旺
+<!-- END_PAGE_RANGE_1_TO_15 -->
+
+
+
+
+
+<!-- START_PAGE_RANGE_16_TO_30 -->
+## Items in a Cell
+
+1. Thin bent copper plate
+
+2. Beer stein
+
+3. Rusted iron ring
+
+4. Tiny wooden box
+
+5. Raccoon skeleton
+
+6. Straw doll
+
+7. List of names written on parchment
+
+8. Packet of letters hidden behind a loose stone
+
+9. Broken staff
+
+10. Rotted mattress
+
+11. Dagger
+
+12. Shadow of a woman etched on the wall
+
+13. 'Willoughby' written in blood on the wall
+
+14. Small sharpened piece of iron
+
+15. Silver earring
+
+16. Dried rose
+
+17. Face of a child drawn on the wall
+
+18. Handkerchief with the Initials 'CJ'
+
+19. Piece of chain (4')
+
+20. Tiny symbol of a dragon
+
+21. Jailhouse calendar scratched into the wall
+
+22. Rotted shirt
+
+23. The skeleton of a prisoner
+
+24. Iron arrowhead
+
+25. Madman's manifesto written on the wall
+
+26. Small piece of fl  int
+
+27. Pile of quartz crystals on the bed
+
+28. Map of the prison
+
+29. Tiny rock statue of a halfl  ing
+
+30. Child hiding under the bed
+
+31. Oakleaf
+
+32. Broken board
+
+33. Finger bone
+
+34. Hilt of a dagger
+
+35. Spool of red thread
+
+36. Small brass gear
+
+37. Single link of a tiny silver chain
+
+38. Broken arm band
+
+39. Runes scratched into the wall
+
+40. Polished disk used as a mirror
+
+41. Parchment with a small hand print on it
+
+42. Unconscious halfl  ing
+
+43. 'Grildorf' scratched into the wall
+
+44. Four leaf clover
+
+45. Broken fl  ute
+
+46. Pool of yellow slime in the corner
+
+47. Outline of fi  re scratched on the fl  oor
+
+48. Broken wine bottle
+
+49. Silver ring
+
+50. Small puddle of oil
+
+51. Pool of dried blood
+
+52. Needle
+
+53. Coin from a foreign land
+
+54. Small padlock made of gold
+
+55. Signet ring of a duchess
+
+56. Small gold nugget
+
+57. Flower in a vase
+
+58. Copper piece
+
+59. Remnants of a fi  re
+
+60. Rotted blanket
+
+61. Brass button
+
+62. Unconscious elf
+
+63. Shiv
+
+64. Tin cup
+
+65. Inkwell (empty)
+
+66. Rusted nail
+
+67. Silver peace
+
+68. Rotted leather pouch
+
+69. Triangular shaped copper piece
+
+70. Silver key hidden behind a stone
+
+71. Small tin box
+
+72. Note
+
+73. Shard of broken glass
+
+74. Chicken feather carved into a rude quill
+
+75. Gold ring
+
+76. Fishhook
+
+77. Gold piece
+
+78. Single emerald
+
+79. Blanket
+
+80. Small crystal shard
+
+81. Multi-colored marble
+
+82. Letter 'R' scratched on the fl  oor
+
+83. Green dragon scale
+
+84. Sealed letter
+
+85. Marbles (D20)
+
+86. Broken vase
+
+87. Broken pewter pitcher
+
+88. Rusted manacles
+
+89. Tin plate
+
+90. Human femur
+
+91. Tiny gold shavings
+
+92. Scratches around one stone in the wall
+
+93. Small fi  gurine carved out of soap
+
+94. Small copper disk
+
+95. Bottle of wine (half full)
+
+96. Broken quill
+
+97. Strange red powder sprinkled on the fl  oor
+
+98. Small bit of string
+
+99. Electrum piece
+
+100. Tip of a dagger blade
+
+1. Daggers (1D6)
+
+2. Bottles of wine (1D8)
+
+3. Decaying halfl  ing head
+
+4. Vials of yellow liquid (1D8)
+
+5. Bottles of wine (1D4)
+
+6. Copper ingots (1D6)
+
+7. Bottles of wine (1D10)
+
+8. Silver pieces (1D20)
+
+9. Book
+
+10. Bowls of clear liquid (1D4)
+
+11. Gold pieces (1D4)
+
+12. Vellum manuscripts (1D4)
+
+13. Decaying human head
+
+14. Mummifi  ed child
+
+15. Dagger
+
+16. Silver pieces (1D6)
+
+17. Strange seed (4' in diameter)
+
+18. Smith's tools
+
+19. Glittering powder
+
+20. Candelabra
+
+21. Decaying dwarf head
+
+22. Bowl (empty)
+
+23. Silver pieces (1D4)
+
+24. Platinum pieces (1D4)
+
+25. Three polished stones sitting in a row
+
+26. Candles (1D6)
+
+27. Thin gold chain
+
+28. Daggers (1D8)
+
+29. A short sword covered in dried blood
+
+30. Small statue of a grizzly bear
+
+31. Gold pieces (1D8)
+
+32. Silver key wrapped in an old rag
+
+33. Monocle
+
+34. Books (1D12)
+
+35. Collection of letters
+
+36. Electrum pieces (1D4)
+
+37. Drawing of a beautiful woman
+
+38. Rose colored glasses
+
+39. Copper pieces (2D100)
+
+40. Lock of red hair tied with a blue ribbon
+
+41. Bottles of wine (1D10)
+
+42. Torches (1D6)
+
+43. Maps (1D12)
+
+44. Golden thread
+
+45. Copper pieces (1D4)
+
+46. Scrolls (1D4)
+
+47. Gold pieces (1D12)
+
+48. Iron ingots (1D6)
+
+49. Remnants of burned manuscripts
+
+50. Bottles of wine (1D6)
+
+## Items in a Chest
+
+51. Magic item
+
+52. Vials of blue liquid (1D8)
+
+53. Spell book
+
+54.Polished stone
+
+55. Books (1D20)
+
+56. Iron wire
+
+57. Copper pieces (1D100)
+
+58. Runes inscribed on a wooden stick
+
+59. Papyrus manuscripts (1D8)
+
+60. Mirror
+
+61. China plate
+
+62. Decaying elf head
+
+63. Sand and seashells
+
+64. Books (1D4)
+
+65. Sand
+
+66. Charred wood
+
+67. Stuff  ed otter
+
+68. Broken glass
+
+69. Toad in a glass bottle
+
+70. Brooch
+
+71. Books (1D8)
+
+72. Spectacles
+
+73. Drawing of a handsome man
+
+74. Magic item
+
+75. Vials of red liquid (1D8)
+
+76. Clay tablet with cuneiform writing
+
+77. Bottle of wine
+
+78. Mummifi  ed cat
+
+79. Feather
+
+80. Bowl covered in dried blood
+
+81. Unidentifi  ed seeds (1D100)
+
+82. Seedling sprouting from soil
+
+83. Note
+
+84. Vials of green liquid (1D8)
+
+85. Mummifi  ed badger
+
+86. Map
+
+87. Moth-eaten laundry
+
+88. Silver slippers
+
+89. Candles (1D4)
+
+90. Ashes
+
+91. Steel ingots (1D4)
+
+92. Pressed fl  ower
+
+93. Bloody rags
+
+94. Scroll
+
+95. Painting of a child
+
+96. Torch
+
+97. Decaying body
+
+98. Magic item
+
+99. Firewood
+
+100. Parchment manuscripts (1D12)
+
+1. Strange meat
+2. Canvas sack
+
+3. Rancid butter
+
+4. Silver pieces (1D8)
+
+5. Chain (2')
+
+6. Short sword made from a human femur
+
+7. Weasel pelts (1D8)
+
+8. Constable badge
+
+9. Ring (25% chance magical)
+
+10. Bear pelt
+
+11. Gold pieces (1D8)
+
+12. Elf scalps (1D4)
+
+13. Daggers (1D4)
+
+14. Longsword
+
+15. Letter
+
+16. Gold ring
+
+17. Dagger
+
+18. Clay shard with strange symbols
+
+19. Note
+
+20. Bolo
+
+21. Vial of blood
+
+22. Moldy cheese
+
+23. Waterskin
+
+24. Human scalps (1D4)
+
+25. Iron spikes (1D12)
+
+26. Crow wing
+
+27. Horsetail
+
+28. Bear trap
+29. Silver ring
+
+30. Map to a dungeon
+
+31. Leather pouch
+
+32. Book
+33. Maps (1D4)
+34. Dead bat
+
+35. Metal rod (25% chance magical)
+
+36. Stone pommel from a dwarf sword
+
+37. Longbow
+
+38. Dwarf scalps (1D6)
+
+39. Wineskin
+40. Iron hook
+
+41. Small pouch of salt
+
+42. Rabbit pelt
+
+43. Signet ring of a noble
+
+44. Broken key
+45. Dice set
+46. Deer pelt
+47. Short sword
+48. Flint and tinder
+
+49. Rolled up painting
+
+50. Amulet (25% chance magical)
+
+## Items on a Dead Orc
+
+51. Vial of sparkly powder
+
+52. Silver pieces (1D10)
+
+53. Goblet made from a halfl  ing skull
+
+54. Human scalps (1D8)
+
+55. Badger pelts (1D4)
+
+56. Arrow
+
+57. Deed to a nearby farm
+
+58. Human scalps (1D6)
+
+59. Iron arm ring
+
+60. Rope (hempen, 50')
+
+61. Map to a cave
+
+62. Bone powder
+
+63. Gold pieces (1D4)
+
+64. Totem
+
+65. Wolf tooth necklace
+
+66. Iron ring
+
+67. Copper pieces (1D12)
+
+68. Rabbit pelts (1D6)
+
+69. Maggoty bread
+
+70. Copper ring
+
+71. Bottle of wine (half full)
+
+72. Hawk feather headdress
+
+73. Dwarf scalps (1D4)
+
+74. Healing potion
+
+75. Dog pelt
+
+76. Arrows (1D10)
+
+77. Locked box with a coat of arms
+
+78. Map
+79. Obsidian ring
+
+80. Elven earring (25gp)
+
+81. Silk handkerchief embroidered with 'JM'
+
+82. Dagger (25% chance magical)
+
+83. Pig bones
+
+84. Human fi  ngers (1D10)
+
+85. Horse pelt
+
+86. Copper pieces (1D6)
+
+87. Gold tooth (2gp)
+
+88. Tin cup with a 'D' stamped on it
+
+89. Copper pieces (1D20)
+
+90. Elf ears (1D6)
+
+91. Sealed letter
+92. Amulet
+
+93. Leather straps (1D8)
+
+94. Iron nails (1D20)
+
+95. Sharpened stick
+
+96. Copper pieces (1D10)
+
+97. Silver pieces (1D4)
+
+98. Fishbones
+
+99. Human ears (1D4)
+
+100. Short bow
+
+## Jewelry
+
+| 1. Sapphire Bracelet (25gp)                             | 51. Opal Armlet (80gp)                                   |
+|---------------------------------------------------------|----------------------------------------------------------|
+| 2. Copper Earring (1gp)                                 | 52. Diamond Torc (75gp)                                  |
+| 3. Topaz Earring (15gp)                                 | 53. Emerald Brooch (75gp)                                |
+| 4. Topaz Armlet (35gp)                                  | 54. Topaz Belly Chain (30gp)                             |
+| 5. Copper Belly Chain (3gp)                             | 55. Jade Armlet (100gp)                                  |
+| 6. Emerald Circlet (200gp)                              | 56. Ruby Torc (135gp)                                    |
+| 7. Iron Circlet (1gp)                                   | 57. Silver Anklet (5gp)                                  |
+| 8. Diamond Necklace (200gp)                             | 58. Sapphire Circlet (185gp)                             |
+| 9. Gold Belly Chain (30gp)                              | 59. Copper Circlet (6gp)                                 |
+| 10. Silver Necklace (10gp)                              | 60. Emerald Earring (15gp)                               |
+| 11. Ruby Belly Chain (95gp)                             | 61. Lapis Lazuli Belly Chain (375gp)                     |
+| 12. Topaz Circlet (75gp)                                | 62. Diamond Earring (25gp)                               |
+| 13. Diamond Ring (50gp)                                 | 63. Iron Torc (1gp)                                      |
+| 14. Iron Armlet (2gp)                                   | 64. Ruby Brooch (50gp)                                   |
+| 15. Gold Bracelet (20gp)                                | 65. Lapis Lazuli Torc (350gp)                            |
+| 16. Opal Necklace (350gp)                               | 66. Emerald Necklace (300gp)                             |
+| 17. Diamond Anklet (25gp)                               | 67. Silver Circlet (30gp)                                |
+| 18. Ruby Ring (150gp)                                   | 68. Jade Necklace (300gp)                                |
+| 19. Silver Bracelet (5gp)                               | 69. Copper Necklace (3gp)                                |
+| 20. Sapphire Anklet (50gp)                              | 70. Ruby Anklet (65gp)                                   |
+| 21. Diamond Brooch (75gp)                               | 71. Opal Brooch (85gp)                                   |
+| 22. Ruby Earring (35gp)                                 | 72. Emerald Torc (80gp)                                  |
+| 23. Copper Ring (2gp)                                   | 73. Sapphire Torc (200gp)                                |
+| 24. Gold Ring (20gp)                                    | 74. Gold Necklace (100gp)                                |
+| 25. Lapis Lazuli Bracelet (150gp)                       | 75. Topaz Ring (55gp)                                    |
+| 26. Lapis Lazuli Earring (100gp)                        | 76. Sapphire Ring (100gp)                                |
+| 27. Emerald Anklet (30gp)                               | 77. Iron Earring (1gp)                                   |
+| 28. Topaz Torc (100gp)                                  | 78. Copper Bracelet (1gp)                                |
+| 29. Gold Anklet (20gp)                                  | 79. Lapis Lazuli Brooch (250gp)                          |
+| 30. Silver Brooch (10gp)                                | 80. Diamond Bracelet (25gp)                              |
+| 31. Emerald Ring (50gp)                                 | 81. Silver Earring (2gp)                                 |
+| 32. Gold Circlet (75gp)                                 | 82. Copper Armlet (2gp)                                  |
+| 33. Sapphire Earring (45gp)                             | 83. Sapphire Belly Chain (135gp)                         |
+| 34. Lapis Lazuli Ring (175gp)                           | 84. Jade Bracelet (75gp)                                 |
+| 36. Emerald Armlet (30gp)                               | 86. Silver Belly Chain (8gp)                             |
+| 37. Diamond Circlet (300gp)                             | 87. Iron Bracelet (1gp)                                  |
+| 38. Iron Necklace (3gp)                                 | 88. Gold Brooch (20gp)                                   |
+| 39. Diamond Belly Chain (100gp) 40. Gold Earring (10gp) | 89. Topaz Anklet (35gp) 90. Silver Armlet (5gp)          |
+| 41. Copper Torc (4gp)                                   | 91. Ruby Armlet (75gp)                                   |
+| 42. Opal Bracelet (55gp)                                | 92. Silver Ring (5gp)                                    |
+| 43. Lapis Lazuli Anklet (150gp)                         | 93. Gold Armlet (20gp)                                   |
+| 44. Gold Torc (60gp) 45. Topaz Brooch (45gp)            | 94. Opal Anklet (80gp) 95. Lapis Lazuli Necklace (500gp) |
+| 46. Iron Ring (1gp)                                     | 96. Ruby Circlet (155gp)                                 |
+| 47. Iron Brooch (2gp) 48. Copper Brooch (5gp)           | 97. Iron Belly Chain (1gp) 98. Opal Belly Chain (125gp)  |
+| 49. Sapphire Armlet (55gp)                              | 99. Lapis Lazuli Circlet (400gp)                         |
+| 50. Ruby Necklace (350gp)                               | 100. Amulet (+1 CHR, 1000gp)                             |
+
+## Items in Adventurer's Saddlebags
+
+1. Silver pieces (1D8)
+
+2. Leather bag
+
+3. Rope 10'
+
+4. Copper pieces (1D10)
+
+5. Copper pieces (1D8)
+
+6. Mail
+
+7. Slingshot
+
+8. Copper pieces (1D4)
+
+9. Parchment
+
+10. Silver pieces (1D6)
+
+11. Hankey
+
+12. Copper pieces (1D6)
+
+13. Cork
+
+14. Comb
+
+15. Gold pieces (1D20)
+
+16. Wooden whistle
+
+17. Rope 5'
+
+18. Flask
+
+19. Brass button
+
+20. Tiny bird carved out of wood
+
+21. Signet ring
+
+22. Beef jerky
+
+23. Ocarina
+
+24. Gold pieces (1D6)
+
+25. Gold pieces (1D4)
+
+26. Caltrops (1d12)
+
+27. Arrowhead
+
+28. Sealed message
+
+29. Change of clothes
+
+30. Potion of healing
+
+31. Lock
+
+32. Map of the countryside
+
+33. Holy symbol
+
+34. Spyglass
+
+35. Wallet
+
+36. Book
+
+37. Quill
+
+38. Potions of healing (1D4)
+
+39. Clerical robes
+
+40. Flint and steel
+
+41. Gold pieces (1D8)
+
+42. Dagger
+
+43. String (18')
+
+44. Ball bearings (1D100)
+
+45. Candy
+
+46. Silver pieces (1D4)
+
+47. Notebook
+
+48. Copper pieces (1D20)
+
+49. Tin pan
+
+50. Rope 20'
+
+51. Tiny metal box
+
+52. Pan fl  ute
+
+53. Oilskin
+
+54. Small mirror
+
+55. Treasure map
+
+56. Worry stone
+
+57. Insignia of a knightly order
+
+58. Honeycomb
+
+59. Small knife
+
+60. Vial of perfume
+
+61. Ink
+
+62. Tin cup
+
+63. Silver pieces (1D12)
+
+64. Silver pieces (1D20)
+
+65. Horseshoe nails
+
+66. Wooden pipe
+
+67. Tiny wooden box
+
+68. Canteen
+
+69. Gold pieces (1D10)
+
+70. Tin spoon
+
+71. Map of a dungeon
+
+72. Leather Pouch
+
+73. Tobacco (1D4 plugs)
+
+74. Key
+
+75. String (6')
+
+76. Key made of bone
+
+77. Potion of healing
+
+78. Hardtack
+
+79. Silver pieces (1D10)
+
+80. Figurine of a man carved out of ivory
+
+81. Compass
+
+82. Picket pin
+
+83. Tiny statue of a woman made of jade
+
+84. Tea leaves
+
+85. Map to a dungeon
+
+86. Spectacles
+
+87. Iron pan
+
+88. Tobacco (1D8 plugs)
+
+89. Whetstone
+
+90. Small container of paint
+
+91. Copper pieces (1D12)
+
+92. Lunch
+
+93. Mages robes
+
+94. Quills (1D4)
+
+95. Metal smoking pipe
+
+96. Forgery kit
+
+97. Gold pieces (1D12)
+
+98. Arrowheads (1D8)
+
+99. Manacles
+
+100. Thieves tools
+
+## Items in a Wagon
+
+51. Books (1D100)
+
+52. Copper pieces (1D100)
+
+53. Sacks of wheat (1D8)
+
+54. Great sword
+
+55. Deed to a farm
+
+56. Vegetables (1D100)
+
+57. Tanned cow hides (1D8)
+
+58. Hidden note
+
+59. Hay bale
+
+60. Broken porcelain dishes
+
+61. Rabbit pelts (1D12)
+
+62. Dead body
+
+63. Plate armor
+
+64. Wagon Wheel
+
+65. Crate of lanterns
+
+66. Sacks of fl  our (1D6)
+
+67. Leather (2' x 4')
+
+68. Elf in a cage
+
+69. Deed to a mine claim
+
+70. Fruit (1D100)
+
+71. Burned body
+
+72. Sacks of sugar (1D12)
+
+73. Lumber (1D12 boards)
+
+74. Crate of formal clothing
+
+75. Dagger made of some black material
+
+76. Bottles of wine (1D20)
+
+77. Wolf pelts (1D6)
+
+78. Human in a cage
+
+79. Crate of common clothing
+
+80. Land claim
+
+81. Dead orc
+
+82. Locked wooden chest
+
+83. Lumber (1D20 boards)
+
+84. Firewood
+
+85. Mountain lion in a cage
+
+86. Sacks of grain (1D8)
+
+87. Crate of tin cups
+
+88. Coyote pelts (1D10)
+
+89. Crates of parchment
+
+90. Pots and pans
+
+91. Piece torn from a formal women's dress
+
+92. Dead goat
+
+93. Chainmail
+
+94. Beaver pelts (1D6)
+
+95. Partially burned foreign fl  ag
+
+96. Basket of hawk feathers
+
+97. Stack of letters bound with crimson ribbon
+
+98. Canvas (4' x 4')
+
+99. Empty sacks (1D20)
+
+100. Flint and Tinder
+
+1. Square silver coin with a serpent design
+
+2. Rope (100')
+
+3. Map to a dungeon
+
+4. Silver pieces (1D20)
+
+5. Crate of longswords
+
+6. Prisoner
+
+7. Chain (12')
+
+8. Wolf pelts (1D8)
+
+9. Dead Goblin
+
+10. Crate of short swords
+
+11. Bear pelts (1D4)
+
+12. Crate of cookware
+
+13. Wolf in a cage
+
+14. Jugs of rum (1D4)
+
+15. Beaver pelts (1D20)
+
+16. Leather (1' x 5')
+
+17. Gloves
+
+18. Wax sealed letter
+
+19. Crate of daggers
+
+20. Canvas (3' x 6')
+
+21. Dead dwarf
+
+22. Bottles of oil (1D10)
+
+23. Dead halfl  ing
+
+24. Workman's hat
+
+25. Gold pieces (1D6)
+
+26. Burlap bags (1D20)
+
+27. Books (1D12)
+
+28. Leather armor
+
+29. Wolf pelts (1D8)
+
+30. Detailed map of a nearby town
+
+31. Gold piece from a legendary Kingdom
+
+32. Bottles of whiskey (1D20)
+
+33. Sacks of seeds (1D10)
+
+34. Crates of Vellum
+
+35. Canned fruit (1D100)
+
+36. Tanned goat hides (1D20)
+
+37. Crate of vases
+
+38. Arrowhead with an 'S' on it
+
+39. Basket of eagle feathers
+
+40. Dead elf
+
+41. Plate armor
+
+42. Weasel pelts (1D12)
+
+43. Mink pelts (1D20)
+
+44. Straw bales (1D6)
+
+45. Metal chest
+
+46. Small feather made of gold
+
+47. Hidden child
+
+48. Dead falcon
+
+49. Rope (50')
+
+50. Bundles of Wool
+
+## Items in a Wine Cellar
+
+| 1. Barrels of wine (1D20)                       | 51. Hiding halfl ing                                |
+|-------------------------------------------------|-----------------------------------------------------|
+| 2. Candles (1D8)                                | 52. Empty wine bottles (1D12)                       |
+| 3. Candles (1D4)                                | 53. Locked wooden chest                             |
+| 4. Torn bloody shirt                            | 54. Barrels of wine (1D10)                          |
+| 5. Champagne (1D8)                              | 55. Wine cellar inventory list                      |
+| 6. Broken chair                                 | 56. Towels(1D6)                                     |
+| 7. Bottles of wine (1D12)                       | 57. Wine bottle corks (1D8)                         |
+| 8. Broken table                                 | 58. Empty wine barrels (1D10)                       |
+| 9. Empty wine bottles (1D10)                    | 59. Tiny emblem of an eagle made out of gold        |
+| 10. Wine bottle corks (1D12)                    | 60. Bottles of wine (1D6)                           |
+| 11. Wine bottle corks (1D4)                     | 61. Corkscrews (1D12)                               |
+| 12. Two kitchen scullions playing cards         | 62. Rags (1D6)                                      |
+| 13. Shovel                                      | 63. Empty wine barrels (1D8)                        |
+| 14. Beer kegs (1D10)                            | 64. Rare vintage wine (200 gp)                      |
+| 15. Hiding child                                | 65. Wine bottle corks (1D10)                        |
+| 16. Secret door                                 | 66. Portrait of the cellar's owner                  |
+| 17. Broken wine bottle                          | 67. Books hidden in a wine barrel                   |
+| 18. Bottles of wine (1D4)                       | 68. Hidden stack of letters                         |
+| 19. Candles (1D6)                               | 69. Man pouring some liquid into a full wine bottle |
+| 20. Wine bottle corks (1D20)                    | 70. Rags (1D8)                                      |
+| 21. Barrels of wine (1D100)                     | 71. Young girl reading a huge book                  |
+| 22. New excavations in one corner               | 72. Long sword hidden behind a rack                 |
+| 23. Empty wine bottle sealed with a note inside | 73. Small statue of a young girl                    |
+| 24. Remnants of a servant's card game           | 74. Barrels of wine (1D8)                           |
+| 25. Champagne (1D12)                            | 75. Dagger with a jeweled hilt                      |
+| 26. Book hidden behind a wine bottle            | 76. Barrels of wine (1D4)                           |
+| 27. Dead body                                   | 77. Small wooden box containing notes               |
+| 28. One gold piece                              | 78. Scroll hidden behind a wine bottle              |
+| 29. Empty wine bottles (1D6)                    | 79. Wine barrel full of daggers                     |
+| 30. Empty wine bottles (1D20)                   | 80. Rags (1D4)                                      |
+| 31. Bottles of wine (1D10)                      | 81. Corkscrews (1D4)                                |
+| 32. Beer kegs (1D8)                             | 82. Towel (1D4)                                     |
+| 33. Corkscrews (1D6)                            | 83. Rare vintage wine (400 gp)                      |
+| 34. Hidden key                                  | 84. Bottles of wine (1D8)                           |
+| 35. Towels (1D8)                                | 85. Old man sleeping in the corner                  |
+| 36. Empty wine bottles (1D100)                  | 86. Bottles of wine (1D20)                          |
+| 37. Recipe for wine                             | 87. Thin copper chain with a symbol of the serpent  |
+| 38. One silver peace                            | 88. Empty wine bottles (1D4)                        |
+| 39. Short swords hidden in a wine barrel        | 89. Rare vintage wine (100 gp) 90. Lanterns (1D6)   |
+| 40. Champagne (1D4)                             | 91. Supply list                                     |
+| 41. Beer keg                                    |                                                     |
+| 42. Bottles of wine (1D100)                     | 92. Two young boys trying to smoke a pipe           |
+| 43. Copper pieces (1D8)                         | 93. Barrels of wine (1D6)                           |
+| 44. Wine bottle corks (1D6)                     | 94. Empty wine barrels (1D20)                       |
+| 46. Empty wine barrels (1D4)                    | 96. Torches (1D6)                                   |
+| 47. Locked metal chest                          | 97. Flint and tinder                                |
+| 49. Empty wine bottles (1D8)                    | 99. Barrels of wine (1D12)                          |
+| 50.Map to a dungeon                             | 100. Bottle of 1000-year-old wine (2000 gp)         |
+
+Food
+
+&amp; Drink
+
+1. Dark Lager
+
+2. Steam Beer
+
+3. Sour Beer
+
+4. Winter Beer
+5. Strong Ale
+
+6. Brown Beer
+
+7. Foreign Extra Stout
+
+8. Dortmunder Export
+
+9. Robust Porter
+
+10. Barley Wine
+
+11. Strong Pale Ale
+
+12. Black Lager
+
+13. Sweet Stout
+
+14. Blonde Ale
+
+15. Dunkel
+
+16. Fallwen Porter
+
+17. Pale Mild Ale
+
+18. Cocoa Beer
+
+19. Selonna Sugar Beer
+
+20. Wheat beer
+
+21. Dwarven Barrel-Aged Strong Beer
+
+22. Squash Beer
+
+23. Imperial Stout
+
+24. Vegetable beer
+
+25. Brown Porter
+
+26. Premium Pale Lager
+
+27. Ale
+
+28. Gnome Strong Pale Ale
+
+29. Malt Liquor
+
+30. Halfl  ing Cask Ale
+
+31. Golden Ale
+
+32. Old Ale
+
+33. Smoked Beer
+
+34. Riker's Bock
+
+35. Dwarven Dark Malt Liquor
+
+36. Dry Stout
+
+37. Field Beer
+
+38. Extra Special Bitter
+
+39. Low Town Bitter
+
+40. Sour Ale
+
+41. Coff  ee Beer
+
+42. Cream Stout
+
+43. Barrel-Aged Strong Beer
+
+44. Sweet Summer Ale
+
+45. Barrel-Aged Dark Beer
+
+46. Wild Beer
+
+47. Barley Wine Ale
+
+48. Rogue's Doppelbock
+
+49. Imperial Double Pale Ale
+
+50. Double Red Ale
+
+## Beers
+
+51. Longhouse Rye Beer
+
+52. Elven Summer Ale
+
+53. Lager
+54. Elven Pale Ale
+55. Amber Ale
+
+56. Oatmeal Stout
+
+57. Cream Ale
+
+58. Imperial Stout
+
+59. Dwarven Steam Beer
+
+60. Best Bitter
+
+61. Pale Lager
+
+62. Special Bitter
+
+63. Light Ale
+
+64. Koraduo Brown Beer
+
+65. Cask Ale
+
+66. Elven White Lager
+
+67. Dark Mild Ale
+
+68. Barrel-Aged Pale Beer
+
+69. Porter
+
+70. Smoke Porter
+
+71. Dunkles Bock
+
+72. Spice Beer
+
+73. Tropical Stout
+
+74. Stout
+
+75. Chili Pepper Beer
+
+76. Red Ale
+
+77. Imperial Red Ale
+
+78. Rye Beer
+
+79. Summer Ale
+
+80. Fruit Beer
+
+81. Brown Ale
+
+82. Helles Bock
+
+83. Strong Bitter
+
+84. Pale Ale
+
+85. Imperial Porter
+
+86. Barris Grain beer
+
+87. Autumn Beer
+
+88. Red Imperial Porter
+
+89. Session Pale Ale
+
+90. Halfl  ing Lambic
+
+91. Wood-aged Gnome Beer
+
+92. Pumpkin Spice Beer
+
+93. Elven Ordinary Bitter
+
+94. Honey beer
+
+95. Fruit Lambic
+
+96. Dark Helles Beer
+
+97. Barrel-Aged Sour Beer
+
+98. Dwarven Dark Lager
+
+99. Barrel-Aged Amber Beer
+
+100. Dwarven Red Ale
+
+1. Essiac tea
+
+2. Moringa tea
+
+3. Noni tea
+
+4. Lemon and ginger tea
+
+5. Turmeric tea
+
+6. Burdock
+
+7. Qishr
+
+8. Lemongrass tea
+
+9. Stevia tea
+
+10. Dandelion coff  ee
+
+11. Mistletoe
+
+12. Osmanthus tea
+
+13. Barley tea
+
+14. Pennyroyal leaf
+
+15. Neem leaf
+
+16. Skullcap
+
+17. Tallstrunt
+
+18. Fireweed tea
+
+19. Mint
+
+20. Broom tea
+
+21. Tiger Face Tea
+
+22. Wax gourd tea
+
+23. Staghorn sumac
+
+24. Holy Basil tea
+
+25. Hydrangea tea
+
+26. Fennel
+
+27. Caraway tea
+
+28. Holly tea
+
+29. Red Bush Tea
+
+30. Spruce tea
+
+31. Mountain Tea
+
+32. John's Wort
+
+33. Echinacea tea
+
+34. Patchouli tea
+
+35. Red raspberry leaf
+
+36. Cerasee tea
+
+37. Spicebush tea
+
+38. Kapor tea
+
+39. Citrus peel tea
+
+40. Coca tea
+
+41. Sassafras Root tea
+
+42. Luo han guo
+
+43. Valerian
+
+44. Woodruff
+
+45. Roasted corn tea
+
+46. Hawthorn
+
+47. Scorched rice
+
+48. Coff  ee leaf tea
+
+49. Chrysanthemum tea
+
+50. Elderberry
+
+## Herbal Teas
+
+51. Cannabis tea
+
+52. Licorice root tea
+
+53. Houttuynia
+
+54. Yarrow tea
+
+55. Serendib tea
+
+56. Artichoke tea
+
+57. Ginseng
+
+58. Boldo tea
+
+59. Roasted wheat tea
+
+60. Cat's Claw
+
+61. Roselle petal tea
+
+62. Blue Creeper tea
+
+63. Gentian
+
+64. Knotweed tea
+
+65. Sagebrush
+
+66. Red clover tea
+
+67. Salvia
+
+68. Rosemary
+
+69. Snapdragon tea
+
+70. Sobacha
+
+71. Cacao bean tea
+
+72. Vetiver
+
+73. Goji
+
+74. Kuzuyu
+
+75. Cherry blossom petal tea
+
+76. Kratom
+
+77. Labrador tea
+
+78. Catnip tea
+
+79. Pennywort leaf
+
+80. Chamomile
+
+81. Sage
+
+82. Cinnamon tea
+
+83. Honeybush tea
+
+84. Verbena tea
+
+85. Poppy tea
+
+86. Bee Balm
+
+87. Ginger root tea
+
+88. Poor man's ginseng
+
+89. Wong Lo Kat
+
+90. Thyme
+
+91. Nettle leaf
+
+92. New Seyru Tea
+
+93. Horehound
+
+94. Rose hip
+
+95. Kava root tea
+
+96. Lemon Balm
+
+97. Lime blossom tea
+
+98. Hibiscus tea
+
+99. Anise tea
+
+100. Dill tea
+
+## Seeds and Nuts
+
+1. Chickpeas
+
+2. Black walnuts
+
+3. Fox nut seeds
+
+4. Rice
+
+5. Witchetty bush seeds
+
+6. Chestnuts
+
+7. Curara seeds
+
+8. Wattle seeds
+
+9. Corn kernels
+
+10. Cempedak arils
+
+11. Water chestnuts
+
+12. Paradise nuts
+
+13. Mongongo
+
+14. Pili nuts
+
+15. Jackfruit seeds
+
+16. Chilgoza pine nuts
+
+17. Apricot kernels
+
+18. Mockernut hickory
+
+19. Hazelnuts
+
+20. Borneo tallow nuts
+
+21. Durian seeds
+
+22. Kola nuts
+
+23. Candlenut
+
+24. Ugu seeds
+
+25. Peas
+
+26. Podocarps seeds
+
+27. Mulga seeds
+
+28. Malabar chestnuts
+
+29. Coconuts
+
+30. Burrawang nuts
+
+31. Walnuts
+
+32. Pekea nuts
+
+33. Filberts
+
+34. Cashews
+
+35. Mongongo nuts
+
+36. Umbrella bush seeds
+
+37. Sunfl  ower seeds
+
+38. Stone pine nuts
+
+39. Western beaked hazelnut
+
+40. Cocoa beans
+
+41. Macadamia nuts
+
+42. Dog's tooth grass seeds
+
+43. Golden wattle seeds
+
+44. Betel nuts
+
+45. Almonds
+
+46. Pistachios
+
+47. Bitter apple seeds
+
+48. Ogbono nuts
+
+49. Mamoncillo seeds
+
+50. Beechnuts
+
+51. Malabar gourd seeds
+
+52. Heartnuts
+
+53. Hickory nuts
+
+54. Wiry wattle seeds
+
+55. Soybeans
+
+56. Brazil nuts
+
+57. Sweet chestnuts
+
+58. Peanuts
+
+59. Pumpkin seeds
+
+60. Watermelon seeds
+
+61. Acorns
+
+62. Ogbono seeds
+
+63. Monkey-puzzle nuts
+
+64. Cowpeas
+
+65. Butternuts
+
+66. Pecans
+
+67. Oats
+
+68. Gabon nuts
+
+69. Jack nuts
+
+70. Coff  ee beans
+
+71. Black ironwood seeds
+
+72. Bush mango
+
+73. Southern ironwood seeds
+
+74. Canarium nuts
+
+75. Paraná pine nuts
+
+76. Bardi bush seeds
+
+77. Pigweed seeds
+
+78. Kurrajong nuts
+
+79. Deeknuts
+
+80. Coastal wattle seeds
+
+81. Shagbark hickory
+
+82. Red bopple nuts
+
+83. Pomegranate seeds
+
+84. Wild rice
+
+85. Breadnuts
+
+86. Lotus seeds
+
+87. Yellow walnuts
+
+88. Palm nuts
+
+89. Poppy seeds
+
+90. Single-leaf pinyon  nuts
+
+91. Hemp seeds
+
+92. Sesame seeds
+
+93. Shellbark hickory
+
+94. Oldman saltbush seeds
+
+95. Bunya nuts
+
+96. Pindan wattle seeds
+
+97. Ranji bush seeds
+
+98. Shoestring acacia seeds
+
+99. Pine nuts
+
+100. Ginkgo nuts
+
+1. Pumpkin bread
+
+## Sweet Bread
+
+51. Queen cake
+
+2. Spiced apple bread
+
+3. White roll 4. Longevity peach 5. Buttered Loambot seed bread 6. Stoneheart iced bun 7. Sweet roll 8. Currant bun 9. Tendra bun 10. Gingerbread 11. Kulumie fi  lled bun 12. Raisins and cherry cake 13. Velsh walnut cake 14. Raisin bread 15. Sweet spice bread 16. Zarbo bun 17. Dripping cake 18. Powdered Bublik 19. Honey bun 20. Cardamom bread 21. Muffi n 22. Bee sting cake 23. Selanne buns 24. Waffl e 25. Cinnamon roll 26. King Listian bread 27. Gabbett muffi n 28. Egg waffl e 29. Almond cake 30. Berloc bread 31. Praxon sweet muffi n 32. Elven iced bread 33. Laval bun 34. Hazelnut cake 35. Cashew bread 36. Spiral raisin cakes 37. Red bean bread 38. Coconut bread 39. Pear bread 40. Arlos spiced cake 41. Custard fi  lled muffi ns 42. Walnut beer bread 43. Fig cake 44. Fruit bread 45. Dwarven stollen 46. Elven K'avel
+
+47. Fried sugar bread
+
+48. Halfl  ing scone
+
+49. Flakey bread
+
+50. Iced bun
+
+52. Crackle bread
+
+53. Sweet blood bread
+
+54. Sweet currant cake
+
+55. Raisin and sesame bread
+
+56. Hot cross bun
+
+57. Flat muffi n
+
+58. Shortcake
+
+59. Teacake
+
+60. Saff  ron bun
+
+61. Fruit peel bun
+
+62. Brack bread
+
+63. Doneta roll
+
+64. Sweet lemon bread
+
+65. Lotus seed bun
+
+66. King cake
+
+67. Ground apple cake
+
+68. Glazed fi  re bread
+
+69. Banbury cake
+
+70. Warburton's sweet bread
+
+71. Vanilla bread
+
+72. Fruit bun
+
+73. Peanut bun
+
+74. Sage sugar bun
+
+75. Pineapple bun
+
+76. Friendship bread
+
+77. Cardamom bread
+
+78. Banana bread
+
+79. Sticky bun
+
+80. Coff  ee cake
+
+81. Coco bread
+
+82. Egg and sugar bread
+
+83. Spiced honey bread
+
+84. Aniseed bread
+
+85. Honey raisin roll
+
+86. Crispy roll
+
+87. Sweet gum cake
+
+88. Buttery lemon cake
+
+89. Lardy cake
+
+90. Plum dumpling
+
+91. Grape cake
+
+92. Sugar lump bread
+
+93. Iced mound bread
+
+94. Morning cake
+
+95. Solange
+
+96. Circle bread
+
+97. Harkor bun
+
+98. Merton sweet bun
+
+99. Strawberry sweet cake
+
+100. Honeyed cherry bread
+
+## Seafood
+
+1. Snails
+
+2. Basa
+
+3. John Dory
+
+4. Black cod
+
+5. Shad
+
+6. Blowfi  sh
+
+7. Halibut
+
+8. Crayfi  sh
+
+9. Sardine
+
+10. Mullet
+
+11. Lumpfi  sh roe
+
+12. Haddock
+
+13. Whiting
+
+14. Oyster
+
+15. Rockfi  sh
+
+16. Dogfi  sh
+
+17. Shad roe
+
+18. Shark
+
+19. Mussel
+
+20. Swordfi  sh
+
+21. Anchovy
+
+22. Salmon
+
+23. Sea fi  g
+
+24. Octopus
+
+25. Lingcod
+
+26. Snapper
+
+27. Loco
+
+28. Alewife
+
+29. Hake
+
+30. Salmon roe
+
+31. Sand crab
+
+32. Albacore tuna
+
+33. Bream
+
+34. King crab
+
+35. Tilapia
+
+36. Smelt
+
+37. Mackerel
+
+38. Snow crab
+
+39. Sea cucumber
+
+40. Rainbow trout
+
+41. Bigeye tuna
+
+42. Bombay duck
+
+43. Sole
+
+44. Dorade
+
+45. Mud crab
+
+46. Prawn
+
+47. Periwinkle
+
+48. Sprat
+
+49. Dungeness crab
+
+50. Cuttlefi  sh
+
+51. Brill
+
+52. Catfi  sh
+
+53. Sablefi  sh
+
+54. Jellyfi  sh
+
+55. Shrimp
+
+56. Bass
+
+57. Trout
+
+58. Grouper
+
+59. Sturgeon
+
+60. Butter fi  sh
+
+61. Kingfi  sh
+
+62. Pompano
+
+63. Skate
+
+64. Pollock
+
+65. Sea urchin roe
+
+66. Squid
+
+67. Snakehead
+
+68. Pilchard
+
+69. Capelin roe
+
+70. Turbot
+
+71. Orange roughy
+
+72. Caviar (sturgeon roe)
+
+73. Flying-fi  sh roe
+
+74. Cod
+
+75. Sanddab
+
+76. Surimi
+
+77. Suiter-fi  sh
+
+78. Yellowfi  n tuna
+
+79. Eel
+
+80. Bluefi  n tuna
+
+81. Flounder
+
+82. Pomfret
+
+83. Herring
+
+84. Tilefi  sh
+
+85. Scallop
+
+86. Ilish
+
+87. Cockle
+
+88. Parrotfi  sh
+
+89. Bluefi  sh
+
+90. Prawn
+
+91. Toothfi  sh
+
+92. Whitefi  sh
+
+93. Lamprey
+
+94. Monkfi  sh
+
+95. Lobster
+
+96. Pike
+
+97. Sea bass
+
+98. Wahoo
+
+99. Herring roe
+
+100. Mahi Mahi
+
+## Fruit - Table #1
+
+1. Gemsbok cucumber
+
+51. Banana
+
+2. Bilimbi
+
+3. Sweet detar
+
+4. Maypop
+
+5. Buff  aloberry
+
+6. Governor's plum
+
+7. Moringa
+
+8. Lapsi
+
+9. Mango
+
+10. Giant blackberry
+
+11. Wild grape
+
+12. Naranjilla
+
+13. Illawarra plum
+
+14. Watermelon
+
+15. Fibrous satinash
+
+16. Apple
+
+17. Blue tongue
+
+18. Muscadine
+
+19. Snowberry
+
+20. Oil palm
+
+21. Emu apple
+
+22. Quince
+
+23. Cherimoya
+
+24. Brom's persimmon
+
+25. Wild orange
+
+26. Desert date
+
+27. Raspberry
+
+28. Bolwarra
+
+29. Sandpaper fi  g
+
+30. Pineapple
+
+31. Keule
+
+32. Sugar-apple
+
+33. Blueberry
+
+34. Karkalla
+
+35. Elven gooseberry
+
+36. Muntries
+
+37. Kiwano
+
+38. Mock strawberry
+
+39. Wild peach
+
+40. Huckleberry
+
+41. Coco de mer
+
+42. Rose-leaf bramble
+
+43. Guarana
+
+44. Ground plum
+
+45. Coco plum
+
+46. Batuan
+
+47. Muskmelon
+
+48. Sageretia
+
+49. Sycamore fi  g
+
+50. Strangler fi  g
+
+52. Cedar Bay cherry
+
+53. Barberry
+
+54. Strawberry
+
+55. Rambutan
+
+56. Mayapple
+
+57. Charichuelo
+
+58. Bush tomato
+
+59. Grape
+
+60. Deleb palm
+
+61. Kiwifruit
+
+62. Cocky apple
+
+63. Plum
+
+64. Dodder laurel
+
+65. Sand apple
+
+66. Lardizabala
+
+67. Kei apple
+
+68. Soursop
+
+69. Sugar plum
+
+70. Waterbessie
+
+71. Medlar
+
+72. Tamarind
+
+73. Avocado
+
+74. Nungu
+
+75. Black elderberry
+
+76. Balsam apple
+
+77. Sea grape
+
+78. Prickly pear
+
+79. Yellow plum
+
+80. Salak
+
+81. Milkplum
+
+82. Wild plum
+
+83. Chokecherry
+
+84. Goumi
+
+85. Capuli cherry
+
+86. Jackalberry
+
+87. Wild apricot
+
+88. Kakadu plum
+
+89. Natal plum
+
+90. Purple apple-berry
+
+91. Calabash
+
+92. Cluster fi  g
+
+93. Mamey sapote
+
+94. Cherry orange
+
+95. Junglesop
+
+96. Che
+
+97. Marula
+
+98. Common apple-berry
+
+99. Sweet apple-berry
+
+100. Hardy kiwi
+
+## Fruit - Table #2
+
+1. Riberry
+
+51. Pigface
+
+2. White star apple
+
+3. Arhat
+
+4. Baobab
+
+5. Coconut
+
+6. Papaya
+
+7. Small-leaf tamarind
+
+8. Dwarf's Hand
+
+9. Sapote
+
+10. Gingerbread plum
+
+11. Jambul
+
+12. Shumble melon
+
+13. Guava
+
+14. Lilly pilly
+
+15. Ackee
+
+16. Pear
+
+17. Peumo
+
+18. Mammee apple
+
+19. Conkerberry
+
+20. Doubah
+
+21. Pomelo
+
+22. Burdekin plum
+
+23. Button mangosteen
+
+24. Santol
+
+25. Gorval's plum
+
+26. Atherton Raspberry
+
+27. Durian
+
+28. Lemon
+
+29. Desert fi  g
+
+30. Finger lime
+
+31. Red raspberry
+
+32. Spiny monkey orange
+
+33. Waterberry
+
+34. Nonda plum
+
+35. Black apple
+
+36. Black walnut
+
+37. Rose myrtle
+
+38. Lime
+
+39. Jarma cherry
+
+40. Saskatoon berry
+
+41. Kutjera
+
+42. Miracle fruit
+
+43. Mundu
+
+44. Kakadu lime
+
+45. Lychee
+
+46. Thimbleberry
+
+47. Pink-fl  owered raspberry
+
+48. Emu berry
+
+49. False-mastic
+
+50. Pawpaw
+
+52. Salal
+
+53. Black raspberry
+
+54. Peach
+
+55. Feijoa
+
+56. Queensland ebony
+
+57. Saw palmetto
+
+58. Oual persimmon
+
+59. Jalpai
+
+60. Rhubarb
+
+61. Salmonberry
+
+62. Persimmon
+
+63. Mangosteen
+
+64. Red elderberry
+
+65. Wild mangosteen
+
+66. Mobola plum
+
+67. Broad-leaf bramble
+
+68. Zig zag vine
+
+69. Cranberry
+
+70. Safou
+
+71. Calamondin
+
+72. Orange
+
+73. Cherry ballart
+
+74. Pigeon plum
+
+75. Malay apple
+
+76. Lady apple
+
+77. Desert banana
+
+78. Midyim
+
+79. Jujube
+
+80. Cainito
+
+81. Custard-apple
+
+82. White aspen
+
+83. Bignay
+
+84. Longan
+
+85. Red mulberry
+
+86. Lanzones
+
+87. Bael
+
+88. Currant
+
+89. Eastern may hawthorn
+
+90. Gooseberry
+
+91. Desert lime
+
+92. Marang
+
+93. Little gooseberry tree
+
+94. Black cherry
+
+95. Carambola
+
+96. Southern crabapple
+
+97. Beach plum
+
+98. Gac
+
+99. Breadfruit
+
+100. Hanza
+<!-- END_PAGE_RANGE_16_TO_30 -->
+
+
+
+
+
+<!-- START_PAGE_RANGE_31_TO_39 -->
+## Vegetables - Table #1
+
+1. Dandelion
+
+2. Arugula
+
+3. Water chestnut
+
+4. Samphire
+
+5. Mizuna greens
+
+6. Rapini
+
+7. Garland Chrysanthemum
+
+8. Wheatgrass
+
+9. Komatsuna
+
+10. Yam
+
+11. Onion
+
+12. Manchurian wild rice
+
+13. Soko
+
+14. Lamb's lettuce
+
+15. Turnip
+
+16. Camas
+
+17. Canna
+
+18. Garbanzo
+
+19. Arracacha
+
+20. Poke
+
+21. Common purslane
+
+22. Gosli bologi
+
+23. Nopal
+
+24. Tigernut
+
+25. Sea beet
+
+26. Taro
+
+27. Lizard's tail
+
+28. Napa cabbage
+
+29. Velsh onion
+
+30. Tepary bean
+
+31. Trapa bicornis
+
+32. Florence fennel
+
+33. Enteromorpha
+
+34. Lotus root
+
+35. Bitter gourd
+
+36. Broccolini fl  owers
+
+37. Vanilla
+
+38. Soff   bologi
+
+39. Skirret
+
+40. Summer purslane
+
+41. Burdock
+
+42. Garlic chives
+
+43. Sweet potato
+
+44. Rutabaga
+
+45. Lamb's quarters
+
+46. Bitter melon
+
+47. Corn salad
+
+48. Elephant garlic
+
+49. Kale
+
+50. Sweet pepper
+
+51. Tomatillo
+
+52. Lemongrass
+
+53. Dolichos bean
+
+54. Snow pea
+
+55. Paracress
+
+56. Celery
+
+57. Hurmburg parsley
+
+58. Groundnut
+
+59. Tomato
+
+60. Courgette fl  owers
+
+61. Shallot
+
+62. Amaranth
+
+63. Tree onion
+
+64. Greater plantain
+
+65. Corchorus capsularis
+
+66. Ensete
+
+67. Fiddlehead
+
+68. Radicchio
+
+69. Mung bean
+
+70. Pumpkin
+
+71. Ulluco
+
+72. Winter melon
+
+73. Ricebean
+
+74. Chives
+
+75. Beet
+
+76. Ivy gourd
+
+77. Elephant foot yam
+
+78. Tatsoi
+
+79. Snap pea
+
+80. Golden samphire
+
+81. Molokhia
+
+82. Scorzonera
+
+83. Garden rocket
+
+84. Bamboo shoot
+
+85. Collard greens
+
+86. Black-eyed pea
+
+87. Asparagus
+
+88. Dulse
+
+89. Phyllostachys edulis
+
+90. Tinda
+
+91. Chicory
+
+92. Jícama
+
+93. Velvet bean
+
+94. Horseradish
+
+95. Earthnut pea
+
+96. Spinach
+
+97. Scallion
+
+98. Carola
+
+99. Drumstick
+
+100. Cassava
+
+## Vegetables - Table #2
+
+1. Daikon
+
+2. Wakame
+
+3. Okra
+
+4. Laver
+
+5. Sorrel
+
+6. Lentil
+
+7. Green bean
+
+8. Malabar spinach
+
+9. Arame
+
+10. Kuka
+
+11. Carrot
+
+12. Daylily
+
+13. Celtuce
+
+14. Shepherd's purse
+
+15. Prairie turnip
+
+16. Chickweed
+
+17. Runner bean
+
+18. Catsear
+
+19. Nori
+
+20. Orache
+
+21. Turmeric
+
+22. Eggplant
+
+23. Dabberlocks
+
+24. Cucumber
+
+25. Moth bean
+
+26. Sea vegetables
+
+27. Broadleaf arrowhead
+
+28. Chaya
+
+29. Squash
+
+30. Pearl onion
+
+31. Brussels sprouts
+
+32. Sea lettuce
+
+33. Squash blossoms
+
+34. Kurrat
+
+35. Guar
+
+36. Cabbage
+
+37. Galangal
+
+38. Cardoon
+
+39. Geru artichoke
+
+40. Borage greens
+
+41. Chayote
+
+42. Mashua
+
+43. Urad bean
+
+44. Ahipa
+
+45. Winged bean
+
+46. Endive
+
+47. Yardlong bean
+
+48. Potato
+
+49. Hijiki
+
+50. Artichoke
+
+51. Podded vegetables
+
+52. Lima bean
+
+53. Azuki bean
+
+54. Radish
+
+55. Good King Henry
+
+56. Luff  a
+
+57. Fat hen
+
+58. Kombu
+
+59. Pea
+
+60. Water caltrop
+
+61. Caulifl  ower
+
+62. Olive fruit
+
+63. Broccoli
+
+64. Mustard
+
+65. Aonori
+
+66. Land cress
+
+67. Keyven's Spinach
+
+68. Kohlrabi
+
+69. Garlic
+
+70. Khindor mallow
+
+71. Swede
+
+72. Horse gram
+
+73. Wasabi
+
+74. Ginger
+
+75. Leek
+
+76. Sea kale
+
+77. Bell pepper
+
+78. Parsnip
+
+79. Lettuce
+
+80. Stivos chard
+
+81. Fluted pumpkin
+
+82. Potato onion
+
+83. Miner's lettuce
+
+84. Zucchini
+
+85. Salsify
+
+86. Celeriac
+
+87. Pigeon pea
+
+88. Dill
+
+89. Turnip greens
+
+90. Beetroot
+
+91. Pignut
+
+92. Water spinach
+
+93. Mozuku
+
+94. Wild leek
+
+95. Watercress
+
+96. Sculpit
+
+97. Sour cabbage
+
+98. Cress
+
+99. Mallow
+
+100. Caper
+
+## Epitaphs, Quests, &amp; Dungeon Eff  ects
+
+<!-- image -->
+
+1. And the day has come.
+2. A true original.
+3. And the children shall lead.
+4. There we stand.
+5. Oathbreaker
+6. She will always be my love.
+7. Fortune favors the bold.
+8. Here lies Gremdor. Tremble.
+9. He died as miserably as he lived.
+10.  I've seen fi  re.
+11. I am scattered to the winds.
+12. The blade is sharp but he was sharper still.
+13. She died as she lived in a ball of fl  ame.
+14. I tread where no one else dared.
+15. The crown weighs heavy…
+16. Betrayed by a friend.
+17. Broken body, unbroken spirit.
+18. Shadows too will fall.
+19. Am I home now?
+20. Faithful friend.
+21. Know that I once lived.
+22. All the gold in the world could not save my life.
+23. Wait no longer.
+24. Unbroken.
+25. I shall sleep the last sleep.
+26. Murdered by a treacherous wizard.
+27. I'd rather be killing goblins.
+28. Death is not sleep. Sleep is sleep.
+29. Wisdom comes with age and so does death.
+30. Fueled by hate. Consumed by greed.
+31. The memory is still fresh.
+32. I had so much to say but now it is too late.
+33. Can I have but one more chance?
+34. I came. I saw. I died.
+35. All is lost.
+36. Do not weep, rejoice!
+37. Hatred will be my fuel in the afterlife.
+38. From dust to dust…
+39. One orc arrow too many.
+40. And the tears fl  ow like rain.
+41. Traitor.
+42. I still love you.
+43. Cursed is he who moves my bones.
+44. He died well.
+45. Do you understand me?
+46. Dream the dream.
+47. Rest after the journey.
+48. He must be brave who wishes to wear my crown.
+49. Weep.
+50. She still loves them.
+
+## Epitaphs
+
+51. Until we meet again…
+52. What's next?
+53. Here lies the king of fools.
+54. He died before his time.
+55. Even the young die.
+56. He shrank from nothing, not even death.
+57. Died saving innocent lives.
+58. He should've looked before he leapt.
+59. Wife. Mother. Beloved daughter.
+
+60. Food.
+
+61. I tried.
+
+62. The world was mine.
+
+63. Even in life he was gone.
+
+64. Husband. Father. Drunkard.
+
+65. All is darkness.
+
+66. Life had just begun...
+
+67. No second chances.
+
+68. Lost to us all.
+
+69. Is it written in stone?
+
+70. Husband. Father. Blacksmith.
+
+71. I shall reclaim my throne in this life or the next.
+
+72. He came home to his death.
+
+73. The hero of Innsdale. Felled by an orc arrow.
+
+74. They said it wouldn't hurt.
+
+75. Does now the rest come?
+
+76. I've hidden my great wealth. I dare you to fi  nd it.
+
+77. Has my pain ended?
+
+78. All I can say is that she was good.
+
+79. A king among men. A fool among fools.
+
+80. To be or not to be…
+
+81. I welcome death's embrace.
+
+82. I was the last one.
+
+83. I robbed and I cheated. Now I regret it.
+
+84. Is this the end?
+
+85. All I ever needed was a good blade.
+
+86. When magic goes wrong...
+
+87. There is no doubt she was a queen.
+
+88. I told you I was sick.
+
+89. What is a name?
+
+90. I put many in the grave, now I join them.
+
+91. Finally.
+
+92. What joys or horrors await me?
+
+93. From hell's heart I spit at thee...
+
+94. Did I waste it all?
+
+95. Where did all the time go?
+
+96. Our beloved child foully murdered by goblins.
+
+97. My body lies but still I roam.
+
+98. I oppose you even now.
+
+99. Prepare for  winter
+
+100. He was not careful.
+
+## Thieves Guild Quests
+
+- 1-2. A member of the guild has been kidnapped and is being held hostage You are sent to pay the ransom and to deliver a little surprise if you desire.
+- 3-4. Set fi  re to the shop of an uncooperative shopkeeper.
+- 5-6. Replace a letter being delivered to the king with a fake one.
+- 7-8. Steal the queen's signet ring so the leader of the guild can use it. Then return it unnoticed.
+- 9-10. You are sent to the poor quarter of town to recruit orphans into the guild.
+- 11-12. A wealthy dwarf noble has traveled to the city and established himself in the best rooms at the inn. Pay his rooms a visit and take a small 'toll.'
+- 13-14. Retrieve a special order short sword from the blacksmith and bring it to the guild leader.
+- 15-16. Steal a dungeon map from the captain of the guard.
+- 17-18. Steal a certain potion from the crazy old wizard who lives at the edge of town.
+- 19-20. Steal a bottle of wine from the inn.
+- 21-22. Steal a brooch from a noble's manor house.
+- 23-24. You are sent to explore some ruins that have been recently discovered on a hill outside of town.
+- 25-26. Steal a small gold idol from a ship moored in port
+- 27-28. Steal an ancient sword from the town's lorekeeper.
+- 29-30. Pickpocket three people before noon.
+- 31-32. Steal the ivory key that a certain noblewoman always wears around her neck. She must not be harmed.
+- 33-34. One of your fellow members was caught in the act. He is now in the town dungeon. Liberate your comrade.
+- 35-36. Someone is killing members of the guild. Investigate before you become a victim.
+- 37-38. Take the ashes of a deceased member of the guild up to the pool near the waterfall just north of town and sprinkle them there.
+- 39-40. Steal the alarm horn from the main gate tower of the city.
+- 41-42. Find out who stole a noble's painting. It was not the work of the guild.
+- 43-44. Some new players moved into town and set up a casino operation. It's time for the guild to get a piece of the action.
+- 45-46.  A  noble  has  paid  a  great  sum  for  two  elephant  tusks  to  be  mounted  in  his  palace.  An interested party is willing to pay even more to have the guild steal them.
+- 47-48. Steal several ingredients from the herbalist shop and bring them to the old healer that works for the guild.
+- 49-50. The three great noble houses of the city each possess a ruby as a symbol of their power. The guild wants these stones.
+
+51-52. Some adventurer at the inn has been bragging about how he has a treasure map. Relieve
+
+him of his property.
+
+- 53-54. Some fi  shermen haven't paid their dues. Go to their cabins and fi  nd any money they are hiding.
+- 55-56. Poison the drink of a certain nobleman. He only drinks a special vintage of wine that can only be found own wine cellar.
+- 57-58. A String of burglaries in the upper class side of town has everyone on edge. Nobody in the guild knows or will confess to the crimes. Investigate and fi  nd the burglar.
+- 59-60. Steal a rowboat and bring it to a certain spot that the guild leader told you about.
+- 61-62. Steal a painting from a noble's mansion and replace it with a fake.
+- 63-64. Steal some honey from a noble's beehives.
+- 65-66. A new merchant has defi  ed the guild. Demonstrate to him why it is better to cooperate.
+- 67-68. Steal an opal from the second story bedroom of a noble.
+
+## Thieves Guild Quests
+
+- 69-70. Steal a rare bottle of wine from a noble.
+- 71-72. Assassinate an uncooperative shopkeeper and make it public.
+- 73-74. Steal a certain coin from a noble's coin collection
+- 75-76. Track down a rogue guild member and bring them alive to the guild leader.
+- 77-78. An exotic vessel has arrived from a faraway land. The captain and crew brag that they have
+- exotic goods worth many gold pieces. Sneak on board and take an inventory.
+- 79-80. Escort the daughter of a high ranking guild member to the next town.
+- 81-82. Bring 100 gold pieces to the guild leader no questions asked.
+- 83-84. Sneak into the harbor master's offi ce and copy a ledger about arriving and departing ships.
+- 85-86. Conduct a series of small raids on a rival guild.
+- 87-88. A party of adventurers need a burglar. If you're up for some freelance work that is.
+- 89-90. Steal a painting from a noble's private collection
+- 91-92. Steal a statue from a noble's mansion.
+- 93-94. A ship's captain doublecrossed the guild. Set fi  re to his ship.
+- 95-96. Steal a bracelet that belongs to a noble.
+- 97-98. Steel a noble's famous wine recipe.
+- 99-100. Follow a certain noble for three days and report all of his movements to the guild leader.
+
+<!-- image -->
+
+## Dungeon Health Side Eff  ects
+
+1. Malaise
+
+2. Boils on exposed skin
+
+3. Earache
+
+4. Anxiety
+
+5. Fish odor syndrome
+
+6. Blisters on exposed skin
+
+7. Gout
+
+8. Mild rash on exposed skin
+
+9. Mood swings
+
+10. Laughing fi  ts
+
+11. Moderate rash on unexposed skin
+
+12. Dry eyes
+
+13. Heart palpitations
+
+14. Joint swelling
+
+15. Loss of coordination
+
+16. Eye pain
+
+17. Severe rash on unexposed skin
+
+18. Photophobia
+
+19. Bleeding under fi  nger and toenails
+
+20. Headache
+
+21. Pimples
+
+22. Sores on the soles of the feet
+
+23. Nervousness
+
+24. Productive cough
+
+25. Warts
+
+26. Sores around the mouth
+
+27. Boils on unexposed skin
+
+28. Anger
+
+29. Severe muscle aches
+
+30. Lethargy
+
+31. Confusion
+
+32. Mild rash on unexposed skin
+
+33. Mild muscle aches
+
+34. Hallucinations
+
+35. Mild joint pain
+
+36. Easy bruising
+
+37. Sneezing
+
+38. Hopelessness
+
+39. Hyperekplexia
+
+40. Mild thirst
+
+41. Coughing fi  ts
+
+42. Severe rash on exposed skin
+
+43. Desire to weep
+
+44. Trouble breathing
+
+45. Coughing up blood
+
+46. Trouble swallowing
+
+47. Lice
+
+48. Random seizure
+
+49. Fungal infection in the nose
+
+50. Alien hand syndrome
+
+51. Moderate joint pain
+
+52. Bleeding from the ears
+
+53. Feet swelling
+
+54. Nose bleeds
+
+55. Runny nose
+
+56. Sore throat
+
+57. Muscle tremors
+
+58. Fainting spells
+
+59. Athlete's foot
+
+60. Fever
+
+61. Moderate rash on exposed skin
+
+62. Fungal infection in the mouth
+
+63. Moderate thirst
+
+64. Hand swelling
+
+65. Moderate muscle aches
+
+66. Vomiting
+
+67. Blurred vision
+
+68. Sneezing fi  ts
+
+69. Lightheadedness
+
+70. Uncontrollable desire to sing
+
+71. Aggression
+
+72. Fatigue
+
+73. Extreme thirst
+
+74. Excessive sweating
+
+75. Hyperactivity
+
+76. Sadness
+
+77. Wheezing
+
+78. Uncontrollable weeping
+
+79. Nausea
+
+80. Tourette's
+
+81. White blisters on the tongue
+
+82. Migraine
+
+83. Blisters on unexposed skin
+
+84. Dizziness
+
+85. Upset stomach
+
+86. Dry skin
+
+87. Dry mouth
+
+88. Dry cough
+
+89. Facial swelling
+
+90. Diarrhea
+
+91. Severe joint pain
+
+92. Lack of appetite
+
+93. Stuff  y nose
+
+94. Giddiness
+
+95. Burning eyes
+
+96. Bleeding gums
+
+97. Desire to sing
+
+98. Slurred speech
+
+99. Threadworms
+
+100. Diffi culty sleeping
+
+## [Visit](https://www.dicegeeks.com/email-opt-in)
+
+[https://www.dicegeeks.com/free to get free random tables, dungeon maps, and more.](https://www.dicegeeks.com/email-opt-in)
+
+[The contents are copyrighted 2018 by dicegeeks and Matt Davids.](https://www.dicegeeks.com/)
+
+## [www.dicegeeks.com](https://www.dicegeeks.com/)
+<!-- END_PAGE_RANGE_31_TO_39 -->
+

@@ -1,0 +1,1229 @@
+{
+  "name": "Meta-Quests",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Erith:  The City of Diamonds - Legends say diamonds were so abundant that they were used as building materials, even by commoners.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Athin Elysar: The City of Red Stone - It is said that the red stone can float on water, yet is as hard as granite.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Picus: The City of Flowers - The stories tell of a city drenched in beautiful flowers and surrounded by blooming meadows.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Lyell:  The  City  of  Trees  -  The  old  wives  speak of a city built in the trees filled with singers and those who can fly.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Alandes: The City of Temples - Legends claim every building in the city is a temple to some god or demon and that they are all filled with treasure.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Tamplin: The City of the Lost - All the lost and lonely come to reside in the city or so that is what is whispered.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Plionij: The City of Mud - Supposedly this city is suspended by great chains over a boiling caldara of mud.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Maris: The Old City - The stories say this was the first city in the world. It is also said the World Tree lives at the center.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Teemu:  The  City  of  Shadows  -  Legends  tell  of  a  city  populated  with  wraiths  and  shades  that guard riches untold.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Vilne: The Cold City - Tales differ wildly, yet they agree that the city is made completely from ice.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Sy'ylk Durgen: The City of Dragons - The mythical home of the Dragon Lords. However, many believe it is not a myth.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Bele: The City of Emeralds - It is said the city sits upon the largest emerald mine in the world.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Janeth: The City of Sages - Some legends say the wise ones of ages past gathered in one city to add all of their knowledge together. Other legends say the arrogant ones destroyed the city.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Na-Mevrain: The City of Swords - Tales tell that every citizen was a smith and every hand held a sword.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Wytho: The City of Books - Every book ever written on this plane or others is supposed to be housed within the city walls.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Zerrak: The City of Sand - Once a beautiful oasis, it is now said the desert reclaimed the city and buried it under the sand.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Jeho: The City of Horses - The birthplace of the horse and horse riding or so it is claimed.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Kynnovan: The City of the Moon - A shimmering city only to be seen in the light of a full moon.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Keth Nidor: The Jasper City - Legends say the city walls are completely made of Jasper and that there is more unbelievable wealth inside them.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Tolas: The Floating City - There have seemingly always been tales, stories, myths and legends of a city that floats on the ocean, but few say more than that.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Morathi: The City of the Sky - A mythical city said to be perched on a thin spire of rock far above the ground.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Midanyl: The Shattered City - Once beautiful and prosperous, the stories say some disaster shattered the grand buildings and left the city a tomb.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "Selan: The City of Lights - Legends are told of a city that was bright as the day even at night.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Emala: The Wandering City - A city that moves is hard to find, yet many have tried.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Terrek: The Garden City - Lush gardens tended by myriads of slaves once drew visitors here, but no one living remembers where the city was located.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Bombassa: The City of Spices - Past generations speak of this city as the hub of spice trade in the world, but it is gone or so it seems.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Curran: The Dark City - Eternal darkness is said to cloak this city in an endless night which has supposedly driven everyone in it mad.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Ziven: The Broken City - It is written that the great city was split by a massive earthquake and hidden within the landscape so that visitors could no longer find it.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Shoma: The City of Iron - The famed hall of greatest ironworkers in the world. Most now believe it was a story spun by mead-loving blacksmiths.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Kruineph: The City of Cloth - The art of weaving was discovered here or at least that is what the tales say.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Jhcor: The City of Jaguars - A city of great power and wealth is said to be located in a vast jungle, yet none seem to be able to find it.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Kytra:  The  Topaz  City  -  Tales  say  the  city  was  made  entirely  of  topaz  even  down  to  the streets. Yet, the city seems to be lost, for no story tells where it is.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Mar-Shayal: The City of Falling Water - Legends speak of a city built over and among a series of waterfalls.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Danakar: The City of Bone - Supposedly built entirely of the bones of his enemies, this city was the home of a great emperor. Now, the empire is gone, and time has forgotten where the city even was.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Mohandai: The City of the Wise - Stories tell of a meeting place for the wise. It is also said that great stores of wisdom can be found within its walls but not in books.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Dei  Mishkoll:  The  City  of  the  Fist  -  There  are  those  who  speak  of  a  city  that  praised  only unarmed combat.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Mesoth: The Cloud City - A city resting only on clouds? Surely this is but a fool's tale, but what a magnificent one.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Waray: The City of Rivers - Built at the confluence of five great rivers, this city is now gone. Did the rivers finally swallow it up?",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Flandow: The City of Thieves - They say the city of extraordinary wealth was plagued by thieves until it was picked clean, but others say that was a rumor to keep the wealth hidden.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Pom: The City of Wells - A scenic city with wells of deep cold water. Now, it and all of its wonders are seemingly gone.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Tobian: The Mage Haven - Legends say centuries ago all magic users were persecuted and driven from the land. It is said the survivors fled to a city where they were safe and unseen by hateful eyes.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Maghr: The City of Eyes - It was said everything done in this city was seen by its unholy founder and that the citizens lived in dread of their all-knowing lord. The city is now gone, or is it still watching from somewhere?",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Bafili: The City of Children - Legends speak of a city where only children live, but none have been able to find it.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Gaman: The City of Lizards - A city of almost unimaginable beauty.  Tales say it was overrun by lizards causing the populace to flee.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Nise: The City of Ash - Rumors of a city covered completely by a volcanic eruption always abound. However, so many surround this city, it could hardly be imaginary.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Sadon: The City of Blood - Legends tell of a great slaughter, streets bathed in blood, and plunder left for the taking.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Keithel: The Divided City - Two factions split this city in constant strife and war. Did they finally destroy the entire city with their hatred?",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Vaj: The City of Spiders - Home of wickedness on earth. This city was said to be peopled with spider beings.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Dalledos: The City of Trade - The center of trade for a thousand years is now gone. Where could the ruins of the great city be?",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Gonni: The City of Arrows - Renowned for its archers, it is believed this city was destroyed in war more than an eon ago.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Saalia:  The  Copper  City  -  Delirious  tales  of  a  city  covered  in  copper  are  spun  in  tarvens around the land.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Varas Artis: The City of Fire - The city where fire was discovered or so the old men say. It is said to house wondrous marvels.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Wokbinlau: The City of Canals - The streets were waterways in the famed city. Where has it and all its treasures gone?",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Yrias  Harkor:  The  City  of  Gold  -  A  city  where  precious  metal  is  so  common  that  silver becomes worthless would be a great prize for any adventurer to find. Many have tried and the few that return from the hunt are usually mad.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Salvor:  The  City  of  the  Sun  -  Legends  say  travelers  could  find  rest  and  even  luxuries  in  a shining city perched on a hill.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Teroalaas: The City of Birds - Tales tell of a city which is lined with cages of exotic birds and pools where waterfowl silently hunted.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Nema:  The  City  of  Lions  -  Stories  about  an  unknown  people  who  worshipped  lions  have been told for generations. The tales of their reputed capital have inspired many thoughts of riches.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Athan: The City of Snakes - A mythical city said to be the birthplace of snakes. However, other tales tell of a mad queen who used snakes to protect her precious treasure.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Jyvun: The City of Dreams - The city was said to inspire fantastic dreams in all who sleep there. Now, the city itself may be lost in a dream.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Loms: The City of the Dead - Not a city exactly, but the graveyard of an empire. The tales of the wealth offered to lost deities still buried here grow wilder and more elaborate every year.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Zoras:  The  Burning  City  -  Legends  of  a  city  that  appears  to  be  burning  from  far  offhave enchanted  hearers  for  ages.  What  the  city  is  and  who  lives  there  fires  the  dreams  in  the adventurer's souls.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Randaral:  The  City  of  Ghosts  -  A  pleasant  and  wealthy  city  abandoned  because  ghosts hounded  the  inhabitants  to  the  breaking  point.  Tales  also  say  the  people  left  all  their belongings behind.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Sudime:  The  City  of  Lapis  -  Where  has  the  unbelievable  wealth  of  this  fabled  and  nearmythical city gone? Why did men forget its location?",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Cohmre: The City of Dirt - A magnificent city said to be made up totally of underground tunnels and chambers.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Jostin: The City of Coins - The misers of this city are said to have collected and stored coins upons coins from every land new or ancient. Adventurers are eager to listen to these tales, but few have tried to find the lost city.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Meriet: The City of Coal and Steam - Wild tales of a city where coal and steam powered fantastic inventions have enthralled children for generations.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Dawnshadow: The City of the Damned - Whispers of a city where the souls of unrepentant sinners go when they die are sure to abound in many corners of the world. However, there are some ancient writings that speak as if it is a real place that contains a mysterious treasure.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Narklin:  The  City  of  Smoke  -  A  vast  and  ancient  city  that  legends  say  was  consumed  in  a cloud of smoke and since lost to history.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Martano: The City of the Bull - A city fabled for bull dancers and statues of bulls. Now, lost in the mists of time, many wonder what happened to the city's wealth.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Kandra:  The  City  of  Rain  -  Tales  tell  of  a  city  sheathed  in  rain  until  its  people  went  mad. Where are all its treasures now?",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Yzalli:  The  City  of  Fools  -  Some  legends  say  the  people  of  the  city  were  all  fooled  by  an ancient trickster. Some legends say the city was home to jesters.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Flasthold:  The  City  of  Walls  -  A  city  of  intricate  walls  and  passageways  said  to  hide  the treasure of a mad wizard.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Surrel: The City of Silver - Tales of an endless silver mine are always readily listened to at the inn on a cool spring evening.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Huurlek: The City of the Strong - A warrior race is said to have lived in this city. They prized strength and wielded weapons that men no longer know how to make.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Kresh: The City of Grapes - The wines that came from this city are still talked about among those with mouths. Yet, it has been lost to civilization for a millenium.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Velos: The City of Crows - Vast clouds of crows circled this city as the wizard-warriors threw them  food.  Of  course  that's  not  all  the  legends  say.  They  also  say  the  crows'  food  was unwanted visitors to the city.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Kaila Li Anek: The City of Tombs - So called because it is said that every person in the city inexplicably died in their homes on the same night. Now, every building is a tomb.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Reytal:  The  City  of  the  Sunrise  -  An  immaculate  city  of  wonders  now  vanished  from  living memory.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Nnqueubss: The Hidden City - Legends speak of a city so afraid of the outside world they have hidden themselves and their uncounted riches.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Siala: The Opal City - A city of glorious wealth and opals beyonds the dreams of jewelsmiths.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "Aima: The City of Water - Stories tell of a giant fountain in the middle of this city that watered many lands with its outpouring. Where is it now? Broken and dry, hidden beneath sand and the forgetfulness of man?",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Shysha: The City of Silk - The old women would have you believe that this was the first city where silk was made. Others simply speak of the untold riches such a city would hold.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Faris: The Pleasure City - It is said that a race of exceedingly beautiful people lived in this city offering unnumbered pleasures to visitors.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Kuar  Ulluto:  The  City  of  Daggers  -  Taking  the  name  from  a  coat  of  arms  often  discussed among tavern goers, this city is said to hold the largest gold nugget in the world.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Damyuli: The City of Dogs - A city supposedly populated by fierce dogmen who guard a vast treasure.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Baku Condra: The City of Rubies - Rubies are said to have flowed from this city like water in a rushing brook. Where it is now?",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Kortu: The White City - Legends say the city was carved from a single emanse block of some nearly mythical white stone.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Abogado: The City of Sapphires - Glittering and glowing this city used to be a beacon of hope to traders and many lands.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Lurechia: The City of Doors - Every wall, a door. Every floor, a door. Every ceiling, a door. Tales say all who visit become lost.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Candroon: The City of Holes - Weary adventurers tell stories of a city riddled with pits, pits with no bottoms, mind you.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Voren: The City of Wind - A city that sails the skies upon crimson sails? Impossible! Though, there are some who claim to have seen it.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Jastrinas: The City of Cisterns - Once heralded as a fine city, it is said the cisterns ceased to be filled with water and became filled with bodies.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Doja: The City of Cats - The worship of cats is said to have lead this city into ruin as by the end, the animals outnumbered the people by a near inconceivable margin.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Ktrame: The City of Gates - Fourteen massive iron gates kept this city safe from all invaders, save one apparently. However, some stories say the gates kept something in, not out.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Bokiana: The City of Twilight - Tales are spoken of a city locked forever between day and night where the people forever toil and never find rest.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Tebbo: The Wooden City - Thought to be made entirely of wood, the city was said to hold rare treasures.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Vinjera: The City of Gallows - When the mad prince began hanging his citizens, few thought it  would  end  with  the  entire  city  empty.  Some  whisper  the  mad  prince  still  wanders  the deserted streets looking for more people to hang.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "Delza  H'darr: The City of Amber - Gorgeously arrayed in amber, this city is now forgotten by all except those to wonder where all the amber went.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "Rehal: The City of Mist - Shrouded in mist and mystery this city and the tales concerning it have sparked more than one foolhardy quest.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Xalrich: The City of Death - The city of the underworld spoke of in so many tales. It holds the key to eternal life or so it is said by tongues loosened by wine.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests",
+      "book": "Book Of Random Tables Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Quests",
+  "category": "quest",
+  "tags": [
+    "quest"
+  ],
+  "roll_type": "d100",
+  "sort_key": "meta-quests",
+  "entry_count": 100,
+  "version": 2
+}

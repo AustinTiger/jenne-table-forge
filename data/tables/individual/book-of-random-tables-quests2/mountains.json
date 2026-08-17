@@ -1,0 +1,1237 @@
+{
+  "name": "Mountains",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests2.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The watchtower in the mountain was damaged by a lightning strike. It must be repaired or the town will be vulnerable to attack.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "A group of children is lost in the mountains. Search parties are needed.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Tales  of  an  emerald  mine  in  the  mountains  have  circulated  for  generations.  Now  a  rich businesswoman would like to see if the tales are true or not. She is willing to sponsor an expedition into the mountains.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "A recent forest fire on the mountain slopes revealed the outline of a castle foundation. Could there be treasure?",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "The great teacher has died. Her body must be taken to the sacred burying ground on the other side of the mountains. It will not be an easy journey.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The party is tasked with finding a lost gold mine in the mountains.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Harpies are attacking caravans moving through the mountains. A reward is being offered to anyone who can rid the area of the monsters.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "One morning there was a new mountain on the horizon. The lands are in turmoil and the people terrified of what it could mean. Is this an ill omen? The party is asked to travel to it and investigate. The mountain is actually a vessel of some otherworldly horror that is releasing monsters and demons into the world.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Bandits are holding a local dignitary hostage in an old mine in the mountains. A reward is being offered to anyone who can free him.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The city's aqueduct has gone dry. It must be damaged somewhere in the mountains, and it needs to be fixed soon or the city will be dangerously low on water.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Local myths tell of a ship filled with treasure perched atop the highest peak of the highest mountain in  the  area.  Stories  abound  as  to  how  a  sailing  vessel  came  to  be  on  top  of  a mountain but is any of it even true?",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "A merchant is paying well for timber from the mountains. It's a straightforward way to make some coin.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "A dark cloud has formed over one of the peaks in the mountain range. It has been there for months now, and it cannot be a natural phenomenon. The villages and towns want a group of hardy souls to investigate.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Witnesses claim to have seen a 'castle, floating in the sky' crash into a nearby mountain. Legends have spoken of such a castle and the Secrets of Great Power contained within it.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "A glacier threatens to overrun a village. The villagers need help relocating.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "A peryton is devouring elves who travel through the mountains. An elven lord is offering a reward for proof the creature has been killed.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "A map has been found that leads to something deep in the mountains. A town wishes to sponsor an expedition to discover where and to what the map leads.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Rumors of recently uncovered ruins in the mountains have spurred an interest in treasure hunting. Several groups are gearing up to head into the hills to begin searching.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "An eccentric gnome announced that he hid a treasure in the mountains. Anyone who finds it can keep it.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "A fortune teller informs the party that a great treasure awaits them at the foot of a waterfall in the mountains.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "While the party is walking through a city, a stranger runs up to them and hands one of the characters a book, and then runs off. When the characters read the book, they find it is a story about a lost love, a lost treasure, and a fallen kingdom. Directions can be found in the book that leads them to a land in the north surrounded by mountains where they will find ruins of a once-great city-state. Exploring the ruins leads the party to defeat monsters, but they can also find the treasure, learn the story of the lost love, and find the lovers' tombs.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "The party must cross a mountain pass guarded by frost giants and yeti to reach an ancient ruin.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The Queen wants to map the nearby mountains. She is willing to provide equipment, supplies, and a nice reimbursement for anyone willing to take up the task.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "90.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "The village would like the caves in the nearby mountains to be explored more fully. They are hiring adventurers.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Search the mountains for a legendary silver mine before it falls into the hands of a wicked orc tribe.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Rumors tell of a hidden elven city in the mountains. It is said the streets are made of gold, and ancient knowledge is kept there. Many adventurers have searched for it, but none have ever found it.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "There is a mountain called 'The Great Beast.' Its shape bears an uncanny resemblance to a ferocious monster. Local legends say that a Great Hero once battled the Great Beast and drove a magical sword into its heart, which turned the creature to stone. Indeed, there is an ancient sword protruding from the mountainside. A reckless youth claims that the legend is  a  myth and plans to prove it by yanking the sword from the rock face. Most ignore his boastings, but one old woman warns of great danger if the sword is disturbed.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "A  volcano,  thought to be long dead, has exploded into life. Help the villagers escape the impending doom.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Something fell from the heavens and exploded in the mountains. The city wants someone to investigate.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "While traveling in the mountains, the party comes across a burned-out wagon. Goblin and faltering halfling tracks lead offinto woods nearby.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Fur trappers are reporting unusual tracks in the mountains. Many are beginning to fear that a strange beast is on the hunt. The fur trader guild wants to hire someone to investigate.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "The mountain path was covered in a landslide. Help is needed clearing the path.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Legends speak of a people isolated in a lonely valley deep in the mountains. It is said that the entire population is completely blind, and they have no understanding of light, color, or vision. However, their medicinal capabilities are said to be far beyond any others. A town is suffering from a mysterious plague and wishes to send someone to this 'Valley of the Blind' to find a cure.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Escort a monk to the tallest peak so they can offer incense to the gods.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "While traveling in the mountains, the party sees an ancient stone doorway built into the side of a mountain. There is seemingly nothing but the rock face beyond the door. However, if the ancient inscriptions on its posts can be read, the rock face disappears, revealing an ancient tomb, filled with treasure.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "A wealthy dwarf wants to locate a good quarry site within the mountains. He's hiring explorers to search for a good location.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Tales tell of an ancient fortress deep in the mountains. The mere sight of it is supposed to drive people mad. Of course, the tales tell of great treasure as well.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Legends say an old mystic, with the secret to the meaning of life, lives on top of the tallest peak in the mountains. Some have sought this knowledge, but none have ever returned.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The party discovers extremely lifelike stone statues at the entrance of what looks to be a long-forgotten mountain path. If they follow the path, it leads them to a decrepit manor house where they will encounter Medusa.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "The once-great dwarven city built under the mountains now lies in ruins. It is said ancient evils roam the halls, yet it is also said that untold riches are entombed there as well.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "A village needs help to terrace the mountain slopes nearby to create farmland.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "A beacon tower high in the mountains is not responding to the fire signals sent to it. Someone must travel to it quickly and discover why it is not responding. The flame must be kindled, so that the warning may continue across the realm.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "The party must climb the tallest peak to the home of the gods. There they must make their case as to why the gods should not destroy the human race.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "A depressed mountain princess is threatening to jump off   a cliff. She needs to be talked out of taking her life.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Bandits are striking at caravans and travelers from a secret base in the mountains. A sizable reward is offered to anyone who can find the base and stop the bandits.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "A crater lake in the mountains is draining. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Goblins have taken over a mountain town famous for its hot springs.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "A strange white circular object fell from the sky into a small village. It is creating discontent, anger, and rivalry among the people. The party is charged with taking it to a faraway mountain to offer it to a god. 48：",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Trolls have taken control of a bridge along the mountain road. They are too strong for any of the locals to deal with. If only some adventurers could help.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "The party is asked by the king to search for a mountain pass. There have always been rumors of one that was used in ancient times, but no one knows its location.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "A messenger from a remote village in the mountains came to retrieve a special medicine. However, recent snows have made the return journey impossible for one person. If they can't get back to the village with the medicine soon, many will die.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Ancient stories tell of a good wizard who sealed away a great evil in the 'Black Mountain.' However,  an  earthquake  has  opened  up  a  deep  crevice  in  the  mountain.  A  foul  stench emanates from it, and wicked things have been creeping forth and terrorizing local villages.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "The mountain pass has become completely blocked. Explorers are needed to find a new one.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Escort a group of settlers to the other side of the mountains before winter sets in and they are trapped.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "A recent earthquake slit the side of a mountain revealing stairs that go deep into the earth. Locals want the area explored.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Suddenly all life in a mountain lake has died. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Children playing along a mountain path discovered a tunnel. The village would like someone to investigate.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Monks are building a monastery and need help moving stones to the mountain location.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "The town ran offsome raiders, but they fled into the mountains. A reward is offered for any who tracks them down.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "It is said that one swallow of water from the mysterious fountain in the middle of the great mountains will cure the ills of the soul and body. A fat and lazy merchant is offering a handsome reward to anyone who brings him one cup full of water from the fountain.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "A  fur-trading  outpost  in  the  mountains  was  burned  to  the  ground.  The  party  is  asked  to investigate.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "While traveling in the mountains, the party sees a child fall into a frozen lake.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "A local merchant needs help cutting ice from a mountain lake to sell it in the town. She's paying well for the help.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "A mountain nearby a large city has begun to smoke. No one believed the mountain to be a volcano, so the mayor is hiring adventurers to investigate.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "The mountains are infested with goblins and orcs. The mountains need to be cleared if civilized folk are to live in the land.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Several wealthy merchants are offering a reward to anyone who can find a safer pass through the mountains.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "A local village is putting on a ski race. The winner will receive a reward.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "For the last week, strange lights have appeared in the mountains. The villagers are scared and want someone to investigate.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "The party is asked to take a shipment of weapons across the mountains to an isolated village.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Escort a caravan through the mountains to a dwarven city. Word has gotten out that the caravan will be carrying gold which has sparked some unwanted attention.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "A group of refugees emerges from the mountains they say they are being pursued by an evil warlord and his troops.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "A dragon has been seen in the mountains near the great city. A reward has been offered to any who can slay the beast.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "The mountain pass has been blocked by snow. The party is asked to help clear it.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Stories abound of a secluded grove in the mountains where a mysterious treasure is kept. Finding it has proved difficult, but many claim the reward would be worth the effort.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "A roc roosting in the mountains is now hunting more widely. Villages and towns are at risk and asking for help against this monster.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "A dead boy was found on the mountain path. On the corpse were a map, a scroll covered in runes, and a ring marked with a symbol from a legendary kingdom. Is the kingdom located in the mountains somewhere?",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "The ruins have stood upon the crags for ages. No one in memory has dared to climb up to them, even though it is said great treasure lies within them.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Debris from what appears to be a merchant caravan is washing down the river. The town is asking for volunteers to go upriver into the mountains to find out what happened.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "An old widow askes the party to take a large seed and to plant it deep in the mountains. What will grow from this strange seed?",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "The evil snow queen keeps the mountains covered in snow, so no one can travel through them. She must be defeated.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "A recent landslide revealed a doorway high on a cliffface in the mountains. The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "The old hermit of the mountain hasn't come to town for supplies in six months. The party is asked to check on him.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Rumors and tales say a boat with a large gold shipment sank in a mountain lake. Many have thought about searching for it, but few have actually tried to find it.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The queen is wanting to move her army through the mountains and she is hiring scouts to go ahead of the force to find the safest routes.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "A red dragon has moved into the ruins near the mountain pass. No one is daring to cross the mountains bringing trade and travel to a halt. Someone needs to slay or drive out the dragon, but who is brave enough?",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "The town is organizing a race to the top of the tallest local peak. The winner will receive a valuable prize and favor in the town.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "While traveling in the mountains, the party sees a group of travelers get caught in an avalanche.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "The mayor's daughter is terribly ill. The cure is said to be possessed by an alchemist who lives deep in the mountains. Can someone find the alchemist and return with the cure in time?",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "While traveling in the mountains, the party notices a lake that is boiling.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "A hunting party disappeared in the mountains. Search parties have turned up nothing, but the mayor would like some adventurers to keep searching at least for another week or so.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Escort a princess through the mountains so she can claim her rightful kingdom.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The ancient defensive wall in the mountains has been breached. The guards need help holding back the enemy while repairs are conducted.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "A robber baron has seized control of the mountain pass. Now, all merchants and travelers are being robbed. A reward is being offered to any who can drive the robber baron away.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "A group of stone giants has filled up the mountain pass with boulders. The giants need to be driven away and the pass cleared of debris.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "A mountain city is hosting a dog sled race and offering a prize to the winner.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Large wolves keep moving farther down the mountains. The town is offering bounties on wolf skins.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "A giant butterfly-like creature was spotted flying over the mountains. The town leadership is asking for someone to investigate.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "Workers are cutting a new pass through the mountains, yet someone keeps sabotaging the work. The party needs to discover the saboteur.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "A merchant caravan never emerged from the mountains. Are they lost or did they fall prey to bandits? The party is asked to investigate.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0100",
+      "type": 0,
+      "text": "The crown prince is ill. The court wizards' say the only cure is a rare plant that only grows in the mountains. The queen is offering a substantial reward to any who can go to the mountains and return with the plant as soon as possible.",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d101",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests2",
+      "book": "Book Of Random Tables Quests 2",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Quests 2",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d101",
+  "sort_key": "mountains",
+  "entry_count": 101,
+  "version": 2
+}

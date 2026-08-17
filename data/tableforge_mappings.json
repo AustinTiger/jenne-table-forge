@@ -1,0 +1,5134 @@
+{
+  "books": {
+    "100-fantasy-drugs": {
+      "name": "100 Fantasy Drugs"
+    },
+    "100-items-forsale-in-a-fantasy-black-market": {
+      "name": "100 Items Forsale In A Fantasy Black Market"
+    },
+    "100-things-you-find-in-a-haunted-house": {
+      "name": "100 Things You Find In A Haunted House"
+    },
+    "100-weapon-runes": {
+      "name": "100 Weapon Runes"
+    },
+    "advanced-weather-table": {
+      "name": "Advanced Weather Table"
+    },
+    "book-of-random-tables": {
+      "name": "Book Of Random Tables"
+    },
+    "book-of-random-tables-ancientworld": {
+      "name": "Book Of Random Tables Ancient World"
+    },
+    "book-of-random-tables-dungeons": {
+      "name": "Book Of Random Tables Dungeons"
+    },
+    "book-of-random-tables-eldritch": {
+      "name": "Book Of Random Tables Eldritch"
+    },
+    "book-of-random-tables-fantasyshops": {
+      "name": "Book Of Random Tables Fantasy Shops"
+    },
+    "book-of-random-tables-fantasyspace": {
+      "name": "Book Of Random Tables Fantasy Space"
+    },
+    "book-of-random-tables-innsandtaverns": {
+      "name": "Book Of Random Tables Inns and Taverns"
+    },
+    "book-of-random-tables-quests": {
+      "name": "Book Of Random Tables Quests"
+    },
+    "book-of-random-tables-quests2": {
+      "name": "Book Of Random Tables Quests 2"
+    },
+    "book-of-random-tables-quests3": {
+      "name": "Book Of Random Tables Quests 3"
+    },
+    "book-of-random-tables2": {
+      "name": "Book Of Random Tables 2"
+    },
+    "book-of-random-tables3": {
+      "name": "Book Of Random Tables 3"
+    },
+    "book-of-random-tables4": {
+      "name": "Book Of Random Tables 4"
+    },
+    "book-of-random-tables5": {
+      "name": "Book Of Random Tables 5"
+    },
+    "d100-drunkenboasts": {
+      "name": "Drunken Boasts"
+    },
+    "greatbook-of-random-tables": {
+      "name": "Great Book Of Random Tables"
+    },
+    "jamjies-book-of-odds": {
+      "name": "Jamjies Book Of Odds"
+    },
+    "random-insult-generator": {
+      "name": "Random Insult Generator"
+    },
+    "spontaneous-dungeon-masters-companion": {
+      "name": "Spontaneous Dungeon Masters Companion"
+    },
+    "wild-magicsurge-table-icewinds": {
+      "name": "Wild Magic Surge Table Icewinds"
+    },
+    "wild-magicsurge-table-vol-1": {
+      "name": "Wild Magic Surge Table 1"
+    },
+    "wild-magicsurge-table-vol-2": {
+      "name": "Wild Magic Surge Table 2"
+    },
+    "wild-magicsurge-table-vol-3": {
+      "name": "Wild Magic Surge Table 3"
+    },
+    "wild-magicsurges-100-magical-mishaps": {
+      "name": "Wild Magic Surges - 100 Magical Mishaps"
+    }
+  },
+  "tables": {
+    "100-fantasy-drugs/credits": {
+      "name": "CREDITS",
+      "category": "misc",
+      "tags": []
+    },
+    "100-fantasy-drugs/fantasy_drugs": {
+      "name": "100 Fantasy Drugs",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "100-items-forsale-in-a-fantasy-black-market/items_for_sale_in_a_fantasy_black_market": {
+      "name": "100 Items For Sale in a Fantasy Black Market",
+      "category": "misc",
+      "tags": []
+    },
+    "100-things-you-find-in-a-haunted-house/things_found_in_a_haunted_house": {
+      "name": "100 Things You Find in a Haunted House",
+      "category": "misc",
+      "tags": []
+    },
+    "100-weapon-runes/credits": {
+      "name": "CREDITS",
+      "category": "misc",
+      "tags": []
+    },
+    "100-weapon-runes/weapon_runes": {
+      "name": "100 Weapon Runes",
+      "category": "loot",
+      "tags": []
+    },
+    "advanced-weather-table/current_weather_table": {
+      "name": "Current Weather Table",
+      "category": "weather",
+      "tags": [
+        "weather"
+      ]
+    },
+    "advanced-weather-table/no_season_restrictions": {
+      "name": "Weather Complications",
+      "category": "weather",
+      "tags": [
+        "weather"
+      ]
+    },
+    "advanced-weather-table/unnamed": {
+      "name": "Unnamed",
+      "category": "misc",
+      "tags": []
+    },
+    "advanced-weather-table/unnamed_1": {
+      "name": "Unnamed 1",
+      "category": "misc",
+      "tags": []
+    },
+    "advanced-weather-table/weather_in_d_amp_d": {
+      "name": "Example",
+      "category": "misc",
+      "tags": []
+    },
+    "advanced-weather-table/weather_table": {
+      "name": "Tables",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables/book_titles": {
+      "name": "Book Titles",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables/catastrophes": {
+      "name": "Catastrophes",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables/culinary_herbs_amp_spices": {
+      "name": "Culinary Herbs &amp; Spices",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "book-of-random-tables/female_names-table_1": {
+      "name": "Female Names - Table #1",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables/female_names-table_2": {
+      "name": "Female Names - Table #2",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables/female_names-table_3": {
+      "name": "Female Names - Table #3",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables/forest_encounters": {
+      "name": "Forest Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "book-of-random-tables/gemstones-table_1": {
+      "name": "Gemstones - Table #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables/gemstones-table_2": {
+      "name": "Gemstones - Table #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables/gemstones-table_3": {
+      "name": "Encounters &amp; Events",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables/items_in_a_bandit_s_hideout": {
+      "name": "Items in a Bandit's Hideout",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_cottage": {
+      "name": "Items in a Cottage",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_hunter_s_camp": {
+      "name": "Items in a Hunter's Camp",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_noble_s_bedchamber": {
+      "name": "Items in a Noble's Bedchamber",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_port_master_s_office": {
+      "name": "Items in a Port Master's office",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_royal_tomb": {
+      "name": "Items in a Royal Tomb",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_ship_captain_s_quarters": {
+      "name": "Items in a Ship Captain's Quarters",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_warehouse": {
+      "name": "Items in a Warehouse",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_a_wizard_s_chamber": {
+      "name": "Items in a Wizard's Chamber",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_an_alchemist_s_lab": {
+      "name": "Items in an Alchemist's Lab",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_an_inn_s_kitchen": {
+      "name": "Items in an Inn's Kitchen",
+      "category": "loot",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables/items_in_an_office": {
+      "name": "Items in an office",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_in_fantasy_desk": {
+      "name": "Items in Fantasy Desk",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/items_on_a_dead_goblin": {
+      "name": "Items on a Dead Goblin",
+      "category": "loot",
+      "tags": [
+        "goblin"
+      ]
+    },
+    "book-of-random-tables/items_on_an_adventurer_s_dead_body": {
+      "name": "Items on an Adventurer's Dead Body",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables/male_names-table_1": {
+      "name": "Male Names - Table #1",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables/male_names-table_2": {
+      "name": "Male Names - Table #2",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables/male_names-table_3": {
+      "name": "Male Names - Table #3",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables/medicinal_herbs": {
+      "name": "Medicinal Herbs",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "book-of-random-tables/mountain_encounters": {
+      "name": "Mountain Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "book-of-random-tables/potion_ingredients": {
+      "name": "Potion Ingredients",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "book-of-random-tables/rumors_amp_odd_jobs": {
+      "name": "Visit",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables/seafaring_encounters": {
+      "name": "Seafaring Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables/swamp_encounters": {
+      "name": "Swamp Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "book-of-random-tables/weapons_armor_and_equipment": {
+      "name": "Weapons, Armor, and Equipment",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/assyrian_female_names": {
+      "name": "assyrian female names",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/assyrian_male_names": {
+      "name": "assyrian male names",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/babylonian_female_names": {
+      "name": "babylonian female names",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/babylonian_male_names": {
+      "name": "babylonian male names",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/canaanite_deities": {
+      "name": "Canaanite deities",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/egyptian_deities": {
+      "name": "egyPtian deities",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/egyptian_female_names_1": {
+      "name": "egyPtian female names #1",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/egyptian_female_names_2": {
+      "name": "egyPtian female names #2",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/egyptian_male_names_1": {
+      "name": "egyPtian male names #1",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/egyptian_male_names_2": {
+      "name": "egyPtian male names #2",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/encounters_and_items_on_a_battlefield": {
+      "name": "RUMORS AND ODD JOBS",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/greek_deities": {
+      "name": "greek deities",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/greek_female_names_1": {
+      "name": "greek female names #1",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/greek_female_names_2": {
+      "name": "greek female names #2",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/greek_female_names_3": {
+      "name": "greek female names #3",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/greek_male_names_1": {
+      "name": "greek male names #1",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/greek_male_names_2": {
+      "name": "greek male names #2",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/greek_male_names_3": {
+      "name": "greek male names #3",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/greek_male_names_4": {
+      "name": "greek male names #4",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/greek_male_names_5": {
+      "name": "greek male names #5",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/items_amp_things": {
+      "name": "food",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/items_in_a_house": {
+      "name": "items in a house",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/items_in_a_market": {
+      "name": "items in a market",
+      "category": "loot",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-ancientworld/items_in_a_palace": {
+      "name": "items in a PalaCe",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/items_in_a_temple": {
+      "name": "items in a temPle",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/mesopotamian_deities": {
+      "name": "mesoPotamian deities",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/npc_jobs": {
+      "name": "NPC JOBS",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-ancientworld/phoenician_female_names": {
+      "name": "PhoeniCian female names",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/phoenician_male_names": {
+      "name": "PhoeniCian male names",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/rumors_and_odd_jobs": {
+      "name": "NAMES",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/ship_s_cargo": {
+      "name": "ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables-ancientworld/sumerian_female_names": {
+      "name": "sumerian female names",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/sumerian_male_names": {
+      "name": "sumerian male names",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-ancientworld/unnamed": {
+      "name": "Unnamed",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/bodies": {
+      "name": "Bodies",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/clues_to_larger_quests": {
+      "name": "Clues to Larger Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-dungeons/combat_complications": {
+      "name": "Combat Complications",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/combat_encounters": {
+      "name": "Combat Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables-dungeons/doors_doors": {
+      "name": "Doors Doors",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/dungeon_descriptors_1": {
+      "name": "Dungeon Descriptors #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/dungeon_descriptors_2": {
+      "name": "Dungeon Descriptors #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/dungeon_descriptors_3": {
+      "name": "Dungeon Descriptors #3",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/dungeon_details": {
+      "name": "Maladies",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/dungeon_maps": {
+      "name": "Visit",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/dungeon_origin": {
+      "name": "Dungeon Origin",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/inscriptions": {
+      "name": "Inscriptions",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/items_to_find": {
+      "name": "Items to Find",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/main_foes_and_rivals": {
+      "name": "Main Foes and Rivals",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/non-combat_encounters_and_complications": {
+      "name": "Non-Combat Encounters and Complications",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables-dungeons/non-combat_encounters_and_complications_1": {
+      "name": "Non-Combat Encounters and Complications",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables-dungeons/room_features": {
+      "name": "Room Features",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items": {
+      "name": "Room Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_1": {
+      "name": "Room Items #1",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_11": {
+      "name": "Room Items #11",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_12": {
+      "name": "Room Items #12",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_2": {
+      "name": "Room Items #2",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_3": {
+      "name": "Room Items #3",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_4": {
+      "name": "Room Items #4",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_5": {
+      "name": "Room Items #5",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_6": {
+      "name": "Room Items #6",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_7": {
+      "name": "Room Items #7",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_8": {
+      "name": "Room Items #8",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_items_9": {
+      "name": "Room Items #10",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/room_types_room_types": {
+      "name": "Room Types Room Types",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/statues_with_a_secret": {
+      "name": "Statues with a Secret",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/trap_effects": {
+      "name": "Trap Effects",
+      "category": "trap",
+      "tags": [
+        "trap"
+      ]
+    },
+    "book-of-random-tables-dungeons/trap_triggers": {
+      "name": "Trap Triggers",
+      "category": "trap",
+      "tags": [
+        "trap"
+      ]
+    },
+    "book-of-random-tables-dungeons/unnamed": {
+      "name": "Unnamed",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/unnamed_1": {
+      "name": "Unnamed 1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/unnamed_2": {
+      "name": "Unnamed 2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/weird_scenarios": {
+      "name": "Riddles Riddles",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/alchemists": {
+      "name": "ALCHEMISTS",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/angel_and_demon_names_1": {
+      "name": "ANGEL AND DEMON NAMES #1",
+      "category": "names",
+      "tags": [
+        "angel",
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/angel_and_demon_names_2": {
+      "name": "ANGEL AND DEMON NAMES #2",
+      "category": "names",
+      "tags": [
+        "angel",
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/angel_and_demon_names_3": {
+      "name": "ANGEL AND DEMON NAMES #3",
+      "category": "names",
+      "tags": [
+        "angel",
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/angel_and_demon_names_4": {
+      "name": "PHOBIAS",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/cryptids": {
+      "name": "PEOPLE",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/dead_bodies_with_clues": {
+      "name": "DEAD BODIES WITH CLUES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/detective_names-female": {
+      "name": "DETECTIVE NAMES - FEMALE",
+      "category": "names",
+      "tags": [
+        "female",
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/detective_names-male": {
+      "name": "DETECTIVE NAMES - MALE",
+      "category": "names",
+      "tags": [
+        "male",
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/dreamscapes": {
+      "name": "DREAMSCAPES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/eldritch_clues": {
+      "name": "eldritch CLUES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/eldritch_story_hooks": {
+      "name": "LIST OF H.P. LOVECRAFT STORIES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/fictional_new_england_towns": {
+      "name": "ANGEL AND DEMON NAMES",
+      "category": "names",
+      "tags": [
+        "angel",
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/fictional_occult_book_titles": {
+      "name": "FICTIONAL OCCULT BOOK TITLES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/fictional_occult_scholar_names_1": {
+      "name": "FICTIONAL OCCULT SCHOLAR NAMES #1",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/fictional_occult_scholar_names_2": {
+      "name": "FICTIONAL OCCULT SCHOLAR NAMES #2",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-eldritch/haunted_objects": {
+      "name": "HAUNTED OBJECTS",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/items_in_a_hotel": {
+      "name": "ITEMS IN A HOTEL",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/list_of_h_p_lovecraft_stories": {
+      "name": "LIST OF H.P. LOVECRAFT STORIES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/occultists": {
+      "name": "ELDRITCH STORY HOOKS",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/oddities_1": {
+      "name": "ODDITIES #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/oddities_2": {
+      "name": "ODDITIES #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/phobias": {
+      "name": "PHOBIAS",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/random_clues": {
+      "name": "PLACES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-eldritch/real_occult_book_titles": {
+      "name": "CLUES",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/desk": {
+      "name": "Desk",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list": {
+      "name": "Armor",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_1": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_10": {
+      "name": "Music",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_11": {
+      "name": "Potions",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_12": {
+      "name": "Robes",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_13": {
+      "name": "Tack",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_14": {
+      "name": "Tailor",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_15": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_16": {
+      "name": "Wands",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_17": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_18": {
+      "name": "Writing Supplies",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_2": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_3": {
+      "name": "Bowyer",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_4": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_5": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_6": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_7": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_8": {
+      "name": "Magic Pets",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/extra_items_list_9": {
+      "name": "Extra Items List",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/fletcher": {
+      "name": "Fletcher",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/list_of_shops": {
+      "name": "Secrets",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/macabre_amp_oddities": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/person_descriptors_1": {
+      "name": "Person Descriptors #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/person_descriptors_2": {
+      "name": "Person Descriptors #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/person_descriptors_3": {
+      "name": "Person Descriptors #3",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/person_descriptors_4": {
+      "name": "Person Descriptors #4",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/secrets": {
+      "name": "Secrets",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/shop_appearance_1": {
+      "name": "Shop Appearance #1",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_appearance_2": {
+      "name": "Shop Appearance #2",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_appearance_3": {
+      "name": "Shop Appearance #3",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_appearance_4": {
+      "name": "Shop Appearance #4",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_1": {
+      "name": "Barber",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/shop_name_10": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_11": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_12": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_13": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_14": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_15": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/shop_name_16": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_17": {
+      "name": "Weapons",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/shop_name_18": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_2": {
+      "name": "Books",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/shop_name_3": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_4": {
+      "name": "Brewery",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/shop_name_5": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_6": {
+      "name": "General Store",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_7": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shop_name_8": {
+      "name": "Macabre &amp; Oddities",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/shop_name_9": {
+      "name": "Shop Name",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-fantasyshops/shopkeeper_rumors": {
+      "name": "Shopkeeper Rumors",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_1": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_10": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_11": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_12": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_13": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_14": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_15": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_16": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_17": {
+      "name": "Visit",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_2": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_3": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_4": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_5": {
+      "name": "Divination",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_6": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_7": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_8": {
+      "name": "Medicine",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/special_items_9": {
+      "name": "Special Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/storeroom": {
+      "name": "Storeroom",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyshops/toys_amp_tinkers": {
+      "name": "Toys &amp; Tinkers",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/alien_animals": {
+      "name": "Ways to Space",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/art_objects_and_artifacts": {
+      "name": "Art Objects and Artifacts",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/book_titles": {
+      "name": "Book Titles",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/insectoid_names": {
+      "name": "Insectoid Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/items_in_a_captian_s_quarters": {
+      "name": "Items in a Captian's Quarters",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/items_in_a_cargo_hold": {
+      "name": "Items in a Cargo Hold",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/items_in_a_derelict_ship": {
+      "name": "Items in a Derelict Ship",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/items_in_a_raided_town": {
+      "name": "Items in a Raided Town",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/items_in_a_space_sailor_s_chest": {
+      "name": "Items in a Space Sailor's Chest",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/items_in_a_wizard_s_lab": {
+      "name": "Items in a Wizard's Lab",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/items_in_an_abandoned_asteroid_hideout": {
+      "name": "Places &amp; Locations",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/items_in_an_observatory": {
+      "name": "Items in an Observatory",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/mechanical_being_names": {
+      "name": "Mechanical Being Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/ooze_names": {
+      "name": "Ooze Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/rumors": {
+      "name": "Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/ship_names_1": {
+      "name": "Ship Names #1",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/ship_names_2": {
+      "name": "Ship Names #2",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/ship_names_3": {
+      "name": "Ship Names #3",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/space_clown_names": {
+      "name": "Space Clown Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/tourist_traps": {
+      "name": "Tourist Traps",
+      "category": "trap",
+      "tags": [
+        "trap"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/ways_to_space": {
+      "name": "Rumors",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-fantasyspace/world_names_1": {
+      "name": "World Names #1",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/world_names_2": {
+      "name": "World Names #2",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/world_names_3": {
+      "name": "World Names #3",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables-fantasyspace/worlds_and_places": {
+      "name": "Alien Animals",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/carousing_1": {
+      "name": "Carousing #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/carousing_2": {
+      "name": "Rumors and Odd Jobs",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/exterior_appearance_1": {
+      "name": "Exterior Appearance #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/exterior_appearance_2": {
+      "name": "Exterior Appearance #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/inn_encounters_1": {
+      "name": "Inn Encounters #1",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/inn_encounters_2": {
+      "name": "Inn Encounters #2",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/inn_or_tavern_names": {
+      "name": "Inn or Tavern Names",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/inn_or_tavern_names_1": {
+      "name": "Inn/Tavern Names #1",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/inn_tavern_names_2": {
+      "name": "Inn/Tavern Names #2",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/inn_tavern_names_3": {
+      "name": "Inn/Tavern Names #3",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/inn_tavern_names_4": {
+      "name": "Inn or Tavern Appearance",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/interior_appearance_1": {
+      "name": "Interior Appearance #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/interior_appearance_2": {
+      "name": "Secret Rooms",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/meals": {
+      "name": "Items in Inn Rooms",
+      "category": "loot",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/owners": {
+      "name": "Owners",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/patrons": {
+      "name": "Patrons",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/people": {
+      "name": "Bards",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/quirks_distinctiveness": {
+      "name": "Meals",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/room_items_1": {
+      "name": "Room Items #1",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/room_items_2": {
+      "name": "Room Items #2",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/room_items_3": {
+      "name": "Inn Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-innsandtaverns/rumors_and_odd_jobs_1": {
+      "name": "Rumors and Odd Jobs #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/rumors_and_odd_jobs_2": {
+      "name": "Rumors and Odd Jobs #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/secret_rooms": {
+      "name": "Secret Rooms",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/servers": {
+      "name": "Servers",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests/doorways_to_another_world": {
+      "name": "Town Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests/dungeon_hooks": {
+      "name": "Royal Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests/forest_quests": {
+      "name": "Doorways to Another World",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests/lost_cities": {
+      "name": "Meta-Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests/meta-quests": {
+      "name": "Meta-Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests/quest_objects": {
+      "name": "Lost Cities",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests/questing_beasts": {
+      "name": "Quest Objects",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests/royal_quests": {
+      "name": "Forest Quests",
+      "category": "quest",
+      "tags": [
+        "forest",
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests/sea_quests": {
+      "name": "Sea Quests",
+      "category": "quest",
+      "tags": [
+        "quest",
+        "sea"
+      ]
+    },
+    "book-of-random-tables-quests/towns_quests": {
+      "name": "Towns Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests2/curses": {
+      "name": "Curses",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/deserts": {
+      "name": "Deserts",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/disasters": {
+      "name": "Disasters",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/dragons": {
+      "name": "Dragons",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/dwarves": {
+      "name": "Fighter Guild",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/fighter_guild": {
+      "name": "Fighter Guild",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/ghosts": {
+      "name": "Ghosts",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/halflings": {
+      "name": "Mountains",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/mountains": {
+      "name": "Mountains",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests2/war": {
+      "name": "Visit",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/apocalyptic": {
+      "name": "Apocalyptic",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/espionage": {
+      "name": "Espionage",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/fey": {
+      "name": "Fey",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/gnome": {
+      "name": "Gnome",
+      "category": "misc",
+      "tags": [
+        "gnome"
+      ]
+    },
+    "book-of-random-tables-quests3/maps": {
+      "name": "Messages",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/messages": {
+      "name": "Messages",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/quest_givers": {
+      "name": "Quest Givers",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables-quests3/ranger": {
+      "name": "Ranger",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/sky": {
+      "name": "Sky",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-quests3/thieves_guild": {
+      "name": "Visit",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/adventuring_gear": {
+      "name": "Adventuring Gear",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/booths_in_a_market": {
+      "name": "Booths in a Market",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables2/dungeon_room-table_1": {
+      "name": "Dungeon Room - Table #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/dungeon_room-table_2": {
+      "name": "Dungeon Room - Table #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/dungeon_room-table_3": {
+      "name": "Dungeon Room - Table #3",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/dungeon_room-table_4": {
+      "name": "Dungeon Room - Table #4",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/fortunes": {
+      "name": "Fortunes",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/goblin_names": {
+      "name": "Goblin Names",
+      "category": "names",
+      "tags": [
+        "goblin",
+        "names"
+      ]
+    },
+    "book-of-random-tables2/insults": {
+      "name": "Insults",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/items_in_a_smithy": {
+      "name": "Items in a Smithy",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables2/items_in_a_troll_s_cave": {
+      "name": "Items in a Troll's Cave",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables2/jobs": {
+      "name": "Jobs",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/kobold_names": {
+      "name": "Kobold Names",
+      "category": "names",
+      "tags": [
+        "kobold",
+        "names"
+      ]
+    },
+    "book-of-random-tables2/maps": {
+      "name": "Maps",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/musical_instruments": {
+      "name": "Musical Instruments",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/non-combat_encounters": {
+      "name": "Non-Combat Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables2/non-player_characters": {
+      "name": "Non-Player Characters",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/npc_reaction_to_failed_pickpocket_attempt": {
+      "name": "NPC Reaction to Failed Pickpocket Attempt",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/orc_names": {
+      "name": "Orc Names",
+      "category": "names",
+      "tags": [
+        "names",
+        "orc"
+      ]
+    },
+    "book-of-random-tables2/reasons_a_player_character_is_absent_for_a_session": {
+      "name": "Reasons a Player Character is Absent for a Session",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables2/town_names-table_1": {
+      "name": "Town Names - Table #1",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables2/town_names-table_2": {
+      "name": "Town Names - Table #2",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables2/town_names-table_3": {
+      "name": "Town Names - Table #3",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables2/town_names-table_4": {
+      "name": "Town Names - Table #4",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables2/town_names-table_5": {
+      "name": "Town Names - Table #5",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables3/beers": {
+      "name": "Beers",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/desert_encounters": {
+      "name": "Desert Encounters",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "book-of-random-tables3/dungeon_health_side_effects": {
+      "name": "Dungeon Health Side Effects",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/epitaphs_quests_amp_dungeon_effects": {
+      "name": "Epitaphs, Quests, &amp; Dungeon Effects",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables3/forest_locations": {
+      "name": "Forest Locations",
+      "category": "misc",
+      "tags": [
+        "forest"
+      ]
+    },
+    "book-of-random-tables3/fruit-table_1": {
+      "name": "Fruit - Table #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/fruit-table_2": {
+      "name": "Fruit - Table #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/herbal_teas": {
+      "name": "Herbal Teas",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/inn_names": {
+      "name": "Inn Names",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "book-of-random-tables3/items_in_a_cell": {
+      "name": "Items in a Cell",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables3/items_in_a_chest": {
+      "name": "Items in a Chest",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables3/items_in_a_wagon": {
+      "name": "Items in a Wagon",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables3/items_in_a_wine_cellar": {
+      "name": "Items in a Wine Cellar",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables3/items_in_adventurer_s_saddlebags": {
+      "name": "Items in Adventurer's Saddlebags",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables3/items_on_a_dead_orc": {
+      "name": "Items on a Dead Orc",
+      "category": "loot",
+      "tags": [
+        "orc"
+      ]
+    },
+    "book-of-random-tables3/jewelry": {
+      "name": "Jewelry",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/names_of_knightly_orders": {
+      "name": "Encounters &amp; Locations",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables3/road_encounters": {
+      "name": "Road Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables3/seafood": {
+      "name": "Seafood",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/seeds_and_nuts": {
+      "name": "Seeds and Nuts",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/sweet_bread": {
+      "name": "Sweet Bread",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/thieves_guild_quests": {
+      "name": "Thieves Guild Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    },
+    "book-of-random-tables3/vegetables-table_1": {
+      "name": "Vegetables - Table #1",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/vegetables-table_2": {
+      "name": "Vegetables - Table #2",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables3/woodland_animals": {
+      "name": "Woodland Animals",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/bounty_board": {
+      "name": "Bounty Board",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/cause_of_death": {
+      "name": "Cause of Death",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/critical_fails_for_melee_attacks": {
+      "name": "Critical Fails for Melee Attacks",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/critical_fails_for_spell_attacks": {
+      "name": "Critical Fails for Spell Attacks",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/critical_success_for_spell_attacks": {
+      "name": "Critical Success for Spell Attacks",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/cursed_items": {
+      "name": "Cursed Items",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables4/curses": {
+      "name": "Curses",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/dwarf_clan_names": {
+      "name": "Dwarf Clan Names",
+      "category": "names",
+      "tags": [
+        "dwarf",
+        "names"
+      ]
+    },
+    "book-of-random-tables4/dwarf_names": {
+      "name": "Dwarf Names",
+      "category": "names",
+      "tags": [
+        "dwarf",
+        "names"
+      ]
+    },
+    "book-of-random-tables4/elf_names": {
+      "name": "Elf Names",
+      "category": "names",
+      "tags": [
+        "elf",
+        "names"
+      ]
+    },
+    "book-of-random-tables4/fictional_spices": {
+      "name": "Fictional Spices",
+      "category": "misc",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "book-of-random-tables4/goals": {
+      "name": "Goals",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/halfling_names": {
+      "name": "halfling Names",
+      "category": "names",
+      "tags": [
+        "halfling",
+        "names"
+      ]
+    },
+    "book-of-random-tables4/inn_encounters": {
+      "name": "Inn Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "urban"
+      ]
+    },
+    "book-of-random-tables4/items_in_a_dragon_s_lair": {
+      "name": "Items in a Dragon's Lair",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables4/jungle_encounters": {
+      "name": "Jungle Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "jungle"
+      ]
+    },
+    "book-of-random-tables4/magic_items": {
+      "name": "People &amp; Characters",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/mutations": {
+      "name": "Mutations",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/notes_in_a_bottle": {
+      "name": "Notes in a Bottle",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/npc_physical_descriptions": {
+      "name": "NPC Physical Descriptions",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/sea-related_encounters": {
+      "name": "Items &amp; Things",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables4/song_titles": {
+      "name": "Song Titles",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/talking_inanimate_objects": {
+      "name": "Talking Inanimate Objects",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/trees": {
+      "name": "Trees",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables4/underground_encounters": {
+      "name": "Underground Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "book-of-random-tables5/carousing": {
+      "name": "Carousing",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/dragon_names": {
+      "name": "Dragon Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables5/fantasy_country_names_1": {
+      "name": "Fantasy Country Names #1",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables5/fantasy_country_names_2": {
+      "name": "Fantasy Country Names #2",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables5/fantasy_country_names_3": {
+      "name": "Fantasy Country Names #3",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables5/fey-touched_carnival_prizes": {
+      "name": "Fey-Touched Carnival Prizes",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/gang_names": {
+      "name": "Gang Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables5/items_in_a_fishing_boat": {
+      "name": "Items in a Fishing Boat",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables5/items_in_a_goblin_den": {
+      "name": "Items in a Goblin Den",
+      "category": "loot",
+      "tags": [
+        "goblin"
+      ]
+    },
+    "book-of-random-tables5/items_in_a_hermit_s_cave": {
+      "name": "Items in a Hermit's Cave",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables5/items_in_an_inn_room": {
+      "name": "Items in an Inn Room",
+      "category": "loot",
+      "tags": [
+        "urban"
+      ]
+    },
+    "book-of-random-tables5/items_on_a_battlefield": {
+      "name": "Business Profit &amp; Loss",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/key_backstory_moments": {
+      "name": "Key Backstory Moments",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/night_encounters": {
+      "name": "Items &amp; Things",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables5/npc_developments": {
+      "name": "NPC Developments",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/npc_quirks": {
+      "name": "NPC Quirks",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/phobias": {
+      "name": "Phobias",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/pirate_ship_names": {
+      "name": "Pirate Ship Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables5/profit_loss_255-500gp": {
+      "name": "Profit/Loss 255-500gp",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/profit_loss_5-250gp": {
+      "name": "Profit/Loss 5-250gp",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/profit_loss_505-750gp": {
+      "name": "People &amp; Characters",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/resurrection_side_effects": {
+      "name": "Resurrection Side Effects",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/ship_names": {
+      "name": "Ship Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "book-of-random-tables5/town_happenings": {
+      "name": "Town Happenings",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables5/troll_names": {
+      "name": "Carousing &amp; Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "d100-drunkenboasts/homebrew": {
+      "name": "Drunken Boasts",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/bardcore_song_titles": {
+      "name": "Bardcore Song Titles",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/blessings": {
+      "name": "Blessings",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles": {
+      "name": "Book Titles",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_10": {
+      "name": "Book Titles #10",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_2": {
+      "name": "Book Titles #2",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_3": {
+      "name": "Book Titles #3",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_4": {
+      "name": "Book Titles #4",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_5": {
+      "name": "Book Titles #5",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_6": {
+      "name": "Book Titles #6",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_7": {
+      "name": "Book Titles #7",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_8": {
+      "name": "Book Titles #8",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/book_titles_9": {
+      "name": "Book Titles #9",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/booths_in_a_market": {
+      "name": "Booths in a Market",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "greatbook-of-random-tables/bounty_board": {
+      "name": "Bounty Board",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/catastrophes": {
+      "name": "Catastrophes",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/cause_of_death": {
+      "name": "Cause of Death",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/critical_fails_for_melee_attacks": {
+      "name": "Critical Fails for Melee Attacks",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/critical_fails_for_spell_attacks": {
+      "name": "Critical Fails for Spell Attacks",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/critical_success_for_spell_attacks": {
+      "name": "Critical Success for Spell Attacks",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/culinary_herbs_amp_spices": {
+      "name": "Culinary Herbs &amp; Spices",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "greatbook-of-random-tables/cursed_items": {
+      "name": "Cursed Items",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/curses": {
+      "name": "Curses",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/desert_encounters": {
+      "name": "Desert Encounters",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "greatbook-of-random-tables/dungeon_health_side_effects": {
+      "name": "Dungeon Health Side Effects",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/dwarf_clan_names": {
+      "name": "Dwarf Clan Names",
+      "category": "names",
+      "tags": [
+        "dwarf",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/dwarf_names": {
+      "name": "Dwarf Names",
+      "category": "names",
+      "tags": [
+        "dwarf",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/elf_names": {
+      "name": "Elf Names",
+      "category": "names",
+      "tags": [
+        "elf",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/epitaphs": {
+      "name": "Epitaphs",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/fictional_spices": {
+      "name": "Fictional Spices",
+      "category": "misc",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "greatbook-of-random-tables/food": {
+      "name": "Beers",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/forest_encounters": {
+      "name": "Forest Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "greatbook-of-random-tables/forest_locations": {
+      "name": "Forest Locations",
+      "category": "misc",
+      "tags": [
+        "forest"
+      ]
+    },
+    "greatbook-of-random-tables/fortunes": {
+      "name": "Fortunes",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/fruit_1": {
+      "name": "Fruit #1",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/fruit_2": {
+      "name": "Fruit #2",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/gnome_names": {
+      "name": "Gnome Names",
+      "category": "names",
+      "tags": [
+        "gnome",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/goals": {
+      "name": "Goals",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/goblin_names": {
+      "name": "Goblin Names",
+      "category": "names",
+      "tags": [
+        "goblin",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/halfling_names": {
+      "name": "halfling Names",
+      "category": "names",
+      "tags": [
+        "halfling",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/herbal_teas": {
+      "name": "Herbal Teas",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/human_female_names_1": {
+      "name": "Human Female Names #1",
+      "category": "names",
+      "tags": [
+        "female",
+        "human",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/human_female_names_2": {
+      "name": "Human Female Names #2",
+      "category": "names",
+      "tags": [
+        "female",
+        "human",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/human_female_names_3": {
+      "name": "Human Female Names #3",
+      "category": "names",
+      "tags": [
+        "female",
+        "human",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/human_male_names_1": {
+      "name": "Human Male Names #1",
+      "category": "names",
+      "tags": [
+        "human",
+        "male",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/human_male_names_2": {
+      "name": "Human Male Names #2",
+      "category": "names",
+      "tags": [
+        "human",
+        "male",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/human_male_names_3": {
+      "name": "Human Male Names #3",
+      "category": "names",
+      "tags": [
+        "human",
+        "male",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/human_npcs": {
+      "name": "Human NPCs",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "greatbook-of-random-tables/inn_encounters": {
+      "name": "Inn Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "urban"
+      ]
+    },
+    "greatbook-of-random-tables/inn_names": {
+      "name": "Inn Names",
+      "category": "names",
+      "tags": [
+        "names",
+        "urban"
+      ]
+    },
+    "greatbook-of-random-tables/insults": {
+      "name": "Insults",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_bandit_hideout": {
+      "name": "Items in a Bandit Hideout",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_barn": {
+      "name": "Items in a Barn",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_cell": {
+      "name": "Items in a Cell",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_chest": {
+      "name": "Items in a Chest",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_cottage": {
+      "name": "Items in a Cottage",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_desk": {
+      "name": "Items in a Desk",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_dragon_s_lair": {
+      "name": "Items in a Dragon's Lair",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_dungeon_room_1": {
+      "name": "Items in a Dungeon Room #1",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_dungeon_room_2": {
+      "name": "Items in a Dungeon Room #2",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_dungeon_room_3": {
+      "name": "Items in a Dungeon Room #3",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_dungeon_room_4": {
+      "name": "Items in a Dungeon Room #4",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_dungeon_room_5": {
+      "name": "Items in a Dungeon Room #5",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_dungeon_room_6": {
+      "name": "Items in a Dungeon Room #6",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_hunter_s_campsite": {
+      "name": "Items in a Hunter's Campsite",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_noble_bedchamber": {
+      "name": "Items in a Noble Bedchamber",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_port_master_s_office": {
+      "name": "Items in a Port Master's office",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_royal_tomb": {
+      "name": "Items in a Royal Tomb",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_ship_captain_s_quarters": {
+      "name": "Items in a Ship Captain's Quarters",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_ship_s_cargo_hold": {
+      "name": "Items in a Ship's Cargo Hold",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_smithy": {
+      "name": "Items in a Smithy",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_troll_s_cave": {
+      "name": "Items in a Troll's Cave",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_wagon": {
+      "name": "Items in a Wagon",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_warehouse": {
+      "name": "Items in a Warehouse",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_wine_cellar": {
+      "name": "Items in a Wine Cellar",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_a_wizard_s_chamber": {
+      "name": "Items in a Wizard's Chamber",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_an_adventurer_s_saddle_bags": {
+      "name": "Items in an Adventurer's Saddle Bags",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_an_alchemist_s_lab": {
+      "name": "Items in an Alchemist's Lab",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_in_an_inn_s_kitchen": {
+      "name": "Items in an Inn's Kitchen",
+      "category": "loot",
+      "tags": [
+        "urban"
+      ]
+    },
+    "greatbook-of-random-tables/items_in_an_office": {
+      "name": "Items in an office",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_on_a_dead_adventurer": {
+      "name": "Items on a Dead Adventurer",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/items_on_a_dead_goblin": {
+      "name": "Items on a Dead Goblin",
+      "category": "loot",
+      "tags": [
+        "goblin"
+      ]
+    },
+    "greatbook-of-random-tables/items_on_a_dead_orc": {
+      "name": "Items on a Dead Orc",
+      "category": "loot",
+      "tags": [
+        "orc"
+      ]
+    },
+    "greatbook-of-random-tables/jewelry": {
+      "name": "Jewelry",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/jobs": {
+      "name": "Jobs",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/jungle_encounters": {
+      "name": "Jungle Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "jungle"
+      ]
+    },
+    "greatbook-of-random-tables/knightly_orders_names": {
+      "name": "Knightly Orders Names",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/kobold_names": {
+      "name": "Kobold Names",
+      "category": "names",
+      "tags": [
+        "kobold",
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/magic_items": {
+      "name": "Magic Items",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    },
+    "greatbook-of-random-tables/maps": {
+      "name": "Maps",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/medicinal_herbs": {
+      "name": "Medicinal Herbs",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "greatbook-of-random-tables/mountain_encounters": {
+      "name": "Mountain Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "greatbook-of-random-tables/musical_instruments": {
+      "name": "Musical Instruments",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/mutations": {
+      "name": "Mutations",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/non-combat_encounters": {
+      "name": "Non-Combat Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "greatbook-of-random-tables/notes_in_a_bottle": {
+      "name": "Notes in a Bottle",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/npc_physical_descriptions": {
+      "name": "NPC Physical Descriptions",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/npc_reaction_to_failed_pickpocket_attempt": {
+      "name": "NPC Reaction to Failed Pickpocket Attempt",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/nuts_and_seeds": {
+      "name": "Nuts and Seeds",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/orc_names": {
+      "name": "Orc Names",
+      "category": "names",
+      "tags": [
+        "names",
+        "orc"
+      ]
+    },
+    "greatbook-of-random-tables/potion_ingredients": {
+      "name": "Potion Ingredients",
+      "category": "alchemy",
+      "tags": [
+        "alchemy"
+      ]
+    },
+    "greatbook-of-random-tables/professions": {
+      "name": "Professions",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/reasons_why_a_player_character_is_absent_for_a_session": {
+      "name": "Reasons Why a Player Character is Absent for a Session",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/road_encounters": {
+      "name": "Road Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "greatbook-of-random-tables/rumors_and_odd_jobs": {
+      "name": "Rumors and Odd Jobs",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/sea-related_encounters": {
+      "name": "Sea-Related Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "sea"
+      ]
+    },
+    "greatbook-of-random-tables/seafaring_encounters": {
+      "name": "Seafaring Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "greatbook-of-random-tables/seafood": {
+      "name": "Seafood",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/swamp_encounters": {
+      "name": "Swamp Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "greatbook-of-random-tables/sweet_breads": {
+      "name": "Sweet Breads",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/talking_inanimate_objects": {
+      "name": "Talking Inanimate Objects",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/thegreate_bookof_tables_random": {
+      "name": "How to Use this Book",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/town_names_1": {
+      "name": "Town Names #1",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/town_names_2": {
+      "name": "Town Names #2",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/town_names_3": {
+      "name": "Town Names #3",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/town_names_4": {
+      "name": "Town Names #4",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/town_names_5": {
+      "name": "Town Names #5",
+      "category": "names",
+      "tags": [
+        "names"
+      ]
+    },
+    "greatbook-of-random-tables/trees": {
+      "name": "Trees",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/underground_encounters": {
+      "name": "Underground Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "greatbook-of-random-tables/vegetables_1": {
+      "name": "Vegetables #1",
+      "category": "misc",
+      "tags": []
+    },
+    "greatbook-of-random-tables/vegetables_2": {
+      "name": "Items &amp; Things",
+      "category": "loot",
+      "tags": []
+    },
+    "greatbook-of-random-tables/woodland_animals": {
+      "name": "Woodland Animals",
+      "category": "misc",
+      "tags": []
+    },
+    "jamjies-book-of-odds/comparing_to_static_scores": {
+      "name": "ADVANTAGE",
+      "category": "misc",
+      "tags": []
+    },
+    "jamjies-book-of-odds/cumulative_d20_odds": {
+      "name": "ALLSIXSCORES",
+      "category": "misc",
+      "tags": []
+    },
+    "jamjies-book-of-odds/dice_sums": {
+      "name": "DICE SUMS",
+      "category": "misc",
+      "tags": []
+    },
+    "jamjies-book-of-odds/unnamed": {
+      "name": "Unnamed",
+      "category": "misc",
+      "tags": []
+    },
+    "jamjies-book-of-odds/unnamed_1": {
+      "name": "Unnamed 1",
+      "category": "misc",
+      "tags": []
+    },
+    "random-insult-generator/optional_clause_olp": {
+      "name": "OPTIONAL CLAUSE: OLP",
+      "category": "misc",
+      "tags": []
+    },
+    "random-insult-generator/you": {
+      "name": "\"You -\"",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/adventure_idea_generator": {
+      "name": "ADVENTURE IDEA GENERATOR",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/aquatic_encounters": {
+      "name": "AQUATIC ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "aquatic",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/catchphrases": {
+      "name": "Catchphrases",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/chase_complications_1x_turn": {
+      "name": "Chase Complications (1x/turn)",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/city_elements": {
+      "name": "CITY ELEMENTS",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/city_encounters": {
+      "name": "CITY ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/combat_encounter_complications": {
+      "name": "COMBAT ENCOUNTER COMPLICATIONS",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/d_amp_d_races": {
+      "name": "D&amp;D Races",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/desert_encounters": {
+      "name": "DESERT ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_dressing": {
+      "name": "GATEHOUSE",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_encounters": {
+      "name": "DUNGEON ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_items": {
+      "name": "DUNGEON ITEMS",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/dwarf_d10": {
+      "name": "71-80: Dwarf [d10]",
+      "category": "misc",
+      "tags": [
+        "dwarf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dwarf_d10_1": {
+      "name": "71-80: Dwarf [d10]",
+      "category": "misc",
+      "tags": [
+        "dwarf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dwarf_d10_2": {
+      "name": "71-80: Dwarf [d10]",
+      "category": "misc",
+      "tags": [
+        "dwarf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dwarf_d10_3": {
+      "name": "71-80: Dwarf [d10]",
+      "category": "misc",
+      "tags": [
+        "dwarf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dwarf_d10_4": {
+      "name": "71-80: Dwarf [d10]",
+      "category": "misc",
+      "tags": [
+        "dwarf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dwarf_d10_5": {
+      "name": "71-80: Dwarf [d10]",
+      "category": "misc",
+      "tags": [
+        "dwarf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/elf_d8_half-elf_d2": {
+      "name": "61-70: Elf [d8] / Half-Elf [d2]",
+      "category": "misc",
+      "tags": [
+        "elf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/elf_d8_half-elf_d2_1": {
+      "name": "61-70: Elf [d8] / Half-Elf [d2]",
+      "category": "misc",
+      "tags": [
+        "elf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/elf_d8_half-elf_d2_2": {
+      "name": "61-70: Elf [d8] / Half-Elf [d2]",
+      "category": "misc",
+      "tags": [
+        "elf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/elf_d8_half-elf_d2_3": {
+      "name": "61-70: Elf [d8] / Half-Elf [d2]",
+      "category": "misc",
+      "tags": [
+        "elf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/elf_d8_half-elf_d2_4": {
+      "name": "61-70: Elf [d8] / Half-Elf [d2]",
+      "category": "misc",
+      "tags": [
+        "elf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/elf_d8_half-elf_d2_5": {
+      "name": "61-70: Elf [d8] / Half-Elf [d2]",
+      "category": "misc",
+      "tags": [
+        "elf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/evade_dex_save": {
+      "name": "EVADE (dex. save)",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/five-room_dungeon_ideas": {
+      "name": "Room Five: Reward, Revelation, or Plot Twist",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/forest_jungle_encounters": {
+      "name": "FOREST/JUNGLE ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/halfling_d6_gnome_d4": {
+      "name": "81-90: Halfling [d6] / Gnome [d4]",
+      "category": "misc",
+      "tags": [
+        "halfling"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/halfling_d6_gnome_d4_1": {
+      "name": "81-90: Halfling [d6] / Gnome [d4]",
+      "category": "misc",
+      "tags": [
+        "halfling"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/halfling_d6_gnome_d4_2": {
+      "name": "81-90: Halfling [d6] / Gnome [d4]",
+      "category": "misc",
+      "tags": [
+        "halfling"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/halfling_d6_gnome_d4_3": {
+      "name": "81-90: Halfling [d6] / Gnome [d4]",
+      "category": "misc",
+      "tags": [
+        "halfling"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/halfling_d6_gnome_d4_4": {
+      "name": "81-90: Halfling [d6] / Gnome [d4]",
+      "category": "misc",
+      "tags": [
+        "halfling"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/halfling_d6_gnome_d4_5": {
+      "name": "81-90: Halfling [d6] / Gnome [d4]",
+      "category": "misc",
+      "tags": [
+        "halfling"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/hills_moors_plains_encounters": {
+      "name": "HILLS/MOORS/PLAINS ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "hills"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_1": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_10": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_11": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_2": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_3": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_4": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_5": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_6": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_7": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_8": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_9": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/insults": {
+      "name": "Insults",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/jokes": {
+      "name": "Jokes",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_1": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_2": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_3": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_4": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_5": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_6": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_7": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_1": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_2": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_3": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_4": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_5": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_6": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_7": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_1": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_2": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_3": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_4": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_5": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_6": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_7": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/mechanism": {
+      "name": "MECHANISM",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/mountain_encounters": {
+      "name": "MOUNTAIN ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity_1": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity_2": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity_3": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity_4": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity_5": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity_6": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/noun_based_preparation": {
+      "name": "Act III: Resolutions and outcomes",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_appearance_mannerisms_voice": {
+      "name": "NPC APPEARANCE / MANNERISMS / VOICE",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_attributes": {
+      "name": "NPC ATTRIBUTES",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_bonds_and_secrets": {
+      "name": "NPC BONDS AND SECRETS",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_city_items": {
+      "name": "NPC/CITY ITEMS",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_rollable_table_i": {
+      "name": "NPC ROLLABLE TABLE I",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_rollable_table_ii": {
+      "name": "NPC ROLLABLE TABLE II",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_rollable_table_iii": {
+      "name": "NPC ROLLABLE TABLE III",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_rollable_table_iv": {
+      "name": "NPC ROLLABLE TABLE IV",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_rollable_table_v": {
+      "name": "NPC ROLLABLE TABLE V",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_rollable_table_vi": {
+      "name": "NPC ROLLABLE TABLE VI",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_sayings": {
+      "name": "NPC SAYINGS",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/other_d10": {
+      "name": "91-100: Other [d10]",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/other_d10_1": {
+      "name": "91-100: Other [d10]",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/other_d10_2": {
+      "name": "91-100: Other [d10]",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/other_d10_3": {
+      "name": "91-100: Other [d10]",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/other_d10_4": {
+      "name": "91-100: Other [d10]",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/other_d10_5": {
+      "name": "91-100: Other [d10]",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/overland_travel": {
+      "name": "OVERLAND TRAVEL",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/puzzles": {
+      "name": "SOURCES",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/swamp_encounters": {
+      "name": "SWAMP ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/traps": {
+      "name": "TRAPS",
+      "category": "trap",
+      "tags": [
+        "trap"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/travel_discoveries": {
+      "name": "TRAVEL DISCOVERIES",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/treasure_and_magic_items": {
+      "name": "TREASURE AND MAGIC ITEMS",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/triggers": {
+      "name": "TRIGGERS",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/tundra_encounters": {
+      "name": "TUNDRA ENCOUNTERS",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "tundra"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/typical_order_of_discovery_by_pcs": {
+      "name": "Typical order of discovery by PCs:",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed": {
+      "name": "Unnamed",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_1": {
+      "name": "Unnamed 1",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_10": {
+      "name": "Unnamed 10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_11": {
+      "name": "Unnamed 11",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_12": {
+      "name": "Unnamed 12",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_13": {
+      "name": "Unnamed 13",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_14": {
+      "name": "Unnamed 14",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_15": {
+      "name": "",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_16": {
+      "name": "Unnamed 16",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_17": {
+      "name": "",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_18": {
+      "name": "Unnamed 18",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_19": {
+      "name": "Unnamed 19",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_2": {
+      "name": "Unnamed 2",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_20": {
+      "name": "Unnamed 20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_21": {
+      "name": "Unnamed 21",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_22": {
+      "name": "Unnamed 22",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_23": {
+      "name": "Unnamed 23",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_24": {
+      "name": "Unnamed 24",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_25": {
+      "name": "Unnamed 25",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_26": {
+      "name": "Unnamed 26",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_27": {
+      "name": "Unnamed 27",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_28": {
+      "name": "Unnamed 28",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_29": {
+      "name": "Unnamed 29",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_3": {
+      "name": "Unnamed 3",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_30": {
+      "name": "Unnamed 30",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_31": {
+      "name": "Unnamed 31",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_32": {
+      "name": "Unnamed 32",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_33": {
+      "name": "Unnamed 33",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_34": {
+      "name": "Unnamed 34",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_35": {
+      "name": "Unnamed 35",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_36": {
+      "name": "Unnamed 36",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_37": {
+      "name": "Unnamed 37",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_38": {
+      "name": "Unnamed 38",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_39": {
+      "name": "Unnamed 39",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_4": {
+      "name": "Unnamed 4",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_40": {
+      "name": "Unnamed 40",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_41": {
+      "name": "Unnamed 41",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_42": {
+      "name": "Unnamed 42",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_43": {
+      "name": "Unnamed 43",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_44": {
+      "name": "Unnamed 44",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_45": {
+      "name": "Unnamed 45",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_46": {
+      "name": "Unnamed 46",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_47": {
+      "name": "Unnamed 47",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_5": {
+      "name": "Unnamed 5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_6": {
+      "name": "Unnamed 6",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_7": {
+      "name": "Unnamed 7",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_8": {
+      "name": "Unnamed 8",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unnamed_9": {
+      "name": "Unnamed 9",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unusual": {
+      "name": "81-100: Unusual",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurge-table-icewinds/wild_magic_surge-icewinds": {
+      "name": "Wild Magic Surge - Icewinds",
+      "category": "loot",
+      "tags": []
+    },
+    "wild-magicsurge-table-vol-1/d100_effect": {
+      "name": "d100 Effect",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurge-table-vol-2/d100_effect": {
+      "name": "d100 Effect",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurge-table-vol-3/d100_effect": {
+      "name": "d100 Effect",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/brown_bear": {
+      "name": "Lesser Cloaker",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/magical_mishaps": {
+      "name": "Magical Mishaps",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/spells_amp_effects_referenced": {
+      "name": "Creatures Referenced",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/stirge": {
+      "name": "Swarm of Rats",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/room_items_4": {
+      "name": "Inn Encounters",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "urban"
+      ]
+    },
+    "book-of-random-tables-dungeons/room_items_10": {
+      "name": "Room Items #10",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-quests/doorways_to_another_world_1": {
+      "name": "Doorways to Another World",
+      "category": "misc",
+      "tags": []
+    },
+    "100-things-you-find-in-a-haunted-house/a_tin_for_sweets_candy_sits_on_a_coffee_stand_the_hand_of_th": {
+      "name": "20 - A tin for sweets/candy sits on a coffee stand. The hand of the last person to open the tin lays inside, bloody and nibbled on.",
+      "category": "misc",
+      "tags": []
+    },
+    "100-weapon-runes/rune_of_snail_shell_this_weapon_or_shield_is_nearly_unbreaka": {
+      "name": "46 - Rune of Snail Shell: This weapon or shield is nearly unbreakable by non- magical means, however becomes so dense and heavy that it effectively eliminates any dex bonus the player has to their AC. Rune of Heaven's Fan: when this weapon",
+      "category": "loot",
+      "tags": []
+    },
+    "book-of-random-tables-dungeons/hollow_silver_collar": {
+      "name": "Hollow silver collar",
+      "category": "misc",
+      "tags": []
+    },
+    "book-of-random-tables-innsandtaverns/iron_bracelet": {
+      "name": "Iron bracelet",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/ancient": {
+      "name": "41-60: Ancient",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/campsite_humanoid": {
+      "name": "61-80: Campsite (Humanoid)",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/extracted_table": {
+      "name": "61-80: Tropes",
+      "category": "misc",
+      "tags": [
+        "tropes"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/group_ties": {
+      "name": "1-20: Group Ties",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/half-orc": {
+      "name": "71-75 - Half-Orc",
+      "category": "misc",
+      "tags": [
+        "orc"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/humanoid_excavation_cellars_sewers_mines": {
+      "name": "81-100: Humanoid Excavation (Cellars/Sewers/Mines)",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_11-15_8": {
+      "name": "41-60: Level 11-15",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_16-20_8": {
+      "name": "61-80: Level 16-20",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/magical": {
+      "name": "61-80: Magical",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/male": {
+      "name": "1-20: Male",
+      "category": "misc",
+      "tags": [
+        "male"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/natural": {
+      "name": "81-100: Natural",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/natural_subterranean_caves_caverns_lairs": {
+      "name": "61-80: Natural Subterranean (Caves/Caverns/Lairs)",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/nature_oddity_7": {
+      "name": "81-100: Nature/Oddity",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/oddballs": {
+      "name": "41-60: Oddballs",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/people_and_politics": {
+      "name": "81-100: People and Politics",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/plots_the_party_has_to_prevent_an": {
+      "name": "81-100: Plots",
+      "category": "misc",
+      "tags": [
+        "plots"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/relationships": {
+      "name": "1-20: Relationships",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/ruins_castles_catacombs_dungeons": {
+      "name": "41-60: Ruins (Castles/Catacombs/Dungeons)",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/secrets": {
+      "name": "1-20: Secrets",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/settlement_buildings_warehouses_cottages_taverns": {
+      "name": "81-100: Settlement Buildings (Warehouses/Cottages/Taverns)",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/taverns_inns": {
+      "name": "41-60: Taverns/Inns",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/themes": {
+      "name": "41-60: Themes",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unique_elements": {
+      "name": "61-80: Unique Elements",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/cha": {
+      "name": "Cha",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/cha_1": {
+      "name": "Cha",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/cha_2": {
+      "name": "Cha",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/cha_3": {
+      "name": "Cha",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/con": {
+      "name": "Con",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/con_1": {
+      "name": "Con",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/con_2": {
+      "name": "Con",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/d100-effect": {
+      "name": "d100 - Effect",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/dex": {
+      "name": "Dex",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/dex_1": {
+      "name": "Dex",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/dex_2": {
+      "name": "Dex",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/int": {
+      "name": "Int",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/int_1": {
+      "name": "Int",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/int_2": {
+      "name": "Int",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/int_3": {
+      "name": "Int",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/str": {
+      "name": "Str",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/str_1": {
+      "name": "Str",
+      "category": "misc",
+      "tags": []
+    },
+    "wild-magicsurges-100-magical-mishaps/wis": {
+      "name": "Wis",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/appearance": {
+      "name": "1-20: Appearance",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/bonds": {
+      "name": "1-20: Bonds",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/genres": {
+      "name": "21-40: Genres",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_12": {
+      "name": "1-20: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_13": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_14": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_15": {
+      "name": "1-20: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_16": {
+      "name": "21-40: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/human_d20_17": {
+      "name": "41-60: Human [d20]",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/humanoid_adversary": {
+      "name": "21-40: Humanoid Adversary",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/large_monster": {
+      "name": "21-40: Large Monster",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_1": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_2": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_3": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_4": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_5": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_6": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_7": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_1-5_8": {
+      "name": "1-20: Level 1-5",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/level_6-10_8": {
+      "name": "21-40: Level 6-10",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/moods": {
+      "name": "1-20: Moods",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/town_events": {
+      "name": "21-40: Town Events",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/town_features": {
+      "name": "1-20: Town Features",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/typical_monster": {
+      "name": "1-20: Typical Monster",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/unmarked_settlement": {
+      "name": "1-20: Unmarked Settlement",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/wanderers": {
+      "name": "21-40: Wanderers",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/adventure_genres": {
+      "name": "Adventure: Genres",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/adventure_mood": {
+      "name": "Adventure: Mood",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/adventure_plots": {
+      "name": "Adventure: Plots",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/adventure_themes": {
+      "name": "Adventure: Themes",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/adventure_tropes": {
+      "name": "Adventure: Tropes",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/aquatic_encounters_level_1-5": {
+      "name": "Aquatic Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "aquatic",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/aquatic_encounters_level_11-15": {
+      "name": "Aquatic Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "aquatic",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/aquatic_encounters_level_16-20": {
+      "name": "Aquatic Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "aquatic",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/aquatic_encounters_level_6-10": {
+      "name": "Aquatic Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "aquatic",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/aquatic_encounters_nature_oddity": {
+      "name": "Aquatic Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "aquatic",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/city_elements_people_and_politics": {
+      "name": "City Elements: People and Politics",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/city_elements_taverns_inns": {
+      "name": "City Elements: Taverns/Inns",
+      "category": "misc",
+      "tags": [
+        "urban"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/city_elements_town_events": {
+      "name": "City Elements: Town Events",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/city_elements_town_features": {
+      "name": "City Elements: Town Features",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/city_elements_unique_elements": {
+      "name": "City Elements: Unique Elements",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/desert_encounters_level_1-5": {
+      "name": "Desert Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/desert_encounters_level_11-15": {
+      "name": "Desert Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/desert_encounters_level_16-20": {
+      "name": "Desert Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/desert_encounters_level_6-10": {
+      "name": "Desert Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/desert_encounters_nature_oddity": {
+      "name": "Desert Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "desert",
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_characteristic": {
+      "name": "Dungeon: Characteristic",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_encounters_level_1-5": {
+      "name": "Dungeon Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_encounters_level_11-15": {
+      "name": "Dungeon Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_encounters_level_16-20": {
+      "name": "Dungeon Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_encounters_level_6-10": {
+      "name": "Dungeon Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_encounters_nature_oddity": {
+      "name": "Dungeon Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "encounter"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_items_humanoid_excavation_cellars_sewers_mines": {
+      "name": "Dungeon Items: Humanoid Excavation (Cellars/Sewers/Mines)",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_items_large_monster": {
+      "name": "Dungeon Items: Large Monster",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_items_natural_subterranean_caves_caverns_lairs": {
+      "name": "Dungeon Items: Natural Subterranean (Caves/Caverns/Lairs)",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_items_ruins_castles_catacombs_dungeons": {
+      "name": "Dungeon Items: Ruins (Castles/Catacombs/Dungeons)",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/dungeon_items_typical_monster": {
+      "name": "Dungeon Items: Typical Monster",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/forest_jungle_encounters_level_1-5": {
+      "name": "Forest / Jungle Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/forest_jungle_encounters_level_11-15": {
+      "name": "Forest / Jungle Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/forest_jungle_encounters_level_16-20": {
+      "name": "Forest / Jungle Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/forest_jungle_encounters_level_6-10": {
+      "name": "Forest / Jungle Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/forest_jungle_encounters_nature_oddity": {
+      "name": "Forest / Jungle Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "forest"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/hills_moors_plains_encounters_level_1-5": {
+      "name": "Hills / Moors / Plains Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "hills"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/hills_moors_plains_encounters_level_11-15": {
+      "name": "Hills / Moors / Plains Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "hills"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/hills_moors_plains_encounters_level_16-20": {
+      "name": "Hills / Moors / Plains Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "hills"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/hills_moors_plains_encounters_level_6-10": {
+      "name": "Hills / Moors / Plains Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "hills"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/hills_moors_plains_encounters_nature_oddity": {
+      "name": "Hills / Moors / Plains Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "hills"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/mountain_encounters_level_1-5": {
+      "name": "Mountain Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/mountain_encounters_level_11-15": {
+      "name": "Mountain Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/mountain_encounters_level_16-20": {
+      "name": "Mountain Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/mountain_encounters_level_6-10": {
+      "name": "Mountain Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/mountain_encounters_nature_oddity": {
+      "name": "Mountain Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "mountain"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/npc_appearance": {
+      "name": "NPC: Appearance",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_bonds": {
+      "name": "NPC: Bonds",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_city_items_campsite_humanoid": {
+      "name": "NPC/City Items: Campsite (Humanoid)",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_city_items_commoner": {
+      "name": "NPC/City Items: Commoner",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_city_items_humanoid_adversary": {
+      "name": "NPC/City Items: Humanoid Adversary",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_city_items_oddballs": {
+      "name": "NPC/City Items: Oddballs",
+      "category": "loot",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_city_items_settlement_buildings_warehouses_cottages_tave": {
+      "name": "NPC/City Items: Settlement Buildings (Warehouses/Cottages/Taverns)",
+      "category": "loot",
+      "tags": [
+        "urban"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/npc_group_ties": {
+      "name": "NPC: Group Ties",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_races": {
+      "name": "NPC: Races",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_relationships": {
+      "name": "NPC: Relationships",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_sayings_catchphrases": {
+      "name": "NPC Sayings: Catchphrases",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_sayings_insults": {
+      "name": "NPC Sayings: Insults",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_sayings_jokes": {
+      "name": "NPC Sayings: Jokes",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npc_secrets": {
+      "name": "NPC: Secrets",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/npcs_dwarf": {
+      "name": "NPCs: Dwarf",
+      "category": "misc",
+      "tags": [
+        "dwarf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/npcs_elf_half-elf": {
+      "name": "NPCs: Elf / Half-Elf",
+      "category": "misc",
+      "tags": [
+        "elf"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/npcs_halfling_gnome": {
+      "name": "NPCs: Halfling / Gnome",
+      "category": "misc",
+      "tags": [
+        "halfling"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/npcs_human": {
+      "name": "NPCs: Human",
+      "category": "misc",
+      "tags": [
+        "human"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/npcs_other": {
+      "name": "NPCs: Other",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/riddles": {
+      "name": "Riddles",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/swamp_encounters_level_1-5": {
+      "name": "Swamp Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/swamp_encounters_level_11-15": {
+      "name": "Swamp Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/swamp_encounters_level_16-20": {
+      "name": "Swamp Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/swamp_encounters_level_6-10": {
+      "name": "Swamp Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/swamp_encounters_nature_oddity": {
+      "name": "Swamp Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "swamp"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/trap_mechanism": {
+      "name": "Trap: Mechanism",
+      "category": "trap",
+      "tags": [
+        "trap"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/trap_triggers": {
+      "name": "Trap: Triggers",
+      "category": "trap",
+      "tags": [
+        "trap"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/travel_discoveries_ancient": {
+      "name": "Travel Discoveries: Ancient",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/travel_discoveries_magical": {
+      "name": "Travel Discoveries: Magical",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/travel_discoveries_natural": {
+      "name": "Travel Discoveries: Natural",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/travel_discoveries_unmarked_settlement": {
+      "name": "Travel Discoveries: Unmarked Settlement",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/travel_discoveries_wanderers": {
+      "name": "Travel Discoveries: Wanderers",
+      "category": "misc",
+      "tags": []
+    },
+    "spontaneous-dungeon-masters-companion/treasure_and_magic_items_level_1-5": {
+      "name": "Treasure and Magic Items: Level 1-5",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/treasure_and_magic_items_level_11-15": {
+      "name": "Treasure and Magic Items: Level 11-15",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/treasure_and_magic_items_level_16-20": {
+      "name": "Treasure and Magic Items: Level 16-20",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/treasure_and_magic_items_level_6-10": {
+      "name": "Treasure and Magic Items: Level 6-10",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/treasure_and_magic_items_unusual": {
+      "name": "Treasure and Magic Items: Unusual",
+      "category": "loot",
+      "tags": [
+        "loot"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/tundra_encounters_level_1-5": {
+      "name": "Tundra Encounters: Level 1-5",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "tundra"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/tundra_encounters_level_11-15": {
+      "name": "Tundra Encounters: Level 11-15",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "tundra"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/tundra_encounters_level_16-20": {
+      "name": "Tundra Encounters: Level 16-20",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "tundra"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/tundra_encounters_level_6-10": {
+      "name": "Tundra Encounters: Level 6-10",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "tundra"
+      ]
+    },
+    "spontaneous-dungeon-masters-companion/tundra_encounters_nature_oddity": {
+      "name": "Tundra Encounters: Nature/Oddity",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "tundra"
+      ]
+    },
+    "wild-magicsurges-100-magical-mishaps/wild_magic_surges_magical_mishaps": {
+      "name": "Wild Magic Surges: Magical Mishaps",
+      "category": "loot",
+      "tags": []
+    }
+  },
+  "stems": {
+    "100-fantasy-drugs": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },
+	"100-items-forsale-in-a-fantasy-black-market": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },
+	"100-things-you-find-in-a-haunted-house": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },
+	"100-weapon-runes": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },
+	"book-of-random-tables": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },
+	"book-of-random-tables2": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },	
+	"book-of-random-tables3": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },		
+	"book-of-random-tables4": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },	
+	"book-of-random-tables5": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },		
+	"book-of-random-tables-ancientworld": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },		
+    "book-of-random-tables-innsandtaverns": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },	  
+    "spontaneous-dungeon-masters-companion": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    },
+    "wild-magicsurges-100-magical-mishaps": {
+      "clean_locked": true,
+      "note": "Manually edited clean markdown"
+    }	
+  }
+}

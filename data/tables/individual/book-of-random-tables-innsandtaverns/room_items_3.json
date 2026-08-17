@@ -1,0 +1,43 @@
+{
+  "name": "Inn Encounters",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-innsandtaverns.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Elven Tales and Bedtime Stories (book)",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-innsandtaverns",
+      "book": "Book Of Random Tables Inns and Taverns",
+      "category": "encounter",
+      "tags": [
+        "encounter",
+        "urban"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Inns and Taverns",
+  "category": "encounter",
+  "tags": [
+    "encounter",
+    "urban"
+  ],
+  "roll_type": "d4",
+  "sort_key": "inn encounters",
+  "entry_count": 1,
+  "version": 2
+}

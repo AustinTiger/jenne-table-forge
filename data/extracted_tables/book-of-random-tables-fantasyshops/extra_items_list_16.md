@@ -1,0 +1,23 @@
+## Extra Items List
+Other items can be found in the shop (D20).
+1. Maple staves (1D8)
+2. Redwood staves (1D10)
+3. Laurel staves (1D8)
+4. Holly staves (1D10)
+5. Cypress staves (1D6)
+6. Hazel staves (1D6)
+7. Rowan staves (1D12)
+8. Elm staves (1D6)
+9. Vine staves (1D4)
+10. Sycamore staves (1D10)
+11. Ash staves (1D4)
+12. Fir wand (not imbued)
+13. Beech staves (1D6)
+14. Leather strips (1D20)
+15. Yew wand (not imbued)
+16. Rowan (not imbued)
+17. Poplar staves (1D4)
+18. Willow staves (1D8)
+19. Alder staves (1D12)
+20. Cloth strips (1D20)
+## Wands

@@ -1,0 +1,1229 @@
+{
+  "name": "Quest Givers",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests3.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Salis the Hidden: No one knows who or what Salis even is. The only way to speak to Salis is through an intermediary. A maiden will tell you your quest. Salis gives quests that usually involve cryptography.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The Tree of Life: In the center of the Great Forest, the Tree of Life does not so much speak to you as fill your mind with her thoughts. The Tree of Life gives quests related to trees and forests.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Isodera: Isodera is a dual-wielding short sword warrior who likes to think of herself as 'nononsense.'  Isodera will give quests that involve fighting your way through a fortified area.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Vacan the Small: Vacan is an eight-foot-tall man with several teeth missing. He is boisterous but friendly. Vacan's quests seem to always end up with a brawl or a bar-fight somehow being involved.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Fenfir: Fenfir is a lanky man with a pallid face and long, unkempt hair. Fenfir will give quests that involve dark, supernatural creatures.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The Unicorn: Standing in The Unicorn's presence, even the most stout-hearted feel intimidated. The Unicorn will give quests that involve saving a magical beast.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Tendoora: Tendoora looks witch-like with her unkempt hair and searching eyes. She will give you quests that involve curses.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "The Ghost of the Battlefield: The Ghost has many wounds covering his body. He is somber and wistful. The Ghost will give a quest involving a reconnection to a loved one he left behind.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Princess Consort Beatrice: Though some would say that she is not particularly beautiful,  the King says she is the most lovely woman he has ever seen. Beatrice is a confident and wise advisor to her husband the king. She loves her people as she loves her own life. She will give quests that will be for the benefit of the people of the realm.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Zorabos the Weak: A young royal. Zorabos barely survived childhood. No one knows what is  wrong  with  him.  He  cannot  even  stand  for  long  periods  of  time.  Zorabos  is  quiet  and thoughtful. He will give you quests that involve the finding of beautiful but rare items.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Margrave Jurdi: Aged and wise, but also stern and fierce. There are more wrinkles on her face than that of a Shar-Pei puppy. She is the elder of her village. She will give you quests that involve solving problems for her village.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "The Ghost: The Ghost is melancholy and morose. Her long stringy hair hangs in the air with knots  dispersed  throughout.  She  will  ask  anyone  who  would  listen  for  help  getting  her revenge on those who tormented her when she was alive.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Palotus Mawood: A maker of instruments. He has a slight build and long, dextrous fingers. Palotus will send people on missions to fetch the highest quality materials for the making of his world-renowned musical instruments.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "The Singer: The Singer is a large woman possessing a bravado that makes her impossible to ignore. She will give quests involving performances.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The Monk of the Monastery: The Monk is a thin and gentle, middle-aged man, dressed in a simple brown robe. He will bestow quests of kind deeds to those who will accept him.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The Widow: She is a middle-aged woman with fly-away hair and a harried expression on her face. With ten children to care for, she will take any help she can get in caring for her wayward children or fetching something she needs to care for her family.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Aviphior: Aviphior is a master of alchemy. He is a deaf old man with a thin frame and round glasses  that  make  his  eyes  look  enormous.  He  will  pay  handsomely  for  rare  alchemic ingredients",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Siossa: Siossa is a young woman who has an uncanny ability to make a connection with any kind of animal. Her quests always involve animals.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Trisharic: Trisharic is a young dealer in textiles. He is always looking for new sources or supplies of rare and beautiful fabrics. He is very wealthy and will pay handsomely.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The Weaving Spider: It is said that the spider is actually a shapeshifter who has chosen this form so that she can use her many legs to create intricate designs and life-like scenes upon her loom. But she needs new inspiration.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Ursa the Harper: Ursa is a master of the harp. She has become bored with her repertoire and has been looking for new songs.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Death Himself (or Herself): Death is a shadowy figure in a dark, hooded robe that seems to phase in and out of the world. All Death's quests are related to death.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The Hermit of the Hills: The Hermit is an eccentric old man with a long white beard and knobby knees and elbows. He will give quests that involve caring for the forest animals and scaring away those who would hurt his beloved land.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Kelirus: This is a quixotic woman who desires to travel the world and defeat evil. Her quests always have an element of absurdity.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Kelan Goldspike: Kelan is the local goldsmith. She wears large glasses and a heavy leather apron. Her hair is in a messy bun. She is always misplacing things and asking others to help her find them.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Rhiphi: Rhiphi is a portly, gregarious little man who often can be found haunting the local tavern. Rhiphi's quests always seem to involve a cat in some way.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Wolneya: Wolneya is a tall clumsy woman who is an avid collector of rare books. She always looking for more to add to her collection.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Tertulus: The young man is searching for spell scrolls that are used but in good condition. He is hoping to start a school for young magic users in his town.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Noko the Sly: A short-statured, but strong man in his prime. Noko usually works alone on jobs that involve stealth. However, once in a while, he requires a team to accomplish the goal.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The Shadow Walker: No one knows what the Shadow Walker looks like. He wears a wolf mask and a dark, hooded robe. His tasks always involve reconnaissance.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "The Red Hammer: No one knows the true name of The Red Hammer. Few even know what he looks like. But he will send those he trusts on errands of information gathering.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Farhorn: Farhorn is a horse breeder of the highest caliber. With his long face and gangly legs, he looks much like his charges. All his quests have to do with horses.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Baronetess Christina: The Baronetess is obsessed with the latest fashions and exotic clothing. She will pay handsomely for anything new and exciting.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Rhedarin: He is the greatest falconer of the realm. Though he is young he has a gift for working with raptors. All his quests involve his beloved birds.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "The Great Eagle: A wise eagle who lives in an ancient nest upon an even more ancient tree. He will reward those who will help him keep his mountain range safe for all who wish to live there.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "The Shaman of the Wild Woods: A solemn man with a beautiful headdress and a colorful robe. He will send adventurers on quests that involve strange magical items.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "The  Far  Seer:  Her  eyes  are  clouded  over  in  blindness.  Her  hair  is  white  as  snow,  though her features are young. Though she cannot see what is in front of her, her mind's eye sees glimpses of future events. She will bequeath a quest that will make the world a kinder place. She will also warn of dangers that the questers are fated to encounter.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Dulgan the Shattered:Dulgan was a warrior of great renown. But his days of war are over now. He walks with a cane, is blind in one eye, and missing most of his right hand. His quests involve battles and fights.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Alath the Whisperer: Alath is a dealer in secrets. She is a small, middle-aged woman with brown, wispy hair. All Alath's quests are covert.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "King Guennet: He is the handsome young king of a small kingdom that is fighting to survive around powerful neighbors. His tasks involve mostly diplomacy, but fighting and espionage may be needed as well.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "The Mermaid of the Azure Pool: The beautiful maiden with aquamarine eyes and turquoise hair. She is lonely and longs for news of her kind in the greater world.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Yeoman Drossie: Drossie inherited the land from her father. He died when Drossie was still just  a  teen.  Her  mother had been dead for years. Now, she is trying to manage things by herself. She will reward any who can give her aid in running the estate.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Chaesys is a thief by trade. He is hired by rival aristocrats to find incriminating objects in their houses. Sometimes it's a bigger job, and he could use some help.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "King Diccon: Though a king in name, he leaves the running of his country to his advisors. Obsessed with food, the only thing he cares about is finding the next culinary delight to satisfy his appetite. He will pay handsomely for new recipes and ingredients to be used by his many chefs to create the most fabulous fare in the realm.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Squire Azer: A well-respected, honest owner of a large estate. Squire Azer cares for his land and those who rent land from him. Therefore, the jobs he offers always benefit the land or the people who work his land.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Frizyni: Middle-aged, small of stature,  bright laughing eyes, a large pointy nose, and curly unkempt hair. Frizyni is a collector of rare potion recipes and rare potion ingredients. She will pay handsomely for either.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "The Tree Sprite: Child-like and clothed in a delicate dress fashioned of leaves. She would fit in your palm. The Tree Sprite loves to have co-conspirators in making mischief for any who would harm her forest.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "The  Weeping  Flower:  Beautiful  but  melancholy,  she  is  a  great  prophetess  who  sees  only premonitions of misfortune. She bestows quests that help to mitigate the disasters that only she knows are coming.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The Beggar: Homeless, but willing and able to work. The old man is actually a well-respected leader among the homeless. He often asks for help only for others, not for himself.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Daedi: Daedi is the no-nonsense, broad-chested head of the postal service. He is often looking for help on 'special' dispatches.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "The Tender of the Flame: The Tender is the leader of a vigilante group in a large, lawless city. She often needs strong fighters to help maintain peace.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Erinnen the Mayor: The mayor is a young, but wise woman who often needs hired hands to promote the welfare of the town.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Peasant Jivote: Jivote is a large, bearded farmer in the prime of his life. His left eye is missing because he got in a fight with a sheriffwhen he was younger. He is a leader of the peasants, who have been mistreated for too long. He is always looking for those who would join his cause.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Degeor the Woodsman: A stern, middle-aged, bearded man. Degeor is the caretaker of the massive forest that belongs to the king of the realm. Often, criminals will find concealment somewhere in its vastness. Degeor is always needing help rooting them out.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "The Smith of Kylath: The Kylath smithy is one of the largest in the world. The master smith is always looking for hired help to gain supplies or deliver goods.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Squire Ozanne: Ozanne is the rich young owner of a vast estate. He is a collector of rare or ancient weapons of any sort. He will pay handsomely for such weapons.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Quint the Fisherman: Quint is a wizened old fisherman, bald but bearded. He is often needing some hired help when it comes to fishing.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "The Ancient Shepherd of the Wilderness: The shepherd is old but still strong, intelligent, and wise. He has calloused hands but a soft heart. He almost always is looking for helpers to care for his large flock. However, he also often desires to help those in his mountain community in any way that he can, and he will ask others to join him in his acts of kindness.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "The Dragonfly: The Dragonfly is the codename for the leader of a large interconnected group of  hunters. If  you  wish  to  join  this  group,  you  must  first  complete  the  task  the  Dragonfly determines for you.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Dehaen: Dehaen is a strong, determined young man who has made it his mission to fight the many cults that plague his city. He is looking for like-minded people to join his cause.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "The Magic Mouse: He is a mouse, but he is also a powerful wizard. His specialty is in dealing with all things tiny, and he is able to shrink people who are willing to help him in his tasks. Don't worry. He can put you back to your normal size.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Endel:  Endel  is  one  of  the  chief  and  most  trusted  servants  of  the  King.  The  King  has  just purchased a large wilderness on his northern border from a neighboring kingdom. He has assigned Endel to form and possibly lead a party of adventurers to explore this wild land.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Viallia: Viallia is a world-renowned painter of landscapes. She is always wanting new inspiration and will pay those who would serve as her escort in the wilds of the world.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Sorotai the Enchanter: Sorotai is the expert when it comes to any kind of enchantment. An excellent scholar, he is always seeking to broaden his knowledge on the topic and will reward those who bring him anything that will deepen his understanding or sharpen his skills.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Viscountess Krea: The viscountess is a middle-aged woman with a kind face and sleek, black hair pulled tightly into a braided bun. She loves to add to her already impressive ornamental garden. She will pay well for beautiful or unique plants.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Ravarona: Long, blonde hair in a flowing braid. She looks younger than the fifty years she has lived in the world. Ravarona is an avid collector of books on the subject of plants and their medicinal uses. She is happy to pay for any book she can get her hands on pertaining to this subject.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Gonoga the Foolish: Gonoga is an eccentric old man who feels that his town has gotten too 'settled.'  He would love some co-conspirators to 'rile things up' in his little town.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Naewarin: A toned man with a top knot, Naewarin is an acrobatic performer in the prime of his life. He is always looking for new talent to join him in his performances.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "The Jade Leopard: No one knows her given name. The Jade Leopard is an older woman who is the richest woman in the city. She is an avid collector of statues and figurines and will always pay top dollar for exceptional pieces.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "The Elm of the Underworld: This mystical elm tree governs the underworld and sustains those who have gone there after death. Sometimes the deceased become lost in the overworld. The Elm will reward the living who will seek after these lost spirits.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Yissik the Seeker: Yissik is known for his treasure hunting skills. He is a master of codes and maps, and he is willing to share the booty with those who share in the tasks of finding the treasures.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "The Lady of the Lake: She is the misty woman who appears on the surface of the lake. Her quests always have to do with finding legendary weapons.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "The Glorius Muu: The Glorius Muu is the spiritual leader of a large group of traveling monks. He is getting older and has a harder time traveling on his own. But he wants to meet with his scattered disciples to see how they fare and, in the end, to appoint one of them to become the next Muu when he dies.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Naelen the Worn:  Naelen's face is lined and careworn, though he is only middle-aged. He is a trainer of warriors and a collector of books and scrolls that relate to combat. He is always looking to train new warriors and always willing to pay for rare books on the subject of combat and war tactics.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "The Cloud of Iar: The Cloud of Iar hovers in the center of the Temple of the sky gods. It glows different colors based on its mood. All quests given by the cloud have to do with the sky and the weather.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Zoldor the Freedom Fighter: Zolder was an escaped slave. He wears the garb of a warrior and keeps his dreadlocks in a tight ponytail. All of Zolder's quests have to do with the liberation of enslaved people.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Tella: She is the famous playwright of the city. Even the royals come to see her plays. Tella is always on the lookout for fresh acting talent or fresh ideas for stories.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Sylvyre:  Sylvyre's  leathery  skin  and  salt-encrusted  hair  reveal  his  seafaring  ways.  Sylvyre's quests are all about exploring unknown parts of the great seas.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Noqille: A sleek black cat, Noquille will give quests that always involve the night or the dark in some way.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Axar: Axar is an architect in a great city. He is tall but gangly. All quests that come from him are related to blueprints and designs.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "The Ring Wielder: The Ring Wielder is a stout, curly-haired individual who collects rare and magical rings. He pays well for either and is also willing to trade.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Vespillo has been given the task of collecting sacred items. He is the chief priest of the Temple of the Holies. All his quests have to do with the retrieval of holy objects.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Dracoblaese: Dracoblaese is the organizer of an underground fight club. Often in the ring himself, he is always looking for competitors. Prizes are awarded to victors.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "The Old Wizard of the Mountain: The Old Wizard collects scrolls of ancient magics. The older the better. He can pay for new additions to his collection or trade if there is something that you need.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Ferris the Orphan: Ferris grew up on the streets of the large city. He knows how the gangs and cartels keep the people living in fear. All Ferris's quests revolve around ridding the city of crime.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Vicar Audrin: Old and gray-bearded, the Vicar has cared for his flock and chapel for many years. All the vicar's quests have to do with helping those who have faced some disaster or are destitute.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Baroness Anchoret: The Baroness is embroiled in a complicated political war with a neighboring fief. She constantly needs some espionage work done.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "The Great Toad: The Great Toad is the King of all Swamps. His quests have to do with swamps.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "The Queen of the Fairies: She is only about five inches tall, but she holds great power and magic. Her quests are always related to the affairs and welfare of the fairy folk.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Cizora the Demon Fighter. Cizora is a monk who has specialized in the fighting of demons. All his quests involve battling and destroying demons.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Greddi the Strong: She runs a respected bodyguard business in the center of the city. Any who are needing protection or an escort request her services. Greddi is always looking for strong fighters who are brave enough for the job.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "The Herbalist: The Herbalist is an ancient woman wise in the way of herbology. She knows all plants but is too old to retrieve them herself. She will happily pay for someone to fetch them for her.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The Pale Dragon: The dragon's white skin shimmers with a translucent sheen. His quests are always related to dragons.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "The Falconer: He is the keeper and trainer of the King's hunting birds. He is an older gentleman who is looking to add some variety to the King's collection. He will reward those who can find new species of hunting raptors.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "The Pirate Privateer: Though his father was killed by pirates when he was a child, the young man made his way through the ranks of the king's navy. Now the King has tasked him with fighting the pirates that plague the sea routes. The Privateer is looking for fighters who wish to rid the seas of pirates.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Merton of the Fields: Merton raises the best horses in the realm. He also trains them himself. He wants to do some outcrossing in order to add some new qualities to his breed. Merton's quests have to do with finding new and unique breeds of horses or training horses for certain purposes.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Heiric: Heiric is young, intelligent, and ambitious. He is the Chief of Scouts in the King's Royal Army. All his quests have to do with reconnaissance and scouting.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The Librarian: The Librarian is after books…always. She is the young, new head of the Royal Library and takes her job of collecting new books very seriously. All new offerings will be wellreimbursed.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "Zatoq the Wise: Zatoq has written and collected many proverbs in his long life. He says he will continue to seek wisdom from every corner of the earth. All his quests have to do with finding wisdom, wise sayings, or wise people.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Aruqora the Name Breaker: Of average height and build. She is a master of disguise. All her quests require being undercover and disguised. But of course, she will help you with the second part. Ranger EEE",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests3",
+      "book": "Book Of Random Tables Quests 3",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Quests 3",
+  "category": "quest",
+  "tags": [
+    "quest"
+  ],
+  "roll_type": "d100",
+  "sort_key": "quest givers",
+  "entry_count": 100,
+  "version": 2
+}

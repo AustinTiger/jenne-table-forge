@@ -1,0 +1,26 @@
+## Wild Magic Surge - Icewinds
+d100 01-02 Effect Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. d100 51-52 Effect You are consumed by blue flames. You cast the Fireball-spell centered on yourself. It deals Cold-damage.
+- 3-4. You transform into a water-looking Black Pudding for 1 minute. The Ice Pudding has a swimming speed of 40 feet and deals Cold-damage instead of Acid-damage. 53-54 A Simulacrum appears in the nearest unoccupied space of the target. The simulacrum is friendly to the target and can depict any person or creature the adventurers recognize personally.
+- 90-50. You cast the cold option of Chromatic Orh as a 1d4th-level spell. 55-56 Your hair bursts into cold, blue flame. You cast a cold Fire Shield on yourself.
+- 7-8. You cast the cold option of Chromatic Orb as a 2d4th-level spell. 57-58 You melt into a puddle of water. You cast the Misty Step-spell on yourself.
+- 9-10. The Sleet Storm-spell comes into effect and rages for the duration, independant of you. 59-60 You turn translucent, as were you carved from ice. A Remove Curse-spell can end this effect.
+- 11-12. You cast the Gust of Wind-spell. 61-62 You gain a strange desire to eat snow.
+- 13-14. You gain a crippling fear of fire. You have Disadvantage on Attack rolls, Saving-Throws, and Ability checks while in line of sight of a source of fire. 63-64 Your teeth chatter uncontrollably. you have Disadvantage on Saving-Throws made to maintain Concentration for the next 8 hours or until you're warmed up.
+- 15-16. You conjure a Simlacrum of yourself, snowy, magical equipment and all. The simulacrum is hostile towards you. 99-59 A Storm of Vengeance-spell under the DM's control comes into effect and rages for the duration, independant of you.
+- 17-18. You cast a 17th-level Chill Touch-cantrip. 67-68 Your hair turns white and wet.
+- 19-20. You cast a 17th-level Chill Touch-cantrip, on yourself. 69-70 You cast a domed Wall of Ice-spell around the target.
+- 21-22. You cast True Polymorph on the target. Roll percentile dice again, on a roll of 1-80, the target becomes a Yeti. On a roll of 81-00, the target becomes an Abominable Yeti. The effect lasts for the duration. 71-72 You turn into a snowman, carrot and all, until the start of your next turn. While a snowman, you are incapacitated and have yulnerability to all damage. If you drop to O Hit Points, your carrot breaks in two, and your form reverts.
+- 23-24. An Air Elemental under the DM's control appears next to the target. 73-74 You gain Vulnerability to Cold-damage until the end of your next turn.
+- 25-26. You cast Ice Storm as a 6th-level spell. 75-76 You cast Fog Cloud centred on the target.
+- 27-28. You gain a strange craving for whisky. 77-78 You cast the Cone of Cold-spell.
+- 29-30. You cast Wind Wall centred on yourself. 79-80 You breath becomes visible and hazy.
+- 31-32. You cast Water Walk on yourself. Water momentarily freezes over as you step on it. 81-82 You cast Erupting Earth as a 5th-level spell, dealing 3d12 Bludgeoning-damage and 2d12 Cold-damage to the target.
+- 33-34. You grow a pair of magical silver antlers for the next 24 hours. They deal 2d6 Piercing-damage on a hit. If they are removed by force, they remain and can be sold for up to 500 gp. 83-84 The target is encased in a massive block of ice until the end of your next turn. While encased in the block, the target is immune to all damage but unconscious.
+- 35-36. You cast Conjure Minor Elementals and summon four Ice Mephits friendly to you. 85-86 You cast the Warding Wind-spell centred on the target.
+- 37-38. You grow a long white beard along with a round belly, and become prone to fits of chuckling for the next 24 hours. 87-88 The target melts away, reappearing somewhere else. The target is affected by the Dimension Door-spell.
+- 39-40. The target becomes encased in a layer of rime. It becomes Resistant to all damage for the next minute. 89-90 Your body temperature permanently decreases by 2d10 degrees. You suffer no negative effects from the change.
+- 41-42. You become encased in a layer of rime. You become Resistant to all damage for the next minute. 91-92 You cast the Prismatic Wal-spell centred on yourself, but placed 60 feet in the air above you.
+- 43-44. You conjure a Guardian of Faith shaped from a cold haze and wielding weapons carved from ice. The guardian is friendly to you. 93-94 You cast Polymorph on yourself. If you fail the Saving-Throw, you turn into an Arctic Fox for the spell's duration.
+- 45-46. You and all creatures within 30 feet of you gain Vulnerability to Fire-damage for the next minute. 95-96 You cast the Flesh to Stone-spell, the target turning into a frozen statue rather than one of stone.
+- 47-48. You cast Wall of Thorns, the wall being made up of icicles rather than thorns. 97-98 You cast the Investiture of Ice-spell on the target.
+- 49-50. The target slips and falls Prone from a sheet of ice manifesting itself below it. 99-00 Roll twice on this table, ignoring. this result on subsequent rolls.

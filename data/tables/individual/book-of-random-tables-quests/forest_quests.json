@@ -1,0 +1,1225 @@
+{
+  "name": "Doorways to Another World",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The  trees  in  the  old  forest  are  dying  and  no  one  knows  why.  Some  say  it's  a  tree  disease. Others think something sinister is at work. The party is sent to search the forest to get to the bottom of the matter.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The party finds an abandoned treehouse. If explored they find evidence that a noble couple who  were  forced  out  of  their  home  had  lived  and  died  here  in  exile.  They  also  find  journals detailing the kingdom they came from and the crime they were falsely accused of.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "The party sees a group of men preparing to hang someone. Should the party intervene? They learn the person about to be hung is innocent of any crimes.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "The party discovers a large amount of dead birds in the forest. If they look for clues, they are lead  to  a  tower  where  a  mad  wizard  is  performing  experiments.  He  does  not  take  kindly  the interruption.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "A merchant asks the party to collect beaver skins for her. She's paying quite well for every skin.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "A strange people live in the forest. Their skin appears to be wooden and their eyes seem to hold  an  ancient  sadness  within  them.  Though  they  do  not  speak,  they  beckon  the  party  with motions to come to a large tree. It stands like a massive sentinel. It is aged, venerable, tired. The elders lead the party around its immense girth to a place where the tree shows signs of disease. A dark hole has been bored into the base and a rank odor wafts out of it. Around the rim of this void the tree's bark is discolored and putrefied.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "A  wagon  is  stuck  in  a  thicket.  The  gaunt  mule  team  is  struggling  to  free  themselves,  but cannot. The wagon is loaded with cages of exotic birds that are raising quite a racket. The driver is  slumped in his chair. If the party investigates, they find the driver has been murdered. Some papers and items reveal the driver's name and the town they are from plus a few clues.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "A merchant hires the party to search for one of his caravans that was lost in the forest.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "The party sees a sword stuck into a massive tree about 20 feet above the ground. If the sword is pulled out of the tree, the spectral form of a knight appears and tells the party a story. He was the captain of the guard of a nearby kingdom and was betrayed by his best friend who took his position. He asks the party to avenge him.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The party discovers a group of men pulling a sailing ship on rollers through the forest. The men have been traveling for a long time and the arduous journey has taken its toll. They say they are looking for an inland sea and their homeland.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The party stumbles upon a giant egg in the forest. While the party is investing, the mother roc returns and attacks.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "The party stumbles across the ruins of a great statue of a man. It now lies broken next to the path. The name of the person can be seen on the base, plus an inscription that reads, 'He who finds my shield and sword shall rule in my place.'",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "A wizard asks the party to search the forest for a certain kind of moss. They will be paid if they can find any.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "The  party  comes  across  a  dying  adventurer.  He  tells  them  that  he  was  betrayed  by  his partners after they found the fountain of youth. As he dies, he gives the party a map.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "On the forest road, the party meets a traveling circus. They have a choice to join the circus or  to  continue  on  their  quest.  If  they  choose  not  to  join  the  circus,  they  soon  realize  a pickpocket has relieved them of several valuable items and gold pieces. If they join the circus they find out there is a power struggle within the organization and can help the rightful owner regain control of his family circus.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The  party  finds  an  unconscious  woman. On her person is a map, a golden dagger, and a crimson cloak embroidered with complex designs. If the party tends her wounds, she regains consciousness and tells them she is on the run from a vile group of warriors who have raided her village in the forest.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The forest is under a curse. Those who step into its dark shadows never return. Some say that the curse can be broken and the lost set free  But that would entail entering the uncanny wood and walking among the swarthy leaves, penetrating  the  darkness  to  find  the  Ancient One who bound the curse to its trees.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The potion shop owner asks the party to search the forest for a certain kind of plant. He will pay for each plant brought to him.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "The party stumbles across a peaceful grotto with a strange ivory statue near a clear pool. In the statue's chest is embedded a large ruby. If the party drinks from the pool they are healed of any wounds. If the ruby is taken, the statue comes to life and hunts them through the forest until it is defeated, regains the ruby, or the party is driven far away.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The party must find a bandit gang's hideout in a huge forest.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "A talking tree tells the party a sad tale and asks them to bring him a golden acorn, a feather of a mockingbird, and the wings of a dragonfly. If they do this, they will be greatly rewarded.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "The  party  finds  a  silver  ring  hanging  from  a  tree  by  a  ribbon  of  scarlet.  The  ring  has  the name of a faraway city inscribed on it.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The party comes across a lake as they are traveling. They realize it was created by a dam. The dam appears to be near failing. If it breaks it would destroy a small village located below it.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "A hunter tells the party she tracked a white stag for miles, but lost him near a large cave. The white stag's skin would fetch a hefty price.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "The party discovers a trail of gold pieces leading off the road and into the forest. If the trail is followed, the party is ambushed by bandits.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "The party finds a dead horse near the path. It's packs are filled with supplies and there is a map that leads deep into the forest.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "The party is asked to search the forest for a good location to build a new fort.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "The  party  discovers  an  emerald  on  the  forest  path.  If  they  pick  it  up,  they  soon  notice ghostly figures stalking them.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "The party encounters a pack of sentient wolves. They invite the party to go with them on a mission to save their land from a greedy king, who wishes to cut down their forest in order to build himself a lavish estate in the country.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The  party  must  transport  a  lit  brazier  to  a  secret  location.  The  flame  must  remain  lit. However, there is a gang of evil mages who want to steal it, and the road is filled with hazards that might put out the flame.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "The  party  stumbles  upon  a  massacre.  There  are  about  100  bodies  of  travelers  who  have been slaughtered. As the party searches through the remains several clues emerge. Evidence points to a pack of gnolls. Several items are found among the dead that would give the players incentive to track the gnolls down and kill them. Once they do, they discover evil mercenary troops are raising an army to disrupt trade and extort villagers.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "When the ogre came burning, stealing, and murdering, most of the poor folk in the land fled before him. Now from his cave he holds prisoner an entire region. Part of the Traveler's Road  is  no  longer  safe  to  traverse.  The  party  must  slay  the  ogre  and  rid  the  land  of  his corruption, so the farmers can return and the road is again safe.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "A wizard asks the party to search the forest for bark from a certain kind of tree. If they find it, he will reward them.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "An innkeeper asks the party to bring her venison from the forest.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "The party finds a dying man. It turns out that he was on a mission to free his people from slavery. He had finally gained enough access into the slave cartel to put him in a good position to assassinate the leader of the vile slavers. Now the players can choose to impersonate the man or discover other means to free the slaves.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "The party comes across a treehouse village of halflings who say they need help fending offbandits.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "The party is asked to kill a giant boar that is rampaging through the forest.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "All the animal life in a particular forest seems to have disappeared. Rumors about an evil presence in the forest are starting to spread. If only someone would investigate.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "The  party  discovers  a  chasm  from  which  they  hear  screams.  There  seem  to  be  enough handholds to descend into it.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The party encounters a hermit. He asks them to collect berries, venison, and other food from the forest, and in exchange he will cook them a good meal and impart some wisdom. After the meal, the hermit tells the story of an ancient ruin he found in the middle of the forest.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "The  party  finds  a  hawk  wounded  by  an  arrow.  If  the  hawk's  wounds  are  tended,  it  gets better.  At  night  the  hawk  transforms  into  a  beautiful  woman  who  explains  she  has  been cursed. The party can then undertake to break the curse.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "While traveling through the forest at night, the party begins to hear sounds like an animal is tracking them. Eventually, they discover or are attacked by a werewolf.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "The party finds a trail of breadcrumbs. If they follow it, it leads to a house seemingly made of candy. It's so hard to resist the temptation to nibble!",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "The party comes across a lumberjack who has been trapped under a tree he was cutting down. If the party frees him, he invites them to his home for dinner.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "A dying man implores the party to take a wooden box to his daughter in a distant town. If the  box  is  not  opened,  they  are  rewarded  handsomely.  If  the  box  has  been  opened,  the daughter will know it and not reward the party.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "The deeper the party travels into the forest, the more the forest becomes corrupted and dark. Leaves go from green to brown to black. The trees themselves seem to grow angier and more unpleasant to look upon. Good game is replaced by foul creatures. If the party continues into the darkening forest, they discover a group of evil wizards raising an army of goblins, orcs, and ogres.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "The forest is quiet, too quiet. There does not appear to be any wildlife at all. If the party investigates, they discover a dragon is on the prowl.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Within  an  ancient  wood,  there  is  said  to  be  a  powerful  wizard  who  sleeps  until  the  day when he is needed. Is that day at hand?",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The party discovered the dead body of an adventurer. The corpse has some basic supplies, a short sword, and a bow with 12 arrows. Also, there is a journal with clues and information on points of interest in the forest. There is information on several caves in the area, locations of streams are marked clearly, and an odd note about a strange tree.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "A dog comes to the party and indicates he wants them to follow him. If they do, they come to the entrance of a troll cave where three travelers are about to be roasted over a fire.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "The party meets a group of lumberjacks that ask for help. They'll pay for each tree that is cut down and stripped.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "The party meets a group of slavers who have just rounded up a load of fresh victims. The slavers ask the party for help transporting their human cargo. What does the party do?",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "The party is asked to capture a thief who fled into the heart of the old forest.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "The  party  is  asked  to  investigate  sightings  of  a  strange  creature  that  is  said  to  inhabit  a certain stream in the forest.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "The party is asked to find a book that has been lost in the forest.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "The  party  meets  a  group  of  travelers  that  are  in  trouble.  Their  wagon  is  stuck,  and  one member of the group has broken their leg. The travelers ask for help and say they are only going to the next town.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "At the heart of an enchanted swamp lives a wizard. The players must defeat the evil wizard in order to release the young maiden from thralldom.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "The  party  stumbles  upon  a  stone  dias  with  a  large  crystal  levitating  over  it.  The  crystal speaks and asks them to bring a certain woman to it so that the woman and the crystal can be 'joined.' The crystal claims that the woman is the chosen one and gives instructions on how to find her.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "As the party travels along the forest road, they are ambushed by bandits.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "A  forest  fire  rages  ahead.  The  party  can  turn  back  or  help  put  it  out  before  it  reaches  a nearby village.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "The  characters  are  tasked  with  finding  a  meteorite.  The  'star  metal'  makes  excellent swords. There are several competing parties trying to find the meteorite as well. However, the meteorite fell into the middle of a vast forest.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "The party meets a group of bounty hunters tracking a criminal. They ask the party if they want to help out. In return, they'll get a piece of the action.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "The party must clear a goblin den near the path.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "A wizard asks the party to collect some rare herbs in a marsh nearby. While they are out collecting  them,  the  spirit  of  a  long-dead  warrior  appears  to  them,  and  he  gives  them information that could lead them to the ruins of an ancient castle now sunk beneath the marsh.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "The party comes to a raging river. However, the ancient bridge span has collapsed. How will they get across?",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "The owner of a small shop asks the party to gather seeds from a variety of different trees of the forest. He's paying well.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "The  party  meets  a  strange  old  man  in  the  forest.  He  asks  them  to  perform  a  series  of seemingly menial and nonsensical tasks like gathering sticks, making mud, and tearing leaves. However, when the party is finished, the man combines the items and produces a magic ring that he offers the party.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "While traveling through the forest the party notices there is a fire up ahead. It turns out to be a campfire of some traveling mistrals. They challenge the party to a sing off.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "The World Tree is dying. The party must heal it.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "A hunter spins a strange story of a beast his arrows would not kill. He tells the party that this mystical beast has a giant jewel implanted in its chest. He can show the party where he took a shot at it and a few tracks.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "The  old  forest  has  a  confounding  effect  on  travelers,  and  many  become  lost  forever. However, somewhere in the forest is a map leading to a magnificent treasure. If the magical map is found, the confounding effect disappears and allows the party to navigate the forest. But can they find the map before they are hopelessly lost?",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "A  heavy  rain  has  revealed  some  ancient  stone  work  along  the  path.  When  the  party investigates, they find a stone tablet written in an unknown language. If they can translate it, it says it marks the spot of the 'royal vaults' whatever that means.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "A  burned  wagon  is  found  alongside  the  road.  There  are  several  dead  bodies  and  some ransacked supplies.  There  are  a  number  of  clues  that  lead  the  players  to  find  bandits  and  a greater conspiracy. A certain crime boss is stealing land from poor farmers.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "The party is hired by a wealthy noble to prospect for gold deep in the forest.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "The party is asked to throw a cursed sword into a spring deep in the forest.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "The party meets a royal fox hunt who asks them to join the hunt.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "The  party  discovers  a  series  of  cages  suspended  from  a  huge  oak  tree.  Several  contain skeletons and one contains an unconscious woman.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "The party meets a group of townspeople searching for a lost child. Are they willing to help?",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "The party is asked to collect honey from a beehive high in a tree.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "The party discovers ancient ruins. Under great tree roots are a number of chambers that can be explored.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "While walking through the forest, the party spots a tree that has a keyhole in it. If the party has a key, they can try it. Or a search of the surrounding area reveals a key hidden underneath a rock. If the key is placed into the tree, the tree splits open with a loud crack. It reveals stone stairs descending into a dungeon.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "A baby is found in the middle of the forest road. The baby needs to be taken care of or it will  die.  A  few  clues  remain  near  the  child  that  may  lead  to  the  identity  of  the  parents  and possibly a group of kidnappers.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "While  traveling  through  the  forest,  the  party  is  attacked  by  warriors  wearing  bearskins. They blame the party for attacking their village. The party can convince them they didn't attack their village, if they offer to hunt the real culprits.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "The party is asked to investigate strange sounds coming from the forest at night.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The party spots a tree with a map carved into it. The map points to some location deep in the forest. If the party follows the route, they come to an overgrown tower.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "A metal key at least four feet long lies in the path. What in the world could it open?",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "A pixie confronts the party and begs for help. Her village is under attack and if they hurry they could help save her people.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "The long-abandoned tower of a robber baron has recently been rebuilt. Travelers along the road have noticed activity there, and a couple of travelers say they had to pay a 'toll' to pass by. The party is hired to investigate.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "The party discovers several bodies hanging from the trees. Signs show a struggle and orc tracks leading offinto the forest.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Deep in the forest there is a magical bridge. At least, that's what the village children say. Their  mothers  laugh  and  dismiss  it  as  childish  imagination.  But  the  children  do  bring  home some strange objects once in a while.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "A  massive  tree  has  fallen  across  the  path.  As  the  party  makes  their  way  around  it,  they discover a chest full of old maps that the tree had grown over.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "The party finds a secluded waterfall that appears to have unusual objects in the pool at the base. There is a chest with some gold and a map inside plus several magic items.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The party must transport some rare lumber down a river. Soon they realize that they are being  pursued  by  a  gang  of  bandits  who  want  their  cargo  and  a  secret  item  that  has  been hidden among the lumber.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Orcs have moved into the forest to the east and are chopping down every tree they can find. The villages are nearly in a panic. Why are these orcs doing this? The people of the five villages are looking to hire adventurers to investigate.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "The party is ambushed by a group of ruthless highwaymen.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "It is well known that within the heart of the forest grows a very special kind of tree. These trees draw magic from an underground spring which imbues their wood with uncanny power. Any weapons or other objects made from the trees' wood are always magical. There is a great demand for this wood. However, the forest itself defends its heart fiercely.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "The party meet an incredibly wealthy merchant whose left hand glints in the sunlight. The tips of his fingers appear to be made of pure gold. When asked about this feature, he tells of a perilous  forest  where  strange  beasts  seek  to  devour  any  who  dare  enter.  Somewhere  in  its depths, there is a pool of water that changes any object dipped in it into the finest gold. As he clinks his fingers together, he smiles wearily and warns about getting too greedy.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The party is asked to map a large section of forest by a nearby town.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "The  party  comes  across  a  group  of  refugees  who  have  been  driven  from  their  land.  The party can help equip and train them so they can take back their land or do it for them.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "The  party  discovers  a  huge  tree  that  has  been  hollowed  out  and  made  into  a  tomb.  If explored they learn that it is the tomb of an elven queen.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests",
+      "book": "Book Of Random Tables Quests",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Quests",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "doorways to another world",
+  "entry_count": 100,
+  "version": 2
+}

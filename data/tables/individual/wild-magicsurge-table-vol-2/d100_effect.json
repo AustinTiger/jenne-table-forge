@@ -1,0 +1,421 @@
+{
+  "name": "d100 Effect",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from wild-magicsurge-table-vol-2.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The caster is sent back in time 1d20 hours. Make sure your DM is okay with this one! 2O16W1ZARDSOFTHECOASTLLC,POBOX7O7,RENTON,WA98O57-O7O7,USA.MANUFACTUREDBYHASBROSA,RUEEMILE-BOECHAT31,2800DELEMONT,CH.REPRESENTEDBYHASBROEUROPE, 4THESQUARE,STOCKLEYPARK,UXBRIDGE,MIDDLESEX,UB111ET,UK.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The party is plagued by voices in their head. The voice sounds exactly like each PC's mother and criticizes and chastises everything they do for 1d4 weeks. Things such as, 'Oh, why would you kill that poor goblin? What did he do to you?' and, 'You need to wipe your feet before going into an inn! Where are your manners?'",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Whenever the caster is hurt, a blast of confetti shoots out of their ears, accompanied by the sound of a party noise maker.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Every goblin within 100 miles gains a deep understanding of fine wines and high society.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "The solar and lunar cycles reverse (sun/moon rises in the west and sets in the east.).",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The caster's skin becomes covered in bright polka dots .",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "The nearest nobility/royalty is convinced that the party has stolen something of importance from them.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "The caster and the next party member they speak to swap minds. Exchange all mental scores, but keep all physical scores. They swap back after 1d10 days.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "The nearest town loses the ability to speak and becomes proficient in interpretive dance.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The caster's pockets become filled with honey.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The caster experiences particularly severe flatulence for 1d4 days, though the scent is of fresh-cut spring flowers rather than… the usual scent of flatulence.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Storm clouds form in the area and rain down upon the land. The rain isn't water however, instead it is melted butter.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Natural beasts within 10 miles quadruple in size instantly. This does not affect druids that have transformed with Wild Shape.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "The caster gains the ability to pass through walls, but only 50% of the way. They become stuck if they try to move further forward.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The next creature to come in physical contact with the caster becomes instantly covered in black, sticky tar.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The nearest cleric develops an insatiable appetite for dirt.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The caster discovers that their nose has become detachable.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The next item the caster touches becomes stuck to their hand as though held there by Sovereign Glue (see Dungeon Master's Guide ). However, it may be removed by Dispel Magic or Remove Curse.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "The caster gains eat-vision. By staring at food or drink, they can focus their energy and eat/drink it from up to 100 feet away. While using this ability, their eyes glow white and there is a faint smell of burning flesh around them. 67-68 All food within 20 feet of the caster now attracts bees from up to 10 miles away. 69-70 The nearest evil aligned creature believes the party to be their greatest foe. 71-72 The nearest field of crops animates and rises up against the farmers of the region.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The nearest tree to the caster takes offinto the sky like a rocket until it reaches 5,000 feet above the ground, then promptly falls. 73-74 75-76 All wheels within 1 mile morph into square shapes. Whenever the caster is silent, an audible",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "The caster's hair writes like snakes and gains nerves so that they feel pain whenever they are cut. If they have no hair, they grow hair as well! 77-78 ticking sound can be heard emanating from inside their chest. The nearest huge creature finds that they",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "A squad of modrons appear and begin performing a musical symphony for the party. When they finish, they leave immediately. 79-80 absolutely need to hug out their problems with everyone they meet; much to the smaller creatures dismay! Every night when the party rests, while they sleep their body slowly sinks into the",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "An extra arm sprouts from the caster's forehead and lasts for 1d4 days before vanishing with a loud pop. It is devoted to playing practical jokes on the caster or causing them general (though non-life threatening) distress. Things like covering their eyes, giving wet-willies, etc. 81-82 83-84 ground, forming a small hole around them as the dirt magically moves aside. The hole gets 1 foot deeper per hour of sleep. Each spell cast by the caster now also summons a duck under the DM's control. The next NPC the party speaks to will begin shrinking slowly the longer they",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "All weapons within 50 feet of the caster leap from their owner's hands and bury themselves 5 feet into the ground. 85-86 87-88 converse with them. The caster's gender swaps. For the next 1d8 days, the region",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "The nearest allied PC becomes certain that the party is being stalked by an ancient red dragon. experiences weather opposite of the current season. All coins held by the party turn into",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "The caster's teeth all begin screaming, and continue doing so for 1d8 days. 89-90 platinum for the next 1d4 days, the return to their original state.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Creatures within 100 feet of the caster and the caster themself emit bright light 91-92 Half of the caster's body triples in age, while the other half becomes three times as young as their current age",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "The sun and moon both gain large, menacing smiles. These are visible to those who look closely enough. 93-94 All creatures within a 30 foot radius vanish and then reappear at the center stacked order.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "The caster's boots now squeak like mice with every step they take. 95-96 atop one another in a random The moon becomes invisible.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Whenever the caster speaks, it is in rhyme. If they attempt to speak in anything but rhyme, the creatures around them only hear the sound of static. 97-98 The nearest king abdicates their throne to live as a peasant on a homestead in the country. The caster becomes aware of the fact that",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "The caster becomes unable to walk in a straight line, as if permanently intoxicated. 99-00 they are actually just a fictional character in a role playing game for the next 1d4",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "The caster becomes invisible, but only while sneezing. hours, and then they magically forget this fact. Enjoy this short existential crisis!",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Whenever the caster enters a building, the amount of light available dims to darkness and then a spotlight of bright light appears around the caster (accompanied with trumpet sounds). Then the light returns to normal immediately afterward.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "wild-magicsurge-table-vol-2",
+      "book": "Wild Magic Surge Table 2",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Wild Magic Surge Table 2",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "d100 effect",
+  "entry_count": 33,
+  "version": 2
+}

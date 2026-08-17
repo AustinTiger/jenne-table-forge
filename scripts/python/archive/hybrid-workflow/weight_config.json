@@ -1,0 +1,16 @@
+{
+  "weight_profiles": {
+    "rarity": {
+      "artifact": 1,
+      "legendary": 4,
+      "very rare": 16,
+      "very_rare": 16,
+      "rare": 64,
+      "uncommon": 256,
+      "common": 1024
+    }
+  },
+  "default_profile": "rarity",
+  "duplicate_similarity_threshold": 0.85,
+  "default_vtt_output_path": "C:\\FoundryVtt\\Data\\modules\\vtt-tableforge"
+}

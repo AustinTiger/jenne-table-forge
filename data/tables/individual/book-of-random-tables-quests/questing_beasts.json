@@ -1,0 +1,1229 @@
+{
+  "name": "Quest Objects",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The Fleetfire Rhinoceros of Tarask - A huge black rhinoceros that runs as fast as a horse and breaths fire.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The White Stag of the Mountain -Simply an albino stag. However, they are quite rare and some consider them magicial.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "The Sularen Goat - An elusive kind of goat found only on mountain plateaus.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "The Spitting Frog of Ardeth - An obscenely grotesque frog that is said to pray on creatures as large as deer or even a man by spitting acid on them.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "The  Queen  Bee  of  Miranna  -  An  extremely  large  aggressive  queen  said  to  be  found  in  high grasslands.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The Vian Chipmunk - A rare species of chipmunk or ground squirrel thought to be living within dense forests. It is distinguished from a common chipmunk by yellow facial fur.  Some say that it has an uncanny ability to sniff out a liar.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "The Red Sarithian Crow - A species of crow that are blood red in color. Rarely seen, they are regarded as an ill omen or even a portent of death.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "The Gray Gopher of Khadi - Once a numerous pest, very few of these gophers remain.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "The Dagmarian Salamander - A legendary salamander said to be four feet in length or more. Supposedly the creatures are red, green, and brown.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The  Gold  Falcon  of  Eronoss  -  A  powerful  species  of  falcons  that  were  supposedly  kept  by kings and queens for generations. However, no one has seen one in a very long time.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The  Orcina  Wyrm -  Some mystical seed of dragonkind that is reportedly the size of a large dog. Ancient records say they boasted a feathery plumage of orange and green.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "The  White  Hyena  of  Tormax  -  A  horrid  beast  that  according  to  folklore  appears  once  a generation or so. It is blamed for a number of deaths.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "The Anim Ape - A mythical ape or ape-like creature sometimes described as white or silver, but always depicted with blue-furred shoulders.",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "The  Phantom  Serpent  of  Keteris  -  Stories  tell  of  a  translucent  serpent  silently  stalking  its victims day or night.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The Great Bat of Elarond - A recent sighting speaks of an enormous bat the size of a wagon.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The Dragon of Kyral - This creature has never been seen by man, or at least no one who has seen it has ever survived. Occasional reports of burned farms and missing livestock are usually blamed on the beast.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The Blood Jackal of Pollix - A breed of vicious jackals hunted nearly to extinction. However, some say they still hear their haunting calls on quiet evenings.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The Rethera Dragon - Supposedly living in the ruins of an ancient city it destroyed eons ago, many have searched the hill country for its lair but to no avail.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "The  Taurendil  Butterfly  -  Said  to  be  a  foot  in  length  and  reputed  to  be  extraordinarily beautiful, these butterflies are extremely difficult to locate.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The Sabawyn Panther - A rumored species of large cat. Tracks and kills are found, but no one has ever seen one.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "The Silver Hawk of Kallukoras - A solitary creature believed to be the last of its kind. Usually once or twice a year some field worker or traveler reports seeing it riding high on the winds in a forlorn search.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "The Wrora Shark - A rare species of shark prized for their skin.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The  Maneless  Lion  of  Kelarin  -  A  man-eater  that  has  plagued  the  region  for  nearly  twenty years. It is said to be twice the size of a normal lion and to have completely white eyes.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "The  White Whale of Mobi - A gigantic white whale that sinks ships. Sailor sightings of the creature date back thousands of years.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "The Great Vole of Kruineph - Legends tell of a vole six feet in length that terrorizes farmers or other workers in the early dawn hours.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "The Daggoth Elk - Supposedly larger than the common elk and with a tremendously shaggy coat. It  would keep an adventurer warm in even the most frigid environments.  Many traders boast of having a pelt, but they are almost always fakes.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "The Black Tiger of Parsa - There are only a handful of accounts of this creature ever recorded. It is said to be a large feline with pure black fur, but beyond that, little is known.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "The Copper Stork of Ordol - Reddish brown in color, this bird is said to be a good omen when seen. However, it is a rare sight.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "The  Winged  Horse  of  the  Marogon  -  A  legendary  creature  that  most  believe  is  only  a children's story.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The  Black  Shrew  of  the  Hills  -  A  vicious,  enormous  shrew  that  reportedly  has  attacked travelers in the past.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "The Frost Mole of Kurn - A large mole-like creature that thrives in cold places like the northern mountain ranges.  Some say that the mole is quite hospitable and will welcome a cold traveler into its tunnels.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "The Vampire Fox of Galador - A mythical creature said to lurk in the shadows around farms or isolated settlements looking for small animal victims.  It is often used in children's stories to keep them from wandering out-of-doors after dark.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "The  Transhiva  Crocodile  -  A  certain  type  of  large  crocodile  marked  with  a  red  spot  on  its snout.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "The White Tiger of Vurrha - A legendary creature who sighting is believed to bring good luck and prosperity.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "The Lonesome Dove of Creel - A large solitary dove that sings a woeful song at morning and twilight.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "The Giant Sloth of Krill - Sightings say this creature is nearly 20 feet in length.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "The Huurlek Dragonfly - A large rainbow-colored dragonfly that apparently became more rare in the last century. There have been no reported sightings in at least 15 years.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "The Golden Squirrel - A species of squirrel said to live near the treeline of mountain ranges.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "The Great Dimodan Bear - Supposedly a giant species of bear that at one time were used as mounts.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The Corpse Toad of Dahar - A vile creature that eats putrefying flesh. This toad is said to be nearly a foot in length and camouflaged like its preferred meal.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "The  Giant  Rat  of  Gatheri  -  Thought  to  have  been  extinct,  there  have  been  several  recent sightings of this three foot long rodent.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "The Great Fish of Abren - Fisherman have long claimed there is a giant fish in the northern lake that has several yellow stripes, but few have ever seen it.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "The  Great  Boar  of  the  Forest  -  A  rampaging  monstrous  boar  that  is  destroying  the  forest, killing livestock, and harassing travelers.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "The Pyrene Jaguar - Described by several ancient historians as being an exquisitely beautiful, thinner relative of the common jaguar.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "The Elusive Prairie Dog of Koor - A pesky creature said to uproot crops and destroy fields. Noted to be extremely hard to capture or kill.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "The Xyras Raven - A large raven species thought to be extinct. Distinguished by an orange spot on the tip of the beak.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "The  Great  Andan  Eagle  -  A  giant  eagle  said  to  be  seen  on  occasion  flying  high  in  the mountains. Purportedly, the wingspan is more than 20 feet.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "The Red Stag of the Valley - A beautiful red-coated stag allegedly seen feeding in lush river valleys.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The  Korrado  Skunk  -  An  aggressive  breed  of  large  skunk  that  have  been  hunted  to  near extinction.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "The  Rohana  Meadowlark  -  A  small  variant  of  the  more  common  meadowlark,  this  bird  is known for its piercing song.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "The  Belanger  Weasel  -  A  large  ferocious  weasel  said  to  devour  chickens  and  possibly  dogs whole.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "The Dawn Wyrm of the River - A dragon usually spotted in the early hours of dawn drinking from  the  river.  It's  home  must  be  in  a  cave  near  the  water,  but  few  have  seen  more  than  a fleeting glimpse of the creature.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "The Fire Drake of Vash - A dragon-like creature last seen about fifty years ago when it burned a village to the ground. Many live in fear of its return.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "The Rosado Bobcat - Slightly smaller than the common bobcat, this species is distinguished by three black stripes on its back and a mournful cry that brings tears to many an eye.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "The Lost Monkey of Kareban - A near mythical monkey said to be a trickster of sorts.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "The Sarn Coyote - A large species of coyote rarely seen on the edges of deserts and plains.",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "The Mohandai Mouse - An elusive, tiny mouse noted for having an iridescent white body and a striking black tail.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "The Sky Turtle of Brone - Spoken of only in myths and tall tales, it is said these giant creatures used to swim in the skies as other turtles would swim in the sea.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "The Corliss Fox - A thin relative of the common fox noted for its mostly black fur and red facial bandit markings.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "The  Golden  Crab  of  Tiduri  -  A  large  gold-colored  crab  once  used  as  a  good  luck  charm  by monarchs. Now, it is said very few remain.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "The  Myrishi  Moose  -  A  large  moose  with  a  rusty-colored  coat.  There  have  been  very  few sightings in recent years.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "The Sand Opossum of Gol - A strange marsupial ambush predator that burrows in deserts.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "The Red Wolf of Rennek - A legendary beast blamed for the deaths of several young girls and boys. Tales stretch back several generations.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "The River Beast of Rimora - Some sort of aquatic beast that has terrorized fisherman on the river. While there have been several sightings in the last few years, the descriptions reported are seemingly contradictory.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "The  Burning  Egret  of  Lionne  -  A  particular  type  of  egret  that  develops  red,  yellow,  and orange tips on their feathers. They are considered quite rare.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "The Claw Seal of Froud - Reports of a massive seal with a single foot and a half long claw disemboweling seaman have been shared in tarvens for years.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "The Lake Beast of Amanha - A mysterious beast only seen on moonlit nights. It is said it has a long neck and mournful eyes.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "The Emerald Kingfisher of the Merisee - Instead of the blue of the common kingfisher these birds sport vibrant green plumage.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "The Zombie Lynx of Kelrune - Spoken of only in whispers, this undead cat is said to prowl at night devouring small children.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "The Otara Otter - A large playful otter thought to be extinct.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "The  Sun  Condor  of  Aldamar  -  A  gigantic  bird  with  copper  and  yellow  feathers.  There  have been so few sightings in recent years, it is believed there may be only a handful of them left.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "The Wild Horse of Qardin - A mysterious stallion that can be heard neighing on lonely nights. Many have tried searching for the horse, but to no avail.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "The  Wise  Owl  of  Geela  -  Myths  tell  of  this  impossibly  old  owl  holding  court  and  delivering wisdom to the animals.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "The Old Dragon of Torpoli - A thousand years ago, it is said that a dragon made its home in crags  and  caves  of  the  mountains.  No  one  has  seen  it  since.  However,  some  say  the  sound coming down from the mountains on certain nights is not just the wind, it is the beast breathing.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "The Varanese Swallow - A tiny bird, once thought to be an old wives tale, has been reportedly seen a few times in the last couple of years.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "The  Shalla  Newt  -  A  blue-striped  newt  that  is  believed  to  have  medicinal  or  magical properties.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "The Baku Goose - A black goose only mentioned in children's tales.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "The  Drosk  Shadow  Lizard  -  Supposedly  a  large  lizard  that  can  hide,  possibly  meld,  with shadows.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "The Venom Stag of Solari - A venomous and possibly vampiric cole black stag with burning red eyes. Usually only seen at night when it feeds.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "The Great Black Heron - Only sightings of this semi-mythical bird have come on nights of the full moon.  Some claimed that they were healed after seeing it.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "The Horn Wolf of Charrel - Written accounts in a few ancient chronicles tell of a massive wolf creature with ram-like horns. They were used as mounts by dwarves and tribes of mountain men.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "The Mountain Goat of Lasena - A rarely-seen, timid goat often sought for its milk and meat. However, they seem to be even more rare these days.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "The Mist Drake of Dalgas - A dragon rumored to live in misty valleys. The only sightings tell of an outline or vague form in the mist.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "The Evoros Wolverine - A devilish creature related to the common wolverine that is said to attack men on sight.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The  Fang  Duck  of  Zim  -  Supposedly  a  vampire  duck  with  two  inch  long  fangs.  There  is  a certain child's rhyme that makes mention of the creature.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "The Skyron Blackbird - A large blackbird with blue-feathered shoulders. It is said they are a portent of death.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "The Fire Spider of Kassal - Reportedly a large spider that has been seen walking on lava in active volcanos.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "The  Ziiomian  Alligator  -  A  mythical  creature  said  to  be  the  size  of  a  house  with  moss  and trees growing on its back. It is said to be often mistaken for a small island in rivers and swamps.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "The Aldan Porcupine - A deadly porcupine with poisonous quills. Many think it is an invention of the old men who sit too long in pubs.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "The Dagos Vulture - An even more vile cousin to the common vulture. They are said to be bigger and have more voracious appetites.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "The Shadow Rabbit of Novar - A mysterious blacke rabbit that seemingly only lives in folklore and wild tales.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "The Rock Snake of Alateen - Tales speak of this giant snake slowly prowling through the hill country. However, few if any one claims to have ever seen it.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The Varel Roc - A mythical beast said to blot out the sun when it flies. Reportedly it lives on the tallest mountain in the world.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "The Slime Mongoose of Tymon - A swamp-dwelling mongoose-like creature famous for its aggressive behavior and foul odor.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "The Jeweled Nightingale of Corso - A spectacularly-colored nightingale  now thought to have vanished from the lands of men.  Some say that it could mimic any tune.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "The Tree Leopard of Dorn - Supposedly a feline predator that lives and hunts exclusively in the canopy of the rainforest.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "The Moon Thrush of Thurinos - A type of magical thrush that is said to be seen only at night.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The Ghost Badger of Yrias - A creature whose existence is only rumors and hearsay. Its name comes from one gruesome tale of it attacking a lone traveler at night.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "The Meln Beaver of the Great River - A legendary beaver of immense size. Once thought to be very common now many believe it to be simply a story.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "The Zeorg Snake - Supposedly a highly venomous snake with a blue circle on its head.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests",
+      "book": "Book Of Random Tables Quests",
+      "category": "quest",
+      "tags": [
+        "quest"
+      ]
+    }
+  },
+  "book": "Book Of Random Tables Quests",
+  "category": "quest",
+  "tags": [
+    "quest"
+  ],
+  "roll_type": "d100",
+  "sort_key": "quest objects",
+  "entry_count": 100,
+  "version": 2
+}

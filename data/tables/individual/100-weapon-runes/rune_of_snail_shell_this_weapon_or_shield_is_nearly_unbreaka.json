@@ -1,0 +1,265 @@
+{
+  "name": "46 - Rune of Snail Shell: This weapon or shield is nearly unbreakable by non- magical means, however becomes so dense and heavy that it effectively eliminates any dex bonus the player has to their AC. Rune of Heaven's Fan: when this weapon",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from 100-weapon-runes.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "is swung, a gust of cool wind is released, extinguishing fires and briefly turning the ambient temperature tolerable regardless of its previous state. Twice a day, the wielder can slash the weapon downwards to create a 40-ft long, 5-ft wide blast of downwards wind that forces everyone hit to make a STR save or be knocked prone (if flying, they'll fall out of the air), with DC potentially modified by one's own eight. This ability slaps most projectiles out of the air, and can be used as a reaction to a projectile attack. - 47",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Rune of the Mantis: Grants advantage to the religion skill.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Rune of Orcus: any humanoid creature of size large or smaller killed by this weapon rises as a zombie under your control for 20 minutes. After 20 minutes, the zombie collapses and turns back into a corpse.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Rune of the Lobster: Grants advantage to the medicine skill.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Rune of the Peacock: Grants advantage to the performance skill.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Rune of Ice: This weapon's damage type has changed to ice.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Rune of Fire: This weapon's damage type has changed to fire.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Rune of Spirit: Grants +2 morale bonus to attack rolls. In addition the weapon gains the ghost touch trait.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Rune of the Raven: Grants advantage to the arcana skill.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Rune of Fire's Wake: things hit by this weapon release a cloud of thick smoke that visually obscures an area of 10ft radius. Enemies or at least partially empty containers hit by this weapon fill up with a thick smoke. Those hit make a CON save as their respiratory system fills up completely with smoke; on a success, they expend their upcoming bonus action to cough out the smoke, but on a failure, they lose their upcoming action to do so. Rune of the Journey: any enemy hit by this weapon makes a WIS save; otherwise, they will spend their upcoming movement to double back on the last turn of movement they took. If this takes less movement than their speed,",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Rune of Fire's Wake: things hit by this weapon release a cloud of thick smoke that visually obscures an area of 10ft radius. Enemies or at least partially empty containers hit by this weapon fill up with a thick smoke. Those hit make a CON save as their respiratory system fills up completely with smoke; on a success, they expend their upcoming bonus action to cough out the smoke, but on a failure, they lose their upcoming action to do so. Rune of the Journey: any enemy hit by this weapon makes a WIS save; otherwise, they will spend their upcoming movement to double back on the last turn of movement they took. If this takes less movement than their speed,",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "they can use the remainder of this turn's movement normally. If doubling back proves impossible (e.g. on the last turn they moved, they dropped from a high",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "ledge, but on this turn it's impossible for them to jump back up onto that ledge) they will still try to go back on that path",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "if a logical alternative (in this example, climbing a nearby staircase to get to that ledge) is obvious to them. If no logical alternative presents itself, the effect is broken.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Rune of the Elephant: Grants advantage to the history skill.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Rune of the Snake: Grants advantage to the deception skill.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Rune of Bombardment: You can activate this rune with a power word of your choice. One turn after activation, the weapon will produce a 3rd-level Fireball spell centered on itself. This destroys the weapon.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Rune of Bombardment: You can activate this rune with a power word of your choice. One turn after activation, the weapon will produce a 3rd-level Fireball spell centered on itself. This destroys the weapon.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Rune of the Owl: Grants advantage to the insight skill.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Rune of the Feline: Grants advantage to the persuasion skill.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "100-weapon-runes",
+      "book": "100 Weapon Runes",
+      "category": "loot",
+      "tags": []
+    }
+  },
+  "book": "100 Weapon Runes",
+  "category": "loot",
+  "tags": [],
+  "roll_type": "d20",
+  "sort_key": "46 - rune of snail shell: this weapon or shield is nearly unbreakable by non- magical means, however becomes so dense and heavy that it effectively eliminates any dex bonus the player has to their ac. rune of heaven's fan: when this weapon",
+  "entry_count": 20,
+  "version": 2
+}

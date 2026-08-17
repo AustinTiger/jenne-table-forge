@@ -1,0 +1,1225 @@
+{
+  "name": "DEAD BODIES WITH CLUES",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-eldritch.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Sex: Male | Age: 23-28 | Clothes: No Shirt, Pants | Marks: Multiple gunshots | Clues: Matchbook from a seedy bar",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Sex: Male | Age: 18-22 | Clothes: Suit | Marks: Mildew | Clues: Metallic disc",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Sex: Male | Age: 46-50 | Clothes: Jazz suit| Marks: Gunshot to chest | Clues: Strange mushrooms",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Sex: Male | Age: 63-68 | Clothes: Suit | Marks: None | Clues: City map with strange markings near several locations",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Sex: Female | Age: 99-104 | Clothes: Suit | Marks: Puncture wounds on chest | Clues:.38 revolver with a scratched-offserial number",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Sex: Male | Age: 69-74 | Clothes: Shirt, Pants | Marks: Wrists slashed | Clues: Ancient mirror",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Sex: Male | Age: 93-98 | Clothes: Ivy League suit | Marks: None | Clues: Wooden spoon",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Sex: Male | Age: 87-92 | Clothes: Shirt, Pants | Marks: Stab wound to head | Clues: Note written in a foreign language",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Sex: Male | Age: 81-86 | Clothes: Jazz Suit | Marks: Head severed | Clues: Broken statue of an ancient deity",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Sex: Male | Age: 46-50 | Clothes: Suit | Marks: None | Clues: Broken watch with the time frozen at 11:47",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Sex: Male | Age: 75-80 | Clothes: Zoot suit | Marks: Severed hand | Clues: Unusual piece of metal",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Sex: Male | Age: 18-22 | Clothes: Shirt, Pants | Marks: None | Clues: A round stone with druidic writing",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Sex: Male | Age: 40-45 | Clothes: Jazz suit | Marks: None | Clues: Small black obelisk",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Sex: Male | Age: 51-56 | Clothes: Shirt, Pants | Marks: Severed foot | Clues: Muddy footprints",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Sex: Male | Age: 75-80 | Clothes: Ivy League suit | Marks: Crushed legs | Clues: Small, ornate key",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Sex: Female | Age: 23-28 | Clothes: Tea dress | Marks: None | Clues: Half-empty bottle of cheap bourbon",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Sex: Female | Age: 40-45 | Clothes: Blouse, Skirt | Marks: Skull crushed | Clues: Intricately carved wooden figurine",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Sex: Male | Age: 87-92 | Clothes: Shirt, Pants | Marks: None | Clues: Fine yellow powder",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Sex: Male | Age: 75-80 | Clothes: No Shirt, Pants | Marks: Deep slash on leg | Clues: Rare book on the occult with a bookmark on a certain page",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Sex: Female | Age: 75-80 | Clothes: House dress | Marks: Puncture wounds on neck | Clues: Intricately carved bone figurine",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Sex: Female | Age: 51-56 | Clothes: Blouse, Skirt | Marks: None | Clues: Intricately woven basket",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "Sex: Male | Age: 51-56 | Clothes: Suit | Marks: Gaping wound in chest | Clues: Piece of paper with a partial license plate number",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "Sex: Female | Age: 18-22 | Clothes: Blouse, Skirt | Marks: Crushed bones | Clues: Turquoise ring",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Sex: Male | Age: 23-28 | Clothes: Shirt, Pants | Marks: Black streaks under skin | Clues: Crystal skull",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Sex: Male | Age: 63-68 | Clothes: No Shirt, Pants | Marks: Black squares on legs | Clues: Hideous idol",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Sex: Female | Age: 34-39 | Clothes: House dress| Marks: Leg severed | Clues: Bloody knife with a distinctive pearl handle",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Sex: Female | Age: 18-22 | Clothes: Formal Dress | Marks: Multiple gunshots | Clues: Potion vial",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Sex: Male | Age: 29-33 | Clothes: Zoot Suit | Marks: None | Clues: Bloodied handkerchief with the initials 'J.T.' embroidered on it",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "Sex: Male | Age: 23-28 | Clothes: Suit | Marks: Swollen abdomen | Clues: Wallet with a driver's license belonging to a man named 'Vincent Black'",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "Sex: Female | Age: 34-39 | Clothes: Flapper Dress| Marks: None | Clues: Small crystalline pyramid",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Sex: Male | Age: 57-62 | Clothes: Jazz suit | Marks: Multiple gunshots | Clues: Crystal cube",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Sex: Male | Age: 57-62 | Clothes: Shirt, Pants | Marks: Extensive bruising | Clues: Mysterious symbol made of tin",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Sex: Male | Age: 57-62 | Clothes: Suit | Marks: Missing heart | Clues: Half-burned ritual candle",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Sex: Male | Age: 69-74 | Clothes: Zoot suit | Marks: None | Clues: Statue of bizarre pig-like creature",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Sex: Male | Age: 40-45 | Clothes: Suit | Marks: Stab wound to neck | Clues: Small orb",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Sex: Female | Age: 57-62 | Clothes: None | Marks: None | Clues: Ornate dagger",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Sex: Male | Age: 34-39 | Clothes: Suit | Marks: None | Clues: Set of metal teeth",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Sex: Male | Age: 29-33 | Clothes: None | Marks: None | Clues: Bloodstained piece of parchment with runes written in ink",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Sex: Male | Age: 40-45 | Clothes: No Shirt, Pants | Marks: Crushed bones | Clues: A crumpled telegram with the words 'Stop. Danger. Get out.' hastily written on it",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Sex: Male | Age: 23-28 | Clothes: Shirt, Pants | Marks: Multiple gunshots | Clues: Severed tentacle",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Sex: Male | Age: 81-86 | Clothes: None | Marks: None | Clues: Fedora with a bullet hole",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Sex: Male | Age: 51-56 | Clothes: Tuxedo| Marks: Burns about the chest | Clues: Wallet containing several hundred dollars in cash",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "Sex: Male | Age: 40-45 | Clothes: Shirt, Pants | Marks: None | Clues: Torn piece of paper with an address written on it",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Sex: Male | Age: 87-92 | Clothes: Suit | Marks: None | Clues: Ancient scroll",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Sex: Male | Age: 18-22 | Clothes: Suit | Marks: Stab wound to chest | Clues: Ancient Egyptian blade",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Sex: Female | Age: 29-33 | Clothes: Flapper dress | Marks: None | Clues: Trail of slime",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Sex: Male | Age: 34-39 | Clothes: Suit | Marks: None | Clues: Scratch marks that may have been made by claws",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Sex: Male | Age: 34-39 | Clothes: Tuxedo| Marks: Fingerprint bruises on neck | Clues: Pentagram made out of blood",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Sex: Male | Age: 46-50 | Clothes: Suit | Marks: None | Clues: Crystalline shard",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Sex: Female | Age: 34-39 | Clothes: Middy blouse, Skirt| Marks: Crushed chest | Clues: Crystal giving off a strange energy",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Sex: Female | Age: 23-28 | Clothes: Simple linen dress| Marks: body appears to have been mummified | Clues: Key made of bone",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Sex: Male | Age: 63-68 | Clothes: No Shirt, Pants | Marks: Gunshot to the abdomen | Clues: Secret message written in code",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Sex: Male | Age: 93-98 | Clothes: Jazz suit | Marks: Circle bruises on chest | Clues: Rusted cog",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Sex: Female | Age: 46-50 | Clothes: Blouse, Skirt| Marks: Multiple gunshots | Clues: Cloth embroidered with 'FBK'",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Sex: Male | Age: 81-86 | Clothes: Shirt, Pants | Marks: Swollen arm | Clues: Unidentifiable ooze",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Sex: Male | Age: 57-62 | Clothes: Suit | Marks: Gaping wound in abdomen | Clues: Golden chalice",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Sex: Female | Age: 40-45 | Clothes: Blouse, Skirt | Marks: None | Clues: Muddy footprints",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Sex: Male | Age: 34-39 | Clothes: Shirt, Pants | Marks: Multiple gunshots | Clues: Playing card with a handwritten message on the back: 'Ace up my sleeve'",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Sex: Male | Age: 23-28 | Clothes: Shirt, Pants | Marks: Crushed bones | Clues: Broken hourglass",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Sex: Male | Age: 63-68 | Clothes: No Shirt, Pants | Marks: None | Clues: Lock of hair tied with a red ribbon",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Sex: Female | Age: 63-68 | Clothes: Suit | Marks: Swollen face | Clues: Fancy suit jacket",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Sex: Male | Age: 87-92 | Clothes: Suit | Marks: Large bite on head | Clues: Arcane tome with disturbing illustrations",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Sex: Male | Age: 46-50 | Clothes: Shirt, Pants | Marks: Stab wound to abdomen | Clues: Shattered crystal ball",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Sex: Female | Age: 40-45 | Clothes: Tennis Dress | Marks: Large bite on torso | Clues: Vial of poison",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Sex: Female | Age: 63-68 | Clothes: Blouse, Skirt | Marks: Multiple tiny bites | Clues: Intricately carved sigil in a wooden token",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Sex: Male | Age: 23-28 | Clothes: Tuxedo| Marks: Arm severed | Clues: Newspaper with a headline about a local gang war",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Sex: Male | Age: 75-80 | Clothes: Shirt, Pants | Marks: Circle bruises on face| Clues: Silver cigarette case with the initials 'M.S.' engraved on it",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Sex: Male | Age: 63-68 | Clothes: Women's formal gown | Marks: Burns about the head | Clues: Mysterious letter",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Sex: Female | Age: 51-56 | Clothes: None | Marks: None | Clues: Foreign brand cigarette butt",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Sex: Male | Age: 34-39 | Clothes: Suit | Marks: Leg severed | Clues: Piece of paper with strange symbols written in blood",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Sex: Male | Age: 63-68 | Clothes: Shirt, Pants | Marks: Extensive burning | Clues: Ancient talisman",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Sex: Male | Age: 51-56 | Clothes: Shirt, Pants | Marks: Multiple stab wounds | Clues: Lipstick-stained cigarette butt",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Sex: Male | Age: 29-33 | Clothes: None | Marks: Swollen legs | Clues: Tarnished locket engraved with 'DSZ'",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Sex: Male | Age: 99-104 | Clothes: Suit | Marks: None | Clues: Match book from nearby hotel",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Sex: Male | Age: 29-33 | Clothes: No Shirt, Pants | Marks: Symbols cut into flesh | Clues: Single tarot card",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Sex: Male | Age: 57-62 | Clothes: No Shirt, Pants | Marks: None | Clues: Torn photograph of a woman with a note on the back: 'Watch your back, lover.'",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Sex: Male | Age: 69-74 | Clothes: Suit | Marks: Green streaks under skin | Clues: Threatening note",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "Sex: Female | Age: 81-86 | Clothes: Blouse, Pants | Marks: None | Clues: A note saying 'The owl flies at midnight.'",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Sex: Male | Age: 18-22 | Clothes: Suit | Marks: None | Clues: A grimoire",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Sex: Male | Age: 46-50 | Clothes: Suit | Marks: Body drained of fluid| Clues: Vial of glowing pulsing liquid",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "Sex: Male | Age: 63-68 | Clothes: No Shirt, Pants | Marks: None | Clues: Tattered journal",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Sex: Male | Age: 29-33 | Clothes: No Shirt, Pants | Marks: Torso severed | Clues: Wooden totem",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Sex: Female | Age: 40-45 | Clothes: Middy blouse, skirt| Marks: Circle bruises on chest | Clues: Voodoo doll with pins in it",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Sex: Male | Age: 18-22 | Clothes: Suit | Marks: Extensive bruising | Clues: Glass eye with a small keyhole in it",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "Sex: Male | Age: 34-39 | Clothes: Suit | Marks: Head wound | Clues: Sharp piece of obsidian",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Sex: Male | Age: 51-56 | Clothes: Suit | Marks: None | Clues: Bloodstained piece of cloth",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Sex: Female | Age: 81-86 | Clothes: Formal gown| Marks: None | Clues: Top secret dossier",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Sex: Female | Age: 87-92 | Clothes: House dress | Marks: Gunshot to head | Clues: Matchbook with a message scrawled inside: 'We'll get you next time.'",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Sex: Male | Age: 81-86 | Clothes: Suit | Marks: Crushed bones | Clues: Bullet casing from a small-caliber handgun",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Sex: Male | Age: 69-74 | Clothes: Shirt, Pants | Marks: Missing brain | Clues: Bloody footprints",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Sex: Male | Age: 46-50 | Clothes: No Shirt, Pants | Marks: Runes written in blood | Clues: Brass knuckles with bloodstains on them",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "Sex: Female | Age: 63-68 | Clothes: Formal dress | Marks: Puncture wounds on abdomen | Clues: Switchblade knife with a mother-of-pearl handle",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Sex: Male | Age: 69-74 | Clothes: Suit | Marks: None | Clues: Ancient coin with strange markings",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Sex: Female | Age: 29-33 | Clothes: Men's Tuxedo | Marks: None | Clues: Torn photograph",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Sex: Male | Age: 51-56 | Clothes: Shirt, Pants | Marks: Withering | Clues: Small stone that changes color in different lights",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Sex: Male | Age: 57-62 | Clothes: Suit | Marks: Deep cuts in abdomen | Clues: Strand of long blonde hair",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Sex: Male | Age: 18-22 | Clothes: Shirt, Pants | Marks: Head severed | Clues: Dreamcatcher",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "Sex: Male | Age: 40-45 | Clothes: Suit | Marks: None | Clues: Cryptic symbols etched into the ground",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "Sex: Male | Age: 81-86 | Clothes: None | Marks: Entrails arranged beside the body | Clues: Crow feather",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Sex: Male | Age: 69-74 | Clothes: No Shirt, Pants | Marks: Throat cut | Clues: Wooden puzzle box",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-eldritch",
+      "book": "Book Of Random Tables Eldritch",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Eldritch",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "dead bodies with clues",
+  "entry_count": 100,
+  "version": 2
+}

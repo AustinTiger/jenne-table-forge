@@ -1,0 +1,8425 @@
+{
+  "name": "Art Objects and Artifacts",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-fantasyspace.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "The Shield of Pramyar",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "Ships of Destiny",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Blanket",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Emeralds (1D4, hidden)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "Violin marked 'QSB'",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Protractor",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "Broken wine bottle",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "The Lachaidh Vase",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "When the Veil was Torn",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Tiger fur rug",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "Purple dye (1D6 lbs.)",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Woman's fur wrap",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "Astronomical clock",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Sheepskin",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The Phradia Torc",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "Creatures with Wings",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "Evening gown",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Cotton (2D20 bales)",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "Dagger stabbed through a map on a table",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "Star map",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Keg of beer",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "The Necklace of Bridus",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "Spell and Incantations",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "Cloak",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Nutmeg (1D8 lbs.)",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Glass container with ooze inside",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "Dusty box of crystals",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Bloody bandages",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "The Statue of Adro",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The Notes Written in the Sky",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Tin vase",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Bronze ingots (3D100)",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Unknown language scrawled on the floor",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Polished brass disks (1D20)",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Scroll case",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "The Golden Horn of Raggarn",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Dealing Death",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "String of pearls",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "Topsoil (10D100 bags)",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Love letter",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Papyrus sheets (1D12)",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "Dented helmet",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "A Barglian Ring",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "When the Heavens Fall",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Golden locket",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "Sabertooth tiger in a cage",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Kitchen menu",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Strange tooth",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Boot",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "The Shroud of Kramdrum",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "The Shadow War",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "Bowl carved out of a single piece of agate",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "Ginger (1D12 lbs.)",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Portrait of the ship's captain (faint writing on back)",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Mural instrument",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "Twisted and bent longsword",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "The Umoog Ugdumbak Stone",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "The Clockwork Apocalypse",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Poem about space",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Vials with glowing clouds inside (1D20)",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Pile of rusted armor",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "Lens (12' diameter)",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Leather strap",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "The Emblem of Tislyl",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Holding the World",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "Copper ring",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "Humans in a cage (1D20)",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "Yellowish fog in a corked wine bottle",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "Ink bottle (full)",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Torn glove",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "The Leoceran Texts",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Navigating the Wilds Between the Worlds",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Tiny mirror",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "Crates marked 'Magic Books' (1D20)",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "Small bag of rubies (1D6)",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "Map to a dungeon",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Pile of rocks",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "The Dagger of Wrytor",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "Vessels of the Line",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Golden lamp",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "Wool (1D100 bales)",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "Aquarium filled with strange dead fish",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Astrolabe",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Bent mace",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The Needle of Rannag",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Weight on the Brow of the King",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Cloak weaved from shimmering thread",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "Cinnamon (1D12 lbs.)",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Pouch of legal documents",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "Kamal",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "Ransom note",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "The Bowl of Durz Baturn",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The Shadows are Burning",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Spittoon",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Ectoplasm (1D100 barrels)",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Brass bell",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Antikythera mechanism",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "Eagle feather",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "The Darag Cloak",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Eyes in the Dark",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0100",
+      "type": 0,
+      "text": "Onyx ring",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0101",
+      "type": 0,
+      "text": "Pepper (1D20 lbs.)",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0102",
+      "type": 0,
+      "text": "Dead bear",
+      "weight": 1,
+      "range": [
+        103,
+        103
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0103",
+      "type": 0,
+      "text": "Star map scrolls (1D20)",
+      "weight": 1,
+      "range": [
+        104,
+        104
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0104",
+      "type": 0,
+      "text": "Strange footprints",
+      "weight": 1,
+      "range": [
+        105,
+        105
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0105",
+      "type": 0,
+      "text": "The Helmet of Xulgag Uzguug",
+      "weight": 1,
+      "range": [
+        106,
+        106
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0106",
+      "type": 0,
+      "text": "The Woe of Aftermath",
+      "weight": 1,
+      "range": [
+        107,
+        107
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0107",
+      "type": 0,
+      "text": "Ice pick",
+      "weight": 1,
+      "range": [
+        108,
+        108
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0108",
+      "type": 0,
+      "text": "Burlap (1D100 bolts)",
+      "weight": 1,
+      "range": [
+        109,
+        109
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0109",
+      "type": 0,
+      "text": "Greatsword",
+      "weight": 1,
+      "range": [
+        110,
+        110
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0110",
+      "type": 0,
+      "text": "Cup",
+      "weight": 1,
+      "range": [
+        111,
+        111
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0111",
+      "type": 0,
+      "text": "Cauldron of boiling oil",
+      "weight": 1,
+      "range": [
+        112,
+        112
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0112",
+      "type": 0,
+      "text": "A Gormal Doylei Disc",
+      "weight": 1,
+      "range": [
+        113,
+        113
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0113",
+      "type": 0,
+      "text": "Twisted Glory",
+      "weight": 1,
+      "range": [
+        114,
+        114
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0114",
+      "type": 0,
+      "text": "Ship's log",
+      "weight": 1,
+      "range": [
+        115,
+        115
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0115",
+      "type": 0,
+      "text": "Sheets of glass (1D100)",
+      "weight": 1,
+      "range": [
+        116,
+        116
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0116",
+      "type": 0,
+      "text": "Bent flute",
+      "weight": 1,
+      "range": [
+        117,
+        117
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0117",
+      "type": 0,
+      "text": "Drawings of asteroids",
+      "weight": 1,
+      "range": [
+        118,
+        118
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0118",
+      "type": 0,
+      "text": "Chain",
+      "weight": 1,
+      "range": [
+        119,
+        119
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0119",
+      "type": 0,
+      "text": "A Phikrana Medallion",
+      "weight": 1,
+      "range": [
+        120,
+        120
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0120",
+      "type": 0,
+      "text": "The Spiders of Space",
+      "weight": 1,
+      "range": [
+        121,
+        121
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0121",
+      "type": 0,
+      "text": "Wine bottle (full)",
+      "weight": 1,
+      "range": [
+        122,
+        122
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0122",
+      "type": 0,
+      "text": "Silk (1D100 bolts)",
+      "weight": 1,
+      "range": [
+        123,
+        123
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0123",
+      "type": 0,
+      "text": "Bronze binoculars",
+      "weight": 1,
+      "range": [
+        124,
+        124
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0124",
+      "type": 0,
+      "text": "Armillary sphere",
+      "weight": 1,
+      "range": [
+        125,
+        125
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0125",
+      "type": 0,
+      "text": "Machete",
+      "weight": 1,
+      "range": [
+        126,
+        126
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0126",
+      "type": 0,
+      "text": "The Pendant of Muirnom",
+      "weight": 1,
+      "range": [
+        127,
+        127
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0127",
+      "type": 0,
+      "text": "Perched on the Edge of Night",
+      "weight": 1,
+      "range": [
+        128,
+        128
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0128",
+      "type": 0,
+      "text": "Gold pieces (1D10)",
+      "weight": 1,
+      "range": [
+        129,
+        129
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0129",
+      "type": 0,
+      "text": "Lamp oil (1D12 barrels)",
+      "weight": 1,
+      "range": [
+        130,
+        130
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0130",
+      "type": 0,
+      "text": "Large crystal ball",
+      "weight": 1,
+      "range": [
+        131,
+        131
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0131",
+      "type": 0,
+      "text": "Lantern",
+      "weight": 1,
+      "range": [
+        132,
+        132
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0132",
+      "type": 0,
+      "text": "Severed tentacle",
+      "weight": 1,
+      "range": [
+        133,
+        133
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0133",
+      "type": 0,
+      "text": "The Hood of Dryreth",
+      "weight": 1,
+      "range": [
+        134,
+        134
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0134",
+      "type": 0,
+      "text": "A Sunrise at Evening",
+      "weight": 1,
+      "range": [
+        135,
+        135
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0135",
+      "type": 0,
+      "text": "Half-burned letter",
+      "weight": 1,
+      "range": [
+        136,
+        136
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0136",
+      "type": 0,
+      "text": "Grain (1D100 barrels)",
+      "weight": 1,
+      "range": [
+        137,
+        137
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0137",
+      "type": 0,
+      "text": "Cloak made of unearthly feathers",
+      "weight": 1,
+      "range": [
+        138,
+        138
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0138",
+      "type": 0,
+      "text": "Small paint brush",
+      "weight": 1,
+      "range": [
+        139,
+        139
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0139",
+      "type": 0,
+      "text": "Longsword",
+      "weight": 1,
+      "range": [
+        140,
+        140
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0140",
+      "type": 0,
+      "text": "The Honeycomb of Bina",
+      "weight": 1,
+      "range": [
+        141,
+        141
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0141",
+      "type": 0,
+      "text": "Magic Ships and Lost Worlds",
+      "weight": 1,
+      "range": [
+        142,
+        142
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0142",
+      "type": 0,
+      "text": "Books (1D10)",
+      "weight": 1,
+      "range": [
+        143,
+        143
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0143",
+      "type": 0,
+      "text": "Crates marked 'Farming Equipment' (1D100)",
+      "weight": 1,
+      "range": [
+        144,
+        144
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0144",
+      "type": 0,
+      "text": "Large sitting cushion",
+      "weight": 1,
+      "range": [
+        145,
+        145
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0145",
+      "type": 0,
+      "text": "List of constellations",
+      "weight": 1,
+      "range": [
+        146,
+        146
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0146",
+      "type": 0,
+      "text": "Unknown creature (dead)",
+      "weight": 1,
+      "range": [
+        147,
+        147
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0147",
+      "type": 0,
+      "text": "The Portrait of Urmdus",
+      "weight": 1,
+      "range": [
+        148,
+        148
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0148",
+      "type": 0,
+      "text": "The Places of the Dead",
+      "weight": 1,
+      "range": [
+        149,
+        149
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0149",
+      "type": 0,
+      "text": "Iron chest",
+      "weight": 1,
+      "range": [
+        150,
+        150
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0150",
+      "type": 0,
+      "text": "Iron ingots (8D100)",
+      "weight": 1,
+      "range": [
+        151,
+        151
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0151",
+      "type": 0,
+      "text": "Bowl of slime",
+      "weight": 1,
+      "range": [
+        152,
+        152
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0152",
+      "type": 0,
+      "text": "Large mirror",
+      "weight": 1,
+      "range": [
+        153,
+        153
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0153",
+      "type": 0,
+      "text": "Sheep bones",
+      "weight": 1,
+      "range": [
+        154,
+        154
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0154",
+      "type": 0,
+      "text": "An Opathu Ghaa Flag",
+      "weight": 1,
+      "range": [
+        155,
+        155
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0155",
+      "type": 0,
+      "text": "Legends and Myths: A Survey",
+      "weight": 1,
+      "range": [
+        156,
+        156
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0156",
+      "type": 0,
+      "text": "Small tin box",
+      "weight": 1,
+      "range": [
+        157,
+        157
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0157",
+      "type": 0,
+      "text": "Flour (1D20 barrels)",
+      "weight": 1,
+      "range": [
+        158,
+        158
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0158",
+      "type": 0,
+      "text": "Ornamental golden shield",
+      "weight": 1,
+      "range": [
+        159,
+        159
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0159",
+      "type": 0,
+      "text": "Collection of meteorite pieces (1D100)",
+      "weight": 1,
+      "range": [
+        160,
+        160
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0160",
+      "type": 0,
+      "text": "Silver bracelet",
+      "weight": 1,
+      "range": [
+        161,
+        161
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0161",
+      "type": 0,
+      "text": "The Locket of Sheloga Badbilslag",
+      "weight": 1,
+      "range": [
+        162,
+        162
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0162",
+      "type": 0,
+      "text": "Basic Healing: How to Treat Minor Wounds",
+      "weight": 1,
+      "range": [
+        163,
+        163
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0163",
+      "type": 0,
+      "text": "Spyglass",
+      "weight": 1,
+      "range": [
+        164,
+        164
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0164",
+      "type": 0,
+      "text": "Map (hidden)",
+      "weight": 1,
+      "range": [
+        165,
+        165
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0165",
+      "type": 0,
+      "text": "Gold-encrusted star compass",
+      "weight": 1,
+      "range": [
+        166,
+        166
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0166",
+      "type": 0,
+      "text": "Book of celestial phenomena",
+      "weight": 1,
+      "range": [
+        167,
+        167
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0167",
+      "type": 0,
+      "text": "Rope",
+      "weight": 1,
+      "range": [
+        168,
+        168
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0168",
+      "type": 0,
+      "text": "The Chest of Elnera",
+      "weight": 1,
+      "range": [
+        169,
+        169
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0169",
+      "type": 0,
+      "text": "Reflecting in the Deep",
+      "weight": 1,
+      "range": [
+        170,
+        170
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0170",
+      "type": 0,
+      "text": "Magnifying glass",
+      "weight": 1,
+      "range": [
+        171,
+        171
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0171",
+      "type": 0,
+      "text": "Pears (1D20 barrels)",
+      "weight": 1,
+      "range": [
+        172,
+        172
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0172",
+      "type": 0,
+      "text": "Dagger",
+      "weight": 1,
+      "range": [
+        173,
+        173
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0173",
+      "type": 0,
+      "text": "Ropes (1D4)",
+      "weight": 1,
+      "range": [
+        174,
+        174
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0174",
+      "type": 0,
+      "text": "Severed head",
+      "weight": 1,
+      "range": [
+        175,
+        175
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0175",
+      "type": 0,
+      "text": "The Circlet of Wrangeiros",
+      "weight": 1,
+      "range": [
+        176,
+        176
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0176",
+      "type": 0,
+      "text": "The Wedding of Stars",
+      "weight": 1,
+      "range": [
+        177,
+        177
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0177",
+      "type": 0,
+      "text": "Pouch of stardust",
+      "weight": 1,
+      "range": [
+        178,
+        178
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0178",
+      "type": 0,
+      "text": "Parchment (3D100 sheets)",
+      "weight": 1,
+      "range": [
+        179,
+        179
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0179",
+      "type": 0,
+      "text": "Human skeleton",
+      "weight": 1,
+      "range": [
+        180,
+        180
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0180",
+      "type": 0,
+      "text": "Meridian circle",
+      "weight": 1,
+      "range": [
+        181,
+        181
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0181",
+      "type": 0,
+      "text": "Gold ring trampled in the mud",
+      "weight": 1,
+      "range": [
+        182,
+        182
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0182",
+      "type": 0,
+      "text": "A Ragiggs Button",
+      "weight": 1,
+      "range": [
+        183,
+        183
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0183",
+      "type": 0,
+      "text": "The Sweeping Gaze",
+      "weight": 1,
+      "range": [
+        184,
+        184
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0184",
+      "type": 0,
+      "text": "Inkwell",
+      "weight": 1,
+      "range": [
+        185,
+        185
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0185",
+      "type": 0,
+      "text": "Sugar (1D10 barrels)",
+      "weight": 1,
+      "range": [
+        186,
+        186
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0186",
+      "type": 0,
+      "text": "Broken manacles",
+      "weight": 1,
+      "range": [
+        187,
+        187
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0187",
+      "type": 0,
+      "text": "Alidade",
+      "weight": 1,
+      "range": [
+        188,
+        188
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0188",
+      "type": 0,
+      "text": "Ornate saddle",
+      "weight": 1,
+      "range": [
+        189,
+        189
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0189",
+      "type": 0,
+      "text": "The Longsword of Jinben",
+      "weight": 1,
+      "range": [
+        190,
+        190
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0190",
+      "type": 0,
+      "text": "The Fading Light",
+      "weight": 1,
+      "range": [
+        191,
+        191
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0191",
+      "type": 0,
+      "text": "List of the names of the crew",
+      "weight": 1,
+      "range": [
+        192,
+        192
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0192",
+      "type": 0,
+      "text": "Salted beef (2D12 barrels)",
+      "weight": 1,
+      "range": [
+        193,
+        193
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0193",
+      "type": 0,
+      "text": "Bottles filled with bubbling liquids (1D8)",
+      "weight": 1,
+      "range": [
+        194,
+        194
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0194",
+      "type": 0,
+      "text": "Inclinometer",
+      "weight": 1,
+      "range": [
+        195,
+        195
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0195",
+      "type": 0,
+      "text": "Copper disc",
+      "weight": 1,
+      "range": [
+        196,
+        196
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0196",
+      "type": 0,
+      "text": "Dargrim Pottery",
+      "weight": 1,
+      "range": [
+        197,
+        197
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0197",
+      "type": 0,
+      "text": "My World was Conquered",
+      "weight": 1,
+      "range": [
+        198,
+        198
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0198",
+      "type": 0,
+      "text": "Gold and silver chess set",
+      "weight": 1,
+      "range": [
+        199,
+        199
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0199",
+      "type": 0,
+      "text": "Short swords (1D100)",
+      "weight": 1,
+      "range": [
+        200,
+        200
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0200",
+      "type": 0,
+      "text": "Ancient goddess figurine",
+      "weight": 1,
+      "range": [
+        201,
+        201
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0201",
+      "type": 0,
+      "text": "Cartographer supplies",
+      "weight": 1,
+      "range": [
+        202,
+        202
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0202",
+      "type": 0,
+      "text": "Emerald wrapped in a rag",
+      "weight": 1,
+      "range": [
+        203,
+        203
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0203",
+      "type": 0,
+      "text": "The Bones of Tyszana",
+      "weight": 1,
+      "range": [
+        204,
+        204
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0204",
+      "type": 0,
+      "text": "Streams of Gold",
+      "weight": 1,
+      "range": [
+        205,
+        205
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0205",
+      "type": 0,
+      "text": "Stone cup",
+      "weight": 1,
+      "range": [
+        206,
+        206
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0206",
+      "type": 0,
+      "text": "Animal specimens packed in ice (1D100)",
+      "weight": 1,
+      "range": [
+        207,
+        207
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0207",
+      "type": 0,
+      "text": "Loaves of bread (1D20)",
+      "weight": 1,
+      "range": [
+        208,
+        208
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0208",
+      "type": 0,
+      "text": "Caged snake",
+      "weight": 1,
+      "range": [
+        209,
+        209
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0209",
+      "type": 0,
+      "text": "Partially burned map",
+      "weight": 1,
+      "range": [
+        210,
+        210
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0210",
+      "type": 0,
+      "text": "A Dried Pamaer Plant",
+      "weight": 1,
+      "range": [
+        211,
+        211
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0211",
+      "type": 0,
+      "text": "The Whales of Deep Space",
+      "weight": 1,
+      "range": [
+        212,
+        212
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0212",
+      "type": 0,
+      "text": "Small space octopus preserved in a jar",
+      "weight": 1,
+      "range": [
+        213,
+        213
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0213",
+      "type": 0,
+      "text": "Cardamom (1D10 lbs.)",
+      "weight": 1,
+      "range": [
+        214,
+        214
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0214",
+      "type": 0,
+      "text": "Small chest with glass globes representing a stellar/planetary system",
+      "weight": 1,
+      "range": [
+        215,
+        215
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0215",
+      "type": 0,
+      "text": "Caged canary",
+      "weight": 1,
+      "range": [
+        216,
+        216
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0216",
+      "type": 0,
+      "text": "Shovel",
+      "weight": 1,
+      "range": [
+        217,
+        217
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0217",
+      "type": 0,
+      "text": "A Vonmyl Seed",
+      "weight": 1,
+      "range": [
+        218,
+        218
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0218",
+      "type": 0,
+      "text": "Swallowed by Night",
+      "weight": 1,
+      "range": [
+        219,
+        219
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0219",
+      "type": 0,
+      "text": "Cargo manifest",
+      "weight": 1,
+      "range": [
+        220,
+        220
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0220",
+      "type": 0,
+      "text": "Crates marked 'Cloaks' (1D20)",
+      "weight": 1,
+      "range": [
+        221,
+        221
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0221",
+      "type": 0,
+      "text": "Silver candelabra (fashioned like an octopus)",
+      "weight": 1,
+      "range": [
+        222,
+        222
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0222",
+      "type": 0,
+      "text": "Lead ingot",
+      "weight": 1,
+      "range": [
+        223,
+        223
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0223",
+      "type": 0,
+      "text": "Pile of coal",
+      "weight": 1,
+      "range": [
+        224,
+        224
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0224",
+      "type": 0,
+      "text": "The Hilt of Eilvaris",
+      "weight": 1,
+      "range": [
+        225,
+        225
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0225",
+      "type": 0,
+      "text": "Breathing the Star Dust",
+      "weight": 1,
+      "range": [
+        226,
+        226
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0226",
+      "type": 0,
+      "text": "Map to a dungeon on an unknown planet",
+      "weight": 1,
+      "range": [
+        227,
+        227
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0227",
+      "type": 0,
+      "text": "Dolls (3D100)",
+      "weight": 1,
+      "range": [
+        228,
+        228
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0228",
+      "type": 0,
+      "text": "Small metal chest (locked)",
+      "weight": 1,
+      "range": [
+        229,
+        229
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0229",
+      "type": 0,
+      "text": "Plumb line",
+      "weight": 1,
+      "range": [
+        230,
+        230
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0230",
+      "type": 0,
+      "text": "Broken pendant chain",
+      "weight": 1,
+      "range": [
+        231,
+        231
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0231",
+      "type": 0,
+      "text": "The Mirror of Zlughig Muruhnag",
+      "weight": 1,
+      "range": [
+        232,
+        232
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0232",
+      "type": 0,
+      "text": "The Swirling Bleak",
+      "weight": 1,
+      "range": [
+        233,
+        233
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0233",
+      "type": 0,
+      "text": "Compass",
+      "weight": 1,
+      "range": [
+        234,
+        234
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0234",
+      "type": 0,
+      "text": "Salted pork (1D12 barrels)",
+      "weight": 1,
+      "range": [
+        235,
+        235
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0235",
+      "type": 0,
+      "text": "Portrait of a beautiful alien women",
+      "weight": 1,
+      "range": [
+        236,
+        236
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0236",
+      "type": 0,
+      "text": "Plate",
+      "weight": 1,
+      "range": [
+        237,
+        237
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0237",
+      "type": 0,
+      "text": "Group of refugees (1D20)",
+      "weight": 1,
+      "range": [
+        238,
+        238
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0238",
+      "type": 0,
+      "text": "The Dearbhla Plate",
+      "weight": 1,
+      "range": [
+        239,
+        239
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0239",
+      "type": 0,
+      "text": "Stumbling into the Star Realm",
+      "weight": 1,
+      "range": [
+        240,
+        240
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0240",
+      "type": 0,
+      "text": "Half-written letter (hidden)",
+      "weight": 1,
+      "range": [
+        241,
+        241
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0241",
+      "type": 0,
+      "text": "Iron box marked 'Blood'",
+      "weight": 1,
+      "range": [
+        242,
+        242
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0242",
+      "type": 0,
+      "text": "Note written in Gnomish",
+      "weight": 1,
+      "range": [
+        243,
+        243
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0243",
+      "type": 0,
+      "text": "Bolometer",
+      "weight": 1,
+      "range": [
+        244,
+        244
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0244",
+      "type": 0,
+      "text": "Bloody handaxe",
+      "weight": 1,
+      "range": [
+        245,
+        245
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0245",
+      "type": 0,
+      "text": "The Crystal of Sylbei",
+      "weight": 1,
+      "range": [
+        246,
+        246
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0246",
+      "type": 0,
+      "text": "Worlds of Dream and Thought",
+      "weight": 1,
+      "range": [
+        247,
+        247
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0247",
+      "type": 0,
+      "text": "Halberd",
+      "weight": 1,
+      "range": [
+        248,
+        248
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0248",
+      "type": 0,
+      "text": "Iron box-filled ball bearings",
+      "weight": 1,
+      "range": [
+        249,
+        249
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0249",
+      "type": 0,
+      "text": "Broken lute",
+      "weight": 1,
+      "range": [
+        250,
+        250
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0250",
+      "type": 0,
+      "text": "Pebbles (1D8)",
+      "weight": 1,
+      "range": [
+        251,
+        251
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0251",
+      "type": 0,
+      "text": "Burning sacks",
+      "weight": 1,
+      "range": [
+        252,
+        252
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0252",
+      "type": 0,
+      "text": "The Shetes Rings",
+      "weight": 1,
+      "range": [
+        253,
+        253
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0253",
+      "type": 0,
+      "text": "The Pirate Kings and Queens of the Past Age",
+      "weight": 1,
+      "range": [
+        254,
+        254
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0254",
+      "type": 0,
+      "text": "Bundle of papers",
+      "weight": 1,
+      "range": [
+        255,
+        255
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0255",
+      "type": 0,
+      "text": "Vials of space gas (1D100)",
+      "weight": 1,
+      "range": [
+        256,
+        256
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0256",
+      "type": 0,
+      "text": "Copper coin shaped like a 'Z'",
+      "weight": 1,
+      "range": [
+        257,
+        257
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0257",
+      "type": 0,
+      "text": "Compass (drawing instrument)",
+      "weight": 1,
+      "range": [
+        258,
+        258
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0258",
+      "type": 0,
+      "text": "Bag of books (1D20)",
+      "weight": 1,
+      "range": [
+        259,
+        259
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0259",
+      "type": 0,
+      "text": "The Thigh Bone of Chaesys",
+      "weight": 1,
+      "range": [
+        260,
+        260
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0260",
+      "type": 0,
+      "text": "The Dying Gods",
+      "weight": 1,
+      "range": [
+        261,
+        261
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0261",
+      "type": 0,
+      "text": "Evil symbol wrapped in cloth",
+      "weight": 1,
+      "range": [
+        262,
+        262
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0262",
+      "type": 0,
+      "text": "Crates marked 'Belts' (1D20)",
+      "weight": 1,
+      "range": [
+        263,
+        263
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0263",
+      "type": 0,
+      "text": "Velveteen bedding",
+      "weight": 1,
+      "range": [
+        264,
+        264
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0264",
+      "type": 0,
+      "text": "Octant",
+      "weight": 1,
+      "range": [
+        265,
+        265
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0265",
+      "type": 0,
+      "text": "Foreign silver piece",
+      "weight": 1,
+      "range": [
+        266,
+        266
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0266",
+      "type": 0,
+      "text": "The Lost Book of Phaketh",
+      "weight": 1,
+      "range": [
+        267,
+        267
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0267",
+      "type": 0,
+      "text": "A Catalog of Derelicts",
+      "weight": 1,
+      "range": [
+        268,
+        268
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0268",
+      "type": 0,
+      "text": "Gloves",
+      "weight": 1,
+      "range": [
+        269,
+        269
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0269",
+      "type": 0,
+      "text": "Lumber (3D100 boards)",
+      "weight": 1,
+      "range": [
+        270,
+        270
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0270",
+      "type": 0,
+      "text": "Portrait of a grotesque wizard",
+      "weight": 1,
+      "range": [
+        271,
+        271
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0271",
+      "type": 0,
+      "text": "Blink comparator",
+      "weight": 1,
+      "range": [
+        272,
+        272
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0272",
+      "type": 0,
+      "text": "Puddle of ooze",
+      "weight": 1,
+      "range": [
+        273,
+        273
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0273",
+      "type": 0,
+      "text": "The Scroll of Venzorwyn",
+      "weight": 1,
+      "range": [
+        274,
+        274
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0274",
+      "type": 0,
+      "text": "Terror on Every Side",
+      "weight": 1,
+      "range": [
+        275,
+        275
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0275",
+      "type": 0,
+      "text": "Map to an ancient temple on a faraway planet",
+      "weight": 1,
+      "range": [
+        276,
+        276
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0276",
+      "type": 0,
+      "text": "Turmeric (1D10 lbs.)",
+      "weight": 1,
+      "range": [
+        277,
+        277
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0277",
+      "type": 0,
+      "text": "Wine bottles (full, 1D100)",
+      "weight": 1,
+      "range": [
+        278,
+        278
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0278",
+      "type": 0,
+      "text": "Candle",
+      "weight": 1,
+      "range": [
+        279,
+        279
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0279",
+      "type": 0,
+      "text": "Muddy cloak",
+      "weight": 1,
+      "range": [
+        280,
+        280
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0280",
+      "type": 0,
+      "text": "The Cape of Phijei",
+      "weight": 1,
+      "range": [
+        281,
+        281
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0281",
+      "type": 0,
+      "text": "The Broken Sea",
+      "weight": 1,
+      "range": [
+        282,
+        282
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0282",
+      "type": 0,
+      "text": "Contract to deliver cargo",
+      "weight": 1,
+      "range": [
+        283,
+        283
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0283",
+      "type": 0,
+      "text": "Zinc ingots (2D100)",
+      "weight": 1,
+      "range": [
+        284,
+        284
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0284",
+      "type": 0,
+      "text": "Iron bell with unknown writing around its rim",
+      "weight": 1,
+      "range": [
+        285,
+        285
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0285",
+      "type": 0,
+      "text": "String",
+      "weight": 1,
+      "range": [
+        286,
+        286
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0286",
+      "type": 0,
+      "text": "Carrots (1D10)",
+      "weight": 1,
+      "range": [
+        287,
+        287
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0287",
+      "type": 0,
+      "text": "The Pouch of Bhelkom",
+      "weight": 1,
+      "range": [
+        288,
+        288
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0288",
+      "type": 0,
+      "text": "The Star Swords",
+      "weight": 1,
+      "range": [
+        289,
+        289
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0289",
+      "type": 0,
+      "text": "Bunch of grapes",
+      "weight": 1,
+      "range": [
+        290,
+        290
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0290",
+      "type": 0,
+      "text": "Severed foot",
+      "weight": 1,
+      "range": [
+        291,
+        291
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0291",
+      "type": 0,
+      "text": "Hammock",
+      "weight": 1,
+      "range": [
+        292,
+        292
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0292",
+      "type": 0,
+      "text": "Ink blotters",
+      "weight": 1,
+      "range": [
+        293,
+        293
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0293",
+      "type": 0,
+      "text": "Burning hut",
+      "weight": 1,
+      "range": [
+        294,
+        294
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0294",
+      "type": 0,
+      "text": "The Belleniss Wand",
+      "weight": 1,
+      "range": [
+        295,
+        295
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0295",
+      "type": 0,
+      "text": "The Creatures of the Star Sea",
+      "weight": 1,
+      "range": [
+        296,
+        296
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0296",
+      "type": 0,
+      "text": "Box of brass buttons",
+      "weight": 1,
+      "range": [
+        297,
+        297
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0297",
+      "type": 0,
+      "text": "Onions (1D10 crates)",
+      "weight": 1,
+      "range": [
+        298,
+        298
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0298",
+      "type": 0,
+      "text": "Crate of small statues packed in straw",
+      "weight": 1,
+      "range": [
+        299,
+        299
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0299",
+      "type": 0,
+      "text": "Spoon",
+      "weight": 1,
+      "range": [
+        300,
+        300
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0300",
+      "type": 0,
+      "text": "Sack of beans",
+      "weight": 1,
+      "range": [
+        301,
+        301
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0301",
+      "type": 0,
+      "text": "The Ashes of Zinsys",
+      "weight": 1,
+      "range": [
+        302,
+        302
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0302",
+      "type": 0,
+      "text": "Gossimer Threads",
+      "weight": 1,
+      "range": [
+        303,
+        303
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0303",
+      "type": 0,
+      "text": "Boots",
+      "weight": 1,
+      "range": [
+        304,
+        304
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0304",
+      "type": 0,
+      "text": "Cattle (1D100)",
+      "weight": 1,
+      "range": [
+        305,
+        305
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0305",
+      "type": 0,
+      "text": "Brass fireplace shovel",
+      "weight": 1,
+      "range": [
+        306,
+        306
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0306",
+      "type": 0,
+      "text": "Wooden dowels (1D20)",
+      "weight": 1,
+      "range": [
+        307,
+        307
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0307",
+      "type": 0,
+      "text": "Mass grave",
+      "weight": 1,
+      "range": [
+        308,
+        308
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0308",
+      "type": 0,
+      "text": "Aramys Powder",
+      "weight": 1,
+      "range": [
+        309,
+        309
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0309",
+      "type": 0,
+      "text": "Tears Lost in the Sea",
+      "weight": 1,
+      "range": [
+        310,
+        310
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0310",
+      "type": 0,
+      "text": "Giant toenail clippings",
+      "weight": 1,
+      "range": [
+        311,
+        311
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0311",
+      "type": 0,
+      "text": "Obsidian sarcophagus",
+      "weight": 1,
+      "range": [
+        312,
+        312
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0312",
+      "type": 0,
+      "text": "A ring with family crest on a skeletal hand",
+      "weight": 1,
+      "range": [
+        313,
+        313
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0313",
+      "type": 0,
+      "text": "Blueprints of a spaceship",
+      "weight": 1,
+      "range": [
+        314,
+        314
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0314",
+      "type": 0,
+      "text": "Jug",
+      "weight": 1,
+      "range": [
+        315,
+        315
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0315",
+      "type": 0,
+      "text": "A Torynore Figurine",
+      "weight": 1,
+      "range": [
+        316,
+        316
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0316",
+      "type": 0,
+      "text": "Stars Beyond the Light",
+      "weight": 1,
+      "range": [
+        317,
+        317
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0317",
+      "type": 0,
+      "text": "Jug of ale",
+      "weight": 1,
+      "range": [
+        318,
+        318
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0318",
+      "type": 0,
+      "text": "Note (hidden)",
+      "weight": 1,
+      "range": [
+        319,
+        319
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0319",
+      "type": 0,
+      "text": "Rare woven blankets (1D10)",
+      "weight": 1,
+      "range": [
+        320,
+        320
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0320",
+      "type": 0,
+      "text": "Drawings of a comet",
+      "weight": 1,
+      "range": [
+        321,
+        321
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0321",
+      "type": 0,
+      "text": "Letter trampled in the mud",
+      "weight": 1,
+      "range": [
+        322,
+        322
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0322",
+      "type": 0,
+      "text": "The Pewter Statue of Umrik",
+      "weight": 1,
+      "range": [
+        323,
+        323
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0323",
+      "type": 0,
+      "text": "The Wizard of Space and Time",
+      "weight": 1,
+      "range": [
+        324,
+        324
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0324",
+      "type": 0,
+      "text": "Hastily drawn trading route map (hidden)",
+      "weight": 1,
+      "range": [
+        325,
+        325
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0325",
+      "type": 0,
+      "text": "Coal (1D100 barrels)",
+      "weight": 1,
+      "range": [
+        326,
+        326
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0326",
+      "type": 0,
+      "text": "A small model of this ship",
+      "weight": 1,
+      "range": [
+        327,
+        327
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0327",
+      "type": 0,
+      "text": "Gnomon",
+      "weight": 1,
+      "range": [
+        328,
+        328
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0328",
+      "type": 0,
+      "text": "Manacles",
+      "weight": 1,
+      "range": [
+        329,
+        329
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0329",
+      "type": 0,
+      "text": "A Silver Presfina Pin",
+      "weight": 1,
+      "range": [
+        330,
+        330
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0330",
+      "type": 0,
+      "text": "When the Clowns Came",
+      "weight": 1,
+      "range": [
+        331,
+        331
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0331",
+      "type": 0,
+      "text": "Silver and brass parrot perch",
+      "weight": 1,
+      "range": [
+        332,
+        332
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0332",
+      "type": 0,
+      "text": "Crates marked 'Weapons' (1D20)",
+      "weight": 1,
+      "range": [
+        333,
+        333
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0333",
+      "type": 0,
+      "text": "Smoke billows",
+      "weight": 1,
+      "range": [
+        334,
+        334
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0334",
+      "type": 0,
+      "text": "Sponge",
+      "weight": 1,
+      "range": [
+        335,
+        335
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0335",
+      "type": 0,
+      "text": "Metal shield",
+      "weight": 1,
+      "range": [
+        336,
+        336
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0336",
+      "type": 0,
+      "text": "The Hair of Genyarus",
+      "weight": 1,
+      "range": [
+        337,
+        337
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0337",
+      "type": 0,
+      "text": "To Dream Amid Worlds",
+      "weight": 1,
+      "range": [
+        338,
+        338
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0338",
+      "type": 0,
+      "text": "Box of glass marbles (each contains a model of a different star system)",
+      "weight": 1,
+      "range": [
+        339,
+        339
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0339",
+      "type": 0,
+      "text": "Dead body",
+      "weight": 1,
+      "range": [
+        340,
+        340
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0340",
+      "type": 0,
+      "text": "Set of shot glasses (multi-colored)",
+      "weight": 1,
+      "range": [
+        341,
+        341
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0341",
+      "type": 0,
+      "text": "Pillow",
+      "weight": 1,
+      "range": [
+        342,
+        342
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0342",
+      "type": 0,
+      "text": "Elf (bound)",
+      "weight": 1,
+      "range": [
+        343,
+        343
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0343",
+      "type": 0,
+      "text": "The Writings of Ulavaris",
+      "weight": 1,
+      "range": [
+        344,
+        344
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0344",
+      "type": 0,
+      "text": "To Touch the Sky",
+      "weight": 1,
+      "range": [
+        345,
+        345
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0345",
+      "type": 0,
+      "text": "Star charts",
+      "weight": 1,
+      "range": [
+        346,
+        346
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0346",
+      "type": 0,
+      "text": "Dishware (1D8 crates)",
+      "weight": 1,
+      "range": [
+        347,
+        347
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0347",
+      "type": 0,
+      "text": "Silver bracelet engraved with 'Erina'",
+      "weight": 1,
+      "range": [
+        348,
+        348
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0348",
+      "type": 0,
+      "text": "Iron sheets (1D8)",
+      "weight": 1,
+      "range": [
+        349,
+        349
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0349",
+      "type": 0,
+      "text": "Gold pieces (1D20, wrapped in a blanket)",
+      "weight": 1,
+      "range": [
+        350,
+        350
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0350",
+      "type": 0,
+      "text": "A Brenleil Firebrand",
+      "weight": 1,
+      "range": [
+        351,
+        351
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0351",
+      "type": 0,
+      "text": "The Dust of Worlds",
+      "weight": 1,
+      "range": [
+        352,
+        352
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0352",
+      "type": 0,
+      "text": "Brass model of the known star systems",
+      "weight": 1,
+      "range": [
+        353,
+        353
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0353",
+      "type": 0,
+      "text": "Crates marked 'Top Secret' (1D10)",
+      "weight": 1,
+      "range": [
+        354,
+        354
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0354",
+      "type": 0,
+      "text": "Worm-infested fruit",
+      "weight": 1,
+      "range": [
+        355,
+        355
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0355",
+      "type": 0,
+      "text": "Bronze sky disk",
+      "weight": 1,
+      "range": [
+        356,
+        356
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0356",
+      "type": 0,
+      "text": "Wild dogs (1D4)",
+      "weight": 1,
+      "range": [
+        357,
+        357
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0357",
+      "type": 0,
+      "text": "Rotnik Pottery Shards",
+      "weight": 1,
+      "range": [
+        358,
+        358
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0358",
+      "type": 0,
+      "text": "The Lost Bard",
+      "weight": 1,
+      "range": [
+        359,
+        359
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0359",
+      "type": 0,
+      "text": "Quill",
+      "weight": 1,
+      "range": [
+        360,
+        360
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0360",
+      "type": 0,
+      "text": "Green dye (1D8 lbs.)",
+      "weight": 1,
+      "range": [
+        361,
+        361
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0361",
+      "type": 0,
+      "text": "Barrel of salted pork",
+      "weight": 1,
+      "range": [
+        362,
+        362
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0362",
+      "type": 0,
+      "text": "Quill",
+      "weight": 1,
+      "range": [
+        363,
+        363
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0363",
+      "type": 0,
+      "text": "Crushed doll",
+      "weight": 1,
+      "range": [
+        364,
+        364
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0364",
+      "type": 0,
+      "text": "The Hand of Tynur",
+      "weight": 1,
+      "range": [
+        365,
+        365
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0365",
+      "type": 0,
+      "text": "The Whims of the Queen",
+      "weight": 1,
+      "range": [
+        366,
+        366
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0366",
+      "type": 0,
+      "text": "Pile of a bituminous substance",
+      "weight": 1,
+      "range": [
+        367,
+        367
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0367",
+      "type": 0,
+      "text": "Pile of straw (child hidden inside)",
+      "weight": 1,
+      "range": [
+        368,
+        368
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0368",
+      "type": 0,
+      "text": "Gold chalice",
+      "weight": 1,
+      "range": [
+        369,
+        369
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0369",
+      "type": 0,
+      "text": "Glass cutter",
+      "weight": 1,
+      "range": [
+        370,
+        370
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0370",
+      "type": 0,
+      "text": "Pile of dwarf heads",
+      "weight": 1,
+      "range": [
+        371,
+        371
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0371",
+      "type": 0,
+      "text": "The Bronze Head of Ermnur",
+      "weight": 1,
+      "range": [
+        372,
+        372
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0372",
+      "type": 0,
+      "text": "The Magic of the Stars",
+      "weight": 1,
+      "range": [
+        373,
+        373
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0373",
+      "type": 0,
+      "text": "Scroll",
+      "weight": 1,
+      "range": [
+        374,
+        374
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0374",
+      "type": 0,
+      "text": "Oranges (1D20 barrels)",
+      "weight": 1,
+      "range": [
+        375,
+        375
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0375",
+      "type": 0,
+      "text": "Dead body covered in red pock marks",
+      "weight": 1,
+      "range": [
+        376,
+        376
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0376",
+      "type": 0,
+      "text": "Collection of crystal shards",
+      "weight": 1,
+      "range": [
+        377,
+        377
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0377",
+      "type": 0,
+      "text": "Bone dice",
+      "weight": 1,
+      "range": [
+        378,
+        378
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0378",
+      "type": 0,
+      "text": "A Nohrsus Horse Figurine",
+      "weight": 1,
+      "range": [
+        379,
+        379
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0379",
+      "type": 0,
+      "text": "Fierce Peoples from Beyond",
+      "weight": 1,
+      "range": [
+        380,
+        380
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0380",
+      "type": 0,
+      "text": "Portrait of a regal old captain with a tentacle tattoo",
+      "weight": 1,
+      "range": [
+        381,
+        381
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0381",
+      "type": 0,
+      "text": "Bear pelts (1D100)",
+      "weight": 1,
+      "range": [
+        382,
+        382
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0382",
+      "type": 0,
+      "text": "Cheese wheel",
+      "weight": 1,
+      "range": [
+        383,
+        383
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0383",
+      "type": 0,
+      "text": "Little wooden boy marionette",
+      "weight": 1,
+      "range": [
+        384,
+        384
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0384",
+      "type": 0,
+      "text": "Iron plate",
+      "weight": 1,
+      "range": [
+        385,
+        385
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0385",
+      "type": 0,
+      "text": "The Stained Glass of Theydark",
+      "weight": 1,
+      "range": [
+        386,
+        386
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0386",
+      "type": 0,
+      "text": "Heaven's Crown",
+      "weight": 1,
+      "range": [
+        387,
+        387
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0387",
+      "type": 0,
+      "text": "Ruby cufflink",
+      "weight": 1,
+      "range": [
+        388,
+        388
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0388",
+      "type": 0,
+      "text": "Dire wolf in a cage",
+      "weight": 1,
+      "range": [
+        389,
+        389
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0389",
+      "type": 0,
+      "text": "Map of a portion of the astral plane",
+      "weight": 1,
+      "range": [
+        390,
+        390
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0390",
+      "type": 0,
+      "text": "Balance",
+      "weight": 1,
+      "range": [
+        391,
+        391
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0391",
+      "type": 0,
+      "text": "Bronze incense burner",
+      "weight": 1,
+      "range": [
+        392,
+        392
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0392",
+      "type": 0,
+      "text": "The Cup of Syrbur",
+      "weight": 1,
+      "range": [
+        393,
+        393
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0393",
+      "type": 0,
+      "text": "The Weeping Dwarf",
+      "weight": 1,
+      "range": [
+        394,
+        394
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0394",
+      "type": 0,
+      "text": "Floating pebbles",
+      "weight": 1,
+      "range": [
+        395,
+        395
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0395",
+      "type": 0,
+      "text": "Granite blocks (10D100)",
+      "weight": 1,
+      "range": [
+        396,
+        396
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0396",
+      "type": 0,
+      "text": "Battleaxe",
+      "weight": 1,
+      "range": [
+        397,
+        397
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0397",
+      "type": 0,
+      "text": "Bundle of letters",
+      "weight": 1,
+      "range": [
+        398,
+        398
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0398",
+      "type": 0,
+      "text": "Burned bodies (1D20)",
+      "weight": 1,
+      "range": [
+        399,
+        399
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0399",
+      "type": 0,
+      "text": "The Crown of Kavana",
+      "weight": 1,
+      "range": [
+        400,
+        400
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0400",
+      "type": 0,
+      "text": "The Scent of Spring While Sailing",
+      "weight": 1,
+      "range": [
+        401,
+        401
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0401",
+      "type": 0,
+      "text": "Unfinished manuscript about a sighting of a space whale",
+      "weight": 1,
+      "range": [
+        402,
+        402
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0402",
+      "type": 0,
+      "text": "Vanilla beans (1D6 lbs.)",
+      "weight": 1,
+      "range": [
+        403,
+        403
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0403",
+      "type": 0,
+      "text": "Smoking pipe",
+      "weight": 1,
+      "range": [
+        404,
+        404
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0404",
+      "type": 0,
+      "text": "Oil lamp",
+      "weight": 1,
+      "range": [
+        405,
+        405
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0405",
+      "type": 0,
+      "text": "Skinned cat",
+      "weight": 1,
+      "range": [
+        406,
+        406
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0406",
+      "type": 0,
+      "text": "The Erran Rock",
+      "weight": 1,
+      "range": [
+        407,
+        407
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0407",
+      "type": 0,
+      "text": "The Rock of the Heavens",
+      "weight": 1,
+      "range": [
+        408,
+        408
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0408",
+      "type": 0,
+      "text": "Lock of orange hair",
+      "weight": 1,
+      "range": [
+        409,
+        409
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0409",
+      "type": 0,
+      "text": "Crates marked 'Archeological Artifacts' (1D20)",
+      "weight": 1,
+      "range": [
+        410,
+        410
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0410",
+      "type": 0,
+      "text": "Timekeeping device",
+      "weight": 1,
+      "range": [
+        411,
+        411
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0411",
+      "type": 0,
+      "text": "Spectacles",
+      "weight": 1,
+      "range": [
+        412,
+        412
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0412",
+      "type": 0,
+      "text": "Wooden stake",
+      "weight": 1,
+      "range": [
+        413,
+        413
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0413",
+      "type": 0,
+      "text": "The Shattered Ring of Daerwyn",
+      "weight": 1,
+      "range": [
+        414,
+        414
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0414",
+      "type": 0,
+      "text": "Coinage: A History",
+      "weight": 1,
+      "range": [
+        415,
+        415
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0415",
+      "type": 0,
+      "text": "Prayer beads",
+      "weight": 1,
+      "range": [
+        416,
+        416
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0416",
+      "type": 0,
+      "text": "Apples (1D10 barrels)",
+      "weight": 1,
+      "range": [
+        417,
+        417
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0417",
+      "type": 0,
+      "text": "Spellbook",
+      "weight": 1,
+      "range": [
+        418,
+        418
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0418",
+      "type": 0,
+      "text": "Quills (1D12)",
+      "weight": 1,
+      "range": [
+        419,
+        419
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0419",
+      "type": 0,
+      "text": "Bucket",
+      "weight": 1,
+      "range": [
+        420,
+        420
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0420",
+      "type": 0,
+      "text": "The Onyx Chain of Emrim",
+      "weight": 1,
+      "range": [
+        421,
+        421
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0421",
+      "type": 0,
+      "text": "Mortal Foes",
+      "weight": 1,
+      "range": [
+        422,
+        422
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0422",
+      "type": 0,
+      "text": "Fireplace poker",
+      "weight": 1,
+      "range": [
+        423,
+        423
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0423",
+      "type": 0,
+      "text": "Arrows (3D100)",
+      "weight": 1,
+      "range": [
+        424,
+        424
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0424",
+      "type": 0,
+      "text": "Large piece of twisted metal",
+      "weight": 1,
+      "range": [
+        425,
+        425
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0425",
+      "type": 0,
+      "text": "Astrarium",
+      "weight": 1,
+      "range": [
+        426,
+        426
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0426",
+      "type": 0,
+      "text": "Map to a dungeon",
+      "weight": 1,
+      "range": [
+        427,
+        427
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0427",
+      "type": 0,
+      "text": "The Winged Serpent of Coll Ó Caisidei",
+      "weight": 1,
+      "range": [
+        428,
+        428
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0428",
+      "type": 0,
+      "text": "The Ships of Space and How to Build Them",
+      "weight": 1,
+      "range": [
+        429,
+        429
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0429",
+      "type": 0,
+      "text": "Tusk from an unknown space animal",
+      "weight": 1,
+      "range": [
+        430,
+        430
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0430",
+      "type": 0,
+      "text": "Turnips (1D12 crates)",
+      "weight": 1,
+      "range": [
+        431,
+        431
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0431",
+      "type": 0,
+      "text": "Bundle of purchase orders for supplies",
+      "weight": 1,
+      "range": [
+        432,
+        432
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0432",
+      "type": 0,
+      "text": "Quadrant",
+      "weight": 1,
+      "range": [
+        433,
+        433
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0433",
+      "type": 0,
+      "text": "Campfire",
+      "weight": 1,
+      "range": [
+        434,
+        434
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0434",
+      "type": 0,
+      "text": "The Sacred Chalice of Chaekrana",
+      "weight": 1,
+      "range": [
+        435,
+        435
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0435",
+      "type": 0,
+      "text": "Monsters and Madness",
+      "weight": 1,
+      "range": [
+        436,
+        436
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0436",
+      "type": 0,
+      "text": "Silk sheets",
+      "weight": 1,
+      "range": [
+        437,
+        437
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0437",
+      "type": 0,
+      "text": "Bag of astronomical charts (hidden)",
+      "weight": 1,
+      "range": [
+        438,
+        438
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0438",
+      "type": 0,
+      "text": "Turquoise ceramic flagon with symbols of stars impressed around it",
+      "weight": 1,
+      "range": [
+        439,
+        439
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0439",
+      "type": 0,
+      "text": "Chalk",
+      "weight": 1,
+      "range": [
+        440,
+        440
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0440",
+      "type": 0,
+      "text": "Arrow",
+      "weight": 1,
+      "range": [
+        441,
+        441
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0441",
+      "type": 0,
+      "text": "The Holy Signet Ring of Gnutus",
+      "weight": 1,
+      "range": [
+        442,
+        442
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0442",
+      "type": 0,
+      "text": "A Winter Spent in Space",
+      "weight": 1,
+      "range": [
+        443,
+        443
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0443",
+      "type": 0,
+      "text": "Small amethyst crystal",
+      "weight": 1,
+      "range": [
+        444,
+        444
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0444",
+      "type": 0,
+      "text": "Medicine (1D100 vials)",
+      "weight": 1,
+      "range": [
+        445,
+        445
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0445",
+      "type": 0,
+      "text": "Gold hairpin",
+      "weight": 1,
+      "range": [
+        446,
+        446
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0446",
+      "type": 0,
+      "text": "Sextant",
+      "weight": 1,
+      "range": [
+        447,
+        447
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0447",
+      "type": 0,
+      "text": "Child hiding under straw",
+      "weight": 1,
+      "range": [
+        448,
+        448
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0448",
+      "type": 0,
+      "text": "The Lyssdish Bone Ring",
+      "weight": 1,
+      "range": [
+        449,
+        449
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0449",
+      "type": 0,
+      "text": "Peering into the Soul of Space",
+      "weight": 1,
+      "range": [
+        450,
+        450
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0450",
+      "type": 0,
+      "text": "Set of silverware",
+      "weight": 1,
+      "range": [
+        451,
+        451
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0451",
+      "type": 0,
+      "text": "Wine (10D100 bottles)",
+      "weight": 1,
+      "range": [
+        452,
+        452
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0452",
+      "type": 0,
+      "text": "Burning debris",
+      "weight": 1,
+      "range": [
+        453,
+        453
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0453",
+      "type": 0,
+      "text": "Apple core",
+      "weight": 1,
+      "range": [
+        454,
+        454
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0454",
+      "type": 0,
+      "text": "Torch",
+      "weight": 1,
+      "range": [
+        455,
+        455
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0455",
+      "type": 0,
+      "text": "The Iron Bar of Brombek",
+      "weight": 1,
+      "range": [
+        456,
+        456
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0456",
+      "type": 0,
+      "text": "Death Stalked the Clouds",
+      "weight": 1,
+      "range": [
+        457,
+        457
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0457",
+      "type": 0,
+      "text": "Crystal goblet",
+      "weight": 1,
+      "range": [
+        458,
+        458
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0458",
+      "type": 0,
+      "text": "Clay pot (shattered)",
+      "weight": 1,
+      "range": [
+        459,
+        459
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0459",
+      "type": 0,
+      "text": "Small glass box with a tiny skull inside it, a minuscule note is sticking out of one socket",
+      "weight": 1,
+      "range": [
+        460,
+        460
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0460",
+      "type": 0,
+      "text": "Fork",
+      "weight": 1,
+      "range": [
+        461,
+        461
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0461",
+      "type": 0,
+      "text": "Burning barrel",
+      "weight": 1,
+      "range": [
+        462,
+        462
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0462",
+      "type": 0,
+      "text": "The Wing of Aeven",
+      "weight": 1,
+      "range": [
+        463,
+        463
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0463",
+      "type": 0,
+      "text": "The Sea Between Worlds",
+      "weight": 1,
+      "range": [
+        464,
+        464
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0464",
+      "type": 0,
+      "text": "Straightedge and compass",
+      "weight": 1,
+      "range": [
+        465,
+        465
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0465",
+      "type": 0,
+      "text": "Salted fish (2D20 barrels)",
+      "weight": 1,
+      "range": [
+        466,
+        466
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0466",
+      "type": 0,
+      "text": "Barrel of salted beef",
+      "weight": 1,
+      "range": [
+        467,
+        467
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0467",
+      "type": 0,
+      "text": "Charcoal writing instruments",
+      "weight": 1,
+      "range": [
+        468,
+        468
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0468",
+      "type": 0,
+      "text": "Tent",
+      "weight": 1,
+      "range": [
+        469,
+        469
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0469",
+      "type": 0,
+      "text": "The Caldron of Murkub Urglob",
+      "weight": 1,
+      "range": [
+        470,
+        470
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0470",
+      "type": 0,
+      "text": "Trading Blows",
+      "weight": 1,
+      "range": [
+        471,
+        471
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0471",
+      "type": 0,
+      "text": "Wooden box containing an hourglass set of various times",
+      "weight": 1,
+      "range": [
+        472,
+        472
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0472",
+      "type": 0,
+      "text": "Horses (1D100)",
+      "weight": 1,
+      "range": [
+        473,
+        473
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0473",
+      "type": 0,
+      "text": "Spell scroll",
+      "weight": 1,
+      "range": [
+        474,
+        474
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0474",
+      "type": 0,
+      "text": "Journal book (blank)",
+      "weight": 1,
+      "range": [
+        475,
+        475
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0475",
+      "type": 0,
+      "text": "Spellbook under a pile of wood",
+      "weight": 1,
+      "range": [
+        476,
+        476
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0476",
+      "type": 0,
+      "text": "The Headdress of Nohrrag",
+      "weight": 1,
+      "range": [
+        477,
+        477
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0477",
+      "type": 0,
+      "text": "The Bitterly Cold Flame",
+      "weight": 1,
+      "range": [
+        478,
+        478
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0478",
+      "type": 0,
+      "text": "Diamond stick pin",
+      "weight": 1,
+      "range": [
+        479,
+        479
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0479",
+      "type": 0,
+      "text": "Crates marked 'Seeds' (1D20)",
+      "weight": 1,
+      "range": [
+        480,
+        480
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0480",
+      "type": 0,
+      "text": "Book of space shanties",
+      "weight": 1,
+      "range": [
+        481,
+        481
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0481",
+      "type": 0,
+      "text": "Set of writing pigments",
+      "weight": 1,
+      "range": [
+        482,
+        482
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0482",
+      "type": 0,
+      "text": "Severed leg",
+      "weight": 1,
+      "range": [
+        483,
+        483
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0483",
+      "type": 0,
+      "text": "The Toe of Ensys",
+      "weight": 1,
+      "range": [
+        484,
+        484
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0484",
+      "type": 0,
+      "text": "The Book of the Singing Stars",
+      "weight": 1,
+      "range": [
+        485,
+        485
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0485",
+      "type": 0,
+      "text": "Robe",
+      "weight": 1,
+      "range": [
+        486,
+        486
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0486",
+      "type": 0,
+      "text": "Ancient iron box (locked)",
+      "weight": 1,
+      "range": [
+        487,
+        487
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0487",
+      "type": 0,
+      "text": "Helmet",
+      "weight": 1,
+      "range": [
+        488,
+        488
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0488",
+      "type": 0,
+      "text": "Planisphere",
+      "weight": 1,
+      "range": [
+        489,
+        489
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0489",
+      "type": 0,
+      "text": "Dead cow",
+      "weight": 1,
+      "range": [
+        490,
+        490
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0490",
+      "type": 0,
+      "text": "The Shadow of Quiphyra",
+      "weight": 1,
+      "range": [
+        491,
+        491
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0491",
+      "type": 0,
+      "text": "The Undying Dream of Fire",
+      "weight": 1,
+      "range": [
+        492,
+        492
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0492",
+      "type": 0,
+      "text": "Iron ring about 4' in diameter",
+      "weight": 1,
+      "range": [
+        493,
+        493
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0493",
+      "type": 0,
+      "text": "Cumin (1D20 lbs.)",
+      "weight": 1,
+      "range": [
+        494,
+        494
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0494",
+      "type": 0,
+      "text": "Gloves covered in slime",
+      "weight": 1,
+      "range": [
+        495,
+        495
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0495",
+      "type": 0,
+      "text": "Scaphe",
+      "weight": 1,
+      "range": [
+        496,
+        496
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0496",
+      "type": 0,
+      "text": "Map hidden in a sack",
+      "weight": 1,
+      "range": [
+        497,
+        497
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0497",
+      "type": 0,
+      "text": "The Star of Mistryl",
+      "weight": 1,
+      "range": [
+        498,
+        498
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0498",
+      "type": 0,
+      "text": "A Shattered Moon",
+      "weight": 1,
+      "range": [
+        499,
+        499
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0499",
+      "type": 0,
+      "text": "Tiny silver box",
+      "weight": 1,
+      "range": [
+        500,
+        500
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0500",
+      "type": 0,
+      "text": "Metal that glitters in moonlight (2D20 lbs.)",
+      "weight": 1,
+      "range": [
+        501,
+        501
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0501",
+      "type": 0,
+      "text": "Wooden oar",
+      "weight": 1,
+      "range": [
+        502,
+        502
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0502",
+      "type": 0,
+      "text": "Cane",
+      "weight": 1,
+      "range": [
+        503,
+        503
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0503",
+      "type": 0,
+      "text": "Shattered pottery",
+      "weight": 1,
+      "range": [
+        504,
+        504
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0504",
+      "type": 0,
+      "text": "The Fruit of Nugur",
+      "weight": 1,
+      "range": [
+        505,
+        505
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0505",
+      "type": 0,
+      "text": "I Walked on a Thousand Worlds",
+      "weight": 1,
+      "range": [
+        506,
+        506
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0506",
+      "type": 0,
+      "text": "Chronometer",
+      "weight": 1,
+      "range": [
+        507,
+        507
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0507",
+      "type": 0,
+      "text": "Sandstone blocks (5D100)",
+      "weight": 1,
+      "range": [
+        508,
+        508
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0508",
+      "type": 0,
+      "text": "Boot",
+      "weight": 1,
+      "range": [
+        509,
+        509
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0509",
+      "type": 0,
+      "text": "Sundial",
+      "weight": 1,
+      "range": [
+        510,
+        510
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0510",
+      "type": 0,
+      "text": "Human (injured)",
+      "weight": 1,
+      "range": [
+        511,
+        511
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0511",
+      "type": 0,
+      "text": "The Yelnorin Skull",
+      "weight": 1,
+      "range": [
+        512,
+        512
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0512",
+      "type": 0,
+      "text": "The Songs of the Deep",
+      "weight": 1,
+      "range": [
+        513,
+        513
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0513",
+      "type": 0,
+      "text": "Binoculars",
+      "weight": 1,
+      "range": [
+        514,
+        514
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0514",
+      "type": 0,
+      "text": "Red dye (1D20 lbs.)",
+      "weight": 1,
+      "range": [
+        515,
+        515
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0515",
+      "type": 0,
+      "text": "Severed hand",
+      "weight": 1,
+      "range": [
+        516,
+        516
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0516",
+      "type": 0,
+      "text": "Gears (1D4)",
+      "weight": 1,
+      "range": [
+        517,
+        517
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0517",
+      "type": 0,
+      "text": "Shortsword",
+      "weight": 1,
+      "range": [
+        518,
+        518
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0518",
+      "type": 0,
+      "text": "The Rib of Rolfrn Shubhub",
+      "weight": 1,
+      "range": [
+        519,
+        519
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0519",
+      "type": 0,
+      "text": "The Traveler",
+      "weight": 1,
+      "range": [
+        520,
+        520
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0520",
+      "type": 0,
+      "text": "Longsword",
+      "weight": 1,
+      "range": [
+        521,
+        521
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0521",
+      "type": 0,
+      "text": "Crates marked 'Clothes' (1D20)",
+      "weight": 1,
+      "range": [
+        522,
+        522
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0522",
+      "type": 0,
+      "text": "Exquisite dining plates (1D100)",
+      "weight": 1,
+      "range": [
+        523,
+        523
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0523",
+      "type": 0,
+      "text": "Loaf of bread",
+      "weight": 1,
+      "range": [
+        524,
+        524
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0524",
+      "type": 0,
+      "text": "Metal hook",
+      "weight": 1,
+      "range": [
+        525,
+        525
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0525",
+      "type": 0,
+      "text": "The Dream Cloth of Sardeth",
+      "weight": 1,
+      "range": [
+        526,
+        526
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0526",
+      "type": 0,
+      "text": "Dancing Above the Clouds",
+      "weight": 1,
+      "range": [
+        527,
+        527
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0527",
+      "type": 0,
+      "text": "Fox figurine filled with blood",
+      "weight": 1,
+      "range": [
+        528,
+        528
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0528",
+      "type": 0,
+      "text": "Rope (500')",
+      "weight": 1,
+      "range": [
+        529,
+        529
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0529",
+      "type": 0,
+      "text": "Set of formal clothes",
+      "weight": 1,
+      "range": [
+        530,
+        530
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0530",
+      "type": 0,
+      "text": "Lens (4' diameter)",
+      "weight": 1,
+      "range": [
+        531,
+        531
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0531",
+      "type": 0,
+      "text": "Spears (1D6)",
+      "weight": 1,
+      "range": [
+        532,
+        532
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0532",
+      "type": 0,
+      "text": "The Branch of Thaldek",
+      "weight": 1,
+      "range": [
+        533,
+        533
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0533",
+      "type": 0,
+      "text": "Rings of Silence",
+      "weight": 1,
+      "range": [
+        534,
+        534
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0534",
+      "type": 0,
+      "text": "Map to a port planet",
+      "weight": 1,
+      "range": [
+        535,
+        535
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0535",
+      "type": 0,
+      "text": "Strange mirror chained to a wall",
+      "weight": 1,
+      "range": [
+        536,
+        536
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0536",
+      "type": 0,
+      "text": "Man's hat",
+      "weight": 1,
+      "range": [
+        537,
+        537
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0537",
+      "type": 0,
+      "text": "Telescope",
+      "weight": 1,
+      "range": [
+        538,
+        538
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0538",
+      "type": 0,
+      "text": "Greatsword",
+      "weight": 1,
+      "range": [
+        539,
+        539
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0539",
+      "type": 0,
+      "text": "The Agate of Druzius",
+      "weight": 1,
+      "range": [
+        540,
+        540
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0540",
+      "type": 0,
+      "text": "The Beings that Pull the Strings",
+      "weight": 1,
+      "range": [
+        541,
+        541
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0541",
+      "type": 0,
+      "text": "Frilly shirt",
+      "weight": 1,
+      "range": [
+        542,
+        542
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0542",
+      "type": 0,
+      "text": "Yellow dye (1D10 lbs.)",
+      "weight": 1,
+      "range": [
+        543,
+        543
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0543",
+      "type": 0,
+      "text": "Glass bottle with exotic alcohol",
+      "weight": 1,
+      "range": [
+        544,
+        544
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0544",
+      "type": 0,
+      "text": "Silver pieces (1D4)",
+      "weight": 1,
+      "range": [
+        545,
+        545
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0545",
+      "type": 0,
+      "text": "Bag of idols",
+      "weight": 1,
+      "range": [
+        546,
+        546
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0546",
+      "type": 0,
+      "text": "The Copper Mohrprix Statue",
+      "weight": 1,
+      "range": [
+        547,
+        547
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0547",
+      "type": 0,
+      "text": "The Ice Blade",
+      "weight": 1,
+      "range": [
+        548,
+        548
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0548",
+      "type": 0,
+      "text": "Half-eaten turkey leg",
+      "weight": 1,
+      "range": [
+        549,
+        549
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0549",
+      "type": 0,
+      "text": "Gold ingots (1D100)",
+      "weight": 1,
+      "range": [
+        550,
+        550
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0550",
+      "type": 0,
+      "text": "Two intricate wine glasses made of an unknown metal",
+      "weight": 1,
+      "range": [
+        551,
+        551
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0551",
+      "type": 0,
+      "text": "Torquetum",
+      "weight": 1,
+      "range": [
+        552,
+        552
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0552",
+      "type": 0,
+      "text": "Shattered shield",
+      "weight": 1,
+      "range": [
+        553,
+        553
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0553",
+      "type": 0,
+      "text": "The Eadan Shawl of Caoimh",
+      "weight": 1,
+      "range": [
+        554,
+        554
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0554",
+      "type": 0,
+      "text": "The Weaving of Empires",
+      "weight": 1,
+      "range": [
+        555,
+        555
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0555",
+      "type": 0,
+      "text": "Candle",
+      "weight": 1,
+      "range": [
+        556,
+        556
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0556",
+      "type": 0,
+      "text": "Longsword wrapped in silk (hidden)",
+      "weight": 1,
+      "range": [
+        557,
+        557
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0557",
+      "type": 0,
+      "text": "Brass whistle",
+      "weight": 1,
+      "range": [
+        558,
+        558
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0558",
+      "type": 0,
+      "text": "Blanket",
+      "weight": 1,
+      "range": [
+        559,
+        559
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0559",
+      "type": 0,
+      "text": "Star map trampled in the mud",
+      "weight": 1,
+      "range": [
+        560,
+        560
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0560",
+      "type": 0,
+      "text": "The Sigil of Syrdor",
+      "weight": 1,
+      "range": [
+        561,
+        561
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0561",
+      "type": 0,
+      "text": "Sorrow Mixed with Stars",
+      "weight": 1,
+      "range": [
+        562,
+        562
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0562",
+      "type": 0,
+      "text": "Theodolite",
+      "weight": 1,
+      "range": [
+        563,
+        563
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0563",
+      "type": 0,
+      "text": "Ink (1D100 bottles)",
+      "weight": 1,
+      "range": [
+        564,
+        564
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0564",
+      "type": 0,
+      "text": "Bowls with scalloped edges",
+      "weight": 1,
+      "range": [
+        565,
+        565
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0565",
+      "type": 0,
+      "text": "Triquetrum instrument",
+      "weight": 1,
+      "range": [
+        566,
+        566
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0566",
+      "type": 0,
+      "text": "Shattered barrel of apples",
+      "weight": 1,
+      "range": [
+        567,
+        567
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0567",
+      "type": 0,
+      "text": "The Record of Bellera",
+      "weight": 1,
+      "range": [
+        568,
+        568
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0568",
+      "type": 0,
+      "text": "The Heart of Light",
+      "weight": 1,
+      "range": [
+        569,
+        569
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0569",
+      "type": 0,
+      "text": "Wooden box filled with dried leaves",
+      "weight": 1,
+      "range": [
+        570,
+        570
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0570",
+      "type": 0,
+      "text": "Clay vessels (1D100)",
+      "weight": 1,
+      "range": [
+        571,
+        571
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0571",
+      "type": 0,
+      "text": "Spear",
+      "weight": 1,
+      "range": [
+        572,
+        572
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0572",
+      "type": 0,
+      "text": "Gold ring",
+      "weight": 1,
+      "range": [
+        573,
+        573
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0573",
+      "type": 0,
+      "text": "Torn dress",
+      "weight": 1,
+      "range": [
+        574,
+        574
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0574",
+      "type": 0,
+      "text": "The Silver Map of Rekthius",
+      "weight": 1,
+      "range": [
+        575,
+        575
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0575",
+      "type": 0,
+      "text": "A Falling Comet",
+      "weight": 1,
+      "range": [
+        576,
+        576
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0576",
+      "type": 0,
+      "text": "Jewel-encrusted dagger",
+      "weight": 1,
+      "range": [
+        577,
+        577
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0577",
+      "type": 0,
+      "text": "Carrots (1D4 crates)",
+      "weight": 1,
+      "range": [
+        578,
+        578
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0578",
+      "type": 0,
+      "text": "Diamond ring",
+      "weight": 1,
+      "range": [
+        579,
+        579
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0579",
+      "type": 0,
+      "text": "Celatone",
+      "weight": 1,
+      "range": [
+        580,
+        580
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0580",
+      "type": 0,
+      "text": "Backpack",
+      "weight": 1,
+      "range": [
+        581,
+        581
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0581",
+      "type": 0,
+      "text": "The Tail of Teneus",
+      "weight": 1,
+      "range": [
+        582,
+        582
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0582",
+      "type": 0,
+      "text": "Swimming in an Astral Sea",
+      "weight": 1,
+      "range": [
+        583,
+        583
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0583",
+      "type": 0,
+      "text": "Deed to the ship",
+      "weight": 1,
+      "range": [
+        584,
+        584
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0584",
+      "type": 0,
+      "text": "Tin ingots (5D100)",
+      "weight": 1,
+      "range": [
+        585,
+        585
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0585",
+      "type": 0,
+      "text": "Deep scratches on a broken piece of wood (somewhat resembling writing)",
+      "weight": 1,
+      "range": [
+        586,
+        586
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0586",
+      "type": 0,
+      "text": "Equatorium",
+      "weight": 1,
+      "range": [
+        587,
+        587
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0587",
+      "type": 0,
+      "text": "Sharpened horse femur",
+      "weight": 1,
+      "range": [
+        588,
+        588
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0588",
+      "type": 0,
+      "text": "The Leaves of The Vyrkiras Tree",
+      "weight": 1,
+      "range": [
+        589,
+        589
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0589",
+      "type": 0,
+      "text": "The Search for Treasures Among the Stars",
+      "weight": 1,
+      "range": [
+        590,
+        590
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0590",
+      "type": 0,
+      "text": "Folding hand fan with exotic designs",
+      "weight": 1,
+      "range": [
+        591,
+        591
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0591",
+      "type": 0,
+      "text": "Cloves (1D12 lbs.)",
+      "weight": 1,
+      "range": [
+        592,
+        592
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0592",
+      "type": 0,
+      "text": "A large glass hemisphere on a table, images of planets whirling around in it",
+      "weight": 1,
+      "range": [
+        593,
+        593
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0593",
+      "type": 0,
+      "text": "Vellum sheets (1D20)",
+      "weight": 1,
+      "range": [
+        594,
+        594
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0594",
+      "type": 0,
+      "text": "Sack of flour",
+      "weight": 1,
+      "range": [
+        595,
+        595
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0595",
+      "type": 0,
+      "text": "The Face of Zumdan",
+      "weight": 1,
+      "range": [
+        596,
+        596
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0596",
+      "type": 0,
+      "text": "The Roaming Horde",
+      "weight": 1,
+      "range": [
+        597,
+        597
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0597",
+      "type": 0,
+      "text": "Quadrant",
+      "weight": 1,
+      "range": [
+        598,
+        598
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0598",
+      "type": 0,
+      "text": "Copper ingots (8D100)",
+      "weight": 1,
+      "range": [
+        599,
+        599
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0599",
+      "type": 0,
+      "text": "Star charts (1D20)",
+      "weight": 1,
+      "range": [
+        600,
+        600
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0600",
+      "type": 0,
+      "text": "Cosmolabe",
+      "weight": 1,
+      "range": [
+        601,
+        601
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0601",
+      "type": 0,
+      "text": "Amber earring",
+      "weight": 1,
+      "range": [
+        602,
+        602
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0602",
+      "type": 0,
+      "text": "The Tear of Qiyarus",
+      "weight": 1,
+      "range": [
+        603,
+        603
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0603",
+      "type": 0,
+      "text": "A World Wanderer's Tale",
+      "weight": 1,
+      "range": [
+        604,
+        604
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0604",
+      "type": 0,
+      "text": "Decorative globe filled with floating stars and planets",
+      "weight": 1,
+      "range": [
+        605,
+        605
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0605",
+      "type": 0,
+      "text": "Salt (1D20 lbs.)",
+      "weight": 1,
+      "range": [
+        606,
+        606
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0606",
+      "type": 0,
+      "text": "Caged birds (all dead)",
+      "weight": 1,
+      "range": [
+        607,
+        607
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0607",
+      "type": 0,
+      "text": "Scribe's knife",
+      "weight": 1,
+      "range": [
+        608,
+        608
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0608",
+      "type": 0,
+      "text": "Pike",
+      "weight": 1,
+      "range": [
+        609,
+        609
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0609",
+      "type": 0,
+      "text": "The Prurag Dust Writings",
+      "weight": 1,
+      "range": [
+        610,
+        610
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0610",
+      "type": 0,
+      "text": "Adventures of a Smiling Clown",
+      "weight": 1,
+      "range": [
+        611,
+        611
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0611",
+      "type": 0,
+      "text": "Map to an asteroid port",
+      "weight": 1,
+      "range": [
+        612,
+        612
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0612",
+      "type": 0,
+      "text": "Crates marked 'Cloth' (1D20, actually slimy eggs)",
+      "weight": 1,
+      "range": [
+        613,
+        613
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0613",
+      "type": 0,
+      "text": "String of pearls",
+      "weight": 1,
+      "range": [
+        614,
+        614
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0614",
+      "type": 0,
+      "text": "Notes on traveling the stars",
+      "weight": 1,
+      "range": [
+        615,
+        615
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0615",
+      "type": 0,
+      "text": "Branding iron",
+      "weight": 1,
+      "range": [
+        616,
+        616
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0616",
+      "type": 0,
+      "text": "The Prism of Tyram",
+      "weight": 1,
+      "range": [
+        617,
+        617
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0617",
+      "type": 0,
+      "text": "Gateway of the Heavens",
+      "weight": 1,
+      "range": [
+        618,
+        618
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0618",
+      "type": 0,
+      "text": "Lantern",
+      "weight": 1,
+      "range": [
+        619,
+        619
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0619",
+      "type": 0,
+      "text": "Orichalcum ingots (1D100)",
+      "weight": 1,
+      "range": [
+        620,
+        620
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0620",
+      "type": 0,
+      "text": "Pouch full of some strange sparkling dust",
+      "weight": 1,
+      "range": [
+        621,
+        621
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0621",
+      "type": 0,
+      "text": "Nocturlabe",
+      "weight": 1,
+      "range": [
+        622,
+        622
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0622",
+      "type": 0,
+      "text": "Injured war horse",
+      "weight": 1,
+      "range": [
+        623,
+        623
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0623",
+      "type": 0,
+      "text": "The Harp of Bartharm",
+      "weight": 1,
+      "range": [
+        624,
+        624
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0624",
+      "type": 0,
+      "text": "Arcane Secrets",
+      "weight": 1,
+      "range": [
+        625,
+        625
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0625",
+      "type": 0,
+      "text": "Silver pieces (1D6)",
+      "weight": 1,
+      "range": [
+        626,
+        626
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0626",
+      "type": 0,
+      "text": "Asteroid pieces (3D100)",
+      "weight": 1,
+      "range": [
+        627,
+        627
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0627",
+      "type": 0,
+      "text": "Cracked cherub statue",
+      "weight": 1,
+      "range": [
+        628,
+        628
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0628",
+      "type": 0,
+      "text": "Ink bottles (empty, 1D8)",
+      "weight": 1,
+      "range": [
+        629,
+        629
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0629",
+      "type": 0,
+      "text": "Broken dagger",
+      "weight": 1,
+      "range": [
+        630,
+        630
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0630",
+      "type": 0,
+      "text": "The Hood of Muirman",
+      "weight": 1,
+      "range": [
+        631,
+        631
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0631",
+      "type": 0,
+      "text": "Battles in the Space Sea",
+      "weight": 1,
+      "range": [
+        632,
+        632
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0632",
+      "type": 0,
+      "text": "Greatsword",
+      "weight": 1,
+      "range": [
+        633,
+        633
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0633",
+      "type": 0,
+      "text": "Tamarind (1D8 lbs.)",
+      "weight": 1,
+      "range": [
+        634,
+        634
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0634",
+      "type": 0,
+      "text": "Book: On the Realms Beyond Our Celestial Home",
+      "weight": 1,
+      "range": [
+        635,
+        635
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0635",
+      "type": 0,
+      "text": "Orrery",
+      "weight": 1,
+      "range": [
+        636,
+        636
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0636",
+      "type": 0,
+      "text": "Pile of cabin beams",
+      "weight": 1,
+      "range": [
+        637,
+        637
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0637",
+      "type": 0,
+      "text": "The Wripheus String",
+      "weight": 1,
+      "range": [
+        638,
+        638
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0638",
+      "type": 0,
+      "text": "Stark Days of Endless Nights",
+      "weight": 1,
+      "range": [
+        639,
+        639
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0639",
+      "type": 0,
+      "text": "Fishing pole",
+      "weight": 1,
+      "range": [
+        640,
+        640
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0640",
+      "type": 0,
+      "text": "Gigantic blocks of ice (1D100)",
+      "weight": 1,
+      "range": [
+        641,
+        641
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0641",
+      "type": 0,
+      "text": "Ivory key",
+      "weight": 1,
+      "range": [
+        642,
+        642
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0642",
+      "type": 0,
+      "text": "Drawings of a large telescope",
+      "weight": 1,
+      "range": [
+        643,
+        643
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0643",
+      "type": 0,
+      "text": "Glass vial (empty)",
+      "weight": 1,
+      "range": [
+        644,
+        644
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0644",
+      "type": 0,
+      "text": "The Hammer of Makhel Bharrgak",
+      "weight": 1,
+      "range": [
+        645,
+        645
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0645",
+      "type": 0,
+      "text": "Magical Ideas and Their Consequences",
+      "weight": 1,
+      "range": [
+        646,
+        646
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0646",
+      "type": 0,
+      "text": "Sea lion figurine carved out of whale ivory",
+      "weight": 1,
+      "range": [
+        647,
+        647
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0647",
+      "type": 0,
+      "text": "Silver ingots (3D100)",
+      "weight": 1,
+      "range": [
+        648,
+        648
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0648",
+      "type": 0,
+      "text": "An unearthly beast's head mounted upon a wall",
+      "weight": 1,
+      "range": [
+        649,
+        649
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0649",
+      "type": 0,
+      "text": "Collection of sacred stones",
+      "weight": 1,
+      "range": [
+        650,
+        650
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0650",
+      "type": 0,
+      "text": "Pig roasting over a fire",
+      "weight": 1,
+      "range": [
+        651,
+        651
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0651",
+      "type": 0,
+      "text": "A Gryrak Hand Axe",
+      "weight": 1,
+      "range": [
+        652,
+        652
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0652",
+      "type": 0,
+      "text": "The Ash of War",
+      "weight": 1,
+      "range": [
+        653,
+        653
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0653",
+      "type": 0,
+      "text": "Thin copper wire",
+      "weight": 1,
+      "range": [
+        654,
+        654
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0654",
+      "type": 0,
+      "text": "Books (1D20)",
+      "weight": 1,
+      "range": [
+        655,
+        655
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0655",
+      "type": 0,
+      "text": "Blood-covered dairy",
+      "weight": 1,
+      "range": [
+        656,
+        656
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0656",
+      "type": 0,
+      "text": "Bowl of blueberries",
+      "weight": 1,
+      "range": [
+        657,
+        657
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0657",
+      "type": 0,
+      "text": "Burned book",
+      "weight": 1,
+      "range": [
+        658,
+        658
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0658",
+      "type": 0,
+      "text": "The Broken Vase of Gnokurun",
+      "weight": 1,
+      "range": [
+        659,
+        659
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0659",
+      "type": 0,
+      "text": "The Last Pain Before Dawn",
+      "weight": 1,
+      "range": [
+        660,
+        660
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0660",
+      "type": 0,
+      "text": "Wineskin",
+      "weight": 1,
+      "range": [
+        661,
+        661
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0661",
+      "type": 0,
+      "text": "Crates marked 'Boots' (1D12)",
+      "weight": 1,
+      "range": [
+        662,
+        662
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0662",
+      "type": 0,
+      "text": "Longsword (entirely black)",
+      "weight": 1,
+      "range": [
+        663,
+        663
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0663",
+      "type": 0,
+      "text": "Dust cloth",
+      "weight": 1,
+      "range": [
+        664,
+        664
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0664",
+      "type": 0,
+      "text": "Dead chickens (1D20)",
+      "weight": 1,
+      "range": [
+        665,
+        665
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0665",
+      "type": 0,
+      "text": "The Carving of Xurvak",
+      "weight": 1,
+      "range": [
+        666,
+        666
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0666",
+      "type": 0,
+      "text": "The Horizon is Forever Lost",
+      "weight": 1,
+      "range": [
+        667,
+        667
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0667",
+      "type": 0,
+      "text": "Copper pieces (1D20)",
+      "weight": 1,
+      "range": [
+        668,
+        668
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0668",
+      "type": 0,
+      "text": "Winged ape in a cage",
+      "weight": 1,
+      "range": [
+        669,
+        669
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0669",
+      "type": 0,
+      "text": "Glowing moss growing in a minuscule glass terrarium",
+      "weight": 1,
+      "range": [
+        670,
+        670
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0670",
+      "type": 0,
+      "text": "Chains (1D6)",
+      "weight": 1,
+      "range": [
+        671,
+        671
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0671",
+      "type": 0,
+      "text": "Dead dog",
+      "weight": 1,
+      "range": [
+        672,
+        672
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0672",
+      "type": 0,
+      "text": "The Powder of Vumud",
+      "weight": 1,
+      "range": [
+        673,
+        673
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0673",
+      "type": 0,
+      "text": "The Empire of the Green Hand",
+      "weight": 1,
+      "range": [
+        674,
+        674
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0674",
+      "type": 0,
+      "text": "Leather swatch",
+      "weight": 1,
+      "range": [
+        675,
+        675
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0675",
+      "type": 0,
+      "text": "Slab of unknown black stone (2'x6'x9')",
+      "weight": 1,
+      "range": [
+        676,
+        676
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0676",
+      "type": 0,
+      "text": "Shattered potion bottle",
+      "weight": 1,
+      "range": [
+        677,
+        677
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0677",
+      "type": 0,
+      "text": "Straight edge",
+      "weight": 1,
+      "range": [
+        678,
+        678
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0678",
+      "type": 0,
+      "text": "Broken horse figurine",
+      "weight": 1,
+      "range": [
+        679,
+        679
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0679",
+      "type": 0,
+      "text": "The Moss of Adlen",
+      "weight": 1,
+      "range": [
+        680,
+        680
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0680",
+      "type": 0,
+      "text": "The Culture of Elves",
+      "weight": 1,
+      "range": [
+        681,
+        681
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0681",
+      "type": 0,
+      "text": "Green clay pot",
+      "weight": 1,
+      "range": [
+        682,
+        682
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0682",
+      "type": 0,
+      "text": "Limes (1D20 barrels)",
+      "weight": 1,
+      "range": [
+        683,
+        683
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0683",
+      "type": 0,
+      "text": "Cask of water",
+      "weight": 1,
+      "range": [
+        684,
+        684
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0684",
+      "type": 0,
+      "text": "Parchment sheets (1D20)",
+      "weight": 1,
+      "range": [
+        685,
+        685
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0685",
+      "type": 0,
+      "text": "Firewood",
+      "weight": 1,
+      "range": [
+        686,
+        686
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0686",
+      "type": 0,
+      "text": "The Rope of Gnapeus",
+      "weight": 1,
+      "range": [
+        687,
+        687
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0687",
+      "type": 0,
+      "text": "The Hands of Fate",
+      "weight": 1,
+      "range": [
+        688,
+        688
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0688",
+      "type": 0,
+      "text": "Lamp",
+      "weight": 1,
+      "range": [
+        689,
+        689
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0689",
+      "type": 0,
+      "text": "Vellum (10D100 sheets)",
+      "weight": 1,
+      "range": [
+        690,
+        690
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0690",
+      "type": 0,
+      "text": "Magenta-furred cat sleeping on a captain's chair",
+      "weight": 1,
+      "range": [
+        691,
+        691
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0691",
+      "type": 0,
+      "text": "Equatorial ring",
+      "weight": 1,
+      "range": [
+        692,
+        692
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0692",
+      "type": 0,
+      "text": "Holy symbol",
+      "weight": 1,
+      "range": [
+        693,
+        693
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0693",
+      "type": 0,
+      "text": "The Jar of Yingeiros",
+      "weight": 1,
+      "range": [
+        694,
+        694
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0694",
+      "type": 0,
+      "text": "Constructing Mechanical Beings",
+      "weight": 1,
+      "range": [
+        695,
+        695
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0695",
+      "type": 0,
+      "text": "Mother of pearl comb",
+      "weight": 1,
+      "range": [
+        696,
+        696
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0696",
+      "type": 0,
+      "text": "Cheese (1D20 wheels)",
+      "weight": 1,
+      "range": [
+        697,
+        697
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0697",
+      "type": 0,
+      "text": "Crystal aquarium with strange flora and fauna",
+      "weight": 1,
+      "range": [
+        698,
+        698
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0698",
+      "type": 0,
+      "text": "Dioptra",
+      "weight": 1,
+      "range": [
+        699,
+        699
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0699",
+      "type": 0,
+      "text": "Dead body",
+      "weight": 1,
+      "range": [
+        700,
+        700
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d700",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-fantasyspace",
+      "book": "Book Of Random Tables Fantasy Space",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Fantasy Space",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d700",
+  "sort_key": "art objects and artifacts",
+  "entry_count": 700,
+  "version": 2
+}

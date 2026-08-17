@@ -1,0 +1,176 @@
+<div class="tableforge-container">
+    <!-- 1. LEFT SIDEBAR (Filters & Python Pipeline Controls) -->
+    <aside class="tableforge-sidebar">
+        <!-- Text Search -->
+        <div class="tableforge-sidebar-section">
+            <div class="tableforge-sidebar-title">
+                <span>GLOBAL TEXT SEARCH</span>
+                <span class="action-reset-search tableforge-reset">(RESET)</span>
+            </div>
+            <input type="text" class="tableforge-search-box" placeholder="Filter tables by name..." value="{{searchQuery}}">
+        </div>
+        
+        <!-- Type Filter -->
+        <div class="tableforge-sidebar-section" style="border-top: 1px solid #2e2920; padding-top: 12px;">
+            <div class="tableforge-sidebar-title">TABLE TYPE</div>
+            <select id="filter-category" class="tableforge-select">
+                <option value="all">All Tables</option>
+                <option value="combined">Combined Master Tables</option>
+                <option value="individual">Individual PDF Tables</option>
+            </select>
+        </div>
+        
+        <!-- Theme Filter -->
+        <div class="tableforge-sidebar-section" style="border-top: 1px solid #2e2920; padding-top: 12px;">
+            <div class="tableforge-sidebar-title">THEME FILTER</div>
+            <select id="filter-theme" class="tableforge-select">
+                <option value="all">All Themes</option>
+                {{#each themes}}
+                <option value="{{this.value}}">{{this.label}}</option>
+                {{/each}}
+            </select>
+        </div>
+
+        <!-- Source Filter -->
+        <div class="tableforge-sidebar-section" style="border-top: 1px solid #2e2920; padding-top: 12px;">
+            <div class="tableforge-sidebar-title">SOURCE PDF FILTER</div>
+            <select id="filter-source" class="tableforge-select">
+                <option value="all">All Sources</option>
+                {{#each pdfs}}
+                <option value="{{this.value}}">{{this.label}}</option>
+                {{/each}}
+            </select>
+        </div>
+
+        <!-- Python Pipeline Execution Console -->
+        <div class="tableforge-sidebar-section" style="border-top: 1px solid #2e2920; padding-top: 12px; margin-top: auto; display: flex; flex-direction: column; gap: 10px;">
+            <div class="tableforge-sidebar-title" style="color: #f5c992;">PYTHON PIPELINE</div>
+            
+            <!-- Connection Status Badge -->
+            <div style="display:flex; justify-content:flex-start;">
+                <span id="pipeline-status" class="status-badge offline">
+                    <i class="fa-solid fa-circle-xmark"></i> Pipeline Offline
+                </span>
+            </div>
+
+            <!-- PDF Folder Path Picker -->
+            <div style="display:flex; flex-direction:column; gap:4px;">
+                <span style="font-size:11px; color:#a59d8e; font-weight:bold;">PDF INPUT DIRECTORY</span>
+                <div style="display:flex; gap:6px;">
+                    <input type="text" id="pipeline-path" class="tableforge-input" placeholder="Select or paste absolute path..." style="font-size:11px; flex:1;" value="">
+                    <button id="btn-pipeline-browse" class="btn-secondary" style="padding:4px 8px; font-size:11px;" title="Browse local folders via Python Dialog"><i class="fas fa-folder-open"></i> Browse</button>
+                </div>
+            </div>
+
+            <!-- Execute Compiler Buttons -->
+            <button id="btn-pipeline-execute" class="btn-execute" style="width:100%; margin-top:5px;" disabled>
+                <i class="fas fa-play"></i> Execute TableForge
+            </button>
+            <button id="btn-pipeline-cancel" class="btn-secondary" style="width:100%; background:rgba(216,130,112,0.1); border-color:rgba(216,130,112,0.4); color:#d88270; display:none;">
+                <i class="fas fa-hand-paper"></i> Cancel Processing
+            </button>
+        </div>
+    </aside>
+
+    <!-- 2. MIDDLE COLUMN (Tables Catalog List) -->
+    <section class="tableforge-catalog">
+        <div class="tableforge-list-header">
+            <span>AVAILABLE TABLES</span>
+            <span>Selected: <strong class="selected-count">{{selectedCount}}</strong></span>
+        </div>
+        
+        <div class="tableforge-bulk-actions" style="display:flex; justify-content:space-between; gap:5px; margin-bottom: 5px;">
+            <button class="select-all-btn btn-secondary" style="flex:1; padding:4px; font-size:11px;"><i class="fas fa-check-square"></i> Stage All</button>
+            <button class="deselect-all-btn btn-secondary" style="flex:1; padding:4px; font-size:11px;"><i class="fas fa-square"></i> Clear All</button>
+        </div>
+
+        <div class="tableforge-list">
+            {{#each tables}}
+            <div class="tableforge-item" data-index="{{@index}}">
+                <input type="checkbox" class="tableforge-checkbox" data-file="{{this.file}}" {{#if this.checked}}checked{{/if}} style="margin-right:8px;">
+                <div style="flex:1; min-width:0;">
+                    <div class="table-name" style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;" title="{{this.name}}">{{this.name}}</div>
+                    <div class="tableforge-item-meta" style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+                        {{#if this.is_master}}
+                        <span class="tableforge-badge master">Combined</span>
+                        {{else}}
+                        <span class="tableforge-badge individual">PDF</span>
+                        {{/if}}
+                        {{this.items}} items | {{this.source}}
+                    </div>
+                </div>
+            </div>
+            {{/each}}
+        </div>
+    </section>
+
+    <!-- 3. RIGHT COLUMN (Live Preview & Status Log Panel) -->
+    <section class="tableforge-workspace">
+        <div class="tableforge-preview">
+            {{#if activePreview}}
+                <div class="tableforge-preview-header">
+                    <h2>{{activePreview.name}}</h2>
+                    <div style="font-size:12px; color:#cbd5e0; margin-top:4px;">
+                        <strong>Source:</strong> {{activePreview.description}}<br>
+                        <strong>Roll Formula:</strong> <code style="background:#0c0a09; padding:2px 4px; border-radius:3px; color:#ffddf6;">{{activePreview.formula}}</code>
+                    </div>
+                </div>
+                
+                <div style="flex:1; overflow-y:auto; min-height:0;">
+                    <table class="tableforge-grid">
+                        <thead>
+                            <tr>
+                                <th style="width: 60px;">Range</th>
+                                <th>Description</th>
+                                <th style="width: 50px;">Weight</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{#each activePreview.results}}
+                            <tr>
+                                <td><strong>{{this.range.[0]}}{{#if (ne this.range.[0] this.range.[1])}}-{{this.range.[1]}}{{/if}}</strong></td>
+                                <td>{{this.text}}</td>
+                                <td>{{this.weight}}</td>
+                            </tr>
+                            {{/each}}
+                        </tbody>
+                    </table>
+                </div>
+            {{else}}
+                <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; height:100%; text-align:center; padding:20px;">
+                    <i class="fas fa-dice" style="font-size:48px; margin-bottom:15px; color:#2e2920;"></i>
+                    <h3>No Table Selected</h3>
+                    <p>Click on any table in the catalog list to see a live preview of its contents and ranges before importing.</p>
+                </div>
+            {{/if}}
+        </div>
+
+        <!-- Real-time Console Log Window (Matching Beneos) -->
+        <div class="tableforge-console-section">
+            <div class="tableforge-progress-bar-container">
+                <div class="tableforge-progress-bar"></div>
+            </div>
+            <div class="tableforge-console">
+                <p class="tableforge-log-entry info">System ready.</p>
+                <p class="tableforge-log-entry info">Apply search & filters in the left sidebar catalog.</p>
+                <p class="tableforge-log-entry info">GMs: Run 'python tableforge.py --server' in your directory to enable local PDF extraction directly from this UI!</p>
+            </div>
+        </div>
+    </section>
+</div>
+
+<div class="tableforge-import-footer">
+    <div style="flex:1; display:flex; align-items:center; gap:15px; font-size:12px; color:#cbd5e0;">
+        <div>Selected: <strong style="color:white; margin:0 4px;" class="selected-count">{{selectedCount}}</strong> tables</div>
+        <div style="display:flex; align-items:center; gap:5px;">
+            <label for="import-target" style="font-weight:bold;">Import Target:</label>
+            <select id="import-target">
+                <option value="compendium" selected>Compendium Pack (Option B - Clean)</option>
+                <option value="sidebar">Sidebar Directory (Option A - Folders)</option>
+            </select>
+        </div>
+    </div>
+    <button class="btn-import-execute">
+        <i class="fas fa-file-import"></i> Import Selected
+    </button>
+</div>

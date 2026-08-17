@@ -1,0 +1,24 @@
+{
+  "id": "jenne-table-forge",
+  "title": "Jenne Table Forge",
+  "description": "Roll table manager and PDF table extractor",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "esmodules": [
+    "scripts/importer.js"
+  ],
+  "styles": [
+    "styles.css"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "jenne-suite",
+        "type": "module"
+      }
+    ]
+  }
+}

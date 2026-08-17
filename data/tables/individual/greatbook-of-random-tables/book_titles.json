@@ -1,0 +1,7201 @@
+{
+  "name": "Book Titles",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from greatbook-of-random-tables.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Old Silver and New Gold",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "- Sour Victory (100gp) Weaving Instruction",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Concerning Herbs (1000gp)",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "By Pools of Blue (150gp)",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "- Uncontrollable as Water (25gp)",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The Black Book of Lost Souls (25gp)",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "(150gp) The Golden Sceptre (1000gp)",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "Guide (15gp)",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "Counting the Stones in the Road (10gp)",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "Laughing at Despair (500gp)",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The King's Consort (300gp)",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "Low Magic (75gp)",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "The Fever Writings of the Crone (75gp)",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "Seven Cosmic Ideas (15gp) (25gp)",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "Sword Making (75gp)",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The Sounds of the Deeps (300gp)",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The Killings at the Burnt Forest (150gp)",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "Catalog of Cultivated Seeds (300gp)",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "A Hermit's Tale and Nonsense Rhymes (25gp)",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The Mouth That Sees",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "Guilty and Damned (25gp)",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "The Hammer of the Wind (200gp)",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "Fortications and Defenses (75gp)",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "The Sibol Text (100gp)",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "Beyond Sight and Sound",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Sailing Ships (150gp)",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "For the Love of Learning (150gp)",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Coarse Dealings (50gp)",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "The Last War (200gp)",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The Lost Children of the South (75gp)",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "(10gp) Skin for Skin (600gp)",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "Kinds of Wines (150gp)",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "Ice of the Soul (600gp)",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "Daughters of War (100gp)",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "Winged Beasts (150gp)",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "Knowledge of the Unseen (10gp)",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "Arcane Beasts (25gp)",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Eleven Poems (50gp)",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "The Spell Stones (200gp)",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "Lost Languages (300gp)",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Demon Speech (75gp)",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "The Screaming Flames (600gp)",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "The Undying Ones (100gp)",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Moneylending: A Guide (75gp)",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Understanding Divination (75gp)",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "The Dreams of Birds (600gp)",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "Gold Lending: A Handy Guide (75gp)",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "Vultures on the Wing (15gp)",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "Wedding Customs (50gp)",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "The Crown Weighs Heavy (10gp)",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "Working the Soil (150gp)",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "The Last Servant (50gp)",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "A Measuring Line (200gp)",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Shadows of Love (150gp)",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "The Book of Bone (15gp)",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "A Scarlet Hour (500gp)",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "Undead: An Exploration of Horrors from the Grave (500gp)",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "The Iron Crown (600gp)",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Casting Out Demons (50gp)",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "Shards of Power (300gp)",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "All Possible Worlds (50gp)",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "The Sacred Texts of Gru (300gp)",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "The Book of Stone (15gp)",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "The Pounding Rain (25gp)",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Lost Souls (600gp)",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "The Key of the Pit (50gp)",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "The Warnings of a Madman (300gp)",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "In Full Sun (200gp)",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "The Weeping Princess (15gp)",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "Wading Through the Weeds (15gp)",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "Back Down the Winding Path (75gp)",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Phases of the Moon (25gp)",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "The Grim Head (10gp)",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "The Book of Skin (10gp)",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "The Great Leap (10gp)",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "The Cats of Midnight (150gp)",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "Doors in the Wind (75gp)",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "A Necklace of Opal (500gp)",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "The Art of Sword Fighting (15gp)",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "The Keeping of Chickens (600gp)",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "The Flooded Keep (25gp)",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "halfling Death Rites (25gp)",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "Beasts of the Field (25gp)",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "Lost in the Dark Wood (100gp)",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The Golden Hour (15gp)",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "Bardic Songs (10gp)",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "Always Alone (25gp)",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "The Mind of War (50gp)",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "Taboos (300gp)",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "The Day of Destruction (50gp)",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "The Art of Showmanship (600gp)",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "The Lost and the Unfound",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "Evening Prayers (200gp)",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "Lost Wisdom (50gp)",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "Gone Before Dawn (100gp)",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "The Book of Trees (15gp)",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "Studies of Water Fowl (300gp)",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The Cover of Day (75gp)",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "The Death of Time (100gp)",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "Building Bridges: An Engineering Textbook (100gp)",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0100",
+      "type": 0,
+      "text": "The Wheeling Stars (10gp)",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0101",
+      "type": 0,
+      "text": "On Feasting (300gp)",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0102",
+      "type": 0,
+      "text": "Uses for Certain Tree Saps (15gp)",
+      "weight": 1,
+      "range": [
+        103,
+        103
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0103",
+      "type": 0,
+      "text": "The Night of Day (75gp) A Hole in the Sky (150gp)",
+      "weight": 1,
+      "range": [
+        104,
+        104
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0104",
+      "type": 0,
+      "text": "The Sorrow of the Soul (25gp)",
+      "weight": 1,
+      "range": [
+        105,
+        105
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0105",
+      "type": 0,
+      "text": "Trees: A Catalog Species (10gp)",
+      "weight": 1,
+      "range": [
+        106,
+        106
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0106",
+      "type": 0,
+      "text": "A Fallen Hearthstone (100gp)",
+      "weight": 1,
+      "range": [
+        107,
+        107
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0107",
+      "type": 0,
+      "text": "The Book of Thunder (15gp)",
+      "weight": 1,
+      "range": [
+        108,
+        108
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0108",
+      "type": 0,
+      "text": "The Breath of Fear (10gp)",
+      "weight": 1,
+      "range": [
+        109,
+        109
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0109",
+      "type": 0,
+      "text": "The Arcane Arts: An Exploration (10gp)",
+      "weight": 1,
+      "range": [
+        110,
+        110
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0110",
+      "type": 0,
+      "text": "Balms and Ointments (100gp)",
+      "weight": 1,
+      "range": [
+        111,
+        111
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0111",
+      "type": 0,
+      "text": "Souls Lost in the Shadows (75gp)",
+      "weight": 1,
+      "range": [
+        112,
+        112
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0112",
+      "type": 0,
+      "text": "The Book of Mist (600gp)",
+      "weight": 1,
+      "range": [
+        113,
+        113
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0113",
+      "type": 0,
+      "text": "Common Herbs (15gp)",
+      "weight": 1,
+      "range": [
+        114,
+        114
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0114",
+      "type": 0,
+      "text": "The Galakon Forest (15gp)",
+      "weight": 1,
+      "range": [
+        116,
+        116
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0115",
+      "type": 0,
+      "text": "Rings: Uses and Powers (200gp)",
+      "weight": 1,
+      "range": [
+        117,
+        117
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0116",
+      "type": 0,
+      "text": "When Blood Boils (25gp)",
+      "weight": 1,
+      "range": [
+        118,
+        118
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0117",
+      "type": 0,
+      "text": "Human Anatomy (500gp)",
+      "weight": 1,
+      "range": [
+        119,
+        119
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0118",
+      "type": 0,
+      "text": "The Tragedies of Sela (100gp)",
+      "weight": 1,
+      "range": [
+        120,
+        120
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0119",
+      "type": 0,
+      "text": "When Time Stopped (25gp)",
+      "weight": 1,
+      "range": [
+        121,
+        121
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0120",
+      "type": 0,
+      "text": "halfling songs (25gp)",
+      "weight": 1,
+      "range": [
+        122,
+        122
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0121",
+      "type": 0,
+      "text": "Mixing Elixirs (75gp)",
+      "weight": 1,
+      "range": [
+        123,
+        123
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0122",
+      "type": 0,
+      "text": "The Evening Star of Doom (50gp)",
+      "weight": 1,
+      "range": [
+        124,
+        124
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0123",
+      "type": 0,
+      "text": "The Kings and Queens of the Silver Age (15gp)",
+      "weight": 1,
+      "range": [
+        125,
+        125
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0124",
+      "type": 0,
+      "text": "The Deep Cold of Wind and Water (75gp)",
+      "weight": 1,
+      "range": [
+        126,
+        126
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0125",
+      "type": 0,
+      "text": "The Defiling Wind (200gp)",
+      "weight": 1,
+      "range": [
+        127,
+        127
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0126",
+      "type": 0,
+      "text": "Goblin Songs (150gp)",
+      "weight": 1,
+      "range": [
+        128,
+        128
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0127",
+      "type": 0,
+      "text": "The Painted Faces (25gp)",
+      "weight": 1,
+      "range": [
+        129,
+        129
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0128",
+      "type": 0,
+      "text": "A Spear of Death (1000gp)",
+      "weight": 1,
+      "range": [
+        130,
+        130
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0129",
+      "type": 0,
+      "text": "Blood and Wine (100gp)",
+      "weight": 1,
+      "range": [
+        131,
+        131
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0130",
+      "type": 0,
+      "text": "The Confounding Speech of the Soutwards (1000gp)",
+      "weight": 1,
+      "range": [
+        132,
+        132
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0131",
+      "type": 0,
+      "text": "The Warmth of the Dew (600gp)",
+      "weight": 1,
+      "range": [
+        133,
+        133
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0132",
+      "type": 0,
+      "text": "Digging for Gold (300gp)",
+      "weight": 1,
+      "range": [
+        134,
+        134
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0133",
+      "type": 0,
+      "text": "Frost on the Grass (100gp)",
+      "weight": 1,
+      "range": [
+        135,
+        135
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0134",
+      "type": 0,
+      "text": "The Autumn of the First Age (25gp)",
+      "weight": 1,
+      "range": [
+        136,
+        136
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0135",
+      "type": 0,
+      "text": "Journey Fraught with Disaster (50gp)",
+      "weight": 1,
+      "range": [
+        137,
+        137
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0136",
+      "type": 0,
+      "text": "Potions: Recipes for the",
+      "weight": 1,
+      "range": [
+        138,
+        138
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0137",
+      "type": 0,
+      "text": "Insects: A Study (500gp)",
+      "weight": 1,
+      "range": [
+        139,
+        139
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0138",
+      "type": 0,
+      "text": "The Circling Clouds (150gp)",
+      "weight": 1,
+      "range": [
+        140,
+        140
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0139",
+      "type": 0,
+      "text": "After the Dawn (600gp)",
+      "weight": 1,
+      "range": [
+        141,
+        141
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0140",
+      "type": 0,
+      "text": "The Dogs of Dawn (10gp)",
+      "weight": 1,
+      "range": [
+        142,
+        142
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0141",
+      "type": 0,
+      "text": "The Book of the Ages (75gp)",
+      "weight": 1,
+      "range": [
+        143,
+        143
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0142",
+      "type": 0,
+      "text": "Most Common (600gp) Slow Bleed (15gp)",
+      "weight": 1,
+      "range": [
+        144,
+        144
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0143",
+      "type": 0,
+      "text": "The Code of Hanno (10gp)",
+      "weight": 1,
+      "range": [
+        145,
+        145
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0144",
+      "type": 0,
+      "text": "Swirling Secrets (15gp)",
+      "weight": 1,
+      "range": [
+        146,
+        146
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0145",
+      "type": 0,
+      "text": "The Quick Hand (75gp)",
+      "weight": 1,
+      "range": [
+        147,
+        147
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0146",
+      "type": 0,
+      "text": "The Tale of the Lost Children (200gp)",
+      "weight": 1,
+      "range": [
+        148,
+        148
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0147",
+      "type": 0,
+      "text": "The Lady of the Shadow Wood (50gp)",
+      "weight": 1,
+      "range": [
+        149,
+        149
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0148",
+      "type": 0,
+      "text": "The Peace Accords of the First Age (50gp)",
+      "weight": 1,
+      "range": [
+        150,
+        150
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0149",
+      "type": 0,
+      "text": "Histories of the Hill Country (1000gp)",
+      "weight": 1,
+      "range": [
+        151,
+        151
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0150",
+      "type": 0,
+      "text": "A Farmer's Tale (500gp)",
+      "weight": 1,
+      "range": [
+        152,
+        152
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0151",
+      "type": 0,
+      "text": "Stories for Children (25gp)",
+      "weight": 1,
+      "range": [
+        153,
+        153
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0152",
+      "type": 0,
+      "text": "Celestial Manifestations (10gp)",
+      "weight": 1,
+      "range": [
+        154,
+        154
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0153",
+      "type": 0,
+      "text": "Memory's Last Gasp (150gp)",
+      "weight": 1,
+      "range": [
+        155,
+        155
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0154",
+      "type": 0,
+      "text": "Seashells (150gp)",
+      "weight": 1,
+      "range": [
+        156,
+        156
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0155",
+      "type": 0,
+      "text": "The Life of an Amanuensis (200gp)",
+      "weight": 1,
+      "range": [
+        157,
+        157
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0156",
+      "type": 0,
+      "text": "The Book of Eyes (15gp)",
+      "weight": 1,
+      "range": [
+        158,
+        158
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0157",
+      "type": 0,
+      "text": "The Talking Tree and the Gnome Wizard (10gp)",
+      "weight": 1,
+      "range": [
+        159,
+        159
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0158",
+      "type": 0,
+      "text": "Animal Husbandry: A Practical Guide (25gp)",
+      "weight": 1,
+      "range": [
+        160,
+        160
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0159",
+      "type": 0,
+      "text": "The Beating Fists (15gp)",
+      "weight": 1,
+      "range": [
+        161,
+        161
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0160",
+      "type": 0,
+      "text": "The Wizards of Wardland (50gp)",
+      "weight": 1,
+      "range": [
+        162,
+        162
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0161",
+      "type": 0,
+      "text": "The Burning Mountains (600gp)",
+      "weight": 1,
+      "range": [
+        163,
+        163
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0162",
+      "type": 0,
+      "text": "Creeping Things: A Study (25gp)",
+      "weight": 1,
+      "range": [
+        164,
+        164
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0163",
+      "type": 0,
+      "text": "The Vultures of Twilight (150gp)",
+      "weight": 1,
+      "range": [
+        165,
+        165
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0164",
+      "type": 0,
+      "text": "Mist and Smoke (100gp)",
+      "weight": 1,
+      "range": [
+        166,
+        166
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0165",
+      "type": 0,
+      "text": "The Statue of the Queen (15gp)",
+      "weight": 1,
+      "range": [
+        167,
+        167
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0166",
+      "type": 0,
+      "text": "The Goblin Empire (75gp)",
+      "weight": 1,
+      "range": [
+        168,
+        168
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0167",
+      "type": 0,
+      "text": "The Bones of the Past (75gp)",
+      "weight": 1,
+      "range": [
+        169,
+        169
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0168",
+      "type": 0,
+      "text": "Common Illnesses and Treatments (1000gp)",
+      "weight": 1,
+      "range": [
+        170,
+        170
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0169",
+      "type": 0,
+      "text": "The Mirrored Sky (25gp)",
+      "weight": 1,
+      "range": [
+        171,
+        171
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0170",
+      "type": 0,
+      "text": "A Bronze Hand (10gp)",
+      "weight": 1,
+      "range": [
+        172,
+        172
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0171",
+      "type": 0,
+      "text": "Aelfrein's Great Book of Dragons (100gp)",
+      "weight": 1,
+      "range": [
+        173,
+        173
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0172",
+      "type": 0,
+      "text": "The Book of Worms (50gp)",
+      "weight": 1,
+      "range": [
+        174,
+        174
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0173",
+      "type": 0,
+      "text": "Unheard Music (15gp) Concerning the Ancient Laws (500gp)",
+      "weight": 1,
+      "range": [
+        175,
+        175
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0174",
+      "type": 0,
+      "text": "The First Born Son (100gp)",
+      "weight": 1,
+      "range": [
+        176,
+        176
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0175",
+      "type": 0,
+      "text": "The Statue Underwater (150gp)",
+      "weight": 1,
+      "range": [
+        177,
+        177
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0176",
+      "type": 0,
+      "text": "The Great Stones of the",
+      "weight": 1,
+      "range": [
+        178,
+        178
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0177",
+      "type": 0,
+      "text": "Betrayed by Friends (150gp)",
+      "weight": 1,
+      "range": [
+        179,
+        179
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0178",
+      "type": 0,
+      "text": "Long Grasses: Cultivation and Uses (500gp)",
+      "weight": 1,
+      "range": [
+        180,
+        180
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0179",
+      "type": 0,
+      "text": "The Use of Fire in Demonic Rituals (25gp)",
+      "weight": 1,
+      "range": [
+        181,
+        181
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0180",
+      "type": 0,
+      "text": "The War of Uncounted Woes (75gp)",
+      "weight": 1,
+      "range": [
+        182,
+        182
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0181",
+      "type": 0,
+      "text": "Earth (100gp) War: How to Fight and How",
+      "weight": 1,
+      "range": [
+        183,
+        183
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0182",
+      "type": 0,
+      "text": "Eyes Full of Tears (100gp)",
+      "weight": 1,
+      "range": [
+        184,
+        184
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0183",
+      "type": 0,
+      "text": "The High Hills (25gp)",
+      "weight": 1,
+      "range": [
+        185,
+        185
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0184",
+      "type": 0,
+      "text": "The Noise and The",
+      "weight": 1,
+      "range": [
+        186,
+        186
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0185",
+      "type": 0,
+      "text": "Herbs of the Lowlands (15gp)",
+      "weight": 1,
+      "range": [
+        187,
+        187
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0186",
+      "type": 0,
+      "text": "Spilled Blood (600gp)",
+      "weight": 1,
+      "range": [
+        188,
+        188
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0187",
+      "type": 0,
+      "text": "to Win (150gp) The Unsettling Book of Blood Magic (150gp)",
+      "weight": 1,
+      "range": [
+        189,
+        189
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0188",
+      "type": 0,
+      "text": "Sixteen Dangerous Ideas (1000gp)",
+      "weight": 1,
+      "range": [
+        190,
+        190
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0189",
+      "type": 0,
+      "text": "When Giants Sleep (100gp)",
+      "weight": 1,
+      "range": [
+        191,
+        191
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0190",
+      "type": 0,
+      "text": "Silence (10gp)",
+      "weight": 1,
+      "range": [
+        192,
+        192
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0191",
+      "type": 0,
+      "text": "Concerning the Construction of Log Cabins (10gp)",
+      "weight": 1,
+      "range": [
+        193,
+        193
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0192",
+      "type": 0,
+      "text": "The Red Book of Westmarch (100gp)",
+      "weight": 1,
+      "range": [
+        194,
+        194
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0193",
+      "type": 0,
+      "text": "The Wheels of Heaven: Advanced Mathematics (150gp)",
+      "weight": 1,
+      "range": [
+        195,
+        195
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0194",
+      "type": 0,
+      "text": "The Foundling's Burden (300gp)",
+      "weight": 1,
+      "range": [
+        196,
+        196
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0195",
+      "type": 0,
+      "text": "An Examination of Farming in the Logon (75gp)",
+      "weight": 1,
+      "range": [
+        197,
+        197
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0196",
+      "type": 0,
+      "text": "Schools of Philosophy Among the High Elves (300gp) Reflections on the",
+      "weight": 1,
+      "range": [
+        198,
+        198
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0197",
+      "type": 0,
+      "text": "Keeping Rabbits (10gp)",
+      "weight": 1,
+      "range": [
+        199,
+        199
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0198",
+      "type": 0,
+      "text": "A Thief at Midnight (50gp)",
+      "weight": 1,
+      "range": [
+        200,
+        200
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0199",
+      "type": 0,
+      "text": "The Fallen Wizard (25gp)",
+      "weight": 1,
+      "range": [
+        201,
+        201
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0200",
+      "type": 0,
+      "text": "Turning the Frontier into a Home (100gp)",
+      "weight": 1,
+      "range": [
+        202,
+        202
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0201",
+      "type": 0,
+      "text": "Using Blood in Casting Spells (150gp)",
+      "weight": 1,
+      "range": [
+        203,
+        203
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0202",
+      "type": 0,
+      "text": "Days of",
+      "weight": 1,
+      "range": [
+        204,
+        204
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0203",
+      "type": 0,
+      "text": "The Book of Rain (150gp)",
+      "weight": 1,
+      "range": [
+        205,
+        205
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0204",
+      "type": 0,
+      "text": "Stonemasonry (150gp)",
+      "weight": 1,
+      "range": [
+        206,
+        206
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0205",
+      "type": 0,
+      "text": "The Book of Rejoicing (100gp)",
+      "weight": 1,
+      "range": [
+        207,
+        207
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0206",
+      "type": 0,
+      "text": "Smoke in the Shadows of the Morning (10gp)",
+      "weight": 1,
+      "range": [
+        208,
+        208
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0207",
+      "type": 0,
+      "text": "The Toe of the Mountain (10gp)",
+      "weight": 1,
+      "range": [
+        209,
+        209
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0208",
+      "type": 0,
+      "text": "The Fell Winter (10gp)",
+      "weight": 1,
+      "range": [
+        210,
+        210
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0209",
+      "type": 0,
+      "text": "The Cold in the Marrow (500gp)",
+      "weight": 1,
+      "range": [
+        211,
+        211
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0210",
+      "type": 0,
+      "text": "Tending the Flame (75gp)",
+      "weight": 1,
+      "range": [
+        212,
+        212
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0211",
+      "type": 0,
+      "text": "The Angry Elf (1000gp)",
+      "weight": 1,
+      "range": [
+        213,
+        213
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0212",
+      "type": 0,
+      "text": "Orc Blood (75gp)",
+      "weight": 1,
+      "range": [
+        214,
+        214
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0213",
+      "type": 0,
+      "text": "Wolves of the Deep (75gp)",
+      "weight": 1,
+      "range": [
+        215,
+        215
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0214",
+      "type": 0,
+      "text": "Diseases Spread by Rats (150gp)",
+      "weight": 1,
+      "range": [
+        216,
+        216
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0215",
+      "type": 0,
+      "text": "The Fulfilment (10gp)",
+      "weight": 1,
+      "range": [
+        217,
+        217
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0216",
+      "type": 0,
+      "text": "Theories of Magic (50gp)",
+      "weight": 1,
+      "range": [
+        218,
+        218
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0217",
+      "type": 0,
+      "text": "Keys to the Abyss (50gp)",
+      "weight": 1,
+      "range": [
+        219,
+        219
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0218",
+      "type": 0,
+      "text": "Manners and Etiquette of the Court (15gp)",
+      "weight": 1,
+      "range": [
+        220,
+        220
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0219",
+      "type": 0,
+      "text": "The Eyes That Hear (500gp)",
+      "weight": 1,
+      "range": [
+        221,
+        221
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0220",
+      "type": 0,
+      "text": "The Death of the Hunter (75gp)",
+      "weight": 1,
+      "range": [
+        222,
+        222
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0221",
+      "type": 0,
+      "text": "Southern Flowers and Their Uses (1000gp)",
+      "weight": 1,
+      "range": [
+        223,
+        223
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0222",
+      "type": 0,
+      "text": "The Four Suns (100gp)",
+      "weight": 1,
+      "range": [
+        224,
+        224
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0223",
+      "type": 0,
+      "text": "The Raging Sea (15gp)",
+      "weight": 1,
+      "range": [
+        225,
+        225
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0224",
+      "type": 0,
+      "text": "Dragon Lore (150gp)",
+      "weight": 1,
+      "range": [
+        226,
+        226
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0225",
+      "type": 0,
+      "text": "The Woman Who Challenged the World (10gp)",
+      "weight": 1,
+      "range": [
+        227,
+        227
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0226",
+      "type": 0,
+      "text": "Lake Monsters and Other Swimming Horrors (75gp)",
+      "weight": 1,
+      "range": [
+        228,
+        228
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0227",
+      "type": 0,
+      "text": "When Moons Die (75gp)",
+      "weight": 1,
+      "range": [
+        229,
+        229
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0228",
+      "type": 0,
+      "text": "Orcs and Diplomacy (150gp)",
+      "weight": 1,
+      "range": [
+        230,
+        230
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0229",
+      "type": 0,
+      "text": "Standing Stones (75gp)",
+      "weight": 1,
+      "range": [
+        231,
+        231
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0230",
+      "type": 0,
+      "text": "The Waving Wheat (300gp)",
+      "weight": 1,
+      "range": [
+        232,
+        232
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0231",
+      "type": 0,
+      "text": "The Dread Gates (150gp)",
+      "weight": 1,
+      "range": [
+        233,
+        233
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0232",
+      "type": 0,
+      "text": "The Bread of Wickedness (50gp)",
+      "weight": 1,
+      "range": [
+        234,
+        234
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0233",
+      "type": 0,
+      "text": "Literature of the Last Period (15gp)",
+      "weight": 1,
+      "range": [
+        235,
+        235
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0234",
+      "type": 0,
+      "text": "The Lungs of the World (50gp)",
+      "weight": 1,
+      "range": [
+        236,
+        236
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0235",
+      "type": 0,
+      "text": "Look into the Abyss (15gp)",
+      "weight": 1,
+      "range": [
+        237,
+        237
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0236",
+      "type": 0,
+      "text": "Embalming: A Guide (150gp)",
+      "weight": 1,
+      "range": [
+        238,
+        238
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0237",
+      "type": 0,
+      "text": "The Works of the Gods (150gp)",
+      "weight": 1,
+      "range": [
+        239,
+        239
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0238",
+      "type": 0,
+      "text": "Not a Cloud in the Sky (15gp)",
+      "weight": 1,
+      "range": [
+        240,
+        240
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0239",
+      "type": 0,
+      "text": "Blood on the Ground (50gp)",
+      "weight": 1,
+      "range": [
+        241,
+        241
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0240",
+      "type": 0,
+      "text": "Caring for Sheep (1000gp)",
+      "weight": 1,
+      "range": [
+        242,
+        242
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0241",
+      "type": 0,
+      "text": "A Murder in the Moonlight (100gp)",
+      "weight": 1,
+      "range": [
+        243,
+        243
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0242",
+      "type": 0,
+      "text": "When the Ground Crumbles Beneath You (50gp)",
+      "weight": 1,
+      "range": [
+        244,
+        244
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0243",
+      "type": 0,
+      "text": "The Flame Brides (1000gp)",
+      "weight": 1,
+      "range": [
+        245,
+        245
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0244",
+      "type": 0,
+      "text": "Working with Jade (75gp)",
+      "weight": 1,
+      "range": [
+        246,
+        246
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0245",
+      "type": 0,
+      "text": "The White Stag of the Mountain (50gp)",
+      "weight": 1,
+      "range": [
+        247,
+        247
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0246",
+      "type": 0,
+      "text": "Deadly Frost (200gp)",
+      "weight": 1,
+      "range": [
+        248,
+        248
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0247",
+      "type": 0,
+      "text": "Miasmas of the Mists (25gp)",
+      "weight": 1,
+      "range": [
+        249,
+        249
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0248",
+      "type": 0,
+      "text": "The Art of a Lost Age (150gp)",
+      "weight": 1,
+      "range": [
+        250,
+        250
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0249",
+      "type": 0,
+      "text": "The Miller's Wife (25gp)",
+      "weight": 1,
+      "range": [
+        251,
+        251
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0250",
+      "type": 0,
+      "text": "The Gorging Night (25gp)",
+      "weight": 1,
+      "range": [
+        252,
+        252
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0251",
+      "type": 0,
+      "text": "The Book of Fire (25gp)",
+      "weight": 1,
+      "range": [
+        253,
+        253
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0252",
+      "type": 0,
+      "text": "Sacheverell's Misfortune (300gp)",
+      "weight": 1,
+      "range": [
+        254,
+        254
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0253",
+      "type": 0,
+      "text": "How Should We Live? (600gp)",
+      "weight": 1,
+      "range": [
+        255,
+        255
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0254",
+      "type": 0,
+      "text": "The Needs of the Few (300gp)",
+      "weight": 1,
+      "range": [
+        256,
+        256
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0255",
+      "type": 0,
+      "text": "Freebooting: A Mercenary's Handbook (300gp)",
+      "weight": 1,
+      "range": [
+        257,
+        257
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0256",
+      "type": 0,
+      "text": "The War Cry (10gp)",
+      "weight": 1,
+      "range": [
+        258,
+        258
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0257",
+      "type": 0,
+      "text": "halfling Pipeweed: An Investigation (150gp)",
+      "weight": 1,
+      "range": [
+        259,
+        259
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0258",
+      "type": 0,
+      "text": "The Days of Creation (100gp)",
+      "weight": 1,
+      "range": [
+        260,
+        260
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0259",
+      "type": 0,
+      "text": "How to Win Wars and Influence Battles (75gp)",
+      "weight": 1,
+      "range": [
+        261,
+        261
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0260",
+      "type": 0,
+      "text": "Towers Like Teeth (100gp)",
+      "weight": 1,
+      "range": [
+        262,
+        262
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0261",
+      "type": 0,
+      "text": "Inspiration of the Gods (150gp)",
+      "weight": 1,
+      "range": [
+        263,
+        263
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0262",
+      "type": 0,
+      "text": "Various Nuts and Their Uses (200gp)",
+      "weight": 1,
+      "range": [
+        264,
+        264
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0263",
+      "type": 0,
+      "text": "In the Dead of Winter (25gp)",
+      "weight": 1,
+      "range": [
+        265,
+        265
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0264",
+      "type": 0,
+      "text": "Coin of the Realm: Thoughts on Monetary Policies (500gp)",
+      "weight": 1,
+      "range": [
+        266,
+        266
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0265",
+      "type": 0,
+      "text": "A Torch in Hand (15gp)",
+      "weight": 1,
+      "range": [
+        267,
+        267
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0266",
+      "type": 0,
+      "text": "The Noble Lady and the False Lord (50gp)",
+      "weight": 1,
+      "range": [
+        268,
+        268
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0267",
+      "type": 0,
+      "text": "Goblin's of Hinterlode (10gp)",
+      "weight": 1,
+      "range": [
+        269,
+        269
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0268",
+      "type": 0,
+      "text": "The Unnamed Ruins (10gp)",
+      "weight": 1,
+      "range": [
+        270,
+        270
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0269",
+      "type": 0,
+      "text": "Bright Torches (75gp)",
+      "weight": 1,
+      "range": [
+        271,
+        271
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0270",
+      "type": 0,
+      "text": "A Golden Coin (15gp)",
+      "weight": 1,
+      "range": [
+        272,
+        272
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0271",
+      "type": 0,
+      "text": "Inventions of the Past (150gp)",
+      "weight": 1,
+      "range": [
+        273,
+        273
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0272",
+      "type": 0,
+      "text": "The Conscious of the King (50gp)",
+      "weight": 1,
+      "range": [
+        274,
+        274
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0273",
+      "type": 0,
+      "text": "Dragons Unbound (15gp)",
+      "weight": 1,
+      "range": [
+        275,
+        275
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0274",
+      "type": 0,
+      "text": "Under the Eye of Heaven (600gp)",
+      "weight": 1,
+      "range": [
+        276,
+        276
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0275",
+      "type": 0,
+      "text": "Spices: Near and Far (25gp)",
+      "weight": 1,
+      "range": [
+        277,
+        277
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0276",
+      "type": 0,
+      "text": "The Book of Devils (50gp)",
+      "weight": 1,
+      "range": [
+        278,
+        278
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0277",
+      "type": 0,
+      "text": "Hair of the Dog (50gp)",
+      "weight": 1,
+      "range": [
+        279,
+        279
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0278",
+      "type": 0,
+      "text": "Sing! Sing! All You Singers! (25gp)",
+      "weight": 1,
+      "range": [
+        280,
+        280
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0279",
+      "type": 0,
+      "text": "The Anatomy of the Golden Eagles (50gp)",
+      "weight": 1,
+      "range": [
+        281,
+        281
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0280",
+      "type": 0,
+      "text": "The Journals of the Damned (50gp)",
+      "weight": 1,
+      "range": [
+        282,
+        282
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0281",
+      "type": 0,
+      "text": "Folktales of the Peasants (25gp)",
+      "weight": 1,
+      "range": [
+        283,
+        283
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0282",
+      "type": 0,
+      "text": "Black Smoke on the Horizon (75gp)",
+      "weight": 1,
+      "range": [
+        284,
+        284
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0283",
+      "type": 0,
+      "text": "Mourning the Lost Daughter (75gp)",
+      "weight": 1,
+      "range": [
+        285,
+        285
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0284",
+      "type": 0,
+      "text": "The Opened Tombs (50gp)",
+      "weight": 1,
+      "range": [
+        286,
+        286
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0285",
+      "type": 0,
+      "text": "The Spirits of the Future (10gp)",
+      "weight": 1,
+      "range": [
+        287,
+        287
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0286",
+      "type": 0,
+      "text": "From the Ashes (1000gp)",
+      "weight": 1,
+      "range": [
+        288,
+        288
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0287",
+      "type": 0,
+      "text": "The Red Hammer (15gp)",
+      "weight": 1,
+      "range": [
+        289,
+        289
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0288",
+      "type": 0,
+      "text": "The Armorbearer (15gp)",
+      "weight": 1,
+      "range": [
+        290,
+        290
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0289",
+      "type": 0,
+      "text": "Frogs and Toads of the South Wetlands (10gp)",
+      "weight": 1,
+      "range": [
+        291,
+        291
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0290",
+      "type": 0,
+      "text": "The Lost Land (15gp)",
+      "weight": 1,
+      "range": [
+        292,
+        292
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0291",
+      "type": 0,
+      "text": "Elven Verse from the Lost Period (600gp)",
+      "weight": 1,
+      "range": [
+        293,
+        293
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0292",
+      "type": 0,
+      "text": "The Fuller's Business (50gp)",
+      "weight": 1,
+      "range": [
+        294,
+        294
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0293",
+      "type": 0,
+      "text": "All Shadows Creep (25gp)",
+      "weight": 1,
+      "range": [
+        295,
+        295
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0294",
+      "type": 0,
+      "text": "The Wilting Sun (10gp)",
+      "weight": 1,
+      "range": [
+        296,
+        296
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0295",
+      "type": 0,
+      "text": "Elf Paintings and Sculpture (150gp)",
+      "weight": 1,
+      "range": [
+        297,
+        297
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0296",
+      "type": 0,
+      "text": "Lowmer's Crown (25gp)",
+      "weight": 1,
+      "range": [
+        298,
+        298
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0297",
+      "type": 0,
+      "text": "Winter of Pain (100gp)",
+      "weight": 1,
+      "range": [
+        299,
+        299
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0298",
+      "type": 0,
+      "text": "Gargoyles: An Evolution of the Watchers (150gp)",
+      "weight": 1,
+      "range": [
+        300,
+        300
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0299",
+      "type": 0,
+      "text": "Black Sands (100gp)",
+      "weight": 1,
+      "range": [
+        301,
+        301
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0300",
+      "type": 0,
+      "text": "The Weak and The Strong (300gp)",
+      "weight": 1,
+      "range": [
+        302,
+        302
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0301",
+      "type": 0,
+      "text": "A Storm of Ash and Cinders (300gp)",
+      "weight": 1,
+      "range": [
+        303,
+        303
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0302",
+      "type": 0,
+      "text": "The Epic of the Moon Knights (1000gp)",
+      "weight": 1,
+      "range": [
+        304,
+        304
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0303",
+      "type": 0,
+      "text": "Blacksmithing (25gp)",
+      "weight": 1,
+      "range": [
+        305,
+        305
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0304",
+      "type": 0,
+      "text": "The Sky Fallen (25gp)",
+      "weight": 1,
+      "range": [
+        306,
+        306
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0305",
+      "type": 0,
+      "text": "Brewing: Tips and Advice on Crafting Beer (1000gp)",
+      "weight": 1,
+      "range": [
+        307,
+        307
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0306",
+      "type": 0,
+      "text": "Look to the Ant (150gp)",
+      "weight": 1,
+      "range": [
+        308,
+        308
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0307",
+      "type": 0,
+      "text": "Shipbuilding: A Practical Guide (15gp)",
+      "weight": 1,
+      "range": [
+        309,
+        309
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0308",
+      "type": 0,
+      "text": "Beast of Shame (50gp)",
+      "weight": 1,
+      "range": [
+        310,
+        310
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0309",
+      "type": 0,
+      "text": "Arrows of Night (150gp)",
+      "weight": 1,
+      "range": [
+        311,
+        311
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0310",
+      "type": 0,
+      "text": "Ash Upon the Snow (25gp)",
+      "weight": 1,
+      "range": [
+        312,
+        312
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0311",
+      "type": 0,
+      "text": "The Undying Serpent (100gp)",
+      "weight": 1,
+      "range": [
+        313,
+        313
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0312",
+      "type": 0,
+      "text": "A Splinter of Time (1000gp)",
+      "weight": 1,
+      "range": [
+        314,
+        314
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0313",
+      "type": 0,
+      "text": "The Face of a Shattered Earth (300gp)",
+      "weight": 1,
+      "range": [
+        315,
+        315
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0314",
+      "type": 0,
+      "text": "The Hollow Men (15gp)",
+      "weight": 1,
+      "range": [
+        316,
+        316
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0315",
+      "type": 0,
+      "text": "Of Making Medicines (75gp)",
+      "weight": 1,
+      "range": [
+        317,
+        317
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0316",
+      "type": 0,
+      "text": "The Day Woman (100gp)",
+      "weight": 1,
+      "range": [
+        318,
+        318
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0317",
+      "type": 0,
+      "text": "The Swan Swimming in the Stars (300gp)",
+      "weight": 1,
+      "range": [
+        319,
+        319
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0318",
+      "type": 0,
+      "text": "A Forest of Spears (1000gp)",
+      "weight": 1,
+      "range": [
+        320,
+        320
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0319",
+      "type": 0,
+      "text": "The Slow Defeat (25gp)",
+      "weight": 1,
+      "range": [
+        321,
+        321
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0320",
+      "type": 0,
+      "text": "Lost Youth (200gp)",
+      "weight": 1,
+      "range": [
+        322,
+        322
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0321",
+      "type": 0,
+      "text": "Collected Arcana (300gp)",
+      "weight": 1,
+      "range": [
+        323,
+        323
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0322",
+      "type": 0,
+      "text": "The Windows of the Souls (25gp)",
+      "weight": 1,
+      "range": [
+        324,
+        324
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0323",
+      "type": 0,
+      "text": "A Study of the Deep Magic (5000gp)",
+      "weight": 1,
+      "range": [
+        325,
+        325
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0324",
+      "type": 0,
+      "text": "The Design of the Gods: A Systematic Theology (1000gp)",
+      "weight": 1,
+      "range": [
+        326,
+        326
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0325",
+      "type": 0,
+      "text": "Don't Wake Before the Dawn (500gp)",
+      "weight": 1,
+      "range": [
+        327,
+        327
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0326",
+      "type": 0,
+      "text": "The Throne of the Sun (10gp)",
+      "weight": 1,
+      "range": [
+        328,
+        328
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0327",
+      "type": 0,
+      "text": "The Bandit Queen and the Lazy Wizard (200gp)",
+      "weight": 1,
+      "range": [
+        329,
+        329
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0328",
+      "type": 0,
+      "text": "Eyes in the Dark (25gp)",
+      "weight": 1,
+      "range": [
+        330,
+        330
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0329",
+      "type": 0,
+      "text": "The New Pirates (100gp)",
+      "weight": 1,
+      "range": [
+        331,
+        331
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0330",
+      "type": 0,
+      "text": "The Clenched Fist (100gp)",
+      "weight": 1,
+      "range": [
+        332,
+        332
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0331",
+      "type": 0,
+      "text": "Secrets of Necromancy (500gp)",
+      "weight": 1,
+      "range": [
+        333,
+        333
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0332",
+      "type": 0,
+      "text": "Grabbing the Flames (50gp)",
+      "weight": 1,
+      "range": [
+        334,
+        334
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0333",
+      "type": 0,
+      "text": "Falling Deeper into the Sky (300gp)",
+      "weight": 1,
+      "range": [
+        335,
+        335
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0334",
+      "type": 0,
+      "text": "The Kingfisher's Prey (50gp)",
+      "weight": 1,
+      "range": [
+        336,
+        336
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0335",
+      "type": 0,
+      "text": "Ancient Mythology (15gp)",
+      "weight": 1,
+      "range": [
+        337,
+        337
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0336",
+      "type": 0,
+      "text": "The Time of No Rain (100gp)",
+      "weight": 1,
+      "range": [
+        338,
+        338
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0337",
+      "type": 0,
+      "text": "How to Become a Bard (50gp)",
+      "weight": 1,
+      "range": [
+        339,
+        339
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0338",
+      "type": 0,
+      "text": "Whispers in the Dark (500gp)",
+      "weight": 1,
+      "range": [
+        340,
+        340
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0339",
+      "type": 0,
+      "text": "The Hand of Fate (50gp)",
+      "weight": 1,
+      "range": [
+        341,
+        341
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0340",
+      "type": 0,
+      "text": "Magic: A Primer (300gp)",
+      "weight": 1,
+      "range": [
+        342,
+        342
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0341",
+      "type": 0,
+      "text": "The Unrelenting Fog (100gp)",
+      "weight": 1,
+      "range": [
+        343,
+        343
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0342",
+      "type": 0,
+      "text": "The Echoes of the Past (25gp)",
+      "weight": 1,
+      "range": [
+        344,
+        344
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0343",
+      "type": 0,
+      "text": "The Book of Ice (100gp)",
+      "weight": 1,
+      "range": [
+        345,
+        345
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0344",
+      "type": 0,
+      "text": "The Black Book of the Damned (50gp)",
+      "weight": 1,
+      "range": [
+        346,
+        346
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0345",
+      "type": 0,
+      "text": "The Fading Sun (300gp)",
+      "weight": 1,
+      "range": [
+        347,
+        347
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0346",
+      "type": 0,
+      "text": "Goblin Hearts (100gp)",
+      "weight": 1,
+      "range": [
+        348,
+        348
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0347",
+      "type": 0,
+      "text": "The Blue Book of the Ages (10gp)",
+      "weight": 1,
+      "range": [
+        349,
+        349
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0348",
+      "type": 0,
+      "text": "Talking Dogs (75gp)",
+      "weight": 1,
+      "range": [
+        350,
+        350
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0349",
+      "type": 0,
+      "text": "Growing Old: The Destiny of All Flesh (15gp)",
+      "weight": 1,
+      "range": [
+        351,
+        351
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0350",
+      "type": 0,
+      "text": "Damned Souls (200gp)",
+      "weight": 1,
+      "range": [
+        352,
+        352
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0351",
+      "type": 0,
+      "text": "When Kings Fall (10000gp)",
+      "weight": 1,
+      "range": [
+        353,
+        353
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0352",
+      "type": 0,
+      "text": "The Art of Burglary (50gp)",
+      "weight": 1,
+      "range": [
+        354,
+        354
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0353",
+      "type": 0,
+      "text": "The Wings of the Wind (300gp)",
+      "weight": 1,
+      "range": [
+        355,
+        355
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0354",
+      "type": 0,
+      "text": "Sacred Days (600gp)",
+      "weight": 1,
+      "range": [
+        356,
+        356
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0355",
+      "type": 0,
+      "text": "The Beating Heart of Worlds (500gp)",
+      "weight": 1,
+      "range": [
+        357,
+        357
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0356",
+      "type": 0,
+      "text": "The Ebon Hand (75gp)",
+      "weight": 1,
+      "range": [
+        358,
+        358
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0357",
+      "type": 0,
+      "text": "The Shadows of the Undead Stars (100gp)",
+      "weight": 1,
+      "range": [
+        359,
+        359
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0358",
+      "type": 0,
+      "text": "Bird Signs: A Divination Guide (150gp)",
+      "weight": 1,
+      "range": [
+        360,
+        360
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0359",
+      "type": 0,
+      "text": "Bone Blades (25gp)",
+      "weight": 1,
+      "range": [
+        361,
+        361
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0360",
+      "type": 0,
+      "text": "Swords: A Study (200gp)",
+      "weight": 1,
+      "range": [
+        362,
+        362
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0361",
+      "type": 0,
+      "text": "The Forgotten Sea (50gp)",
+      "weight": 1,
+      "range": [
+        363,
+        363
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0362",
+      "type": 0,
+      "text": "The Three Hairs (500gp)",
+      "weight": 1,
+      "range": [
+        364,
+        364
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0363",
+      "type": 0,
+      "text": "The Layers of Earth (10gp)",
+      "weight": 1,
+      "range": [
+        365,
+        365
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0364",
+      "type": 0,
+      "text": "On the Baking of Bread (200gp)",
+      "weight": 1,
+      "range": [
+        366,
+        366
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0365",
+      "type": 0,
+      "text": "Rituals and Rites of Various Cultures (300gp)",
+      "weight": 1,
+      "range": [
+        367,
+        367
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0366",
+      "type": 0,
+      "text": "The Woman in the Mist (75gp)",
+      "weight": 1,
+      "range": [
+        368,
+        368
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0367",
+      "type": 0,
+      "text": "Wizards, Wands, and Wards (15gp)",
+      "weight": 1,
+      "range": [
+        369,
+        369
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0368",
+      "type": 0,
+      "text": "The Thorny Way (600gp)",
+      "weight": 1,
+      "range": [
+        370,
+        370
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0369",
+      "type": 0,
+      "text": "The Book of Shadow (300gp)",
+      "weight": 1,
+      "range": [
+        371,
+        371
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0370",
+      "type": 0,
+      "text": "The Time of the Wolf (500gp)",
+      "weight": 1,
+      "range": [
+        372,
+        372
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0371",
+      "type": 0,
+      "text": "The Foothills (150gp)",
+      "weight": 1,
+      "range": [
+        373,
+        373
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0372",
+      "type": 0,
+      "text": "Being Undone (300gp)",
+      "weight": 1,
+      "range": [
+        374,
+        374
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0373",
+      "type": 0,
+      "text": "Eyes in the Sky (500gp)",
+      "weight": 1,
+      "range": [
+        375,
+        375
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0374",
+      "type": 0,
+      "text": "The Answers of the Queen (150gp)",
+      "weight": 1,
+      "range": [
+        376,
+        376
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0375",
+      "type": 0,
+      "text": "Herb Learning of the Dwarves (300gp)",
+      "weight": 1,
+      "range": [
+        377,
+        377
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0376",
+      "type": 0,
+      "text": "When the People Fled (10gp)",
+      "weight": 1,
+      "range": [
+        378,
+        378
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0377",
+      "type": 0,
+      "text": "When the Sea Burns (15gp)",
+      "weight": 1,
+      "range": [
+        379,
+        379
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0378",
+      "type": 0,
+      "text": "Simple Delights in a Decadent Age (600gp)",
+      "weight": 1,
+      "range": [
+        380,
+        380
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0379",
+      "type": 0,
+      "text": "Dwarven Myths and Stories (50gp)",
+      "weight": 1,
+      "range": [
+        381,
+        381
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0380",
+      "type": 0,
+      "text": "The Scent Language of Crumb Beetles (15gp)",
+      "weight": 1,
+      "range": [
+        382,
+        382
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0381",
+      "type": 0,
+      "text": "The Season of Birth (10gp)",
+      "weight": 1,
+      "range": [
+        383,
+        383
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0382",
+      "type": 0,
+      "text": "The Thieves' Dictionary (200gp)",
+      "weight": 1,
+      "range": [
+        384,
+        384
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0383",
+      "type": 0,
+      "text": "When Knowledge Fails (300gp)",
+      "weight": 1,
+      "range": [
+        385,
+        385
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0384",
+      "type": 0,
+      "text": "The Complacency of Fools (500gp)",
+      "weight": 1,
+      "range": [
+        386,
+        386
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0385",
+      "type": 0,
+      "text": "Signs in the Sky (25gp)",
+      "weight": 1,
+      "range": [
+        387,
+        387
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0386",
+      "type": 0,
+      "text": "The Paladin's Trove (15gp)",
+      "weight": 1,
+      "range": [
+        388,
+        388
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0387",
+      "type": 0,
+      "text": "Shameful Deeds of Past Ages (10gp)",
+      "weight": 1,
+      "range": [
+        389,
+        389
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0388",
+      "type": 0,
+      "text": "The Chronicles of the South (50gp)",
+      "weight": 1,
+      "range": [
+        390,
+        390
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0389",
+      "type": 0,
+      "text": "When the Merriment Ceases (25gp)",
+      "weight": 1,
+      "range": [
+        391,
+        391
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0390",
+      "type": 0,
+      "text": "In the Light of Tomorrow (500gp)",
+      "weight": 1,
+      "range": [
+        392,
+        392
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0391",
+      "type": 0,
+      "text": "Twelve Plays from the Masters (10gp)",
+      "weight": 1,
+      "range": [
+        393,
+        393
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0392",
+      "type": 0,
+      "text": "The Rising Tide of Chaos (15gp)",
+      "weight": 1,
+      "range": [
+        394,
+        394
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0393",
+      "type": 0,
+      "text": "A Recording of Key Battles (150gp)",
+      "weight": 1,
+      "range": [
+        395,
+        395
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0394",
+      "type": 0,
+      "text": "A Key on a Ring (150gp)",
+      "weight": 1,
+      "range": [
+        396,
+        396
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0395",
+      "type": 0,
+      "text": "When Stars Fall (25gp)",
+      "weight": 1,
+      "range": [
+        397,
+        397
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0396",
+      "type": 0,
+      "text": "Crafting Jewelry (25gp)",
+      "weight": 1,
+      "range": [
+        398,
+        398
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0397",
+      "type": 0,
+      "text": "A Wedding at Midday (10gp) The halfling and the",
+      "weight": 1,
+      "range": [
+        399,
+        399
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0398",
+      "type": 0,
+      "text": "The Moon of Shadow (15gp)",
+      "weight": 1,
+      "range": [
+        400,
+        400
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0399",
+      "type": 0,
+      "text": "Boiling Blood (100gp)",
+      "weight": 1,
+      "range": [
+        401,
+        401
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0400",
+      "type": 0,
+      "text": "The Clever Fox (25gp)",
+      "weight": 1,
+      "range": [
+        402,
+        402
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0401",
+      "type": 0,
+      "text": "The Cords of the Grave (25gp)",
+      "weight": 1,
+      "range": [
+        403,
+        403
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0402",
+      "type": 0,
+      "text": "The Broken Hourglass (100gp)",
+      "weight": 1,
+      "range": [
+        404,
+        404
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0403",
+      "type": 0,
+      "text": "Elf (100gp)",
+      "weight": 1,
+      "range": [
+        405,
+        405
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0404",
+      "type": 0,
+      "text": "The Black Book of Understone (500gp)",
+      "weight": 1,
+      "range": [
+        406,
+        406
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0405",
+      "type": 0,
+      "text": "A Copper Piece (300gp)",
+      "weight": 1,
+      "range": [
+        407,
+        407
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0406",
+      "type": 0,
+      "text": "The Tall Tower (75gp)",
+      "weight": 1,
+      "range": [
+        408,
+        408
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0407",
+      "type": 0,
+      "text": "The Far Travels of Ambrose (15gp)",
+      "weight": 1,
+      "range": [
+        409,
+        409
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0408",
+      "type": 0,
+      "text": "The Wolves of Anarchy (100gp)",
+      "weight": 1,
+      "range": [
+        410,
+        410
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0409",
+      "type": 0,
+      "text": "The White Bull (50gp)",
+      "weight": 1,
+      "range": [
+        411,
+        411
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0410",
+      "type": 0,
+      "text": "Face Like Flint (200gp)",
+      "weight": 1,
+      "range": [
+        412,
+        412
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0411",
+      "type": 0,
+      "text": "Raising Cattle (150gp)",
+      "weight": 1,
+      "range": [
+        413,
+        413
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0412",
+      "type": 0,
+      "text": "Wargs: A Breeding Guide (150gp)",
+      "weight": 1,
+      "range": [
+        414,
+        414
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0413",
+      "type": 0,
+      "text": "Good Day, Sad Night (50gp)",
+      "weight": 1,
+      "range": [
+        415,
+        415
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0414",
+      "type": 0,
+      "text": "The Strange Lives of the Dead (50gp)",
+      "weight": 1,
+      "range": [
+        416,
+        416
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0415",
+      "type": 0,
+      "text": "The Felling of the Old Forest (300gp)",
+      "weight": 1,
+      "range": [
+        417,
+        417
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0416",
+      "type": 0,
+      "text": "On Governing (1000gp)",
+      "weight": 1,
+      "range": [
+        418,
+        418
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0417",
+      "type": 0,
+      "text": "The Lives of Ten Elven Rulers (75gp)",
+      "weight": 1,
+      "range": [
+        419,
+        419
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0418",
+      "type": 0,
+      "text": "The Ivory Dagger (600gp)",
+      "weight": 1,
+      "range": [
+        420,
+        420
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0419",
+      "type": 0,
+      "text": "The Birth of an Age (10gp)",
+      "weight": 1,
+      "range": [
+        421,
+        421
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0420",
+      "type": 0,
+      "text": "Among the Grasslands (300gp)",
+      "weight": 1,
+      "range": [
+        422,
+        422
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0421",
+      "type": 0,
+      "text": "The Architecture of Man (10gp)",
+      "weight": 1,
+      "range": [
+        423,
+        423
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0422",
+      "type": 0,
+      "text": "When the Day Ends (10gp)",
+      "weight": 1,
+      "range": [
+        424,
+        424
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0423",
+      "type": 0,
+      "text": "Taboos: An Examination of Cultures (150gp)",
+      "weight": 1,
+      "range": [
+        425,
+        425
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0424",
+      "type": 0,
+      "text": "A Listing of the Carvings Found in the Valleys of Zo (150gp)",
+      "weight": 1,
+      "range": [
+        426,
+        426
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0425",
+      "type": 0,
+      "text": "Burning Bridges (50gp)",
+      "weight": 1,
+      "range": [
+        427,
+        427
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0426",
+      "type": 0,
+      "text": "Worlds on Strings (200gp)",
+      "weight": 1,
+      "range": [
+        428,
+        428
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0427",
+      "type": 0,
+      "text": "Timeless Words (75gp)",
+      "weight": 1,
+      "range": [
+        429,
+        429
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0428",
+      "type": 0,
+      "text": "In the Hours of the Dew (15gp)",
+      "weight": 1,
+      "range": [
+        430,
+        430
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0429",
+      "type": 0,
+      "text": "King of the Dragons (300gp)",
+      "weight": 1,
+      "range": [
+        431,
+        431
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0430",
+      "type": 0,
+      "text": "The Importance of Cats and Feline Symbols in Mythology (15gp)",
+      "weight": 1,
+      "range": [
+        432,
+        432
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0431",
+      "type": 0,
+      "text": "The Wind and Its Works (200gp)",
+      "weight": 1,
+      "range": [
+        433,
+        433
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0432",
+      "type": 0,
+      "text": "The Great Flood (600gp)",
+      "weight": 1,
+      "range": [
+        434,
+        434
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0433",
+      "type": 0,
+      "text": "Wake the Sleeper (10gp)",
+      "weight": 1,
+      "range": [
+        435,
+        435
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0434",
+      "type": 0,
+      "text": "Burial Practices of the Elves (50gp)",
+      "weight": 1,
+      "range": [
+        436,
+        436
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0435",
+      "type": 0,
+      "text": "Storms of the Mind (600gp)",
+      "weight": 1,
+      "range": [
+        437,
+        437
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0436",
+      "type": 0,
+      "text": "The World is Broken: The Sad Rantings of the Forgotten Hermit (75gp)",
+      "weight": 1,
+      "range": [
+        438,
+        438
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0437",
+      "type": 0,
+      "text": "A Jewelled Tent (600gp)",
+      "weight": 1,
+      "range": [
+        439,
+        439
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0438",
+      "type": 0,
+      "text": "On Feathered Wings (15gp)",
+      "weight": 1,
+      "range": [
+        440,
+        440
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0439",
+      "type": 0,
+      "text": "Hidden Knowledge (50gp)",
+      "weight": 1,
+      "range": [
+        441,
+        441
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0440",
+      "type": 0,
+      "text": "Fairfor's Guide to Fairy Folk (600gp)",
+      "weight": 1,
+      "range": [
+        442,
+        442
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0441",
+      "type": 0,
+      "text": "Falling into Fog (500gp)",
+      "weight": 1,
+      "range": [
+        443,
+        443
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0442",
+      "type": 0,
+      "text": "Dwarven Physiology (300gp)",
+      "weight": 1,
+      "range": [
+        444,
+        444
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0443",
+      "type": 0,
+      "text": "The Account of Tirgil's Great Leap (15gp)",
+      "weight": 1,
+      "range": [
+        445,
+        445
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0444",
+      "type": 0,
+      "text": "The Swineherd's Handbook (15gp)",
+      "weight": 1,
+      "range": [
+        446,
+        446
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0445",
+      "type": 0,
+      "text": "The Grim Face in the Clouds (300gp)",
+      "weight": 1,
+      "range": [
+        447,
+        447
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0446",
+      "type": 0,
+      "text": "The Circling Foe (1000gp)",
+      "weight": 1,
+      "range": [
+        448,
+        448
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0447",
+      "type": 0,
+      "text": "The Very Palms of Your Hands (300gp)",
+      "weight": 1,
+      "range": [
+        449,
+        449
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0448",
+      "type": 0,
+      "text": "Worm Castles (25gp)",
+      "weight": 1,
+      "range": [
+        450,
+        450
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0449",
+      "type": 0,
+      "text": "The Book of Blood (100gp)",
+      "weight": 1,
+      "range": [
+        451,
+        451
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0450",
+      "type": 0,
+      "text": "The Book of Frost (50gp)",
+      "weight": 1,
+      "range": [
+        452,
+        452
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0451",
+      "type": 0,
+      "text": "Lost Cities and Forgotten Lands (50gp)",
+      "weight": 1,
+      "range": [
+        453,
+        453
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0452",
+      "type": 0,
+      "text": "Silver Beads of Dew (150gp)",
+      "weight": 1,
+      "range": [
+        454,
+        454
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0453",
+      "type": 0,
+      "text": "Gardening: A How To Guide (25gp)",
+      "weight": 1,
+      "range": [
+        455,
+        455
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0454",
+      "type": 0,
+      "text": "Concerning the Folklore of the Kiraloft Vale (10gp)",
+      "weight": 1,
+      "range": [
+        456,
+        456
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0455",
+      "type": 0,
+      "text": "Hippogriffs: Care and Upkeep (300gp)",
+      "weight": 1,
+      "range": [
+        457,
+        457
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0456",
+      "type": 0,
+      "text": "Dwarven Stone Carving (100gp)",
+      "weight": 1,
+      "range": [
+        458,
+        458
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0457",
+      "type": 0,
+      "text": "101 Family Meals (50gp) Forgotten",
+      "weight": 1,
+      "range": [
+        459,
+        459
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0458",
+      "type": 0,
+      "text": "A Frozen Piece of Nothing (600gp)",
+      "weight": 1,
+      "range": [
+        460,
+        460
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0459",
+      "type": 0,
+      "text": "The Study of Magic (75gp)",
+      "weight": 1,
+      "range": [
+        461,
+        461
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0460",
+      "type": 0,
+      "text": "The Foundation of Guilds (15gp)",
+      "weight": 1,
+      "range": [
+        462,
+        462
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0461",
+      "type": 0,
+      "text": "Stinging of the Ears (50gp)",
+      "weight": 1,
+      "range": [
+        463,
+        463
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0462",
+      "type": 0,
+      "text": "The Planting of Barley (5000gp)",
+      "weight": 1,
+      "range": [
+        464,
+        464
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0463",
+      "type": 0,
+      "text": "Lands (100gp)",
+      "weight": 1,
+      "range": [
+        465,
+        465
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0464",
+      "type": 0,
+      "text": "A Wizard's Tale (15gp)",
+      "weight": 1,
+      "range": [
+        466,
+        466
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0465",
+      "type": 0,
+      "text": "Victory of the Fates (300gp)",
+      "weight": 1,
+      "range": [
+        467,
+        467
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0466",
+      "type": 0,
+      "text": "Birds: Kinds, Anatomy, and Diseases (100gp)",
+      "weight": 1,
+      "range": [
+        468,
+        468
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0467",
+      "type": 0,
+      "text": "A Record of Condemned Prisoners from the Last Battle (25gp)",
+      "weight": 1,
+      "range": [
+        469,
+        469
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0468",
+      "type": 0,
+      "text": "The Unseen Slayers (150gp)",
+      "weight": 1,
+      "range": [
+        470,
+        470
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0469",
+      "type": 0,
+      "text": "Giant Lore (1000gp)",
+      "weight": 1,
+      "range": [
+        471,
+        471
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0470",
+      "type": 0,
+      "text": "The Bleeding Foot (25gp)",
+      "weight": 1,
+      "range": [
+        472,
+        472
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0471",
+      "type": 0,
+      "text": "The Shame of It All (50gp)",
+      "weight": 1,
+      "range": [
+        473,
+        473
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0472",
+      "type": 0,
+      "text": "The Burning water (75gp)",
+      "weight": 1,
+      "range": [
+        474,
+        474
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0473",
+      "type": 0,
+      "text": "The Art of Jousting (10gp)",
+      "weight": 1,
+      "range": [
+        475,
+        475
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0474",
+      "type": 0,
+      "text": "Wild Cries in the Dark (200gp)",
+      "weight": 1,
+      "range": [
+        476,
+        476
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0475",
+      "type": 0,
+      "text": "The Book of War (50gp)",
+      "weight": 1,
+      "range": [
+        477,
+        477
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0476",
+      "type": 0,
+      "text": "The Frozen Lake (200gp)",
+      "weight": 1,
+      "range": [
+        478,
+        478
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0477",
+      "type": 0,
+      "text": "The Art of Dwarven Metal Smithing (300gp)",
+      "weight": 1,
+      "range": [
+        479,
+        479
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0478",
+      "type": 0,
+      "text": "Never Tell (600gp)",
+      "weight": 1,
+      "range": [
+        480,
+        480
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0479",
+      "type": 0,
+      "text": "Imprisoned Spirits (100gp)",
+      "weight": 1,
+      "range": [
+        481,
+        481
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0480",
+      "type": 0,
+      "text": "The Princess and the Miller's son (25gp)",
+      "weight": 1,
+      "range": [
+        482,
+        482
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0481",
+      "type": 0,
+      "text": "Chains of Sorrow (50gp)",
+      "weight": 1,
+      "range": [
+        483,
+        483
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0482",
+      "type": 0,
+      "text": "The Best Uses for Dragon Scales (300gp)",
+      "weight": 1,
+      "range": [
+        484,
+        484
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0483",
+      "type": 0,
+      "text": "Swift Unnatural Beauty (100gp)",
+      "weight": 1,
+      "range": [
+        485,
+        485
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0484",
+      "type": 0,
+      "text": "Poems of the Mad (150gp)",
+      "weight": 1,
+      "range": [
+        486,
+        486
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0485",
+      "type": 0,
+      "text": "The Stone of the Dwarves (10gp)",
+      "weight": 1,
+      "range": [
+        487,
+        487
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0486",
+      "type": 0,
+      "text": "The New Fallen Snow (50gp)",
+      "weight": 1,
+      "range": [
+        488,
+        488
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0487",
+      "type": 0,
+      "text": "The Alchemist's Handbook (50gp)",
+      "weight": 1,
+      "range": [
+        489,
+        489
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0488",
+      "type": 0,
+      "text": "The Slow Fires of Endless Time (75gp)",
+      "weight": 1,
+      "range": [
+        490,
+        490
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0489",
+      "type": 0,
+      "text": "The Unseen: A Guide to Spirits and Apparitions (150gp)",
+      "weight": 1,
+      "range": [
+        491,
+        491
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0490",
+      "type": 0,
+      "text": "Bookbinding: A Guide (200gp)",
+      "weight": 1,
+      "range": [
+        492,
+        492
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0491",
+      "type": 0,
+      "text": "The Collected Writings of the Mad halfling (15gp)",
+      "weight": 1,
+      "range": [
+        493,
+        493
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0492",
+      "type": 0,
+      "text": "1001 Riddles (600gp)",
+      "weight": 1,
+      "range": [
+        494,
+        494
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0493",
+      "type": 0,
+      "text": "Broken Oaths (75gp)",
+      "weight": 1,
+      "range": [
+        495,
+        495
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0494",
+      "type": 0,
+      "text": "When Swords Sing (100gp)",
+      "weight": 1,
+      "range": [
+        496,
+        496
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0495",
+      "type": 0,
+      "text": "Unbelievable Travels: The Telling of Seven Journeys (50gp)",
+      "weight": 1,
+      "range": [
+        497,
+        497
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0496",
+      "type": 0,
+      "text": "Holding the Line (1000gp)",
+      "weight": 1,
+      "range": [
+        498,
+        498
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0497",
+      "type": 0,
+      "text": "Myths and Folktales (25gp)",
+      "weight": 1,
+      "range": [
+        499,
+        499
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0498",
+      "type": 0,
+      "text": "The Bull of Heaven (75gp)",
+      "weight": 1,
+      "range": [
+        500,
+        500
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0499",
+      "type": 0,
+      "text": "Power of the Dead (150gp)",
+      "weight": 1,
+      "range": [
+        501,
+        501
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0500",
+      "type": 0,
+      "text": "Foreboding Visions: An Anthology of Demonic Poetry (15gp)",
+      "weight": 1,
+      "range": [
+        502,
+        502
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0501",
+      "type": 0,
+      "text": "All Tomorrows to Come (50gp)",
+      "weight": 1,
+      "range": [
+        503,
+        503
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0502",
+      "type": 0,
+      "text": "Legends of the Mountains (150gp)",
+      "weight": 1,
+      "range": [
+        504,
+        504
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0503",
+      "type": 0,
+      "text": "A Single Blade of Grass (100gp)",
+      "weight": 1,
+      "range": [
+        505,
+        505
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0504",
+      "type": 0,
+      "text": "Creatures of the Night (600gp)",
+      "weight": 1,
+      "range": [
+        506,
+        506
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0505",
+      "type": 0,
+      "text": "The Locust Pit (10gp)",
+      "weight": 1,
+      "range": [
+        507,
+        507
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0506",
+      "type": 0,
+      "text": "The Coils of Death (300gp)",
+      "weight": 1,
+      "range": [
+        508,
+        508
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0507",
+      "type": 0,
+      "text": "Under the Wings of Swans (75gp)",
+      "weight": 1,
+      "range": [
+        509,
+        509
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0508",
+      "type": 0,
+      "text": "The Fallen Ground (15gp)",
+      "weight": 1,
+      "range": [
+        510,
+        510
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0509",
+      "type": 0,
+      "text": "The Devouring Spirit (10gp)",
+      "weight": 1,
+      "range": [
+        511,
+        511
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0510",
+      "type": 0,
+      "text": "The Purpose of Song (15gp)",
+      "weight": 1,
+      "range": [
+        512,
+        512
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0511",
+      "type": 0,
+      "text": "The Lost Scrolls of the Mad Librarian (25gp)",
+      "weight": 1,
+      "range": [
+        513,
+        513
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0512",
+      "type": 0,
+      "text": "Kinds of Fish (100gp)",
+      "weight": 1,
+      "range": [
+        514,
+        514
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0513",
+      "type": 0,
+      "text": "The Lives of Twelve Queens (25gp)",
+      "weight": 1,
+      "range": [
+        515,
+        515
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0514",
+      "type": 0,
+      "text": "A Catalog of Creation Myths (25gp)",
+      "weight": 1,
+      "range": [
+        516,
+        516
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0515",
+      "type": 0,
+      "text": "The Fallen and Rotten Trees (150gp)",
+      "weight": 1,
+      "range": [
+        517,
+        517
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0516",
+      "type": 0,
+      "text": "The Book of Weeping (100gp)",
+      "weight": 1,
+      "range": [
+        518,
+        518
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0517",
+      "type": 0,
+      "text": "The Singing Sea of Swinging Grass (300gp)",
+      "weight": 1,
+      "range": [
+        519,
+        519
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0518",
+      "type": 0,
+      "text": "The Green Hills in the Distant (50gp)",
+      "weight": 1,
+      "range": [
+        520,
+        520
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0519",
+      "type": 0,
+      "text": "The Wormly Words (1000gp)",
+      "weight": 1,
+      "range": [
+        521,
+        521
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0520",
+      "type": 0,
+      "text": "The Collapsing Tower (50gp)",
+      "weight": 1,
+      "range": [
+        522,
+        522
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0521",
+      "type": 0,
+      "text": "The Wisdom of the Ant (75gp)",
+      "weight": 1,
+      "range": [
+        523,
+        523
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0522",
+      "type": 0,
+      "text": "The Great Book of History and Lore (300gp)",
+      "weight": 1,
+      "range": [
+        524,
+        524
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0523",
+      "type": 0,
+      "text": "The Book of Sores (25gp)",
+      "weight": 1,
+      "range": [
+        525,
+        525
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0524",
+      "type": 0,
+      "text": "Star Metal (10gp)",
+      "weight": 1,
+      "range": [
+        526,
+        526
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0525",
+      "type": 0,
+      "text": "Fifty Sermons Concerning Beauty (50gp)",
+      "weight": 1,
+      "range": [
+        527,
+        527
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0526",
+      "type": 0,
+      "text": "Tears of the Damned (100gp)",
+      "weight": 1,
+      "range": [
+        528,
+        528
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0527",
+      "type": 0,
+      "text": "Plants Organized by Kinds (15gp)",
+      "weight": 1,
+      "range": [
+        529,
+        529
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0528",
+      "type": 0,
+      "text": "Sadness of the Ages (150gp)",
+      "weight": 1,
+      "range": [
+        530,
+        530
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0529",
+      "type": 0,
+      "text": "Dreams of the Roaring Fire (100gp)",
+      "weight": 1,
+      "range": [
+        531,
+        531
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0530",
+      "type": 0,
+      "text": "A Treatise on Laws (25gp)",
+      "weight": 1,
+      "range": [
+        532,
+        532
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0531",
+      "type": 0,
+      "text": "The Book of Darkness (10gp)",
+      "weight": 1,
+      "range": [
+        533,
+        533
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0532",
+      "type": 0,
+      "text": "How to Care for Ravens (10gp)",
+      "weight": 1,
+      "range": [
+        534,
+        534
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0533",
+      "type": 0,
+      "text": "The Flourishing City (200gp)",
+      "weight": 1,
+      "range": [
+        535,
+        535
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0534",
+      "type": 0,
+      "text": "The Green-Eyed Monster (100gp)",
+      "weight": 1,
+      "range": [
+        536,
+        536
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0535",
+      "type": 0,
+      "text": "Of Kings and Knights (500gp)",
+      "weight": 1,
+      "range": [
+        537,
+        537
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0536",
+      "type": 0,
+      "text": "Twilight's Kine (75gp)",
+      "weight": 1,
+      "range": [
+        538,
+        538
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0537",
+      "type": 0,
+      "text": "The Hidden Reasoning of the Hermit of the Far Hills (100gp)",
+      "weight": 1,
+      "range": [
+        539,
+        539
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0538",
+      "type": 0,
+      "text": "Frost Like Ashes (300gp)",
+      "weight": 1,
+      "range": [
+        540,
+        540
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0539",
+      "type": 0,
+      "text": "Plead for the Children (75gp)",
+      "weight": 1,
+      "range": [
+        541,
+        541
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0540",
+      "type": 0,
+      "text": "When Gods Go Mad (50gp)",
+      "weight": 1,
+      "range": [
+        542,
+        542
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0541",
+      "type": 0,
+      "text": "A Scribe's Business (25gp)",
+      "weight": 1,
+      "range": [
+        543,
+        543
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0542",
+      "type": 0,
+      "text": "The Endless Sea (200gp)",
+      "weight": 1,
+      "range": [
+        544,
+        544
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0543",
+      "type": 0,
+      "text": "The Prison of the Mind (50gp)",
+      "weight": 1,
+      "range": [
+        545,
+        545
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0544",
+      "type": 0,
+      "text": "How to Slay Ogres (75gp)",
+      "weight": 1,
+      "range": [
+        546,
+        546
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0545",
+      "type": 0,
+      "text": "Deep Hidden Truths (25gp)",
+      "weight": 1,
+      "range": [
+        547,
+        547
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0546",
+      "type": 0,
+      "text": "The Hidden Knowledge of the Blue Wizard (100gp)",
+      "weight": 1,
+      "range": [
+        548,
+        548
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0547",
+      "type": 0,
+      "text": "Sons and Daughters (25gp)",
+      "weight": 1,
+      "range": [
+        549,
+        549
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0548",
+      "type": 0,
+      "text": "The Well of the Moons (25gp)",
+      "weight": 1,
+      "range": [
+        550,
+        550
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0549",
+      "type": 0,
+      "text": "The Murder of a World (600gp)",
+      "weight": 1,
+      "range": [
+        551,
+        551
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0550",
+      "type": 0,
+      "text": "The Symbols and Devices of the Nobility (10gp)",
+      "weight": 1,
+      "range": [
+        552,
+        552
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0551",
+      "type": 0,
+      "text": "The Waking Dead (150gp)",
+      "weight": 1,
+      "range": [
+        553,
+        553
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0552",
+      "type": 0,
+      "text": "Shattered Realms (300gp)",
+      "weight": 1,
+      "range": [
+        554,
+        554
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0553",
+      "type": 0,
+      "text": "Scraped Knuckles (300gp)",
+      "weight": 1,
+      "range": [
+        555,
+        555
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0554",
+      "type": 0,
+      "text": "Magic of the Damned (25gp)",
+      "weight": 1,
+      "range": [
+        556,
+        556
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0555",
+      "type": 0,
+      "text": "Shadow From the Deep (100gp)",
+      "weight": 1,
+      "range": [
+        557,
+        557
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0556",
+      "type": 0,
+      "text": "The Goblin Empire: A Study of Power (25gp)",
+      "weight": 1,
+      "range": [
+        558,
+        558
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0557",
+      "type": 0,
+      "text": "The False Horizon (150gp)",
+      "weight": 1,
+      "range": [
+        559,
+        559
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0558",
+      "type": 0,
+      "text": "A Calming Breeze (150gp)",
+      "weight": 1,
+      "range": [
+        560,
+        560
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0559",
+      "type": 0,
+      "text": "Mourning the Lost (50gp)",
+      "weight": 1,
+      "range": [
+        561,
+        561
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0560",
+      "type": 0,
+      "text": "The Silvery Dawn (100gp)",
+      "weight": 1,
+      "range": [
+        562,
+        562
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0561",
+      "type": 0,
+      "text": "The Practice of Shunning (500gp)",
+      "weight": 1,
+      "range": [
+        563,
+        563
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0562",
+      "type": 0,
+      "text": "A Guide to Exotic Spices (150gp)",
+      "weight": 1,
+      "range": [
+        564,
+        564
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0563",
+      "type": 0,
+      "text": "The Taste of Blood (300gp)",
+      "weight": 1,
+      "range": [
+        565,
+        565
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0564",
+      "type": 0,
+      "text": "The Black Grimoire (15gp)",
+      "weight": 1,
+      "range": [
+        566,
+        566
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0565",
+      "type": 0,
+      "text": "The Bones of the Young (1000gp)",
+      "weight": 1,
+      "range": [
+        567,
+        567
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0566",
+      "type": 0,
+      "text": "The Waterfall Tunnel (75gp)",
+      "weight": 1,
+      "range": [
+        568,
+        568
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0567",
+      "type": 0,
+      "text": "A Galling Defeat (100gp)",
+      "weight": 1,
+      "range": [
+        569,
+        569
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0568",
+      "type": 0,
+      "text": "When Sorrow Fades (300gp)",
+      "weight": 1,
+      "range": [
+        570,
+        570
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0569",
+      "type": 0,
+      "text": "Deep Shadows (300gp)",
+      "weight": 1,
+      "range": [
+        571,
+        571
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0570",
+      "type": 0,
+      "text": "The Book of Steam (15gp)",
+      "weight": 1,
+      "range": [
+        572,
+        572
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0571",
+      "type": 0,
+      "text": "The Heavy Hands of the Smith (50gp)",
+      "weight": 1,
+      "range": [
+        573,
+        573
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0572",
+      "type": 0,
+      "text": "The Prayer Book of Gii (300gp)",
+      "weight": 1,
+      "range": [
+        574,
+        574
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0573",
+      "type": 0,
+      "text": "All the Boys and Girls (100gp)",
+      "weight": 1,
+      "range": [
+        575,
+        575
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0574",
+      "type": 0,
+      "text": "Hungry Seas (200gp)",
+      "weight": 1,
+      "range": [
+        576,
+        576
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0575",
+      "type": 0,
+      "text": "The Mistakes of the Many (500gp)",
+      "weight": 1,
+      "range": [
+        577,
+        577
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0576",
+      "type": 0,
+      "text": "The Ways of Gold (10gp)",
+      "weight": 1,
+      "range": [
+        578,
+        578
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0577",
+      "type": 0,
+      "text": "The Journey of a Thousand Ships (75gp)",
+      "weight": 1,
+      "range": [
+        579,
+        579
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0578",
+      "type": 0,
+      "text": "The Other Fires (1000gp)",
+      "weight": 1,
+      "range": [
+        580,
+        580
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0579",
+      "type": 0,
+      "text": "The Wanderer (300gp)",
+      "weight": 1,
+      "range": [
+        581,
+        581
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0580",
+      "type": 0,
+      "text": "A Myth of the Founders (100gp)",
+      "weight": 1,
+      "range": [
+        582,
+        582
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0581",
+      "type": 0,
+      "text": "The Flaming Swords (75gp)",
+      "weight": 1,
+      "range": [
+        583,
+        583
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0582",
+      "type": 0,
+      "text": "A Bronze Figure (15gp)",
+      "weight": 1,
+      "range": [
+        584,
+        584
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0583",
+      "type": 0,
+      "text": "An Ocean of Dust (75gp)",
+      "weight": 1,
+      "range": [
+        585,
+        585
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0584",
+      "type": 0,
+      "text": "Terror on Every Side (10gp)",
+      "weight": 1,
+      "range": [
+        586,
+        586
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0585",
+      "type": 0,
+      "text": "Fire Falling from the Sky (10gp)",
+      "weight": 1,
+      "range": [
+        587,
+        587
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0586",
+      "type": 0,
+      "text": "The Dragons of the Pit (10gp)",
+      "weight": 1,
+      "range": [
+        588,
+        588
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0587",
+      "type": 0,
+      "text": "The Tomb of Darkness (600gp)",
+      "weight": 1,
+      "range": [
+        589,
+        589
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0588",
+      "type": 0,
+      "text": "To Slay Dragons (50gp)",
+      "weight": 1,
+      "range": [
+        590,
+        590
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0589",
+      "type": 0,
+      "text": "Hymns of Old (50gp)",
+      "weight": 1,
+      "range": [
+        591,
+        591
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0590",
+      "type": 0,
+      "text": "A Time to Flee (50gp)",
+      "weight": 1,
+      "range": [
+        592,
+        592
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0591",
+      "type": 0,
+      "text": "Farming: A Guide (300gp)",
+      "weight": 1,
+      "range": [
+        593,
+        593
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0592",
+      "type": 0,
+      "text": "Music Written for the Lute (300gp)",
+      "weight": 1,
+      "range": [
+        594,
+        594
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0593",
+      "type": 0,
+      "text": "The Book of Air (300gp)",
+      "weight": 1,
+      "range": [
+        595,
+        595
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0594",
+      "type": 0,
+      "text": "The Bitter Wood (75gp)",
+      "weight": 1,
+      "range": [
+        596,
+        596
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0595",
+      "type": 0,
+      "text": "Harvesting Clams (1000gp)",
+      "weight": 1,
+      "range": [
+        597,
+        597
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0596",
+      "type": 0,
+      "text": "Flowers of the Plains (300gp)",
+      "weight": 1,
+      "range": [
+        598,
+        598
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0597",
+      "type": 0,
+      "text": "RANDOM TABLES FOR FANTASY ROLE-PLAYING GAMES",
+      "weight": 1,
+      "range": [
+        599,
+        599
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d599",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "greatbook-of-random-tables",
+      "book": "Great Book Of Random Tables",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Great Book Of Random Tables",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d599",
+  "sort_key": "book titles",
+  "entry_count": 598,
+  "version": 2
+}

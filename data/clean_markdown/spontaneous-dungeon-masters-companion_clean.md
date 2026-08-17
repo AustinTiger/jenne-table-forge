@@ -1,0 +1,2498 @@
+
+
+## THE SPONTANEOUS DUNGEON MASTER'S COMPANION
+
+## Adventure: Mood
+- 1. action-packed
+- 2. apocalyptic
+- 3. awe-inspiring
+- 4. courtly
+- 5. debauched
+- 6. fantastical
+- 7. foreboding
+- 8. frenetic
+- 9. gloomy
+- 10. grim
+- 11. mysterious
+- 12. scholarly
+- 13. silly
+- 14. suspenseful
+- 15. swashbuckling
+- 16. terrifying
+- 17. tongue-in-cheek
+- 18. tragic
+- 19. vengeful
+- 20. wistful
+
+## Adventure: Genres
+- 1. detective
+- 2. dystopian
+- 3. epic
+- 4. folk-tale
+- 5. ghost story
+- 6. horror
+- 7. legend
+- 8. mission
+- 9. mystery
+- 10. mythology
+- 11. paranormal
+- 12. pirate
+- 13. plane-walker
+- 14. satire
+- 15. spy
+- 16. surrealist
+- 17. suspense
+- 18. swashbuckler
+- 19. tragedy
+- 20. undead
+
+## Adventure: Themes
+- 1. injustice
+- 2. betrayal
+- 3. corruption
+- 4. disillusionment
+- 5. facing the darkness
+- 6. good versus evil
+- 7. heroism
+- 8. identity
+- 9. love and sacrifice
+- 10. power and corruption
+- 20. war Tropes
+- 11. religious hypocrisy
+- 12. self-preservation
+- 13. survival
+- 14. temptation
+- 15. the balance
+- 16. immortality
+- 17. the inevitable
+- 18. the quest for power
+- 19. vanity
+- 10. power and corruption
+- 20. war 
+
+## Adventure: Tropes
+- 1. a bid for immortality
+- 2. a child king/queen
+- 3. a commoner becoming powerful
+- 4. a conspiracy
+- 5. a cuckold husband/wife out for revenge
+- 6. a goodie falling in love with baddie
+- 7. a love triangle
+- 8. a missing person
+- 9. a moral quandary
+- 10. a mysterious man/woman
+- 20. the undead
+- 11. a plot to save/destroy the world
+- 12. a secret society in control
+- 13. a stranger who comes to town
+- 14. a super villain
+- 15. a terrible event with a silver lining
+- 16. a terrible misunderstanding
+- 17. an unbeatable hero
+- 18. someone barely making it in time
+- 19. the birth of a saviour
+- 10. a mysterious man/woman
+- 20. the undead
+
+## Adventure: Plots 
+- 1. the party has to prevent an ambush
+- 2. the party has to pull off a heist
+- 3. the party is attacked for unknown reasons
+- 4. the party is being blackmailed
+- 5. the party is seeking shelter from some
+- 6. threat the party is transported to a strange location
+- 7. the party must assassinate a bad guy
+- 8. the party must infiltrate a lair or base
+- 9. the party must escape from prison the party must escort something valuable
+- 10. the party must escape from prison the party must escort something valuable
+- 11. the party must guard somewhere/something important
+- 12. the party must intercept an evil plot
+- 13. the party must investigate an occurrence
+- 14. the party must make a new enterprise work
+- 15. the party must make it through a dangerous location
+- 16. the party must go on a diplomatic mission
+- 17. the party must perform surveillance
+- 18. the party must respond to a distress signal
+- 19. the party must find a missing person
+- 20. the party must win a contest of some kind
+
+
+## City Elements: Town Features
+- 1. No children
+- 2. Ghost town / abandoned
+- 3. Plagued / plague pit
+- 4. Guildhall / trade town
+- 5. Alchemist / magical
+- 6. Glassblower / artisans
+- 7. Generous nobles
+- 8. Bonfire pit / communal
+- 9. Docks / Stables
+- 10. Lighthouse / Watchtower
+- 11. Labyrinth / hedge maze
+- 12. Ruined manor / tower
+- 13. Stocks and gallows
+- 14. Temple of Bahamut
+- 15. Fine clothing store
+- 16. Built into a cliff / caves
+- 17. Heavily fortified
+- 18. Mines
+- 19. Exotic perfumery
+- 20. Amphitheatre / performances
+
+## City Elements: Town Events
+- 1. Feast of Tyr the Lame
+- 2. Funeral for Sir Sylvestus
+- 3. Apple picking festival of Selune
+- 4. Full moon circle dance
+- 5. Celebration of the maidens
+- 6. Well dressing and lottery
+- 7. Harvest supper and fayre
+- 8. Day of the Dead
+- 9. Mayor's birthday party
+- 10. Lysander's Day (shiny)
+- 11. Flower-picking festival, honouring elders
+- 12. Parade fist of Torm through town
+- 13. Cleansing day (house sweeping)
+- 14. Temple of Tymora rededication
+- 15. Grape trampling day (wine)
+- 16. Banishment of Trolls Day
+- 17. Memorial of the Fallen
+- 18. Celebration of the Children
+- 19. Nobleman's visit, games & contests
+- 20. Tax and tithes day
+
+## City Elements: Taverns/Inns
+- 1. The Red-Eyed Owl: spicy chowder
+- 2. Singing Sword: sword serenades patrons
+- 3. Sleepy Satyr: bootleg operation
+- 4. Pilgrims' Rest: near temple
+- 5. Wandering Mimic: above stables
+- 6. The Misty Beard: run by a centaur
+- 7. Maiden's Tears: enchanted sign
+- 8. Grinning Griffon: full of knights & trophies
+- 9. Galloping Minotaur: maze inside
+- 10. The Black Dog: full of depressed people
+- 11. Felbar's Folly: bankrupt, desperate
+- 12. The Gentle Giant: copper baths
+- 13. The Serpent's Knot: full of toys
+- 14. The Bull's Ring: creepy taxidermy
+- 15. Spouting Fish: fountain of wine
+- 16. Red Boot: drunkard haven, sleep syrup
+- 17. The Hanged Man: full of smoke, rude
+- 18. Sleeping Wraith: lute music
+- 19. Friendly Flounder: smells of fried fish
+- 20. Laughing Goat: vegetarian
+
+## City Elements: Unique Elements
+- 1. Mad mage's tower
+- 2. Steep waterfall or geyser
+- 3. Ornate fountain
+- 4. Microclimate
+- 5. Magical barrier
+- 6. Ghost Ship or caravan recurs
+- 7. Huge fortress prison
+- 8. Talking plants
+- 9. Undead in cemetery
+- 10. Part of city hovers above
+- 11. Airship hovering overhead
+- 12. Huge house with giant inhabitants
+- 13. Underground city
+- 14. Feuding farmsteads
+- 15. Huge statue of serpent-woman
+- 16. Oracle
+- 17. Monster-infested sewers
+- 18. All inhabitants strangely prosperous
+- 19. Houses built on stilts
+- 20. Deeply racist
+
+## City Elements: People and Politics
+- 1. Controlled by Zhentarim
+- 2. Foolish bankrupt baron
+- 3. Constant arson
+- 4. At war with rival town
+- 5. Artists' commune
+- 6. Ruled with an iron fist / martial law
+- 7. Ruled by priest of Ilmater (suffering)
+- 8. Extremely bureaucratic
+- 9. Atheistic, all religion is banned
+- 10. Gambling and thievery rule
+- 11. Extreme wealth disparity (beggars/nobles)
+- 12. University town, academy rules
+- 13. Ruled by decree of ancestors
+- 14. Secretly controlled by vampires
+- 15. Rival thieves' guilds run the town
+- 16. Constant Orc raids, military
+- 17. Destitute, money talks
+- 18. Corrupt but courting Lords' Alliance
+- 19. Run by the guilds
+- 20. Run by decree of sylvan deities
+
+## NPC/City Items: Commoner
+- 1. Very mouldy
+- 2. cheese Book of terrible love poems in dwarven
+- 3. Bag of seeds for birds or planting
+- 4. Gnomish music box with haunting tune
+- 5. Nearly-empty cannister of Tiefling Tea
+- 6. 2 semi-melted beeswax candles
+- 7. Grubby mess kit with fork/spoon/plate
+- 8. Delicate lace stained with brown liquid
+- 9. Locket with ugly halfling picture inside
+- 10. Long clay pipe, still-smouldering tobacco
+- 11. Fish hooks, fishing line, worms
+- 12. Deck of cards with infernal writing
+- 13. Small chipped wooden elven flute
+- 14. Jar of fermented eel paste
+- 15. Small bag of polished seashells
+- 16. Live cricket in small wooden cage
+- 17. Vial of halfling cooking oil
+- 18. Five (stolen) silver spoons
+- 19. Keyring with 4 skeleton keys
+- 20. Dried rose petals, undead aura
+
+## NPC/City Items: Humanoid Adversary
+- 1. Tusk of an ogre
+- 2. Map to hideout in the forest
+- 3. Orders to stage an ambush
+- 4. A pendant of Asmodeus
+- 5. A dirty hankie embroidered with 'XTG'
+- 6. A grappling hook and 50' of rope
+- 7. An invitation to a Waterdavian party
+- 8. Thieves' tools and crowbar
+- 9. The broken hilt of a sword, Elvish script
+- 10. Small game trap (bear trap style)
+- 11. An IOU note for a 20gp gambling debt
+- 12. A marked deck of playing cards
+- 13. Six-sided dice that always roll sixes
+- 14. A severed finger with a 5gp silver ring
+- 15. A reward note for the party (100gp alive)
+- 16. Rusty iron spikes and wooden hammer
+- 17. A bag of caltrops and of ball bearings
+- 18. Wineskin full of soured wine
+- 19. Oil (imp. range att. + 2 rnd. 5 fire dam.)
+- 20. Manacles and padlock
+
+## NPC/City Items: Oddballs
+- 1. A glass globe with a lightning storm in it
+- 2. A crude cloth doll with pins in it
+- 3. A pendant vial of dragon blood
+- 4. Smooth river stones inside a dirty sock
+- 5. A bag of black glass marbles
+- 6. A small chess set whose pieces animate
+- 7. A mummified goblin hand (crawling claw)
+- 8. Knucklebones that cast augury 1/day
+- 9. A glazed tile depicting a great battle
+- 10. Parchment with a mechanical diagram
+- 11. Small brass bell, no clapper, still sounds
+- 12. Spinning compass, points to undead
+- 13. A pan pipes made of unknown bones
+- 14. A round black stone light as a feather
+- 15. A glass eye, changes colour with weather
+- 16. A deed for land in Parnast (unknown)
+- 17. A Venetian-style leather mask
+- 18. A small vial of Griffon oil (cures rashes)
+- 19. A wooden yo-yo that spins forever
+- 20. A guide to plants in the feywild
+
+## NPC/City Items: Campsite (Humanoid)
+- 1. Map drawn with stick in the dirt
+- 2. Ripped tent and bent spikes/poles
+- 3. Arrows stuck in the ground
+- 4. A canteen filled with blood
+- 5. A tin mirror edged with draconic script
+- 6. A boar roasting over an open firepit
+- 7. Signs of bodies dragged into the woods
+- 8. A bashed lute with broken strings
+- 9. A torn red velvet cloak and beetle broach
+- 10. A rack of halberds (3) and pikes (4)
+- 11. 3 bear traps
+- 12. Tripwires edging the camp
+- 13. A tied-up dog who barks
+- 14. A hammock between yew trees
+- 15. A half-woven basket
+- 16. A child's picture book about flying mice
+- 17. A sketch of a watermill
+- 18. A pouch full of peppery spices
+- 19. 5 daisy chains and 2 flower wreaths
+- 20. Spiderwebs covering everything
+
+## NPC/City Items: Settlement Buildings (Warehouses/Cottages/Taverns)
+- 1. A fireplace with whistling kettle
+- 2. Burn marks on the timbers overhead
+- 3. A bird who mimics speech in a silver cage
+- 4. Main room built around large oak tree
+- 5. Flying squirrels in the rafters
+- 6. Floor covered in sawdust and straw
+- 7. Smells like frying fish
+- 8. A stack of anti-nobility pamphlets at door
+- 9. Animated armour bouncer guarding door
+- 10. A bookshelf of self-reading books
+- 11. A marked 24-hour hourglass
+- 12. A mirror that does not reflect PCs
+- 13. Paintings that laugh as you walk past
+- 14. A dusty goblet that can never be cleaned
+- 15. Dart boards and self-throwing darts
+- 16. A statue of an elf casting a spell
+- 17. Spring-loaded seat (10' launch)
+- 18. Windowsill flowers that always face you
+- 19. A melting wax sculpture of a sphinx
+- 20. A goldfish with a child's face
+
+## CITY ENCOUNTERS
+- 1. Swarm of children / street performers /etc. (possible pickpockets)
+- 2. Confronted by commoner, accused of adultery with spouse or theft
+- 3. Someone obviously cheating drunken victims at a game
+- 4. Get followed by a cat, possible shapeshifter/druid/etc.
+- 5. Stumble through illusory wall into magic garden etc.
+- 6. Dog tugs at PC attempting to lead them somewhere
+- 7. Beggar is clearly a demon/angel/etc. in disguise
+- 8. Birds begin dive-bombing commoners and PCs
+- 9. Spooked horse charging through the streets harming commoners
+- 10. PCs are being followed by someone or some thing
+- 11. PCs discover a corpse in an alley (guards show up)
+- 12. House on fire, people trapped inside, no obvious help available
+- 13. Loose cobblestone with a plot hook item underneath it
+- 14. Notice a man turn invisible, later notice pockets being picked
+- 15. Bully apprentice wizard shooting harmless sparks, creating nuisance
+- 16. Thugs overturn a vendor's cart of cabbages and run off
+- 17. Press gang tries to press PCs into service (sailors or foot soldiers)
+- 18. Street preacher hollers about end of world, as PCs pass he stops and winks
+- 19. Vicious dog fight in the streets (for druid etc.)
+- 20. Church bells won't stop ringing, something has happened
+
+## Chase Complications (1x/turn)
+- 1. Large obstacle appears
+- 2. Swarm / crowd
+- 3. Unforeseen barrier
+- 4. Maze of crates, barrels, tangles of brush
+- 5. Slippery
+- 6. Animal fight
+- 7. Brawl / Hunt
+- 8. Beggar / Fey 
+- 9. Guardian 
+- 10. Sharp turn
+- 11. No complication
+
+## NPC: Races
+- 1. Human
+- 2. Dwarf
+- 3. Elf
+- 4. Half-Elf
+- 5. Halfling
+- 6. Gnome
+- 7. Half-Orc
+- 8. Dragonborn
+- 9. Tiefling
+- 10. Aarakochra
+- 11. Aasimar
+- 12. Goliath
+- 13. Firbolg
+- 14. Other
+
+## NPC: Appearance
+- 1. Well dressed
+- 2. Poorly dressed
+- 3. Inappropriately dressed
+- 4. Ugly
+- 5. Beautiful/handsome
+- 6. Displaying insignia or rank
+- 7. Appears dismayed/distraught
+- 8. Appears jovial/welcoming
+- 9. Overweight
+- 10. Skinny
+- 11. Eyes dart (suspicion/fright)
+- 12. Dead eyes / nobody home
+- 13. Clearly drunk / tipsy
+- 14. Bearded
+- 15. Scarred
+- 16. Clearly in disguise
+- 17. Dishevelled
+- 18. Fidgety / unable to sit still
+- 19. Fingering something in pocket
+- 20. Chewing / eating 
+
+## NPC Sayings: Catchphrases
+- 1. Never trust a myconid.
+- 2. By Moradin's beard / Tymora's heel.
+- 3. As it was foretold.
+- 4. What was before shall be again.
+- 5. It has come to this.
+- 6. That's how the ale-foam flattens.
+- 7. Wine won't make you happy, but it might.
+- 8. Let me explain something to you.
+- 9. Tyr smiles upon my endeavours.
+- 10. I see you are armed, but are you wise?
+
+## NPC Sayings: Insults
+- 1. Your spells/fighting/etc. are/is as foul as your breath!
+- 2. I've met owlbears with better manners than you.
+- 3. You dance/fight/etc. like a trained fungus, minus the training.
+- 4. Were you to be assaulted by mindflayers, they would starve!
+- 5. He is as sharp as leavened bread.
+- 6. You were born drunk, but became ugly.
+- 7. You are the owner of not one fine quality.
+- 8. You elf's anus, dried newt's-tongue, owlbear's-pizzle!
+- 9. Go prick thy face on a wyvern-berry bush!
+- 10. Sell when you can, you are not for all markets.
+
+## NPC Sayings: Jokes
+- 1. What do you call a mimic posing as a female undergarment? Boobytrap.
+- 2. Paladins can resist the urge to steal, but Thieves' Cant.
+- 3. What is a vegan's favourite class? A rhubarbarian.
+- 4. Did you hear about the rogue who succeeded on his dex. save against a land shark? He really dodged a bulette there.
+- 5. I have fear of difficult terrain. But I'm slowly getting over it.
+- 6. How many clerics does it take to fix a broken lantern? Just one who can cast Cure Light Wounds.
+- 7. What do high-charisma vampires have in common with spell-casters who raise the dead? They're both neck-romancers.
+- 8. Why didn't Protection from Evil work on the hellhound? Turns out he was a good boy.
+- 9. What happened when the PC touched the magnificently carved wall? He felt a great relief.
+- 10. What is the most common breed of magical blink dog? Labracadabrador.
+- 11. Hear the take about adventurers killing giant rats underneath the tavern? It was sub-bar.
+- 12. What musical instrument is the minotaur bard proficient with? Cowbell.
+- 13. Why can paladins see in the dark? They have knightvision.
+- 14. Cursed armour is all the rage these days. But I don't think I can pull it off.
+- 15. Using dispel magic on a gust of wind is disgusting.
+- 16. Why do bards explore dungeons? For the lute.
+- 17. A party with a bard and rogue has its prose and cons.
+- 18. What do you get when a displacer beast gets bitten by a werewolf? A nowhere-wolf.
+- 19. What happens when you attack an earth elemental from behind and succeed? You hit rock bottom.
+- 20. What do you call a thin goblin? Gob-lean.
+- 21. What do gnomes, halflings, and dwarves have in common? Very little.
+- 11. This is Lathander's dawning day.
+- 12. Potatoes!
+- 13. Once a peasant, always a peasant.
+- 14. If only we were strangers.
+- 15. Perhaps in another life.
+- 16. You are tall for your kind.
+- 17. May our swords drink deep.
+- 18. Today is a good day to die.
+- 19. Please, I might start sneezing
+- 20. Foresight makes life dull.
+- 11. I'd beat you, but I would infect my hands.
+- 12. You are a general offence.
+- 13. More of your conversation would infect my brain.
+- 14. The tartness of your face sours grapes to wine.
+- 15. Your skin is not worth sun-burning.
+- 16. You are fat as butter, and more salty.
+- 17. Your tongue outvenoms a green dragon.
+- 18. You are not clean enough to spit upon.
+- 19. You are like a candle, best snuffed!
+- 20. Your brain is as dry as a sea-biscuit.
+
+## NPCs: Human
+- 1. Antinua Ramondo - Unhealthy Looking
+- 2. Zora Dotsk - Hairless
+- 3. Meilil Mostana - Facial Scarred
+- 4. Wan Jun - Curly Haired
+- 5. Tan Chen - Hairy Armed
+- 6. Morn Evenwood - Thinks aloud
+- 7. Grim Leagallow - Chews something
+- 8. Seipora Jassan - Talks quickly
+- 9. Romero Agosto - Fair Skinned
+- 10. Bareris Sepret - Clean-shaven
+- 11. Anton Pashar - Heavy perfume
+- 12. Arizima Sepret - Clean-shaven
+- 13. Huang On - Long Mustached
+- 14. Jhessail Buckman - Prone to humming quietly
+- 15. Kethra Brightwood - Thickset
+- 16. Sefris Nathandem - Clicks tongue
+- 17. Ander Rein - Sallow
+- 18. Gorstag Greycastle - Enunciates overly clearly
+- 19. Arizima Uuthrakt - Unusual Hair Color
+- 20. Cefrey Lackman - Uses flowery speech
+- 21. Kanithar Iltazyara - Fidgets
+- 22. Lindal Amblecrown - Matted Haired
+- 23. Antinua Pashar - Raggedly Dressed
+- 24. Ivor Marsk - High-pitched
+- 25. Mumed Hahpet - Albino
+- 26. Meilil Dumein - Very Tall
+- 27. Meriele Tallstag - Very Attractive
+- 28. Balama Agosto - Slouching
+- 29. Arizima Sepret - Uses flowery speech
+- 30. Zasheir Pashar - Six Fingers
+- 31. Arizima Sepret - Pointy Toothed
+- 32. Malark Iltazyara - Twirls coin
+- 33. Kristryd Murnyethara - Shapely
+- 34. Fyevarra Dyernina - Taps fingers
+- 35. Olga Brightwood - Likes to flaunt their wealth
+- 36. Esvele Amakiir - Missing Toothed
+- 37. Zasheida Khalid - Curly Haired
+- 38. Yasheira Jassan - Feeble
+- 39. Jasmal Tealeaf - Chews something
+- 40. Natali Dotsk - Greying Hair
+- 41. Grim Iltazyara - Glutton
+- 42. Antinua Agosto - Flamboyantly Dressed
+- 43. Tammith Murnyethara - Speaks in rhyme
+- 44. Garret Chergoba - Very Tall
+- 45. Tan Jia - Heavy-set
+- 46. Sefris Nathandem - Twirls coin
+- 47. Ehput-Ki Sepret - Heart-faced
+- 48. Mumed Nathandem - Whittles
+- 49. Khemed Mostana - Makes constant puns
+- 50. Silifrey Brightwood - Cheap, Gaudy Ring
+- 51. Sefris Fezim - Stares into the distance
+- 52. Murithi Ankhalab - Fidgets
+- 53. Zasheir Jassan - Walks quickly
+- 54. Igan Bersk - Sighs heavily
+- 55. Sefris Nathandem - Drums fingers on table
+- 56. Aoth Fezim - Strange Skin-color
+- 57. Faurgar Iltazyara - Grizzled
+- 58. Xanaphia Tallstag - Clumsy
+- 59. Hulmarra Dyernina - Clears throat before speaking
+- 60. Buckman Chao - Pierced
+- 61. Zora Amakiir - Speaks in rhyme
+- 62. Bardeid Mostana - Slobbish
+- 63. Nephis Sepret - Wears flashy clothing
+- 64. Natali Kulenov - Heavily Tattooed
+- 65. Pieron Ironfist - Stocky
+- 66. Rangrim Ungart - Whispers
+- 67. Dona Astorio - Wart Covered
+- 68. Zasheida Rein - Wolfish
+- 69. Kristryd Dyernina - Speaks infrequently
+- 70. Jhessail Amblecrown - Whittles
+- 71. Bareris Uuthrakt - Shapely
+- 72. Esvele Dundragon - Gap-toothed
+- 73. Olga Lackman - Lies compulsively
+- 74. Meilil Rein - Glutton
+- 75. Balama Agosto - Paces
+- 76. Igan Shemov - Enunciates overly clearly
+- 77. Olma Kulenov - Stubbled Chinned
+- 78. Kung Tai - Missing Fingers
+- 79. Malark Xiloscient - Long Bearded
+- 80. Kanithar Dyernina - Diseased
+- 81. Silifrey Lackman - Drums fingers on table
+- 82. Mumed Ankhalab - Deep Blue Eyes
+- 83. Morn Nathandem - Heavy-set
+- 84. Zasheir Fireforge - Bright Blond Haired
+- 85. Seraphina Dankil - Chews something
+- 86. Morn Amakiir - Particularly low voice
+- 87. Kanithar Dyernina - Elegant
+- 88. Umara Nathandem - Strange Skin-color
+- 89. Holimion On - Wears flashy clothing
+- 90. Cefrey Stormwind - Smiles beautifully
+- 91. Jasmal Gemflower - Hook Hands
+- 92. Zora Kulenov - Yells when happy
+- 93. Rowan Evenwood - Likes to flaunt their wealth
+- 94. Hulmarra Iltazyara - Mumbles quietly when alone
+- 95. Jhessail Tallstag - Pointy Toothed
+- 96. Hulmarra Chergoba - Smells of fish
+- 97. Naivara Ankhalab - Clean
+- 98. Mehmen Dumein - Silky Haired
+- 99. Ralmevik Gorunn - One Eyed
+- 100. Grigor Hilltopple - Raggedly Dressed
+- 101. Urhur Nathandem - Face Tattooed
+- 102. Luisa Tosscobble - Anemic
+- 103. Selise Lutgehr - Bushy Bearded
+- 104. Gorstag Evenwood - Fat
+- 105. Hama Tealeaf - Voice cracks
+- 106. Dagnal Evenwood - Gold Toothed
+- 107. Liftrasa Iltazyara - Makes constant puns
+- 108. Arveene Ilphelkiir - Particularly low voice
+- 109. Shandri Dundragon - Thinks aloud
+- 110. Shandri Buckman - Bites fingernails
+- 111. Tammith Chergoba - Overweight
+- 112. Sudeiman Dumein - Clears throat before speaking
+- 113. Tessele Greycastle - Hairless
+- 114. Kethoth Ankhalab - Enunciates overly clearly
+- 115. Silifrey Hornraven - Wart Covered
+- 116. Gorstag Greycastle - Mispronounces words
+- 117. Arveene Buckman - Unusual accent
+- 118. Kung Chen - Feline
+- 119. Malark Evenwood - Speaks an uncommon language
+- 120. Kung Tai - Cropped Haired
+- 121. Falkrunn Calabra - Talks slowly
+- 122. Lavinia Stormwind - Very Tall
+- 123. Meilil Rein - Brawny
+- 124. Sergor Bersk - Walks with a limp
+- 125. Mumed Ankhalab - Freckled
+- 126. Grim Evenwood - Clicks tongue
+- 127. Torbera Helder - Glutton
+- 128. Silifrey Stormwind - Talks quickly
+- 129. Kethra Lackman - Six Fingers
+- 130. Zora Amakiir - Tells awful jokes
+- 131. Meilil Dumein - Anemic
+- 132. Mara Stormwind - 'Dear sir'
+- 133. Zasheida Basha - Missing Fingers
+- 134. Hlin Rumnaheim - Lame
+- 135. Tana Greycastle - Clears throat before speaking
+- 136. Zasheida Mostana - Doe-eyed
+- 137. Silifrey Lackman - Hairless
+- 138. Katernin Kulenov - Offers advice, needed or not
+- 139. Selise Pisacar - Voice cracks
+- 140. Katernin Dotsk - Acne-ridden
+- 141. Taman Lackman - Birthmarked
+- 142. Taman Helder - Speaks loudly
+- 143. Tessele Greycastle - Silky Haired
+- 144. Stedd Evenwood - Colorful
+- 145. Natali Kulenov - Whispers
+- 146. Dankil Wen - Thin Mustached
+- 147. Antinua Astorio - Walks with a limp
+- 148. Tana Shemov - Cropped Haired
+- 149. Anton Domine - Twirls coin
+- 150. Mehmen Dumein - Brown Haired
+- 151. Kung Chen - Stands when making a point
+- 152. Arizima Uuthrakt - Robust
+- 153. Jhessail Amblecrown - Tone deaf
+- 154. Helm Dundragon - Enunciates overly clearly
+- 155. Hulmarra Stayanoga - Voice cracks
+- 156. Huang Tai - Eye-patch Wearing
+- 157. Kung Mialee - Slouches
+- 158. Rangrim Basha - Squints
+- 159. Kanithar Dyernina - Birthmarked
+- 160. Silifrey Helder - Talks slowly
+- 161. Himo Sepret - Masked
+- 162. Grigor Bersk - Sneezes frequently
+- 163. Malark Dundragon - Twirls coin
+- 164. Morgran Amblecrown - Frequently uses the wrong word
+- 165. Arizima Ankhalab - Shapely
+- 166. Natali Starag - Twirls coin
+- 167. Kosef Nemetsk - Likes to flaunt their wealth
+- 168. Pin Lian - Club Footed
+- 169. Pieron Ironfist - Heavily Pierced
+- 170. Blath Tallstag - Mispronounces words
+- 171. Sudeiman Mostana - Drums fingers on table
+- 172. Romero Falone - Morbidly Obese
+- 173. Ling Shui - Bushy Sideburned
+- 174. Reed Amakiir - Smiles beautifully
+- 175. Evendur Ilphelkiir - Yells when happy
+- 176. Anton Ramondo - Uses flowery speech
+- 177. Mumed Nathandem - Strange Skin-color
+- 178. Arizima Ankhalab - Slurs speech
+- 179. Tana Hilltopple - Ginger Haired
+- 180. Zasheir Basha - Likes to flaunt their wealth
+- 181. Ralmevik Evenwood - Chews something
+- 182. Arveene Ilphelkiir - Obese
+- 183. Evendur Evenwood - Talks to animals like they are people
+- 184. Seipora Jassan - Raggedly Dressed
+- 185. Hama Rein - Winks
+- 186. Zasheida Khalid - Large Hands
+- 187. Stedd Buckman -" Old man
+- 188. Esvele Greycastle - Thin
+- 189. Taman Helder - Big Eared
+- 190. Silifrey Hornraven - Yellow Eyes
+- 191. Selise Dankil - Overweight
+- 192. Sum Qiao - Gap-toothed
+- 193. Pin Lian - Prone to humming quietly
+- 194. Yasheira Khalid - Freckled
+- 195. Natali Bersk - Twirls hair / tugs beard
+- 196. Zasheir Dumein - Eats like a bird
+- 197. Sergor Greycastle - Unhealthy Looking
+- 198. Helm Amblecrown - Makes constant puns
+- 199. Kosef Shemov - Eats like a bird
+- 200. Arveene Tallstag - Fat
+- 201. Cefrey Brightwood - Shaven Headed
+- 202. Kung Chen - Big Nosed
+- 203. Yuldra Dyernina - Attractive
+- 204. Seipora Basha - Clicks tongue
+- 205. Esvele Dundragon -" Know what I mean? '
+- 206. Kung On - Facial Scarred
+- 207. Pin Lian - Distinctive Jewellery
+- 208. Zasheida Mostana - Veiled
+- 209. Malark Evenwood - Stands when making a point
+- 210. Ivor Starag - Dark Skinned
+- 211. Himo Sepret - Eye-patch Wearing
+- 212. Aoth Uuthrakt - Walks quickly
+- 213. Luisa Tosscobble - Buxom
+- 214. Zasheida Rein - Unusual accent
+- 215. Meilil Rein - Slim
+- 216. Olga Lackman - Greasy Haired
+- 217. Xanaphia Pashar - Fat
+- 218. Fyevarra Dyernina - Sneezes frequently
+- 219. Gorstag Evenwood - Paces
+- 220. Murithi Nathandem - Long Mustached
+- 221. Kethra Hornraven - Hard Of Hearing
+- 222. Meriele Amblecrown - Missing Fingers
+- 223. Zasheir Jassan - Yells when happy
+- 224. Euphemia Shemov - Dark Skinned
+- 225. Malark Iltazyara - Tells awful jokes
+- 226. Immeral Hornraven - Braided Bearded
+- 227. Ling Mei - Fidgets
+- 228. Meilil Basha - Grizzled
+- 229. Zasheida Ungart - Winks
+- 230. Miri Amblecrown - Offers advice, needed or not
+- 231. Selise Pisacar - Clears throat before speaking
+- 232. Holimion Jia - Shaven Headed
+- 233. Evendur Evenwood - Neat
+- 234. Falkrunn Astorio - Thin Mustached
+- 235. Bardeid Holderhek - Pig Eyed
+- 236. Natali Chernin - Mumbles quietly when alone
+- 237. Antinua Calabra - Clicks tongue
+- 238. Jandar Murnyethara - Whistles
+- 239. Ling Wen - Fidgets
+- 240. Seraphina Dankil - Fidgets
+- 241. Esvele Tallstag - Neat.
+- 242. Sum Qiao - Attractive.
+- 243. Gunnloda Calabra - Crippled.
+- 244. Silifrey Hornraven - Sighs heavily.
+- 245. Hlin Rumnaheim - Drums fingers on table.
+- 246. Barendd Brightwood - Mumbles quietly when alone.
+- 247. Zora Nemetsk - Laughs loudly / often.
+- 248. Kosef Shemov - Deep Voiced.
+- 249. Kung Mei - Crippled.
+- 250. Dundragon Shan - Eats like a bird.
+- 251. Balama Battlehammer - Slouches.
+- 252. Tana Shemov - Stares into the distance.
+- 253. Tan On - Rotund.
+- 254. Wan Tai - Colorful.
+- 255. Garret Buckman - Particularly high voice.
+- 256. Morn Nathandem - Particularly low voice.
+- 257. Tessele Ironfist - Wears ill-fitting clothing.
+- 258. Vani Brightwood - Flamboyantly Dressed.
+- 259. Lureene Iltazyara - Winks.
+- 260. Kristryd Dyernina - Glutton.
+- 261. Zasheida Basha - Eats like a bird.
+- 262. Zasheida Jassan - Heavy-set.
+- 263. Leshanna Dundragon - Buxom.
+- 264. Silifrey Lackman - Clicks tongue.
+- 265. Salazar Agosto - Crooked Toothed.
+- 266. Madislak Murnyethara - 'My good friend'.
+- 267. Nephis Uuthrakt - Albino.
+- 268. Fyevarra Stayanoga - Facial Scarred.
+- 269. Grim Dundragon - Distinctive Jewellery.
+- 270. Esvele Evenwood - Pale Skinned.
+- 271. Arizima Sepret - Heart-faced.
+- 272. Shandri Buckman - 'Yes, but...'.
+- 273. Seipora Jassan - Face Tattooed.
+- 274. Meriele Amblecrown - Multi-eye Colored.
+- 275. Grim Amblecrown - Acne-ridden.
+- 276. Olga Stormwind - Never sits with back to the door.
+- 277. Nephis Sepret - Sweaty.
+- 278. Ilphelkiir Tai - Glutton.
+- 279. Wan Shui - Rosy-cheeked.
+- 280. Morgran Amblecrown - Crooked Toothed.
+- 281. Jhessail Greycastle - Squinting.
+- 282. Mara Starag - Hums to his or herself when idle.
+- 283. Rowan Tallstag - Heart-faced.
+- 284. Taman Helder - Frequently uses the wrong word.
+- 285. Dona Pisacar - Whistles.
+- 286. Zora Kulenov - Offers advice, needed or not.
+- 287. Jandar Murnyethara - Missing Fingers.
+- 288. Jhessail Liadon - Goateed.
+- 289. Faurgar Rumnaheim - Offers advice, needed or not.
+- 290. Faurgar Dyernina - Sneezes frequently.
+- 291. Hama Jassan - Speaks in rhyme.
+- 292. Antinua Agosto - Twirls hair / tugs beard.
+- 293. Gorstag Greycastle - Curly Haired.
+- 294. Leshanna Dundragon - Talks quickly.
+- 295. Malcer Hornraven - Speaks an uncommon language.
+- 296. Huang Qiao - Smiles beautifully.
+- 297. Sum Mei - Talks to animals like they are people.
+- 298. Bardeid Holderhek - Eye-patch Wearing.
+- 299. Tana Kulenov - Whispers.
+- 300. Meilil Dumein - Smiles beautifully.
+- 301. Tessele Evenwood - Braided Bearded.
+- 302. Kanithar Murnyethara - Squints.
+- 303. Lureene Dundragon - Hard Of Hearing.
+- 304. Zasheida Jassan - Frequently uses the wrong word.
+- 305. Meilil Dumein - Perfumed.
+- 306. Kao Wen - Portly.
+- 307. Ilphelkiir Jiang - Piercing Blue Eyed.
+- 308. Silifrey Brightwood - Walks with a limp.
+- 309. Arizima Sepret - Slobbish.
+- 310. Balama Calabra - Wears flashy clothing.
+- 311. Grim Tallstag - Bites fingernails.
+- 312. Grim Evenwood - Talks to animals like they are people.
+- 313. Kanithar Murnyethara - Uses colourful oaths.
+- 314. Morn Evenwood - Mispronounces words.
+- 315. Tana Chernin - Cropped Haired.
+- 316. Quara Calabra - Winks.
+- 317. Shaumar Stayanoga - Birthmarked.
+- 318. Sum Chen - Bad Smelling.
+- 319. Esvele Iltazyara - Missing Fingers.
+- 320. Balama Pisacar - Lies compulsively.
+- 321. Igan Shemov - Fidgets.
+- 322. Bareris Uuthrakt - Particularly high voice.
+- 323. Lavinia Lackman - Heavy perfume.
+- 324. Silifrey Stormwind - Twisted Lipped.
+- 325. Seipora Jassan - One Armed.
+- 326. Ander Rein - Speaks loudly.
+- 327. Pisacar Tai - Tone deaf.
+- 328. Natali Bersk - Whittles.
+- 329. Zasheida Mostana - Walks with a limp.
+- 330. Helm Evenwood - Tone deaf.
+- 331. Helm Ilphelkiir - Offers advice, needed or not.
+- 332. Ilde Dotsk - Prone to humming quietly.
+- 333. Salazar Marivaldi - Gap-toothed.
+- 334. Alethra Marsk - Slouches.
+- 335. Gorstag Evenwood - Neat.
+- 336. Huang Tai - Talks to animals like they are people.
+- 337. Bardeid Mostana - Hugs everyone.
+- 338. Seraphina Dankil - Bald.
+- 339. Malark Xiloscient - Particularly high voice.
+- 340. Fyevarra Iltazyara - Facial Scarred.
+- 341. Zasheida Jassan - Missing Fingers.
+- 342. Dagnal Evenwood - Large Hands.
+- 343. Olga Lackman - Sneezes frequently.
+- 344. Xanaphia Jassan - Particularly low voice.
+- 345. Borivik Murnyethara - Eats like a bird.
+- 346. Seipora Khalid - Earring Wearing.
+- 347. Amafrey Lackman - Distinctive Jewellery.
+- 348. Luisa Agosto - Formally Dressed.
+- 349. Rangrim Mostana - Thinks aloud
+- 350. Seipora Basha - Bites fingernails.
+- 351. Bardeid Dumein - Veiled.
+- 352. Evendur Dundragon - Speaks loudly.
+- 353. Zasheida Jassan - Tone deaf.
+- 354. Anton Domine - Hairless.
+- 355. Immeral Hornraven - Ugly.
+- 356. Meilil Basha - Uses flowery speech.
+- 357. Ilphelkiir Chen - Uses colourful oaths.
+- 358. Meriele Tallstag - Exceptionally Ugly.
+- 359. Kung Qiao - Bushy Bearded.
+- 360. Vani Brightwood - Missing Fingers.
+
+## NPCs: Elf / Half-Elf
+- 1. Erevan Moonwhisper - Elf - Whispers.
+- 2. Thia Galanodel - Elf - Makes constant puns.
+- 3. Thoradin Gemflower - Elf - Silky Haired.
+- 4. Tharivol Starflower - Elf - Long Haired.
+- 5. Aust Meliamne - Elf - Frizzy Haired.
+- 6. Paela Starflower - Elf - Squints.
+- 7. Erdan Galanodel - Elf - Haggard.
+- 8. Naivara Starflower - Elf - Dark Eyed.
+- 9. Soveliss Starflower - Half-Elf - Yellow Eyes.
+- 10. Erdan Diamonddew - Half-Elf - Speaks undercommon.
+- 11. Haseid Moonbrook - Elf - Fidgets.
+- 12. Adrie Xiloscient - Elf - Clicks tongue.
+- 13. Riardon Moonbrook - Elf - Ugly.
+- 14. Antinua Starflower - Elf - Neat.
+- 15. Bardryn Galanodel - Elf - Robust.
+- 16. Adrie Goldpetal - Elf - Burn Scarred.
+- 17. Rolen Gemflower - Elf - Portly.
+- 18. Andraste Meliamne - Elf - Talks to herself
+- 19. Mara Fireforge - Half-Elf - Eats like a bird.
+- 20. Huang Tai - Half-Elf - Sallow.
+- 21. Himo Siannodel - Elf - Glutton.
+- 22. Adran Moonwhisper - Elf - Distinctive Jewellery.
+- 23. Baern Xiloscient - Elf - Speaks in rhyme.
+- 24. Carric Liadon - Elf - Burn Scarred.
+- 25. Felosial Brightwood - Elf - Walks quickly.
+- 26. Tharivol Siannodel - Elf - Bites fingernails.
+- 27. Shava Diamonddew - Elf - Uses colourful oaths.
+- 28. Bree Brightwood - Elf - Twisted Lipped.
+- 29. Kung Chao - Half-Elf - Squinting.
+- 30. Paelias Meliamne - Half-Elf - Fair Skinned.
+- 31. Wellby Starflower - Elf - Greasy Haired.
+- 32. Thia Meliamne - Elf - Lanky.
+- 33. Birel Diamonddew - Elf - Short.
+- 34. Ielenia Amastacia - Elf - Dark Skinned.
+- 35. Thia Goldpetal - Elf - Extremely Hairy.
+- 36. Eldon Greenbottle - Elf - Bites fingernails.
+- 37. Adrie Nightbreeze - Elf - Mispronounces words.
+- 38. Heian Moonbrook - Elf - Taps fingers.
+- 39. Enialis Liadon - Half-Elf - Ruddy.
+- 40. Leshanna Galanodel - Half-Elf - Fair Skinned.
+- 41. Theirastra Moonwhisper - Elf - Neat.
+- 42. Andraste Ilphelkiir - Elf - Short.
+- 43. Mialee Silverfrond - Elf - Whistles.
+- 44. Drusilia Meliamne - Elf - Walks with a limp.
+- 45. Felosial Brightwood - Elf - Speaks in rhyme.
+- 46. Thia Starflower - Elf - Speaks in rhyme.
+- 47. Theren Gemflower - Elf - Winks.
+- 48. Himo Ironfist - Elf - Hairy Armed.
+- 49. Erdan Ilphelkiir - Half-Elf - Shaven Headed.
+- 50. Balama Tosscobble - Half-Elf - Matted Haired.
+- 51. Torbera Diamonddew - Elf - Rosy-cheeked.
+- 52. Andraste Amastacia - Elf - Winks.
+- 53. Galinndan Astorio - Elf - Tells awful jokes.
+- 54. Andraste Moonwhisper - Elf - Braided Haired.
+- 55. Mindartis Moonwhisper - Elf - wrong word.
+- 56. Laucian Nailo - Elf - Cropped Haired.
+- 57. Baern Goldpetal - Elf - Matted Haired.
+- 58. Meriele Amastacia - Elf - Long Bearded.
+- 59. Immeral Windrivver - Half-Elf - Maimed.
+- 60. Aramil Xiloscient - Half-Elf - Sallow.
+
+## NPCs: Halfling / Gnome
+- 1. Andry High-hill - Halfling - Smiles beautifully.
+- 2. Jillian Diamonddew - Halfling - Sighs heavily.
+- 3. Lindal Goodbarrel - Halfling - Twirls coin.
+- 4. Cade High-hill - Halfling - Sweaty.
+- 5. Antinua Greenbottle - Halfling - Rough.
+- 6. Reed Murnyethara - Halfling - Paces.
+- 7. Fonkin Fenwick - Gnome - Paces.
+- 8. Warryn Timner - Gnome - Scrawny.
+- 9. Warryn Fenhoop - Gnome - Feline.
+- 10. Ella Nackle - Gnome - Bald.
+- 11. Finnan Rumnaheim - Halfling - Voice cracks. 
+- 12. Wellby Tealeaf - Halfling - wrong word. 
+- 13. Euphemia High-hill - Halfling - Greying Hair. 
+- 14. Verna Thorngage - Halfling - Rotund. 
+- 15. Errich Tosscobble - Halfling - Scrawny. 
+- 16. Vani Greenbottle - Halfling - Talks to ghosts 
+- 17. Kellen Beren - Gnome - Eye Twitch. 
+- 18. Jebeddo Nackle - Gnome - Goateed. 
+- 19. Kellen Waywocket - Gnome - Veiled. 
+- 20. Fonkin Fenwick - Gnome - Bites fingernails.
+- 21. Wellby Greenbottle - Halfling - Mousy.
+- 22. Eldon High-hill - Halfling - Anemic.
+- 23. Merla High-hill - Halfling - Whittles.
+- 24. Shaena High-hill - Halfling - Heavily Tattooed.
+- 25. Finnan Battlehammer - Halfling - Wart Covered.
+- 26. Callie Brushgather - Halfling - Prone to humming quietly.
+- 27. Jebeddo Fnipper - Gnome - low voice.
+- 28. Ella Nackle - Gnome - Yellow Eyes.
+- 29. Jebeddo Nackle - Gnome - Slurs speech.
+- 30. Nissa Fenhoop - Gnome - Large Hands.
+- 31. Alton Brushgather - Halfling - Mousy.
+- 32. Osborn Fireforge - Halfling - Crooked Toothed.
+- 33. Errich High-hill - Halfling - Smiles beautifully.
+- 34. Shaena Brushgather - Halfling - Talks slowly.
+- 35. Callie High-hill - Halfling - Thin.
+- 36. Andry Silverfrond - Halfling - Stands when making a point.
+- 37. Jebeddo Fnipper - Gnome - Bites fingernails.
+- 38. Warryn Timner - Gnome - Gap-toothed.
+- 39. Fonkin Fenwick - Gnome - Stubbled Chinned.
+- 40. Nissa Fenhoop - Gnome - Hunchbacked.
+- 41. Vani Murnyethara - Halfling - Fair Skinned.
+- 42. Anastrianna Thorngage - Halfling - Grossly Fat.
+- 43. Vani Hilltopple - Halfling - Scrawny.
+- 44. Alton Brushgather - Halfling - Doe-eyed.
+- 45. Nedda Underbough - Halfling - Neat.
+- 46. Lyle Tealeaf - Halfling - Sweaty.
+- 47. Ella Nackle - Gnome - Shaven Headed.
+- 48. Fonkin Fenwick - Gnome - Talks to animals like they are people.
+- 49. Fonkin Fnipper - Gnome - Squints.
+- 50. Kellen Waywocket - Gnome - Six Fingers.
+- 51. Wellby Leagallow - Halfling - Grossly Fat.
+- 52. Osborn Tealeaf - Halfling - Attractive.
+- 53. Corrin Hilltopple - Halfling - Bad Smelling.
+- 54. Callie Hilltopple - Halfling - Paces.
+- 55. Randal Brushgather - Halfling - Laughs loudly / often.
+- 56. Andry Greenbottle - Halfling - Hugs everyone.
+- 57. Loopmottin Beren - Gnome - wrong word.
+- 58. Fonkin Fenwick - Gnome - Emaciated.
+- 59. Warryn Timner - Gnome - Offers advice, needed or not.
+- 60. Tanna Folkor - Gnome - Chews something.
+
+## NPCs: Dwarf
+- 1. Rurik Rumnaheim - Dwarf - Bald.
+- 2. Liftrasa Gorunn - Dwarf - Fidgets.
+- 3. Darrak Rumnaheim - Dwarf - uses the wrong word.
+- 4. Andraste Rumnaheim - Dwarf - Scarred.
+- 5. Darrak Ungart - Dwarf - Short.
+- 6. Flint Siannodel - Dwarf - Greasy Haired.
+- 7. Torbera Dankil - Dwarf - Paces.
+- 8. Falkrunn Balderk - Dwarf - Freckled.
+- 9. Vondal Mei - Dwarf - Ruddy.
+- 10. Callie Torunn - Dwarf - Rough.
+- 11. Oskar Balderk - Dwarf - Unhealthy Looking.
+- 12. Anastrianna Brawnanvil - Dwarf - Drums fingers on table.
+- 13. Vondal Brawnanvil - Dwarf - Greying Hair.
+- 14. Thoradin Ungart - Dwarf - Talks to his or herself.
+- 15. Gardain Battlehammer - Dwarf - Particularly low voice.
+- 16. Ulfgar Strakeln - Dwarf - Gold Toothed.
+- 17. Vistra Fireforge - Dwarf - Portly.
+- 18. Liftrasa Ironfist - Dwarf - Six Fingers.
+- 19. Adrik Ungart - Dwarf - 'Heavens!'.
+- 20. Rangrim Balderk - Dwarf - Whispers.
+- 21. Lavinia Battlehammer - Dwarf - Curly Haired.
+- 22. Xanaphia Lutgehr - Dwarf - Demure.
+- 23. Barendd Battlehammer - Dwarf - Missing Fingers.
+- 24. Taklinn Balderk - Dwarf - Clears throat before speaking.
+- 25. Flint Iltazyara - Dwarf - Bright Blond Haired.
+- 26. Falkrunn Gemblossom - Dwarf - Winks.
+- 27. Helja Ironfist - Dwarf - Black Haired.
+- 28. Kethoth Ungart - Dwarf - Bushy Mustached.
+- 29. Tordek Balderk - Dwarf - Walks quickly.
+- 30. Paela Ungart - Dwarf - Colorful.
+- 31. Leshanna Balderk - Dwarf - Slouches.
+- 32. Hlin Balderk - Dwarf - Hulking.
+- 33. Rurik Goodbarrel - Dwarf - Enunciates overly clearly.
+- 34. Falkrunn Ungart - Dwarf - Clean-shaven.
+- 35. Bardryn Iltazyara - Dwarf - Facial Scarred.
+- 36. Taklinn Dankil - Dwarf - Stubbled Chinned.
+- 37. Tordek Holderhek - Dwarf - Wart Covered.
+- 38. Oskar Ungart - Dwarf - Talks quickly.
+- 39. Liftrasa Frostbeard - Dwarf - Haggard.
+- 40. Dain Loderr - Dwarf - Dark Skinned.
+- 41. Callie Fireforge - Dwarf - Bald.
+- 42. Falkrunn Gorunn - Dwarf - Talks slowly.
+- 43. Einkil Gorunn - Dwarf - Winks.
+- 44. Thia Rumnaheim - Dwarf - Fidgets.
+- 45. Rangrim Rumnaheim - Dwarf - Gold Toothed.
+- 46. Helja Balderk - Dwarf - Glutton.
+- 47. Eldeth Torunn - Dwarf - Stubbled Chinned.
+- 48. Althaea Ironfist - Dwarf - Taps fingers.
+- 49. Leshanna Balderk - Dwarf - Exceptionally Beautiful.
+- 50. Harbek Rumnaheim - Dwarf - Wears ill-fitting clothing.
+- 51. Gardain Brushgather - Dwarf - Shapely.
+- 52. Torbera Balderk - Dwarf - Eye Twitch.
+- 53. Torbera Xiloscient - Dwarf - Club Footed.
+- 54. Gurdis Ironfist - Dwarf - Uses colourful oaths.
+- 55. Xanaphia Loderr - Dwarf - Birthmarked.
+- 56. Rangrim Gorunn - Dwarf - Makes constant puns.
+- 57. Morgran Mei - Dwarf - Drums fingers on table.
+- 58. Rurik Loderr - Dwarf - Hugs everyone.
+- 59. Darrak Lutgehr - Dwarf - Smells of vinegar.
+- 60. Flint Dankil - Dwarf - Offers advice, needed or not.
+
+## NPCs: Other
+- 1. Keth Brighthelm - Half-Orc - Winks.
+- 2. Emen Dankil - Half-Orc - Very Attractive.
+- 3. Shamash Nemmonis - Dragonborn - Drums fingers.
+- 4. Kava Myastan - Dragonborn - Stares into the distance.
+- 5. Akta Music - Tiefling - Whistles.
+- 6. Akta Music - Tiefling - Enunciates overly clearly.
+- 7. Krel - Aarakocra - Slurs speech.
+- 8. Nijena Whitecaste - Aasimar - Very Short.
+- 9. Ilikan (Dawncaller) Katho-Olavi - Goliath - puns.
+- 10. Yinkas - Firbolg - Hunchbacked.
+- 11. Emen Darktooth - Half-Orc - Eats like a bird.
+- 12. Ungar Bleakwind - Half-Orc - Taps fingers.
+- 13. Donaar Kimbatuul - Dragonborn - Raggedly Dressed.
+- 14. Medrash Yargerit - Dragonborn - Ginger Haired.
+- 15. Barakas Despair - Tiefling - Hairy Chested.
+- 16. Melech Creed - Tiefling - Pale Skinned.
+- 17. Suarc - Aarakocra - Mute.
+- 18. Tural Brightcove - Aasimar - Rotund.
+- 19. Aukan (Bearkiller) Alianthano - Goliath - Hard of Hearing.
+- 20. Enrie - Firbolg - Voice cracks.
+- 21. Emen Darktooth - Half-Orc - Stares into the distance.
+- 22. Thokk Krakenos - Half-Orc - Neat.
+- 23. Ghesh Delmirev - Dragonborn - Wears flashy clothing.
+- 24. Shamash Nemmonis - Dragonborn - Six Fingers.
+- 25. Lwerissa Poetry - Tiefling - Ginger Haired.
+- 26. Ea Reverence - Tiefling - Stands when making a point.
+- 27. Crure - Aarakocra - Unusual Hair Color.
+- 28. Slaumuth Azhaar - Aasimar - Piercing Blue Eyed.
+- 29. Ilikan (Wordpainter) Kalagiano - Goliath - Never sits down.
+- 30. Yinkas - Firbolg - Slurs speech.
+- 31. Dench Dankil - Half-Orc - Particularly high voice.
+- 32. Ungar Bleakwind - Half-Orc - Slouches.
+- 33. Donaar Kimbatuul - Dragonborn - Flowery speech.
+- 34. Medrash Yargerit - Dragonborn - Talks to animals.
+- 35. Akta Music - Tiefling - Hums to his or herself when idle.
+- 36. Melech Creed - Tiefling - Pointy Toothed.
+- 37. Suarc - Aarakocra - Whittles.
+- 38. Slaumuth Azhaar - Aasimar - Clean-shaven.
+- 39. Aukan (Bearkiller) Alianthano - Goliath - Fat.
+- 40. Enrie - Firbolg - Uses colourful oaths.
+- 41. Dench Dankil - Half-Orc - Yells when happy.
+- 42. Thokk Krakenos - Half-Orc - Raggedly Dressed.
+- 43. Akra Kimbatuul - Dragonborn - Scrawny.
+- 44. Donaar Kimbatuul - Dragonborn - Enunciates overly clearly.
+- 45. Barakas Despair - Tiefling - Raggedly Dressed.
+- 46. Melech Creed - Tiefling - Thinks aloud.
+- 47. Ukirri - Aarakocra - Heavily Pierced.
+- 48. Slaumuth Azhaar - Aasimar - Eye Twitch.
+- 49. Aukan (Bearkiller) Alianthano - Goliath - One Legged.
+- 50. Leoran - Firbolg - Yells when happy.
+- 51. Emen Darktooth - Half-Orc - Mousy.
+- 52. Emen Dankil - Half-Orc - Clumsy.
+- 53. Shamash Nemmonis - Dragonborn - Slouches.
+- 54. Shedinn Pious - Dragonborn - Speaks infernal.
+- 55. Amnon Chant - Tiefling - Bald.
+- 56. Barakas Quest - Tiefling - Eye Twitch.
+- 57. Ukirri - Aarakocra - Hairy.
+- 58. Slaumuth Azhaar - Aasimar - Wart Covered.
+- 59. Ilikan (Dawncaller) Katho-Olavi - Goliath - Talks quickly.
+- 60. Enrie - Firbolg (Blue) - Unhealthy Looking.
+
+## NPC: Bonds
+- 1. Family member in trouble
+- 2. Member of faction
+- 3. In love with…
+- 4. Betrayed tribe/legion
+- 5. Wants revenge on…
+- 6. Sworn enemy
+- 7. Noble's bastard offspring
+- 8. Sworn oath
+- 9. Member of secret society
+- 10. Values (shady) friends above all
+- 11. Owes a debt to…
+- 12. Spy/double agent
+- 13. Assassin
+- 14. Bound to demon/fey/etc.
+- 15. Cult worshipper
+- 16. Protector of artefact
+- 17. Former slave
+- 18. Ex-adventurer
+- 19. Loves pet more than life
+- 20. Has evil twin
+
+## NPC: Secrets
+- 1. Knows location of artefact
+- 2. Stole something
+- 3. Shapeshifter or in disguise
+- 4. Can't read/write
+- 5. Former thief/pirate
+- 6. Former prostitute
+- 7. Afraid of spiders/snakes
+- 8. Much older than appears
+- 9. Much younger than appears
+- 10. Werewolf/vampire/hag
+- 11. Presumed dead
+- 12. Escaped from prison
+- 13. Secretly mad
+- 14. Atrocities in war
+- 15. Traumatised by…
+- 16. Seeking answers to…
+- 17. Aspires to greatness
+- 18. Bully
+- 19. Loyal to a fault
+- 20. Religious heretic
+
+## NPC: Relationships
+- 1. Survivors of an ill-fated expedition party
+- 2. Adopted siblings
+- 3. Members of a secret society
+- 4. Former soldiers/sailors/mercenaries together
+- 5. One of you hid the other from an Orc warband
+- 6. Grew up together in the same village
+- 7. Lost a close mutual friend to Orcs
+- 8. Former solders in a losing war
+- 9. Former members of a special guild
+- 11. Once shared a prison cell
+- 12. Mutual keepers of an terrible secret
+- 13. Survivors of a small community destroyed by Orcs
+- 14. Former enemies that now work together
+- 15. Former employees from the same defunct business
+- 16. Former students of beloved teacher
+- 17. Escaped together from an evil cult
+- 18. Friendly hunting/gambling/jousting rivals
+- 19. Worked in the mines together
+- 20. Failed protectors of a lost artifact 
+
+## NPC: Group Ties
+- 1. Co-dependent enablers / generally dysfunctional
+- 2. Common cause /mission / goal
+- 3. Common employer / need the money
+- 4. Common responsibility for someone/something else important
+- 5. Devotees of same religion or idolised person
+- 6. In the same fix (stranded, enslaved, blackmailed, etc.)
+- 7. Keepers of the same secret
+- 8. Know too much about each other's past
+- 9. Need each other's skills to do something they really care about
+- 10. Neighbours or roommates
+- 11. Part of same family or social group
+- 12. Part of same group / faction / secret society
+- 13. Regular patrons of same establishment
+- 14. Running a common enterprise (a business, parenting, etc.)
+- 15. Strong shared value / overpowering common interest
+- 16. Stronger together than apart in a dangerous situation
+- 17. Studying together at same school
+- 18. Symbiotic/parasitic exchange of prestige money / skills
+- 19. Traumatic shared past experience
+- 20. United by a common enemy/adversary
+
+## Overland Travel
+- 1. players narrate ('what's one thing that your character does or notices?')
+- 2. challenge/oddity table (by terrain)
+- 3. encounter table (terrain/level), day
+- 4. encounter table (terrain/level), night
+- 5. travel discoveries table (next page)
+- 6. trap (dungeon section) 
+
+## Travel Discoveries: Unmarked Settlement
+- 1. Abandoned caravan (4 wagons)
+- 2. 20 lumberjacks / miners
+- 3. Tiny hamlet of halflings (5 huts)
+- 4. Army scout camp (3 tents, 12 soldiers)
+- 5. Witch's treehouse / cave / floating hut
+- 6. Small village of kenku 'collectors'
+- 7. Refugees from war
+- 8. Camp of genteel bandits
+- 9. Squalid hamlet of subsistence farmers
+- 10. Travelling spice merchant camp (10)
+- 11. Kobold burrows
+- 12. Dilapidated temple, crazed hermit monk
+- 13. Battlefield, recent, burying dead
+- 14. Toll booth, single soldier at post
+- 15. Large makeshift camp (300+ inhabitants)
+- 16. Leper colony (12+ cleric nurse)
+- 17. Religious fanatic compound (19)
+- 18. Animal burrow with child
+- 19. Single tavern/inn (family of 3)
+- 20. Iron-age fort (42)
+
+## Travel Discoveries: Wanderers
+- 1. Lost little girl
+- 2. Knights (4) on quest
+- 3. Wandering archdruid
+- 4. Corpse on the road, claw marks
+- 5. Friendly farmer or fisherman
+- 6. Travelling charlatan
+- 7. Rabbit caught in a trap
+- 8. Ranger hunter stalking game
+- 9. Nobleman's carriage (2 horse, 4 ppl)
+- 10. Wild-eyed madman sage
+- 11. Harmless feral person stalking the party
+- 12. Bounty hunters (3) searching for fugitive
+- 13. Survivors of a monster attack (6)
+- 14. Loudly-singing foolish minstrel
+- 15. Large army (200) on the move
+- 16. A single escaped slave on the run
+- 17. A wizened man in a gibbet post
+- 18. A ghostly apparition
+- 19. A press gang (army/navy) (8)
+- 20. Three runaway horses with saddles
+
+## Travel Discoveries: Ancient
+- 1. Ancient stone statue of unknown god
+- 2. Giant stone head of Ostorian emperor
+- 3. Stonehenge-style standing stones
+- 4. Tomb of an long-forgotten king
+- 5. Dwarven bridge over dry land
+- 6. Footprint of a hexagonal tower
+- 7. Buried stone spiral staircase
+- 8. Footprint of large city now overgrown
+- 9. Circular portal gate, elvish script, inactive
+- 10. Huge smooth metal disk, buried
+- 11. Eight huge columns, no roof
+- 12. Five fingers of a hand from the earth
+- 13. Ancient battle scene carved into cliffface
+- 14. Massive, still-working aqueduct
+- 15. Still-floating ruined city (200' up)
+- 16. Circular dais, markings of Thultanthar
+- 17. Petrified dragon wings
+- 18. Black obelisk (30') with draconic writing
+- 19. Huge rod of iron (5' dia., 20') sticking up
+- 20. 30' dia. cistern or well (dry)
+
+## Travel Discoveries: Magical
+- 1. Taste of lightning in the air
+- 2. Zone of silence
+- 3. Zone of wild magic
+- 4. Eclipse
+- 5. Rain without clouds
+- 6. Rippling rifts in the weave
+- 7. Swarm of metallic insects
+- 8. Orange glowing rocks
+- 9. Distant multi-coloured lights in sky
+- 10. Ground begins to swirl
+- 11. Smell of burning incense
+- 12. Animal companions uneasy
+- 13. Air of unusual calm
+- 14. Hairs raise up on back of neck
+- 15. Suddenly feel very cold or hot
+- 16. Sound of ghostly battle, cursed
+- 17. Vision of feywild overlay on terrain
+- 18. Continually-burning object
+- 19. Zone of anti-magic
+- 20. Zone of low or reversed gravity
+
+## Travel Discoveries: Natural
+- 1. Enormous geode
+- 2. Petrified forest
+- 3. 600' tall oak tree, 80' diameter
+- 4. Dust devils or waterspouts
+- 5. Geyser
+- 6. Earthquake
+- 7. Sudden change in weather
+- 8. Covered in roots/vines
+- 9. Bubbling mud pools
+- 10. Tall waterfall
+- 11. Sand-swept plateau
+- 12. Purple menhirs / boulders
+- 13. Black-and-white checkerboard pattern
+- 14. Pounding sun
+- 15. Dense fog
+- 16. Sudden drop
+- 17. Natural caves
+- 18. Frozen river/lake
+- 19. Volcanic activity
+- 20. Quicksand
+
+## Aquatic Encounters: Level 1-5
+- 1. (2d6) fishermen (commoners)
+- 2. (2d10) merfolk
+- 3. (1d6 + 2) sahuagin
+- 4. (1d4) ghouls in shipwreck
+- 5. (2d6) tribal warriors
+- 6. (2d4 + 5) blood hawks
+- 7. (1d6 + 2) giant lizards
+- 8. (1d6 + 4) giant crabs
+- 9. (2d4) stirges
+- 10. (1d6 + 2) sailor scouts
+- 11. (1) sea hag
+- 12. (1d4) harpies
+- 13. (1d6) giant eagles
+- 14. (2d4) giant toads
+- 15. (1d4) merrow
+- 16. (1) captain, (2d6) bandits
+- 17. (1d3) manticores
+- 18. (1d4 + 3) griffons
+- 19. (1) water elemental
+- 20. (1) young bronze dragon
+
+## Aquatic Encounters: Level 6-10
+- 1. (3d6) pteranodons
+- 2. (3d6) + 2 sahuagin
+- 3. (2d6) giant eagles
+- 4. (1) pseudodragon
+- 5. (1d2) druids
+- 6. (2d4 + 1) giant toads
+- 7. (1d3) sea hags
+- 8. (1d8 + 1) harpies
+- 9. (1d4) plesiosauruses
+- 10. (1d4) manticores
+- 11. (2d6) giant octopi
+- 12. (1d10) griffons
+- 13. (1d4 + 3) merrow
+- 14. (1) water elemental
+- 15. (1) cyclops
+- 16. (1d4) banshees
+- 17. (1) djinni
+- 18. (1) young blue dragon
+- 19. (1) roc
+- 20. (1) marid
+
+## Aquatic Encounters: Level 11-15
+- 1. (1d4) banshees
+- 2. (1) cyclops
+- 3. (1d6 + 2) manticores
+- 4. (1d8 + 2) veterans
+- 5. A nest of (1d6) dragon turtle eggs
+- 6. (1d4) sahuagin barons
+- 7. (1) young bronze dragon
+- 8. (2) marids
+- 9. (1d6) water elementals
+- 10. (2d6) ghasts on ship
+- 11. (1) djinni
+- 12. (1d3) young bronze dragons
+- 13. (2d4) cyclopes
+- 14. (1) storm giant
+- 15. (1d3) young blue dragons
+- 16. (1) adult bronze dragon
+- 17. (1) adult blue dragon
+- 18. (1d3) rocs
+- 19. (1) dragon turtle
+- 20. (1) ancient bronze dragon
+
+## Aquatic Encounters: Level 16-20
+- 1. (1d3 + 1) storm giant
+- 2. (2d6) cyclopes
+- 3. (1d3) djinn
+- 4. (1d6) marids
+- 5. (1) dragon turtle
+- 6. (1d3) rocs
+- 7. (1d6) young blue dragons
+- 8. (1) ancient bronze dragon
+- 9. (1) ancient blue dragon
+- 10. (2d6 x 10 + 1d10) bandits
+- 11. (2d6) veterans
+- 12. (1d6 + 2) manticores
+- 13. (1d3) djinni
+- 14. (1d3) cyclops
+- 15. (1d3) water elementals
+- 16. (2d10 + d10) shaugin
+- 17. (1d3) dragon turtles
+- 18. (2d10 + 1d10) harpies
+- 19. (1d6) marids
+- 20. (2d4) water elementals
+
+## Aquatic Encounters: Nature/Oddity
+- 1. Tidal wave (DC 20 dex. or 6d10 bludgeon)
+- 2. Rough water (DC 15 dex. or 2d6 blud.)
+- 3. Heatwave (DC 15 con. or 2d6 fire)
+- 4. Waterblind (DC 15 con. or blinded 1 day)
+- 5. Becalmed (half mvmt.)
+- 6. Storm (half mvmt., DC 15 str. / 2d6 blud.)
+- 7. Pitching (DC 20 dex. or overboard)
+- 8. Taking water (DC 15 str. 3 suc/fail or sink)
+- 9. Torn sail (half mvmt until repaired)
+- 10. Cracked mast (no mvmt until repaired)
+- 11. Half-sunken ship
+- 12. Desert island
+- 13. Rocks with gulls
+- 14. Mermaids singing
+- 15. Porpoises swim alongside
+- 16. Whales spouting
+- 17. St. Elmo's Fire
+- 18. Haunting sailor music
+- 19. Teeming coral reefs
+- 20. Narwhal
+
+
+## Desert Encounters: Level 1-5
+- 1. (3d8) scorpions
+- 2. (2d4) vultures
+- 3. (1d6) flying snakes
+- 4. (2d6) hyenas or 2d6 jackals
+- 5. (1d4) poisonous snakes
+- 6. (1d6 + 2) giant wolf spiders
+- 7. (2d4) giant poisonous snakes
+- 8. (1) jackalwere
+- 9. (3d6) tribal warriors
+- 10. (1d6) giant lizards
+- 11. (1) swarm of insects
+- 12. (3d6) bandits
+- 13. (1d4) constrictor snakes
+- 14. (1) dust mephit
+- 15. (1d4) giant spiders
+- 16. (1d4) giant vultures
+- 17. (1) giant constrictor snake
+- 18. (1d6 + 2) gnolls
+- 19. (1d3) half-ogres
+- 20. (1d4) giant scorpions
+
+## Desert Encounters: Level 6-10
+- 1. (1d3) lamia
+- 2. (2d4) thri-kreen
+- 3. (1) air elemental
+- 4. (1d3) couatls
+- 5. (1) fire elemental
+- 6. (1d4) gnoll fangs of Yeenoghu
+- 7. (1) revenant
+- 8. (1d4) weretigers
+- 9. (1) cyclops
+- 10. (1) young blue dragon
+- 11. (1) medusa
+- 12. (1) yuan-ti abomination
+- 13. (1d6) scouts
+- 14. (2d4) jackalweres
+- 15. (2d6) hobgoblins
+- 16. (1d4 + 3) dust mephits
+- 17. (1d6) swarms of insects
+- 18. (1) giant constrictor snake
+- 19. (1) lion
+- 20. (2d4) gnolls
+
+## Desert Encounters: Level 11-15
+- 1. (1d8 + 1) phase spiders
+- 2. (1d6 + 2) weretigers
+- 3. (2d4) gnoll fangs of Yeenoghu
+- 4. (1d3) yuan-ti abominations
+- 5. (1d4) medusas
+- 6. (1) guardian naga
+- 7. (1) efreeti
+- 8. (1) roc
+- 9. (1) gynosphinx
+- 10. (3d10) giant hyenas
+- 11. (1d8 + 1) lamias
+- 12. (1d6 + 2) giant scorpions
+- 13. (2d4) phase spiders
+- 14. (1d6 + 1) couatls
+- 15. (1d4) fire elementals
+- 16. (1d6 + 2) weretigers
+- 17. (1d4) air elementals
+- 18. (1d4) medusas
+- 19. (1d3) yuan-ti abominations
+- 20. (1) purple worm
+
+## Desert Encounters: Level 16-20
+- 1. (1) mummy lord
+- 2. (1d3) guardian nagas
+- 3. (1) adult blue dragon
+- 4. (1d2) gynosphinxes
+- 5. (1d3) efreet
+- 6. (1) androsphinx
+- 7. (1d4) rocs
+- 8. (1) adult blue dracolich
+- 9. (2d4) young blue dragons
+- 10. (1) ancient blue dragon
+- 11. (6d6) bandits
+- 12. (1d6 + 2) medusas
+- 13. (1d2) purple worms
+- 14. (2d4) cyclopes
+- 15. (1) mummy lord
+- 16. (1d3) guardian nagas
+- 17. (1d4) efreet
+- 18. (1d4) rocs
+- 19. (1d3) gynosphinxes
+- 20. (1) adult blue dracolich
+
+## Desert Encounters: Nature/Oddity
+- 1. Earthquake (DC 20 dex. or 6d10 blud.)
+- 2. Sandslide (DC 15 dex. or 2d6 bludgeon)
+- 3. Heatwave (DC 15 con. or 2d6 fire)
+- 4. Sunblind (DC 15 con. or blinded 1 day)
+- 5. Soft sand (DC 15 str or half mvmt.)
+- 6. Dust Storm (DC 25 str. or half mvmt.)
+- 7. Baked ground (DC 20 str. or half mvmt.)
+- 8. Heatstroke (DC 15 con. 1 lvl. exhaustion)
+- 9. Mirage (DC 15 wis. or half mvmt)
+- 10. Water loss (DC 10 con. or 1 lvl exhaust.)
+- 11. Crashed airship
+- 12. Oasis
+- 13. Rocks with rams
+- 14. Obelisk
+- 15. Elaborate mirage
+- 16. Ghost settlement
+- 17. Camels strayed from caravan
+- 18. Animal boneyard
+- 19. Towering cacti
+- 20. Featureless expanse
+
+## Forest / Jungle Encounters: Level 1-5
+- 1. 1 giant owl
+- 2. 1 badger or 1d4 poisonous snakes
+- 3. 2d4 wolves or 1 panther
+- 4. 1 giant poisonous snake
+- 5. 1d6 + 2 boars
+- 6. 1 brown bear or 1 tiger
+- 7. 3d6 flying snakes
+- 8. 2d6 + 3 giant weasels
+- 9. 1d4 + 1 needle, 1d6 + 3 twig blights
+- 10. 3d6 stirges
+- 11. 1 satyr or 2d4 kenku
+- 12. 1d3 vine blights, 1d12 awakened shrubs
+- 13. 1 green faerie dragon
+- 14. 1d8 + 1 sprites
+- 15. 1d4 + 3 goblins
+- 16. 1d3 dryads
+- 17. 1 awakened tree
+- 18. 1d4 giant boar
+- 19. 1 owlbear
+- 20. 1d4 centaurs
+
+## Forest / Jungle Encounters: Level 6-10
+- 1. 1 couatl (day) or 1 banshee (night)
+- 2. 1d4 displacer beasts
+- 3. 1d3 green hags
+- 4. 1 malison, 1d6 + 1 pureblood y.t.
+- 5. 1 shambling mound
+- 6. 1 yuan-ti abomination
+- 7. 2d4 vine blights
+- 8. 2d6 hobgoblins or 2d6 orcs
+- 9. 2d4 satyrs or 2d4 apes
+- 10. 1 alpha, 1d6 + 1 gricks
+- 11. 1 treant
+- 12. 1d4 trolls
+- 13. 1 guardian naga
+- 14. 2d6 hobgoblins
+- 15. 2d4 dire wolves
+- 16. 2d4 bugbear
+- 17. 2d4 centaurs
+- 18. 3d10 blink dogs
+- 19. 1d4 owlbears
+- 20. 1d3 green hags
+
+## Forest / Jungle Encounters: Level 11-15
+- 1. 1 werebear
+- 2. 1d3 couatls
+- 3. 2d4 displacer beasts
+- 4. 1d6 + 2 werewolves
+- 5. 1d6 + 2 phase spiders
+- 6. 2d4 yuan-ti malisons
+- 7. 1 young green dragon
+- 8. 1d4 trolls
+- 9. 1d6 + 2 wereboars
+- 10. 1d3 shambling mounds
+- 11. 1d3 treants
+- 12. 1d4 unicorns
+- 13. 1 adult green dragon
+- 14. 1 grick alpha with 2d4 gricks
+- 15. 1d3 yuan-ti abominations
+- 16. 1 adult green dragon
+- 17. 1d8 + 1 giant apes
+- 18. 2d4 oni
+- 19. 1d3 treants
+- 20. 1d6 + 2 gnoll fangs of Y.
+
+## Forest / Jungle Encounters: Level 16-20
+- 1. 1d3 treants
+- 2. 1 guardian naga
+- 3. 1d10 revenants
+- 4. 1d8 + 1 unicorns
+- 5. 1d3 grick alphas
+- 6. 1d6 + 2 shambling mounds
+- 7. 2d4 werebears
+- 8. 1d4 oni
+- 9. 2d4 trolls
+- 10. 1d4 giant apes
+- 11. 1d4 yuan-ti abomination
+- 12. 1d8 + 1 phase spiders
+- 13. 2d4 yuan-ti malisons
+- 14. 1 oni
+- 15. 1d6 + 2 weretigers
+- 16. 1 young green dragon
+- 17. 1d4 gorgons
+- 18. 1 captain 3d10 hobgoblins 4d12 goblins
+- 19. 2d6+2 drow elite warriors
+- 20. 1d4+4 ogres
+
+## Forest / Jungle Encounters: Nature/Oddity
+- 1. Treefall (DC 20 dex. or 6d10 bludgeon)
+- 2. Mudslide (DC 15 dex. or 2d6 bludgeon)
+- 3. Thorns (DC 15 con. or 2d6 piercing)
+- 4. Rainstorm (DC 10 str. or half mvmt.)
+- 5. Fog (DC 15 wis or half mvmt.)
+- 6. Quicksand (DC 25 str. or half mvmt.)
+- 7. Scree (DC 10 str. or half mvmt.)
+- 8. Darkness (DC 10 wis. or half mvmt.)
+- 9. Fey tricks (DC 15 wis. or half mvmt.)
+- 10. Humidity (DC 10 con. or 1 lvl exhaust.)
+- 11. 100' cliffwith waterfall
+- 12. Fey glen
+- 13. Ruins of forest village
+- 14. Druidic markings
+- 15. Unicorn or Pegasus herd
+- 16. Giant mushrooms
+- 17. Sacred burial mound
+- 18. Animal graveyard
+- 19. Great Grandfather Oak
+- 20. Dancing Satyrs
+
+
+## Hills / Moors / Plains Encounters: Level 1-5
+- 1. 1 chimera
+- 2. 1 gorgon
+- 3. 1d2 couatls
+- 4. 1d3 elephants
+- 5. 1 gnoll lord, 1d4 giant hyenas
+- 6. 1 orog
+- 7. 1 ankheg
+- 8. 1d8 giant goats
+- 9. 2d4 gnolls
+- 10. 1d6 goblins, 1 on worg
+- 11. 1 giant eagle
+- 12. 2d4 + 2 axe beaks
+- 13. 1 ogre
+- 14. 1d3 hippogriffs
+- 15. 1d6 scarecrows
+- 16. 1 bulette
+- 17. 1d6 + 4 blood hawks
+- 18. 2d4 stirges
+- 19. 1d4 winged, 1d6 kobolds
+- 20. 1d3 griffons
+
+## Hills / Moors / Plains Encounters: Level 6-10
+- 1. 1d4 cyclopes
+- 2. 1d3 manticores
+- 3. 2d4 ankhegs
+- 4. 1d6 + 2 griffons
+- 5. 1d8 + 1 bugbears
+- 6. 1 gnoll lord, 1d4 + 1 giant hyenas
+- 7. 2d6 thri-kreen
+- 8. 1d4 giant vultures
+- 9. 1 orc Eye of G., 1d8 + 1 orcs
+- 10. 2d4 orogs
+- 11. 1 bulette
+- 12. 1 half-ogre, 2d6 orcs
+- 13. 2d10 winged kobolds
+- 14. 1d8 + 1 giant eagles
+- 15. 1 galeb duhr
+- 16. 1 bulette
+- 17. 1 wyvern
+- 18. 1d3 hill giants
+- 19. 1 young red dragon
+- 20. 1 roc
+
+## Hills / Moors / Plains Encounters: Level 11-15
+- 1. 1d4 young red dragons
+- 2. 4d6 thri-kreen
+- 3. 1d3 chimeras
+- 4. 2d8 manticores
+- 5. 1d4 wyverns
+- 6. 1d3 revenants
+- 7. 1d3 chimeras
+- 8. 1d6 + 2 gnoll fangs of Y.
+- 9. 1d4 hill giants
+- 10. 1 adult red dragon
+- 11. 1d3 + 1 galeb duhr
+- 12. 1d4 trolls
+- 13. 2d4 stone giants
+- 14. 4d6 hyenas
+- 15. 1d4 yuan-ti malisons
+- 16. 1d4 earth elementals
+- 17. 1d4 ankhegs
+- 18. 2 rocs
+- 19. 2d6 tribal warriors 1d4 berserkers
+- 20. 1d6 bugbears
+
+## Hills / Moors / Plains Encounters: Level 16-20
+- 1. 2d10 bugbears, 4d6 goblins, 1d4 worgs
+- 2. 1d12 chimeras
+- 3. 1d4 rocs
+- 4. 1d4 bulettes
+- 5. 1d10 revenants
+- 6. 2d4 + 1 trolls
+- 7. 2d4 hill giants
+- 8. 2d4 galeb duhr
+- 9. 1d4 + 2 wyverns
+- 10. 2d4 stone giants
+- 11. 1d2 adult, 1d3 young red dragons
+- 12. 2d6 winged, 6d6 kobolds
+- 13. 1 orc E.G., 1d8 orog, 4d8 orcs
+- 14. 1 ancient red dragon
+- 15. 8d8 thri-kreen
+- 16. 2d4 trolls + 1d4 hill giants
+- 17. 2d6 veterans + 4d8 bandits
+- 18. 2d6 gnoll lords
+- 19. 2d4 aknhegs
+- 20. 4d4 scarecrows, 2d4 revenants
+
+## Hills / Moors / Plains Encounters: Nature/Oddity
+- 1. Humidity (DC 10 con. or 1 lvl exhaust.)
+- 2. Wind (DC 15 str. or prone, half mvmt.)
+- 3. Rainstorm (DC 10 str. or half mvmt.)
+- 4. Fog (DC 15 wis or half mvmt.)
+- 5. Quicksand (DC 25 str. or half mvmt.)
+- 6. Scree (DC 10 str. or half mvmt.)
+- 7. Humidity (DC 10 con. or 1 lvl exhaust.)
+- 8. Heatwave (DC 15 con. or 2d6 fire)
+- 9. Ice storm (DC 15 dex. or 2d6 pierce)
+- 10. Grass fire (DC 15 str. Or 4d6 fire)
+- 11. Standing stones
+- 12. Sacred burial mound
+- 13. Animal graveyard
+- 14. Crashed Airship
+- 15. Bodies on stakes
+- 16. 40' wide 100' deep ravine
+- 17. Abandoned temple of Chauntea
+- 18. Nomadic tribe
+- 19. Abandoned campsite
+- 20. Wild magic circle
+
+
+## Mountain Encounters: Level 1-5
+- 1. 1d3 swarms of bats
+- 2. 1d10 + 5 tribal warriors
+- 3. 1d8 + 1 winged kobolds
+- 4. 2d10 stirges
+- 5. 2d4 aarakocra
+- 6. 1 giant eagle
+- 7. 1 giant goat
+- 8. 3d4 kobolds
+- 9. 1 half-ogre
+- 10. 1 berserker
+- 11. 1 orog
+- 12. 1 hell hound
+- 13. 1 peryton
+- 14. 1d2 hippogriffs
+- 15. 1 manticore
+- 16. 2d4 orcs
+- 17. 1d4 harpies
+- 18. 1 ogre
+- 19. 1 griffon
+- 20. 1 basilisk
+
+## Mountain Encounters: Level 6-10
+- 1. 1 troll
+- 2. 1 galeb duhr
+- 3. 1 air elemental
+- 4. 1 bulette
+- 5. 1 chimera
+- 6. 1 stone giant
+- 7. 1 frost giant
+- 8. 2d8 + 1 aarakocra
+- 9. 1d8 + 1 giant goats
+- 10. 1d6 + 2 orcs
+- 11. 1d10 giant eagles
+- 12. 1d8 + 1 hippogriffs
+- 13. 1 basilisk
+- 14. 1d12 half-ogres
+- 15. 1 manticore
+- 16. 2d4 harpies
+- 17. 1d10 berserkers
+- 18. 1d3 hell hounds
+- 19. 1d4 ettins
+- 20. 1 young red dragon
+
+## Mountain Encounters: Level 11-15
+- 1. 1 E.G, 1d6 orogs, 3d6 + 10 orcs
+- 2. 1 fire giant
+- 3. 1d4 air elementals
+- 4. 1d4 trolls
+- 5. 1d4 chimeras
+- 6. 1 roc
+- 7. 1d4 stone giants
+- 8. 1d4 frost giants
+- 9. 1d8 + 1 basilisks
+- 10. 2d4 hell hounds
+- 11. 1d3 chimeras
+- 12. 2d4 trolls
+- 13. 1d8 + 1 manticores
+- 14. 1d4 cyclopes
+- 15. 1d10 air elementals
+- 16. 1d6 + 2 bulettes
+- 17. 1 fire giant
+- 18. 1d8 + 1 ettins
+- 19. 1d4 cloud giants
+- 20. 1 adult red dragon
+
+
+## Mountain Encounters: Level 16-20
+- 1. 2d6 bulettes
+- 2. 1d8 + 1 chimeras
+- 3. 1d8 + 1 wyverns
+- 4. 2d4 galeb duhr
+- 5. 1d4 frost giants
+- 6. 1d10 air elementals
+- 7. 1d6 + 3 trolls
+- 8. 1 adult red dragon
+- 9. 1d4 cloud giants
+- 10. 1d3 fire giants
+- 11. 2d4 stone giants
+- 12. 1d4 rocs
+- 13. 1d6 wyverns
+- 14. 1d4 young red dragons
+- 15. 2d4 peryton
+- 16. 1 ancient red dragon
+- 17. 1 chief, 2d6 orogs, 6d6 orcs
+- 18. 2d4 basilisk
+- 19. 2d6 duregar
+- 20. 2d6 earth elementals
+
+## Mountain Encounters: Nature/Oddity
+- 1. Falling rocks (DC 20 dex. or 2d6 damage)
+- 2. Wind (DC 15 str. or prone, half mvmt.)
+- 3. Rainstorm (DC 10 str. or half mvmt.)
+- 4. Fog (DC 15 wis or half mvmt.)
+- 5. Landslide (DC 15 dex. or 2d6 bludgeon)
+- 6. Scree (DC 10 str. or half mvmt.)
+- 7. Ext. cold (DC 15 con. / 1 level exhaust)
+- 8. Altitude (DC 15 dex.or half mvmt.)
+- 9. Ice storm (DC 15 dex. or 2d6 pierce)
+- 10. Frozen ground (DC 15 dex. or half mvmt.)
+- 11. Dwarven toll
+- 12. Sacred burial mound
+- 13. Animal graveyard
+- 14. Carved stone stairs
+- 15. A hanged knight
+- 16. 40' wide 100' deep ravine
+- 17. Abandoned temple of Tyr
+- 18. Natural spring with deer
+- 19. Huge waterfall
+- 20. A stag with golden antlers
+
+## Swamp Encounters: Level 1-5
+- 1. 1d4 poisonous snakes
+- 2. 3d6 giant rats
+- 3. 1d8 + 1 giant lizards
+- 4. 1 crocodile
+- 5. 1 swarm of insects
+- 6. 1 giant spider
+- 7. 2d4 mud mephits
+- 8. 1d6 + 2 giant poisonous snakes
+- 9. 1d6 + 2 constrictor snakes
+- 10. 2d4 giant frogs
+- 11. 1d8 + 1 swarms of rats
+- 12. 2d10 stirges
+- 13. 2d6 + 3 bullywugs
+- 14. 1d4 yuan-ti purebloods
+- 15. 1 yuan-ti malison
+- 16. 1 giant constrictor snake
+- 17. 2d4 lizardfolk
+- 18. 1d4 ghouls
+- 19. 1 will-o'-wisp
+- 20. 1 shambling mound
+
+## Swamp Encounters: Level 6-10
+- 1. 1 wight
+- 2. 2d4 ghasts
+- 3. 1d4 + 2 ogres
+- 4. 1 shaman, 2d10 lizardfolk, 1d6 g. liz.
+- 5. 1d4 green hags
+- 6. 1 revenant
+- 7. 1 giant crocodile
+- 8. 1d4 green hags, 1d6 + 1 ogres
+- 9. 1 young black dragon
+- 10. 1 yuan-ti abomination
+- 11. 1d4 water elementals
+- 12. 1 hydra
+- 13. 1d8 + 1 swarms of insects
+- 14. 1d12 ghouls
+- 15. 2d4 giant spiders
+- 16. 1d6 + 2 giant toads
+- 17. 1d8 + 1 yuan-ti purebloods
+- 18. 1d4 + 1 will-o'-wisps
+- 19. 1 giant crocodile
+- 20. 1d4 shambling mounds
+
+## Swamp Encounters: Level 11-15
+- 1. 1d4 yuan-ti abominations
+- 2. 1d4 + 1 trolls
+- 3. 1d10 revenants
+- 4. 1d8 + 1 water elementals
+- 5. 1d3 hydras
+- 6. 1d4 giant crocodiles
+- 7. 1d3 yuan-ti abominations
+- 8. 1d6 + 1 green hags
+- 9. 2d4 wights
+- 10. 1d8 + 1 yuan-ti malisons
+- 11. 1d4 revenants
+- 12. 1d4 shambling mounds
+- 13. 1d6 water elementals
+- 14. 1d4 young black dragons
+- 15. 1d4 + 2 trolls
+- 16. 1d3 hydras
+- 17. 1 adult black dragon
+- 18. 8d6 lizardfolk
+- 19. 2d6 swarms of insects
+- 20. 2d4 green hags
+
+## Swamp Encounters: Level 16-20
+- 1. 1d4 giant crocodiles
+- 2. 1d3 yuan-ti abominations
+- 3. 1d6 + 1 green hags
+- 4. 2d4 wights
+- 5. 1d8 + 1 yuan-ti malisons
+- 6. 1d4 revenants
+- 7. 1d6 shambling mounds
+- 8. 1d10 water elementals
+- 9. 2d4 young black dragons
+- 10. 2d8 + 2 trolls
+- 11. 2d6 yuan-ti abominations
+- 12. 2d6 + 1 trolls
+- 13. 2d8 revenants
+- 14. 2d6 + 1 water elementals
+- 15. 2d6 hydras
+- 16. 2d6 giant crocodiles
+- 17. 2d6 yuan-ti abominations
+- 18. 1d100 tribal warriors
+- 19. 1 ancient black dragon
+- 20. 3d6 shambling mounds
+
+## Swamp Encounters: Nature/Oddity
+- 1. Fog (DC 15 wis or half mvmt.)
+- 2. Quicksand (DC 25 str. or half mvmt.)
+- 3. Scree (DC 10 str. or half mvmt.)
+- 4. Humidity (DC 10 con. or 1 lvl exhaust.)
+- 5. Darkness (DC 10 wis. or half mvmt.)
+- 6. Disease (DC 15 con. or 1 lvl exhaust.)
+- 7. Thick mud (DC 15 str. Or half mvmt.)
+- 8. Treefall (DC 20 dex. or 6d10 bludgeon)
+- 9. Poison gas (DC 15 con. or 2d6 poison)
+- 10. Thorns (DC 15 con. or 2d6 piercing)
+- 11. Hanged knight
+- 12. Idol covered in vines
+- 13. Bloated corpse floating face-down
+- 14. Bubbling, spurting gasses
+- 15. Flaming gas on water surface
+- 16. Glowing green moss
+- 17. Fish swarming around legs
+- 18. Humanoid bones floating in water
+- 19. Dense curtains of moss
+- 20. Shadows moving overhead
+
+## Tundra Encounters: Level 1-5
+- 1. 1 giant owl
+- 2. 1d4 + 3 trappers (commoners)
+- 3. 2d4 blood hawks
+- 4. 2d6 bandits
+- 5. 2d8 hunters (tribal warriors)
+- 6. half-ogre 
+- 7. 1d3 ice mephits
+- 8. 1 brown bear 
+- 9. 1d6 + 1 orcs
+- 10. 1 polar bear
+- 11. 1 berserker
+- 12. 1 ogre
+- 13. 2 brown bears
+- 14. 2d8 orcs
+- 15. 1 winter wolf
+- 16. 1 yetis
+- 17. 1 manticores
+- 18. 1 troll
+- 19. 1 young remorhaz
+- 20. 1 mammoth
+
+## Tundra Encounters: Level 6-10
+- 1. 2 saber-toothed tigers 
+- 2. 1d4 half-ogres 
+- 3. 1d3 + 1 brown bears
+- 4. 1d3 polar bears
+- 5. 2d4 berserkers 
+- 6. 2d8 scouts
+- 7. 2d4 ice mephits
+- 8. 1 manticore 
+- 9. 1d6 + 2 ogres
+- 10. 2d4 griffons
+- 11. 1d4 veterans
+- 12. 1 young remorhaz
+- 13. 1 orc Eye of G., 1d6 orogs, 2d8 + 6 orcs
+- 14. 2d4 winter wolves
+- 15. 1d6 + 2 yetis
+- 16. 1 frost giant
+- 17. 1d4 trolls
+- 18. 1 abominable yeti
+- 19. 1 young white dragon
+- 20. 1 roc
+
+## Tundra Encounters: Level 11-15
+- 1. 1 abominable yeti
+- 2. 1d4 + 1 werebears 
+- 3. 1d3 young white dragons
+- 4. 1d3 rocs 
+- 5. 3d20 + 60 caribou 
+- 6. 1d4 mammoths 
+- 7. 1d8 + 1 trolls
+- 8. 2d4 young remorhazes
+- 9. 1d6 Crag Cats 
+- 10. 1d3 Werebear barbarians
+- 11. 1d8 + 1 frost giants
+- 12. 1d4 remorhazes
+- 13. 2d10 revenants
+- 14. 2d8 trolls
+- 15. 2d10 werebears
+- 16. 1d3 frost giants
+- 17. 1d3 manticores
+- 18. 2d6 berzerkers
+- 19. 1d6 x 10 + 1d10 tribal warriors
+- 20. 1 adult white dragon
+
+## Tundra Encounters: Level 16-20
+- 1. 2d8 trolls 
+- 2. 2d10 werebears 
+- 3. 1d6+2 frost giants 
+- 4. 2d4 young remorhazes
+- 5. 1d6 Werewolf barbarians
+- 6. 2d6 Crag Cats
+- 7. 1 ancient white dragon 
+- 8. 1d6 abominable yetis
+- 9. 1d4 remorhazes 
+- 10. 2d6 Werebear barbarians
+- 11. 1d10 frost giants with 2d4 polar bears
+- 12. 1d3 adult white dragons
+- 13. 2d4 abominable yetis
+- 14. 1 ice devil
+- 15. 1 vampire
+- 16. 1d4 revenant
+- 17. 2d6 ghosts
+- 18. 1d100 tribal warriors
+- 19. 2d10 griffons
+- 20. 1 ancient, 1d3 young white dragons
+
+## Tundra Encounters: Nature/Oddity
+- 1. Avalanche (DC 20 dex. or 2d10 bludgeon)
+- 2. Frozen water (DC 15 dex. or 2d6 cold)
+- 3. Blizzard (DC 15 con. or 2d6 cold)
+- 4. Snowblind (DC 20 con. or blinded 1 day)
+- 5. Frostbite (DC 15 con. or no hand actions)
+- 6. Ext. cold (DC 15 con. / 1 level exhaust)
+- 7. Crevasse collapse (DC 15 or 2d6 blud.)
+- 8. Wind (DC 15 str. or prone, half mvmt.)
+- 9. Frozen ground (DC 20 str. or half mvmt.)
+- 10. Ice storm (DC 15 dex. or 2d6 pierce)
+- 11. Frozen lake with bodies underneath
+- 12. Druid tending wounded polar bear
+- 13. Temple of Auril
+- 14. Adventurer frozen in ice
+- 15. Snowman, nobody around
+- 16. Partially-eaten Mammoth carcass
+- 17. Frozen travellers, evidence of cannibalism
+- 18. Warm volcanic jets of air
+- 19. An ice fisherman in his hut
+- 20. 500' wall of ice for 1d4 miles
+
+## Combat Encounter Complications
+- 1. Wind/Current/Slope: half move one direction, double other direction
+- 2. Dead magic zone (centred around object, possible disarm)
+- 3. Wild magic zone (centred around object, possible disarm)
+- 4. Darkness zone (centred around object, possible disarm)
+- 5. Bottleneck or pinch-point, only one medium char. can get through at a time
+- 6. Wind: disadvantage on all ranged attacks or steep elevation: dis. ranged when firing up
+- 7. Close quarters: disadvantage on melee attacks
+- 8. Sun from one direction: disadvantage when facing that direction
+- 9. Swarm of insects: all creatures inside get half (+2 AC) cover
+- 10. Teleportation platforms (3) allow teleport between each other, spaced 100' apart
+- 11. Rocks falling from above (50% DC 15 dex. save start each turn, 2d6 bludgeoning)
+- 12. Poison gas from cracks in floor (DC 15 con. save or poisoned if move through)
+- 13. Lava/mud/water in rivulets (DC 15 dex./acr. or prone when moving through, 6d6 fire from lava)
+- 14. Slippery floor (ice, oil) (DC 15 dex. or prone when moving more than half move)
+- 15. Town guard, wandering knights, dragon arrives after 3 rounds
+- 16. Desecrated ground: slain foes rise as ghosts
+- 17. Foes using commoners as hostages / meat shields
+- 18. Containers (barrels of oil etc.) breach and explode (50% on any miss, 2d6 bludgeon + 1d6 fire)
+- 19. Foes have aerial support (dropping things)
+- 20. Undead hands from ground or sentient vines reach up (DC 15 str./dex. or grappled each turn)
+
+## Dungeon: Characteristic
+- 1. Howls like the wind
+- 2. Covered in ice
+- 3. Covered in spiderwebs
+- 4. Covered in fine dust
+- 5. Smells putrid
+- 6. Smells of incense
+- 7. Smells of salt water
+- 8. Sound of running water
+- 9. Sound of creaking
+- 10. Walls cracked and rough
+- 11. Walls very smooth/polished
+- 12. Rust on the floor
+- 13. Dried blood on the floor
+- 14. Electric tang in the air
+- 15. Hard to breathe / stuffy / airless
+- 16. Glowing lights hover
+- 17. Light mist
+- 18. Loose scree under foot
+- 19. Strange markings and runes
+- 20. Eerily silent
+
+
+## Dungeon Encounters: Level 1-5
+- 1. 1 mind flayer arcanist
+- 2. 1 shrieker
+- 3. 2d6 stirges
+- 4. 1d10 troglodytes
+- 5. 1 black pudding
+- 6. 1d2 gray oozes
+- 7. 1 deep gnome
+- 8. 1d8 + 1 drow
+- 9. 1d4 violet fungi
+- 10. 1 rust monster
+- 11. 2d4 grimlocks
+- 12. 1 carrion crawler
+- 13. 1 gelatinous cube
+- 14. 1d8 darkmantles
+- 15. 2d4 piercers
+- 16. 3d6 kuo-toa
+- 17. 1 boss, 2d4 goblins
+- 18. 1 ochre jelly
+- 19. 2d10 giant centipedes
+- 20. 1 nothic
+
+
+## Dungeon Encounters: Level 6-10
+- 1. 1 otyugh
+- 2. 1d4 doppelgangers
+- 3. 2d8 fire snakes
+- 4. 1d4 spectators
+- 5. 1d3 vampire spawn
+- 6. 1d4 hook horrors
+- 7. 3d6 quaggoth spore servants
+- 8. 1d3 grells
+- 9. 1d6 + 1 intellect devourers
+- 10. 1d10 gargoyles
+- 11. 1 cloaker
+- 12. 1 alpha, 2d4 gricks
+- 13. 1 mind flayer arcanist
+- 14. 1d4 drow mages
+- 15. 1 spirit naga
+- 16. 1d4 mind flayers
+- 17. 1 behir
+- 18. 1 aboleth
+- 19. 1 dao
+- 20. 1 beholder
+
+## Dungeon Encounters: Level 11-15
+- 1. 3d6 carrion crawlers
+- 2. 1d3 ropers
+- 3. 3d6 gargoyles
+- 4. 1d10 mimics
+- 5. 2d8 intellect devourers
+- 6. 2d4 water weirds
+- 7. 2d10 gricks
+- 8. 3d6 nothics
+- 9. 3d6 grells
+- 10. 3d6 phase spiders
+- 11. 1d10 black puddings
+- 12. 2d4 otyughs
+- 13. 1d6 + 2 xorn
+- 14. 1d4 fomorians
+- 15. 1d3 mages 1d4 elite drow
+- 16. 1d10 vampire spawn
+- 17. 1d3 cloakers
+- 18. 1d4 dao
+- 19. 1 beholder
+- 20. 1 young red shadow dragon
+
+## Dungeon Encounters: Level 16-20
+- 1. 1d4 grick alphas
+- 2. 2d8 spectators
+- 3. 3d6 minotaurs or 2d8 kuo-toa monitors
+- 4. 2d8 grells
+- 5. 2d10 phase spiders
+- 6. 4d4 hell hounds
+- 7. 1d6 + 2 ropers
+- 8. 2d10 wights
+- 9. 3d6 doppelgangers
+- 10. 1d8 + 1 chimeras
+- 11. 1 young red shadow dragon
+- 12. 2d4 fomorians
+- 13. 1d8 + 1 driders
+- 14. 1d10 mind flayers
+- 15. 1d3 dao
+- 16. 1d4 beholders
+- 17. 1d4 behirs
+- 18. 1 death tyrant
+- 19. 1d3 purple worms
+- 20. 2d4 aboleths
+
+## Dungeon Encounters: Nature/Oddity
+- 1. Easy/Easy Dangerous Trap
+- 2. Easy/Easy Setback Trap
+- 3. Medium/Medium Dangerous Trap
+- 4. Easy/Hard Setback Trap
+- 5. Hard/Easy Dangerous Trap
+- 6. Medium/Hard Setback Trap
+- 7. Hard/Hard Dangerous Trap
+- 8. Easy/Easy Deadly Trap
+- 9. Medium/Medium Setback Trap
+- 10. Easy/Hard Deadly Trap
+- 11. Graffiti written in blood
+- 12. Glowing fungus on walls
+- 13. Hovering stones
+- 14. Unearthly swarm of lights
+- 15. Altar to Azmodeus
+- 16. Claw marks on walls/floor
+- 17. Smell of corpses
+- 18. Sound of animals chewing
+- 19. Footsteps
+- 20. Dragging chains
+
+## Dungeon Items: Typical Monster
+- 1. Sack of broken glass
+- 2. Stuffed fox carcass
+- 3. Rotten food rations
+- 4. Skull of a domestic dog
+- 5. Flask filled with muddy water
+- 6. Scraps of leather soaked in urine
+- 7. A sack of singed feathers
+- 8. A red-and-blue silk scarf (5sp)
+- 9. A straw hat with claw marks
+- 10. A string of rat skulls
+- 11. A waterlogged piece of parchment
+- 12. Broken arrow heads of elven tribe
+- 13. A copper box (5cp) of dried mushrooms
+- 14. Bloody mandibles of a giant spider
+- 15. A battered, string-less lyre
+- 16. A shaving razor engraved 'VM'
+- 17. Flint, steel, and a tinderbox
+- 18. A rusty old sewing kit
+- 19. A bundle of dried fish
+- 20. Tiny metal toy soldier
+
+## Dungeon Items: Large Monster
+- 1. Ornate temple column or pillar
+- 2. Weathervane from a steeple
+- 3. Livery banner from noble family
+- 4. Stag antlers, elk femur, or mammoth tusk
+- 5. Haunch of bison/caribou meat
+- 6. Tangle of rusted chains and shackles
+- 7. 3 giants' teeth, 1 gold worth 50gp
+- 8. Mammoth, Yeti, or Brown bear pelts
+- 9. Animal-skin drum and church bell
+- 10. Rusted, broken weapons and armour
+- 11. Half-full barrel of ale
+- 12. Cage with skeleton inside
+- 13. Carved wooden oar
+- 14. Live chicken, goat, pig, or sheep
+- 15. Bag of 7 dragon scales
+- 16. Stone statue of an unknown deity
+- 17. Pair of wagon wheels
+- 18. Tombstone or mill stone
+- 19. Medium-sized uprooted apple tree
+- 20. Dwarf heads, Elf Ears, or Human skulls
+
+## Dungeon Items: Ruins (Castles/Catacombs/Dungeons)
+- 1. 6 rotten barrels
+- 2. A pile of dead spiders
+- 3. A skull with an eye patch on it
+- 4. A large bronze key
+- 5. A dried vial of ink and bent quill
+- 6. A spiked collar
+- 7. Smashed fragments of pottery
+- 8. A pot of tulips growing in total darkness
+- 9. Floor covered in dried leaves
+- 10. A magically-glowing lantern (green)
+- 11. Four small empty glass vials
+- 12. Bow strings and fletching
+- 13. A pile of old grey blankets
+- 14. A chest full of moth-eaten fine clothes
+- 15. Decaying pelt of a bear
+- 16. A broken cane stick with silver tip (3sp)
+- 17. Stale bread crusts and lard
+- 18. Nut shells
+- 19. Three unlit torches
+- 20. Six unbroken quail eggs
+
+## Dungeon Items: Natural Subterranean (Caves/Caverns/Lairs)
+- 1. Glowing blue moss
+- 2. Dripping roots in the ceiling
+- 3. Bats nesting overhead
+- 4. Cracks that spread along the floor
+- 5. Clouds of dust freshly churned up
+- 6. A maze of stalactites/stalagmites
+- 7. A bubbling pool of hot mud
+- 8. 12 shovels and 32 spikes, new condition
+- 9. A chain pulley in the ceiling
+- 10. A crude natural altar with a lit candle
+- 11. Cave paintings of a dire wolf hunt
+- 12. Six groupings of 8-10 mushrooms each
+- 13. Five iron rings spiked into the wall
+- 14. A natural hole in the floor used as a latrine
+- 15. A bubbling pool of fresh water
+- 16. A swarm of tiny insects
+- 17. Quicksand
+- 18. A natural horizontal slab with a body on it
+- 19. Toxic gas rising from a crevice
+- 20. A flooded passageway
+
+## Dungeon Items: Humanoid Excavation (Cellars/Sewers/Mines)
+- 1. A pile of pickaxe handles with no heads
+- 2. A toppled mine cart (no track)
+- 3. Three dented iron helmets, dwarven make
+- 4. An inspection log book (ends abruptly)
+- 5. Two pair of leather gloves, fingertips cut
+- 6. An empty wineskin and breadcrumbs
+- 7. 14 desiccated fish heads
+- 8. A teeming termite nest
+- 9. A bundle of
+- 10. Stream of sand from ceiling ahead sticks
+- 11. Rats feasting on a cat carcass
+- 12. A mule skeleton
+- 13. A bucket with rusted-out bottom
+- 14. A tangle of rope nets (3)
+- 15. A leather belt with no buckle
+- 16. A whistle
+- 17. An axe head stuck in a wall crack
+- 18. A bag of dried onions
+- 19. A note in thieves' cant about gullible ladies
+- 20. Claw marks in sturdy stone
+
+## Treasure and Magic Items: Level 1-5
+- 1. 2d6 x 10 + 1d10 gp
+- 2. 3d6 x 100 + 1d100 sp
+- 3. 6d6 x 100 + 1d100 cp
+- 4. 1d6 turquoise (10 gp ea.)
+- 5. 1 onyx (50 gp)
+- 6. 1 small mirror (25gp)
+- 7. 1 gold locket (25gp)
+- 8. 1 small pearl (20gp)
+- 9. 1 glass necklace (15gp)
+- 10. 1 small amber (30gp)
+- 11. 1d6 gold teeth (1 gp ea.)
+- 12. 2d6 Mirabar trade bars (5gp ea.)
+- 13. 1d6 x 2 silver candlesticks (5gp ea.)
+- 14. 1 fine silk hankerchief (30 gp)
+- 15. 1 moonstone (50 gp)
+- 16. 1d6 tiny rubies (10 gp ea.)
+- 17. 3d6 gp
+- 18. 4d6 sp
+- 19. 6d6 cp
+- 20. 1 purple amethyst (100 gp)
+
+## Treasure and Magic Items: Level 6-10
+- 1. 6d6 x 100 + 1d100 gp
+- 2. 2d6 x 1000 + 1d100 sp
+- 3. 2d6 x 100 + 1d100 cp
+- 4. 2 moonstones (50 gp ea.)
+- 5. 1x6 lapis lazuli (10 gp ea.)
+- 6. 1 pink pearl (100gp)
+- 7. Melee weapon +1
+- 8. 1d10 silver soldiers (25 gp ea.)
+- 9. 1 carved ivory statuette (250 gp)
+- 10. 1 small ruby (125 gp)
+- 11. Bag of holding
+- 12. Potion of flying
+- 13. Immovable rod
+- 14. Robe of useful items
+- 15. Quiver +2 arrows (20)
+- 16. Slippers of spider climbing
+- 17. Potion of invisibility
+- 18. Cloak of Elvenkind
+- 19. 2d6 x 10 + 1d10 gp
+- 20. 6d6 x 10 + 1d10 sp
+
+## Treasure and Magic Items: Level 11-15
+- 1. 4d6 x 1000 + 1d100 gp
+- 2. 2d6 x 100 + 1d00 gp
+- 3. 4d6 x 100 + 1d100 sp
+- 4. 1 black opals (1000 gp)
+- 5. 1d6 yellow topaz (500 gp ea.)
+- 6. 1 brown diamond (1,000 gp)
+- 7. 1 silver chalice (750 gp.)
+- 8. 1d4 silk robes (250 gp ea.)
+- 9. 1 small gold idol (750 gp)
+- 10. 1d6 gold rings (200 gp ea.)
+- 11. Folding boat
+- 12. Portable hole
+- 13. Giant Slayer
+- 14. Melee weapon +2
+- 15. Armour +1
+- 16. Ring of feather falling
+- 17. Gauntlets of Ogre Power
+- 18. Staff of Power
+- 19. Oathbow
+- 20. Rod of resurrection
+
+## Treasure and Magic Items: Level 16-20
+- 1. 12d6 x 1000 + 1d100 gp
+- 2. 1d6 diamonds (1,000 gp ea.)
+- 3. 1 ruby (5,000 gp)
+- 4. Gold crown (7,500 gp)
+- 5. Necklace of pearls (2,500 gp)
+- 6. 1d6 x 1000 + 1d100 gp
+- 7. Quiver +3 arrows (20)
+- 8. Melee weapon +2
+- 9. Gem of seeing
+- 10. Vicious weapon
+- 11. Ring of djinni summoning
+- 12. Ring of fire elemental command
+- 13. Armour +2
+- 14. Rod of lordly might
+- 15. Luck blade
+- 16. Ring of regeneration
+- 17. Rod of rulership
+- 18. Ring of mind shielding
+- 19. Horn of blasting
+- 20. Helm of teleportation
+
+
+## Treasure and Magic Items: Unusual
+- 1. Vorpal sword
+- 2. Ring of three wishes
+- 3. Armor of invulnerability
+- 4. Apparatus of Kwalish
+- 5. Nine lives stealer
+- 6. Wand of Wonder
+- 7. 5,000 gp promissory note
+- 8. Talisman of pure good
+- 9. Staff of frost
+- 10. Staff of fire Light : 1 roll, Standard : 3 rolls, Generous : 5 rolls
+- 11. Sovereign glue
+- 12. Scarab of protection
+- 13. Robe of the Archmagi
+- 14. Iron flask
+- 15. Cloak of invisibility
+- 16. Sword of answering
+- 17. Universal solvent
+- 18. Well of many worlds
+- 19. Winged boots
+- 20. Deck of many things
+
+## Trap: Triggers
+- 1. Tripwire
+- 2. Pressure Plate
+- 3. Magical Sensor
+- 4. Guard Peephole
+- 5. Doorknob / Lock / Handle
+- 6. Treasure
+
+## Trap: Mechanism
+- 1. Dart
+- 2. Poison needle
+- 3. Pit
+- 4. Bear trap
+- 5. Rolling boulder
+- 6. Rocks from above
+- 7. Tripwire
+- 8. Net
+- 9. Collapsing roof
+- 10. Garotte
+- 11. Blades
+- 12. Closing walls
+- 13. Flip
+- 14. Fire-breathing statue
+- 15. Deafening drums
+- 16. Anti-gravity
+- 17. Ice floor
+- 18. Sleeping gas
+- 19. Poison gas
+- 20. Guillotine
+
+## Puzzles
+- 1. Inscribed on door/chest/etc.: complete me and knock: 1, 1, 2, 3, 5 (must knock 8 times), more than this and take 2d6 fire damage from jet of flame
+- 2. Pressure plates on floor equal to party number, runes on plates and above door, must step them on in sequence or all on plates take 2d6 lightning damage
+- 3. 'None that lay eyes on this shall open it' (must close eyes and push to open)
+- 4. Four holes in walls, one square crystal, must shine light on it, spreads to holes and activates whatever
+- 5. Button/latch/etc. appears to do nothing -actually opens/activates, but minor illusion makes it seem otherwise
+- 6. 'Complete me' and two metal rods -touching both is 4d6 lightning damage (can use conducting material; wood etc. does not work)
+- 7. 'Kiss me' hideous ghoul statue -kissing opens/activates
+- 8. 'Only the harmonious shall pass' -(party+1) flutes tuned C, D, E, G, C and B flat - if B flat played with any others a trap is sprung (DC 15 dex. stones fall 2d6 bludgeoning)
+- 9. 'Timing is everything' party number of levers must be pulled exactly at right timing (D 10 dex. all to sync)
+- 10. Five indecipherable runes and a countdown timer -when timer expires, unlocks/activates (no danger)
+
+## Riddles
+- 1. I cover cities and make men blind (A: sandstorm)
+- 2. Useless but blissful, requires two, silences both (A: a kiss)
+- 3. Runs around [name of walled city] but never moves (A: a wall)
+- 4. I have tongues but cannot taste (A: flames)
+- 5. I have fingers and thumbs, but cannot grasp on my own (A: gloves)
+- 6. I run everywhere, yet you have only to step out your door to find me (A: a road or path)
+- 7. If you are honest, then once you give me, you must keep me (A: one's word)
+- 8. I fall at the end of each day but never break (A: night)
+- 9. Though light as air, even the strongest man can't hold me for long (A: breath)
+- 10. In the morning, I have no head upon me. Yet each evening it returns (A: pillow)

@@ -1,0 +1,1225 @@
+{
+  "name": "Apocalyptic",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from book-of-random-tables-quests3.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Deadly mists are filling the river valleys. People are fleeing their homes. Cities are left empty as people seek higher ground. Figure out the cause and help lead people to safety.",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "The plague is spreading through the great city at an alarming rate. They say it started in the dock district. Help find a cure before the entire city dies of the disease.",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "All domesticated animals have gone mad and are attacking their owners. Some say a wizard was experimenting on animals. Find the wizard to learn whether or not they have caused the animal madness.",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "The plant blight has laid waste to the land. Sail with a group of refugees in search of a home across the sea.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "The rock giant war has spilled over into civilized lands. The boulders are destroying cities and towns. The war needs to be stopped or all civilization will be destroyed.",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "The fish are dying in droves throughout the world. Some say it is a curse because of the crimes of the last emperor. Discover the cause and break the curse.",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "The hurricane brought more than rain and wind damage. Sharks that walk on land descended from the storm to feast. Destroy the beasts. However, whispers speak of their evil master who lives beneath the sea.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "The empire has banned all books. Ruthless troops are searching every house and putting to death any who still have books. Defeat the empire before civilization is lost.",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "All the trees are dying. Discover the cause before no trees are left.",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "The leeches have left the swamps. They are on the move and growing bigger every day. Towns and villages across the country are fleeing before the scourge. Help drive the leeches back and discover why they are growing.",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0010",
+      "type": 0,
+      "text": "The lightning storms have continued for months. Crops are failing. Livestock is dying. People are going mad. A wizard claims to know how to end the storms, but he is ridiculed and shunned. Find the wizard and put his wild plan into place before the world ends.",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0011",
+      "type": 0,
+      "text": "The magically created servants seemed to be a gift from the gods. Less and less work had to be done by people as the servants increased and did humanity's dirty work. When the servants rose up and began killing their masters, the world was plunged into ruin. Fight the servants and teach the people how to work for themselves again.",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0012",
+      "type": 0,
+      "text": "The birds have turned against humanity. They are attacking without mercy. What has caused them to do this and how can it be stopped?",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0013",
+      "type": 0,
+      "text": "The bees are gone. All of them from all around the world. Plants are not being pollinated and the food supply is about to collapse. A wild rumor suggests a group of wizards captured all of the bees for some wicked purpose. Find out if this is true and save the world.",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0014",
+      "type": 0,
+      "text": "The forests are on the move. Entire villages are being overtaken by woods. Chopping down trees brings only wrath and faster growth. Find out what is happening and help the people.",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0015",
+      "type": 0,
+      "text": "The government was popular, and it used fear and hatred to come into power. Hatred of spell casters. Now all magic is banned. Knowledge is being lost and casters slaughtered. Some are finally questioning the government's policies. End the reign of terror before all magic is lost.",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0016",
+      "type": 0,
+      "text": "The dragon scourge has returned. The serpents of old are destroying the land and burning as they devour livestock and more. The old ways of driving the dragons back into slumber are long forgotten by the foolish and lazy leaders of the land. Rise up and rediscover the old way and drive the dragons to their caverns.",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0017",
+      "type": 0,
+      "text": "The spider rain has driven most out of the city. Now the rain of the spiders has stopped but the city is infested. Kill the spiders in the city and help the people resettle their homes.",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0018",
+      "type": 0,
+      "text": "A plague whipped out nearly ninety percent of the population. Help rebuild civilization and learn how to prevent the plague from returning.",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0019",
+      "type": 0,
+      "text": "The creature rose from the ocean overnight to feed. Its tentacles reach thousands of miles inland, and humans seem to be its favored meal. Defeat the creature before the world is ended.",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0020",
+      "type": 0,
+      "text": "The sea is being overgrown with black algae. Shipping and fishing are at a standstill and people are starving. Help rid the world of this evil.",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0021",
+      "type": 0,
+      "text": "All  magic  is  broken.  Every  spell  backfires  or  goes  awry.  Discover  why  and  resolve  the  issue before wizards destroy the world.",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0022",
+      "type": 0,
+      "text": "The demon stones that surround the equator of the world have split open after thousands of years. The demons are laying waste to the entire world. Imprison them once again to end the reign of terror.",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0023",
+      "type": 0,
+      "text": "The land has suffered under a drought for more than a decade. Lead a group of refugees to the south in search of a new home.",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0024",
+      "type": 0,
+      "text": "In countless cities across the world, entire populations have been turned into stone. Find out what caused this vile curse and break it.",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0025",
+      "type": 0,
+      "text": "Sinkholes are appearing all over the world. Buildings, fields, and even whole villages are being consumed by the earth. Find the cause and stop it.",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0026",
+      "type": 0,
+      "text": "When the spores first came blowing into the land, no one was too concerned. But now every building and crop is covered in fungus. Everyone is concerned. The east winds are bringing the spores, so travel that way to learn how to stop the blight.",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0027",
+      "type": 0,
+      "text": "Clouds of gnats have descended on the land. The pestilence is making life unbearable. Figure out how to rid the world of the gnats.",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0028",
+      "type": 0,
+      "text": "A disease is killing all of the horses in the world. Find a cure before society is irreparably changed.",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0029",
+      "type": 0,
+      "text": "The Wizard's war has left the entire world in ruins. Help a band of survivors rebuild civilization.",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0030",
+      "type": 0,
+      "text": "Everyone in the world is now mute. Discover what curse is responsible and break it.",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0031",
+      "type": 0,
+      "text": "The fog settled on the land nearly a month ago. People are getting lost in it and work cannot continue. Soon the people will starve. Discover the cause of the fog and get it to lift.",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0032",
+      "type": 0,
+      "text": "The  Firefall  devastated  the  land.  A  century  later  people  are  still  clinging  to  their  lives  in  a wasteland. Help rebuild and bring order to the lawless lands.",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0033",
+      "type": 0,
+      "text": "The sun grows dim. The land grows colder and is harder to work. People are moving in great numbers to the south. Keep a band of peasants safe on the journey.",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0034",
+      "type": 0,
+      "text": "The dead are rising. All across the entire world graves are emptying. Protect the people and learn how to break the curse and release the dead from this unholy restlessness.",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0035",
+      "type": 0,
+      "text": "The grand empire fell and the barbarians are sacking the once-great cities. Lead survivors to safety and preserve knowledge before it is lost.",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0036",
+      "type": 0,
+      "text": "When the giant spiders emerged from caves all over the world, they found meals ready and numerous.  As  their  choice  food  is  humanoids  and  since  they  hadn't  eaten  in  more  than  a thousand years whole cities were devoured. Rid the world of these evil creatures.",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0037",
+      "type": 0,
+      "text": "Even the smallest spark flames into an out-of-control blaze. People are afraid to make cooking fires. Is this the work of some dread magic or a natural occurrence? Find out before the world is devastated.",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0038",
+      "type": 0,
+      "text": "The portal opened in the sky fifteen years ago. However, it was only three years ago that the creatures began pouring through it. Now, the land is being ravaged by otherworldly creatures. The reward being offered for the closing of the portal is beyond imagination.",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0039",
+      "type": 0,
+      "text": "The Scab is growing and eating up the fertile lands. Find out what it is and stop its growth.",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0040",
+      "type": 0,
+      "text": "Killer bees are swarming the land. Drive the bees away before the land is left desolate.",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0041",
+      "type": 0,
+      "text": "The cattle plague is infecting and killing most livestock in the world. It is said that the cause is magical. Discover the cause before the world is left without food.",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0042",
+      "type": 0,
+      "text": "The  waters  are  rising  and  consuming  villages  and  flooding  great  cities.  Legend  says  this happened once before in ages past.  That  time  it  was  stopped  by  a  wizard  who  crafted  a powerful gem that caused the waters to recede. Find the gem and use its power before the world is inundated.",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0043",
+      "type": 0,
+      "text": "Something is causing rabbits to grow to enormous size. They've also developed a taste for human flesh. Stop the rabbit monsters before they bring about the end of the world.",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0044",
+      "type": 0,
+      "text": "Goblins and orcs are pouring from the mountains. The hoards are slaughtering as they go pushing the entire population to the brink of destruction. Stem the tide and push them back or find their wicked master.",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0045",
+      "type": 0,
+      "text": "The ash clouds are blocking out the sun. Even though it is summer it remains cold, and it is still snowing. Help the people find food and survive the year without summer. It will require traveling far to the south.",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0046",
+      "type": 0,
+      "text": "The unrelenting winds are stripping the forests bare, and crops are beaten over. People are fleeing to find shelter. Go with the winds to help people find a new home. Or, travel against them to find the cause.",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0047",
+      "type": 0,
+      "text": "The ooze is seeping up through the ground. It kills every living thing it touches. Some say it can be stopped, but it will not be easy. Hardy souls must descend into a large cavern while not touching the ooze that surrounds them to discover the origin.",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0048",
+      "type": 0,
+      "text": "The soil on an entire continent will no longer produce food crops. The people are migrating en masse. Help a group of survivors find a new home or learn the true reason why the soil is no longer fertile.",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0049",
+      "type": 0,
+      "text": "Meteors are falling. They are small but life is being disrupted. Farms and villages are being destroyed. Discover the cause and stop the meteors.",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0050",
+      "type": 0,
+      "text": "A baby has not been born in three years. Discover the cause before civilization ends.",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0051",
+      "type": 0,
+      "text": "All languages became confused overnight. Without communication, society is breaking down. Find out what is causing this and return the world to normal.",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0052",
+      "type": 0,
+      "text": "An evil sorcerer has cursed all the children of the entire world putting them into an eternal sleep. Break the curse and end the sorcerer's reign of terror.",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0053",
+      "type": 0,
+      "text": "Only remnants survived after the stone plague. The ghastly statues of loved ones stand as unholy reminders every single day. Some say it is not too late. The curse can be broken and the world renewed.",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0054",
+      "type": 0,
+      "text": "Help rebuild after a locust plague.",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0055",
+      "type": 0,
+      "text": "An ancient race has emerged from underground, and they are set on reclaiming the suface as their home. Can everyone live together in peace or will there be an apocalyptic war?",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0056",
+      "type": 0,
+      "text": "The mudslides have displaced thousands. Help lead people to safety in a new land, but the journey won't be easy. New dangers await on nearly every path.",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0057",
+      "type": 0,
+      "text": "Famine has gripped the land for years the people are at the breaking point. Many have left in search of food. The king is hiring adventures who will journey to a faraway land to bring food back.",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0058",
+      "type": 0,
+      "text": "Fissures have opened spilling toxins into the air. Discover the cause before everyone has to flee.",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0059",
+      "type": 0,
+      "text": "The powerful wizard who has always longed for solitude has cast a spell that is transforming the entire population of the world into animals. Break the spell before it is too late.",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0060",
+      "type": 0,
+      "text": "Protect crops from an invasion of ants.",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0061",
+      "type": 0,
+      "text": "When the butterflies first came people thought they were beautiful. However, once insects began  biting  people  and  infecting  them  with  a  disease,  people  no  longer  thought  them beautiful.  Find  a  cure  for  the  disease  or  rid  the  land  of  the  butterflies  before  everyone  is infected.",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0062",
+      "type": 0,
+      "text": "Everyone is going blind. Find the cause and stop it before you go blind as well.",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0063",
+      "type": 0,
+      "text": "Streams and rivers are filled with foul frogs. They are spoiling the water and killing plants. Help rid the land of these invaders and discover where they came from.",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0064",
+      "type": 0,
+      "text": "Hordes  of  rats  have  emerged  from  underground,  swarming  and  swamping  cities  and overrunning the countrysides. Drive the beasts away and learn what is happening beneath the earth.",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0065",
+      "type": 0,
+      "text": "The wildfires swept the land leaving every plant burned and the land charred. Lead groups of survivors to fertile lands.",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0066",
+      "type": 0,
+      "text": "The cultists  sprang  at  once  and  kidnapped  all  the  world's  leaders.  Rescue  the  leaders  and destroy the cult.",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0067",
+      "type": 0,
+      "text": "They came from the stars offering gifts and wonders untold. Now, people have opened their eyes and realized they are being held as slaves. Help defeat the magical beings and drive them from the world.",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0068",
+      "type": 0,
+      "text": "People are going deaf from a strange illness. Society is falling apart. Find the cure.",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0069",
+      "type": 0,
+      "text": "The conquerors came in force and subjugated the land. Hide the last heir of the rightful king until they are old enough to be placed on the throne and the invaded are defeated.",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0070",
+      "type": 0,
+      "text": "The rains have not stopped in months. The deluge is causing rivers and lakes to overflow their banks. The people are moving higher and higher into the mountains.",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0071",
+      "type": 0,
+      "text": "Overnight large jungles have appeared all across the world. In order to survive the people are trying to learn how to live with the jungles but things aren't going well. Discover the secret of where the jungles came from and how the world can be saved.",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0072",
+      "type": 0,
+      "text": "Wave after wave of ghosts is possessing people all over the world. Find out what has caused this and stop it.",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0073",
+      "type": 0,
+      "text": "People's spirits  are  being  separated  from  their  bodies  by  some  strange  magical  force.  The spirits fl  it around visibly, but can't grasp anything in the material world. Stop the magical force before everyone is only a spirit.",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0074",
+      "type": 0,
+      "text": "It's  been  raining  rocks  for  months.  The  people  are  fleeing  the  land  yet  there  seems  to  be nowhere to run. Some suspect the cause not to be natural. Help discover the cause and stop the falling rocks.",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0075",
+      "type": 0,
+      "text": "The land is flooding and there is no way to stop it. Help people build rafts and boats and sail to new homes.",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0076",
+      "type": 0,
+      "text": "The gods returned in wrath. The world is devastated. Help rebuild and learn what provoked the gods' wrath.",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0077",
+      "type": 0,
+      "text": "The creature rose from the sea and is walking across the land leaving destruction in its path. Kill the creature before it destroys all life.",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0078",
+      "type": 0,
+      "text": "A fast-spreading disease has killed more than ninety percent of the people in the land. Help the survivors rebuild.",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0079",
+      "type": 0,
+      "text": "Putrid rain is spoiling the land. It seems to be coming in waves from the north. Travel to the north to learn what the cause is and stop it.",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0080",
+      "type": 0,
+      "text": "An evil wizard is awakening an army from the buried remnants of an ancient war. As the hordes issue forth they are laying waste to the land. Stop the wizard and his army before the world is ruined.",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0081",
+      "type": 0,
+      "text": "The dancing plague is seizing city after city. People are dancing themselves to death and the world is paralyzed. Find the cure.",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0082",
+      "type": 0,
+      "text": "The sun is fading and the nights are growing longer. Some say the wizard council has damaged the sun. Learn the truth and restore the sun.",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0083",
+      "type": 0,
+      "text": "All  the  world's  leaders  have become oppressive and evil seemingly overnight. Some believe it is the work of parasites that have taken them over and are controlling their minds. Free the leaders and defeat the parasite creatures.",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0084",
+      "type": 0,
+      "text": "The moon has shattered. Tides have gone wild. Bits fall to earth raining fire and death.",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0085",
+      "type": 0,
+      "text": "All the volcanos are erupting at once. People are fleeing. Ash and smoke are choking out the lands. Many think the eruptions are being caused by evil magic. Find the cause and stop it.",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0086",
+      "type": 0,
+      "text": "All of the rivers in the land are going dry. Travel deep into the north to learn why. Return water to the land if you can.",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0087",
+      "type": 0,
+      "text": "People everywhere are plagued with boils. Find the cure or the cause, and end this terrible curse.",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0088",
+      "type": 0,
+      "text": "The great earthquake ruined nearly all the buildings in the massive city. Help the people rebuild and fight the tide of looting and disease.",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0089",
+      "type": 0,
+      "text": "A plague of madness is sweeping the world. Find the cause and stop it before no one is left sane.",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0090",
+      "type": 0,
+      "text": "The crack in the world opened from the northern to the southern hemisphere. The ocean is draining into it and great steam billows fill the air. Find the ancient mage who may know the secret to close the crack.",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0091",
+      "type": 0,
+      "text": "The major continent is splitting apart. The tectonic forces are incredible and earthquakes and tsunamis are racking the world. Help rescue people or see if there is some other unnatural cause that can be stopped.",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0092",
+      "type": 0,
+      "text": "The hail storm engulfed the entire world. Crops and livestock were destroyed. Countless people perished under the huge chunks of ice. Help a city rebuild. They are looking for hardy souls to be leaders. This is the time heroes are made.",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0093",
+      "type": 0,
+      "text": "While visiting a wizard, the wizard accidentally shrinks everyone in the world to the size of ants. The party needs to cross the room and break the spell before everyone gets eaten by birds.",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0094",
+      "type": 0,
+      "text": "The last war ended with the release of a disease that is actually a magical weapon. It did its job only too well. Both sides are now suffering and the world is nearing its end. Stop the disease before all intelligent life is destroyed.",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0095",
+      "type": 0,
+      "text": "Crystals are piercing the soil and raising out of the land. The enormous formations are driving the people out of the land. Travel underground to help stop the crystals from taking over the land.",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0096",
+      "type": 0,
+      "text": "All the fish in the great river are dying. People are scrambling to find food and they are afraid to drink the water. Discover the cause and restore the river.",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0097",
+      "type": 0,
+      "text": "The tsunami was the stuff   of nightmares. Whole villages were washed away and the land was stripped bare for miles. Help the survivors rebuild.",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0098",
+      "type": 0,
+      "text": "A great red wave of magical energy passed over the world ten years ago and everything was laid waste. Survivors are emerging from holes and caves. The time has come to rebuild civilization.",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0099",
+      "type": 0,
+      "text": "An angry wizard has cursed the rivers all across the world and turned them into blood. Find the wizard's lair and break the curse.",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "book-of-random-tables-quests3",
+      "book": "Book Of Random Tables Quests 3",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Book Of Random Tables Quests 3",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d100",
+  "sort_key": "apocalyptic",
+  "entry_count": 100,
+  "version": 2
+}

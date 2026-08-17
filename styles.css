@@ -1,0 +1,543 @@
+/* ==========================================
+   TableForge Premium Golden Glassmorphic Dark Theme
+   ========================================== */
+
+/* 1. Importer Button inside Foundry Sidebar */
+.tableforge-import-btn {
+    background: linear-gradient(135deg, #1e1a14, #242019) !important;
+    color: #f5c992 !important;
+    border: 1px solid #c89c5e !important;
+    border-radius: 4px !important;
+    padding: 6px 12px !important;
+    font-weight: 600 !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.6) !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3) !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease-in-out !important;
+    margin: 6px 0 !important;
+    width: 100% !important;
+    display: block !important;
+    font-family: "Signika", sans-serif !important;
+}
+
+.tableforge-import-btn:hover {
+    background: linear-gradient(135deg, #2c2720, #3a3229) !important;
+    border-color: #f5c992 !important;
+    box-shadow: 0 0 10px rgba(200, 156, 94, 0.4) !important;
+    transform: translateY(-1px) !important;
+}
+
+/* 2. Dialog Window Shell Overrides - Complete Parchment Eradication */
+body.game #tableforge-importer-dialog,
+body.game #tableforge-importer-dialog.window-app {
+    background: #0c0a09 none !important;
+    background-color: #0c0a09 !important;
+    background-image: none !important;
+    color: #ebe9e5 !important;
+    border: 1px solid #c89c5e !important;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.95) !important;
+    border-radius: 6px !important;
+    overflow: hidden !important;
+}
+
+body.game #tableforge-importer-dialog.window-app .window-content {
+    background: #0c0a09 none !important;
+    background-color: #0c0a09 !important;
+    background-image: none !important;
+    color: #ebe9e5 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+    height: 100% !important;
+    padding: 10px 15px !important;
+    box-sizing: border-box !important;
+}
+
+/* Title Bar Override */
+body.game #tableforge-importer-dialog .window-header {
+    background: #151210 !important;
+    border-bottom: 1px solid #2e2920 !important;
+    color: #ebe9e5 !important;
+    font-weight: bold !important;
+    font-family: 'Signika', sans-serif !important;
+    border-radius: 5px 5px 0 0 !important;
+}
+
+body.game #tableforge-importer-dialog .window-header a.close {
+    color: #ebe9e5 !important;
+    opacity: 0.8 !important;
+}
+
+body.game #tableforge-importer-dialog .window-header a.close:hover {
+    opacity: 1 !important;
+    color: #ffd8a4 !important;
+    text-shadow: 0 0 8px #c89c5e !important;
+}
+
+/* 3. Layout Container */
+.tableforge-container {
+    display: flex !important;
+    gap: 15px !important;
+    flex: 1 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    font-family: 'Signika', sans-serif !important;
+    background: #0c0a09 !important;
+    padding: 10px 0 !important;
+    box-sizing: border-box !important;
+}
+
+/* 4. Left Sidebar (Filters & Controls) */
+.tableforge-sidebar {
+    width: 320px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 12px !important;
+    background: #151210 !important;
+    border: 1px solid #2e2920 !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5) !important;
+    flex-shrink: 0 !important;
+}
+
+/* Sidebar Title styling */
+.tableforge-sidebar-title {
+    font-size: 11px !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.06em !important;
+    color: #f5c992 !important;
+    font-weight: bold !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+
+.tableforge-reset {
+    color: #a59d8e !important;
+    cursor: pointer !important;
+    font-size: 10px !important;
+    text-transform: uppercase !important;
+    font-weight: normal !important;
+    transition: color 0.12s !important;
+}
+
+.tableforge-reset:hover {
+    color: #ebe9e5 !important;
+}
+
+/* Form Inputs with maximum contrast */
+.tableforge-search-box, .tableforge-input, .tableforge-select {
+    background: #1e1a14 !important;
+    border: 1px solid #2e2920 !important;
+    color: #ffffff !important;
+    padding: 8px 12px !important;
+    border-radius: 4px !important;
+    font-size: 13px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    transition: all 0.2s ease !important;
+    font-family: 'Signika', sans-serif !important;
+}
+
+.tableforge-search-box:focus, .tableforge-input:focus, .tableforge-select:focus {
+    border-color: #c89c5e !important;
+    box-shadow: 0 0 8px rgba(200, 156, 94, 0.3) !important;
+    outline: none !important;
+}
+
+.tableforge-search-box::placeholder, .tableforge-input::placeholder {
+    color: #8a7c6a !important;
+}
+
+/* Secondary Button actions */
+.btn-secondary {
+    background: #242019 !important;
+    color: #ebe9e5 !important;
+    border: 1px solid #c89c5e !important;
+    border-radius: 4px !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    padding: 6px 12px !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    font-family: 'Signika', sans-serif !important;
+}
+
+.btn-secondary:hover {
+    background: #c89c5e !important;
+    color: #0c0a09 !important;
+    box-shadow: 0 0 10px rgba(200, 156, 94, 0.4) !important;
+}
+
+.btn-secondary:disabled {
+    opacity: 0.4 !important;
+    cursor: not-allowed !important;
+}
+
+/* Pipeline Status Badges */
+.status-badge {
+    padding: 4px 8px !important;
+    border-radius: 4px !important;
+    font-size: 11px !important;
+    font-weight: bold !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 5px !important;
+}
+
+.status-badge.online {
+    background: rgba(123, 179, 108, 0.15) !important;
+    color: #7bb36c !important;
+    border: 1px solid #7bb36c !important;
+}
+
+.status-badge.offline {
+    background: rgba(216, 130, 112, 0.15) !important;
+    color: #d88270 !important;
+    border: 1px solid #d88270 !important;
+}
+
+/* Execute Button (Local compiler pipeline) */
+.btn-execute {
+    background: linear-gradient(135deg, #a5814e, #c89c5e) !important;
+    color: #0c0a09 !important;
+    border: 1px solid #f5c992 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;
+    font-size: 13px !important;
+    padding: 8px 12px !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    font-family: 'Signika', sans-serif !important;
+}
+
+.btn-execute:hover {
+    background: linear-gradient(135deg, #c89c5e, #ffd8a4) !important;
+    box-shadow: 0 0 10px rgba(200, 156, 94, 0.5) !important;
+}
+
+.btn-execute:disabled {
+    opacity: 0.4 !important;
+    cursor: not-allowed !important;
+}
+
+/* 5. Middle Column (Catalog List) */
+.tableforge-catalog {
+    flex: 1.2 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+    background: #151210 !important;
+    border: 1px solid #2e2920 !important;
+    border-radius: 6px !important;
+    padding: 12px !important;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5) !important;
+    min-width: 0 !important;
+}
+
+.tableforge-list-header {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    font-size: 11px !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.06em !important;
+    color: #f5c992 !important;
+    font-weight: bold !important;
+}
+
+.tableforge-list {
+    flex: 1 !important;
+    overflow-y: auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 6px !important;
+    padding-right: 4px !important;
+}
+
+/* Table Card Item in List */
+.tableforge-item {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    background: rgba(255, 255, 255, 0.02) !important;
+    border: 1px solid #2e2920 !important;
+    padding: 8px 10px !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    border-left: 3px solid transparent !important;
+}
+
+.tableforge-item:hover {
+    background: rgba(255, 255, 255, 0.05) !important;
+    border-color: rgba(200, 156, 94, 0.3) !important;
+    transform: translateX(2px) !important;
+}
+
+.tableforge-item.active {
+    background: rgba(200, 156, 94, 0.15) !important;
+    border-color: #c89c5e !important;
+    border-left: 3px solid #c89c5e !important;
+}
+
+.tableforge-checkbox {
+    margin: 0 !important;
+    cursor: pointer !important;
+    width: 15px !important;
+    height: 15px !important;
+    accent-color: #c89c5e !important;
+}
+
+.tableforge-item .table-name {
+    color: #ffffff !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+}
+
+.tableforge-item-meta {
+    font-size: 11px !important;
+    color: #a59d8e !important;
+    margin-top: 3px !important;
+}
+
+/* Status badges for individual table cards */
+.tableforge-badge {
+    display: inline-block !important;
+    padding: 1px 4px !important;
+    border-radius: 3px !important;
+    font-size: 9px !important;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    margin-right: 4px !important;
+}
+
+.tableforge-badge.master {
+    background: rgba(200, 156, 94, 0.2) !important;
+    color: #f5c992 !important;
+    border: 1px solid #c89c5e !important;
+}
+
+.tableforge-badge.individual {
+    background: rgba(165, 157, 142, 0.15) !important;
+    color: #cbd5e0 !important;
+    border: 1px solid #a59d8e !important;
+}
+
+/* 6. Right Column (Preview & Live Log Panel) */
+.tableforge-workspace {
+    flex: 1.8 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 15px !important;
+    min-width: 0 !important;
+}
+
+.tableforge-preview {
+    flex: 1.4 !important;
+    background: #070605 !important;
+    border: 1px solid #2e2920 !important;
+    border-radius: 6px !important;
+    padding: 15px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 12px !important;
+    overflow-y: auto !important;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.8) !important;
+}
+
+.tableforge-preview-header {
+    border-bottom: 2px solid #2e2920 !important;
+    padding-bottom: 10px !important;
+}
+
+.tableforge-preview-header h2 {
+    margin: 0 !important;
+    color: #f5c992 !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+}
+
+.tableforge-preview-header code {
+    background: #151210 !important;
+    border: 1px solid #2e2920 !important;
+    color: #f5c992 !important;
+    font-family: monospace !important;
+    font-size: 12px !important;
+    padding: 2px 6px !important;
+    border-radius: 3px !important;
+}
+
+/* Preview Grid Table style overrides */
+.tableforge-grid {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin-top: 5px !important;
+    font-size: 12px !important;
+}
+
+.tableforge-grid th, .tableforge-grid td {
+    padding: 6px 10px !important;
+    text-align: left !important;
+    border-bottom: 1px solid #2e2920 !important;
+    color: #ebe9e5 !important;
+}
+
+.tableforge-grid th {
+    background: #151210 !important;
+    color: #f5c992 !important;
+    font-weight: bold !important;
+    border-bottom: 2px solid #c89c5e !important;
+}
+
+.tableforge-grid tr:hover {
+    background: rgba(255, 255, 255, 0.02) !important;
+}
+
+/* 7. Real-time stdout log Console Window */
+.tableforge-console-section {
+    flex: 0.8 !important;
+    background: #070605 !important;
+    border: 1px solid #2e2920 !important;
+    border-radius: 6px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.8) !important;
+}
+
+.tableforge-progress-bar-container {
+    height: 4px !important;
+    background: #151210 !important;
+    width: 100% !important;
+    overflow: hidden !important;
+}
+
+.tableforge-progress-bar {
+    height: 100% !important;
+    background: #c89c5e !important;
+    width: 0%;
+    transition: width 0.3s ease !important;
+}
+
+.tableforge-console {
+    flex: 1 !important;
+    overflow-y: auto !important;
+    padding: 10px !important;
+    font-family: monospace !important;
+    font-size: 11px !important;
+    line-height: 1.4 !important;
+    background: transparent !important;
+    margin: 0 !important;
+}
+
+.tableforge-log-entry {
+    margin: 0 0 4px 0 !important;
+    word-break: break-all !important;
+}
+
+.tableforge-log-entry.success {
+    color: #7bb36c !important;
+}
+
+.tableforge-log-entry.error {
+    color: #d88270 !important;
+}
+
+.tableforge-log-entry.info {
+    color: #a59d8e !important;
+}
+
+/* 8. Import Footer Bar */
+.tableforge-import-footer {
+    display: flex !important;
+    justify-content: flex-end !important;
+    align-items: center !important;
+    gap: 15px !important;
+    margin-top: 15px !important;
+    padding-top: 12px !important;
+    border-top: 1px solid #2e2920 !important;
+    background: #0c0a09 !important;
+}
+
+.tableforge-import-footer label {
+    font-size: 13px !important;
+    color: #f5c992 !important;
+    font-weight: bold !important;
+}
+
+#import-target {
+    background: #1e1a14 !important;
+    color: #ffffff !important;
+    border: 1px solid #2e2920 !important;
+    padding: 6px 12px !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    font-size: 12px !important;
+    font-family: 'Signika', sans-serif !important;
+    transition: all 0.2s ease !important;
+}
+
+#import-target:focus {
+    border-color: #c89c5e !important;
+    box-shadow: 0 0 8px rgba(200, 156, 94, 0.3) !important;
+    outline: none !important;
+}
+
+#import-target option {
+    background: #151210 !important;
+    color: #ffffff !important;
+}
+
+.btn-import-execute {
+    background: linear-gradient(135deg, #a5814e, #c89c5e) !important;
+    color: #0c0a09 !important;
+    border: 1px solid #f5c992 !important;
+    border-radius: 4px !important;
+    font-weight: bold !important;
+    font-size: 13px !important;
+    padding: 8px 22px !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3) !important;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.2) !important;
+    font-family: 'Signika', sans-serif !important;
+}
+
+.btn-import-execute:hover {
+    background: linear-gradient(135deg, #c89c5e, #ffd8a4) !important;
+    box-shadow: 0 0 12px rgba(200, 156, 94, 0.5) !important;
+    transform: translateY(-1px) !important;
+}
+
+/* 9. Scrollbars Override for Gold/Opaque Dark Look */
+.tableforge-list::-webkit-scrollbar,
+.tableforge-preview::-webkit-scrollbar,
+.tableforge-console::-webkit-scrollbar,
+.tableforge-sidebar::-webkit-scrollbar {
+    width: 6px !important;
+}
+
+.tableforge-list::-webkit-scrollbar-track,
+.tableforge-preview::-webkit-scrollbar-track,
+.tableforge-console::-webkit-scrollbar-track,
+.tableforge-sidebar::-webkit-scrollbar-track {
+    background: #070605 !important;
+    border-radius: 3px !important;
+}
+
+.tableforge-list::-webkit-scrollbar-thumb,
+.tableforge-preview::-webkit-scrollbar-thumb,
+.tableforge-console::-webkit-scrollbar-thumb,
+.tableforge-sidebar::-webkit-scrollbar-thumb {
+    background: rgba(200, 156, 94, 0.3) !important;
+    border-radius: 3px !important;
+}
+
+.tableforge-list::-webkit-scrollbar-thumb:hover,
+.tableforge-preview::-webkit-scrollbar-thumb:hover,
+.tableforge-console::-webkit-scrollbar-thumb:hover,
+.tableforge-sidebar::-webkit-scrollbar-thumb:hover {
+    background: rgba(200, 156, 94, 0.6) !important;
+}

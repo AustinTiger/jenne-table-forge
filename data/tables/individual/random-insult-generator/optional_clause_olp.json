@@ -1,0 +1,145 @@
+{
+  "name": "OPTIONAL CLAUSE: OLP",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "Extracted from random-insult-generator.pdf",
+  "results": [
+    {
+      "_id": "tf0000",
+      "type": 0,
+      "text": "Is that a kobold in your pants or are you just happy to see me?",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0001",
+      "type": 0,
+      "text": "I'm going to cut you in half and use your spinebones as castanets!",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0002",
+      "type": 0,
+      "text": "Wow, did your mommy tell you that you were scawwy?",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0003",
+      "type": 0,
+      "text": "Even a hat won't fix you, and I've never seen something a hat can't fix.",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0004",
+      "type": 0,
+      "text": "I think I see a feather - are you feeling chicken?",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0005",
+      "type": 0,
+      "text": "Are you feeling lucky, thug? Are ya?",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0006",
+      "type": 0,
+      "text": "It's not that the gods hate you, it's just that they find you kind of gross.",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0007",
+      "type": 0,
+      "text": "I've seen better-looking pisspots!",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0008",
+      "type": 0,
+      "text": "I'm a bard*. What's your excuse?",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    },
+    {
+      "_id": "tf0009",
+      "type": 0,
+      "text": "And now, I shall unveil my ancient magic of Bophades... Bophades nuts! *substitute other class if desired/more accurate O1!y Kes awoo lo uu!!apuesuoabuna@ we.beisul uo sn pu!! 'Wa Ksnq ayt yoy quawllginy ys!m :uu!!a pue suoabuna the author on Twitter @SBLuthien!",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg"
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "jenne-table-forge": {
+      "source": "random-insult-generator",
+      "book": "Random Insult Generator",
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "book": "Random Insult Generator",
+  "category": "misc",
+  "tags": [],
+  "roll_type": "d10",
+  "sort_key": "optional clause: olp",
+  "entry_count": 10,
+  "version": 2
+}
