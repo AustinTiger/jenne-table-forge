@@ -1,16 +1,25 @@
 
-class TableForgeImporterDialog extends Application {
-    static get defaultOptions() {
-        return foundry.utils.mergeObject(super.defaultOptions, {
-            id: "tableforge-importer-dialog",
+const { ApplicationV2, HandlebarsApplicationMixin } = foundry.applications.api;
+
+class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2) {
+    static DEFAULT_OPTIONS = {
+        id: "tableforge-importer-dialog",
+        classes: ["tableforge-dialog"],
+        window: {
             title: "VTT TableForge: PDF Table Importer",
-            template: "modules/jenne-table-forge/scripts/importer.html",
-            classes: ["tableforge-dialog"],
-            width: 1000,
-            height: 750,
             resizable: true
-        });
-    }
+        },
+        position: {
+            width: 1000,
+            height: 750
+        }
+    };
+
+    static PARTS = {
+        main: {
+            template: "modules/jenne-table-forge/scripts/importer.html"
+        }
+    };
 
     constructor(options={}) {
         super(options);
@@ -44,7 +53,7 @@ class TableForgeImporterDialog extends Application {
         }
     }
 
-    getData() {
+    async _prepareContext(options) {
         // Map tables to preserve active checklist selections during re-renders
         const tablesWithSelection = this.tables.map(t => ({
             ...t,
@@ -93,6 +102,7 @@ class TableForgeImporterDialog extends Application {
 
         html.find(".tableforge-item").each((idx, el) => {
             const tableMeta = this.tables[idx];
+            if (!tableMeta) return;
             
             // 1. Text Search query
             const nameMatch = tableMeta.name.toLowerCase().includes(query);
@@ -211,8 +221,9 @@ class TableForgeImporterDialog extends Application {
         }
     }
 
-    activateListeners(html) {
-        super.activateListeners(html);
+    _onRender(context, options) {
+        super._onRender(context, options);
+        const html = $(this.element);
         
         // Start live python status polling
         this.pollServerStatus(html);
@@ -230,6 +241,7 @@ class TableForgeImporterDialog extends Application {
             
             const idx = $(e.currentTarget).data("index");
             const tableMeta = this.tables[idx];
+            if (!tableMeta) return;
             
             try {
                 const response = await fetch(`/modules/jenne-table-forge/data/tables/${tableMeta.file}`);
@@ -483,12 +495,12 @@ class TableForgeImporterDialog extends Application {
         });
     }
 
-    close(options={}) {
+    _onClose(options={}) {
         if (this.pollTimer) {
             clearInterval(this.pollTimer);
             this.pollTimer = null;
         }
-        return super.close(options);
+        super._onClose(options);
     }
 }
 
@@ -507,7 +519,7 @@ Hooks.on("getSceneControlButtons", (controls) => {
         jenneSuite = {
             name: "jenne-suite",
             title: "Jenne Suite",
-            icon: "jenne-gothic-j-icon",
+            icon: "fa-solid fa-j",
             layer: "jenneSuite",
             visible: true,
             tools: isArray ? [] : {}
@@ -526,7 +538,7 @@ Hooks.on("getSceneControlButtons", (controls) => {
         icon: "fas fa-file-pdf",
         button: true,
         visible: true,
-        onClick: () => {
+        onChange: () => {
             new TableForgeImporterDialog().render(true);
         }
     };
