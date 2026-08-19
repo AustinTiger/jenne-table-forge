@@ -35,18 +35,12 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
         this.pollTimer = null;
         this.knownLogCount = 0;
 
-        this.loadManifest();
     }
 
     async loadManifest() {
         try {
-            const response = await fetch('/modules/jenne-table-forge/data/metadata.json');
+            const response = await fetch('modules/jenne-table-forge/data/metadata.json');
             this.tables = await response.json();
-            
-            // Re-render window with new data if open
-            if (this.rendered) {
-                this.render({ force: true });
-            }
         } catch (e) {
             ui.notifications.error("Failed to load TableForge tables metadata!");
             console.error(e);
@@ -259,7 +253,7 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
             if (!tableMeta) return;
             
             try {
-                const response = await fetch(`/modules/jenne-table-forge/data/tables/${tableMeta.file}`);
+                const response = await fetch(`modules/jenne-table-forge/data/tables/${tableMeta.file}`);
                 this.activePreview = await response.json();
                 this.render({ force: true });
             } catch (err) {
@@ -451,7 +445,7 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
             
             for (const file of this.selectedTables) {
                 try {
-                    const response = await fetch(`/modules/jenne-table-forge/data/tables/${file}`);
+                    const response = await fetch(`modules/jenne-table-forge/data/tables/${file}`);
                     const tableData = await response.json();
                     
                     const fileParts = file.split("/");
@@ -553,8 +547,10 @@ Hooks.on("getSceneControlButtons", (controls) => {
         icon: "fas fa-file-pdf",
         button: true,
         visible: true,
-        onChange: () => {
-            new TableForgeImporterDialog().render({ force: true });
+        onChange: async () => {
+            const dialog = new TableForgeImporterDialog();
+            await dialog.loadManifest();
+            dialog.render({ force: true });
         }
     };
 
