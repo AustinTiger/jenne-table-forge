@@ -83,12 +83,27 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
             label: pdf.replace(".pdf", "").split("_").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ")
         }));
 
+        let activePreviewData = null;
+        if (this.activePreview) {
+            activePreviewData = {
+                ...this.activePreview,
+                results: this.activePreview.results.map(r => {
+                    const r0 = r.range?.[0] ?? "";
+                    const r1 = r.range?.[1] ?? "";
+                    return {
+                        ...r,
+                        rangeText: r0 === r1 ? `${r0}` : `${r0}-${r1}`
+                    };
+                })
+            };
+        }
+ 
         return {
             tables: tablesWithSelection,
             themes: sortedThemes,
             pdfs: sortedPDFs,
             selectedCount: this.selectedTables.size,
-            activePreview: this.activePreview,
+            activePreview: activePreviewData,
             searchQuery: this.searchQuery
         };
     }
