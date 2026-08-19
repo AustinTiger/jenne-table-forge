@@ -45,7 +45,7 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
             
             // Re-render window with new data if open
             if (this.rendered) {
-                this.render(true);
+                this.render({ force: true });
             }
         } catch (e) {
             ui.notifications.error("Failed to load TableForge tables metadata!");
@@ -222,14 +222,14 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
     }
 
     _onRender(context, options) {
-        super._onRender(context, options);
+        super._onRender?.(context, options);
         const html = $(this.element);
         
         // Start live python status polling
         this.pollServerStatus(html);
         if (this.pollTimer) clearInterval(this.pollTimer);
         this.pollTimer = setInterval(() => this.pollServerStatus(html), 1000);
-
+ 
         // Apply filters instantly on render
         this.applyFilters(html);
         
@@ -246,7 +246,7 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
             try {
                 const response = await fetch(`/modules/jenne-table-forge/data/tables/${tableMeta.file}`);
                 this.activePreview = await response.json();
-                this.render(true);
+                this.render({ force: true });
             } catch (err) {
                 ui.notifications.error("Failed to load table preview!");
             }
@@ -539,7 +539,7 @@ Hooks.on("getSceneControlButtons", (controls) => {
         button: true,
         visible: true,
         onChange: () => {
-            new TableForgeImporterDialog().render(true);
+            new TableForgeImporterDialog().render({ force: true });
         }
     };
 
