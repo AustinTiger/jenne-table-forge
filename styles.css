@@ -75,6 +75,15 @@ body.game #tableforge-importer-dialog .window-header a.close:hover {
 }
 
 /* 3. Layout Container */
+.tableforge-wrapper {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+}
+
 .tableforge-container {
     display: flex !important;
     gap: 15px !important;
