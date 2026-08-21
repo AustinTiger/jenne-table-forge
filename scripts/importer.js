@@ -92,10 +92,24 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
             };
         }
  
+        const tags = new Set();
+        for (const t of this.tables) {
+            if (t.tags && Array.isArray(t.tags)) {
+                for (const tag of t.tags) {
+                    tags.add(tag);
+                }
+            }
+        }
+        const sortedTags = Array.from(tags).sort().map(tag => ({
+            value: tag,
+            label: tag.charAt(0).toUpperCase() + tag.slice(1).replace("_", " ")
+        }));
+ 
         return {
             tables: tablesWithSelection,
             themes: sortedThemes,
             pdfs: sortedPDFs,
+            tags: sortedTags,
             selectedCount: this.selectedTables.size,
             activePreview: activePreviewData,
             searchQuery: this.searchQuery
@@ -108,7 +122,8 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
         const category = html.find("#filter-category").val() || "all";
         const theme = html.find("#filter-theme").val() || "all";
         const source = html.find("#filter-source").val() || "all";
-
+        const tag = html.find("#filter-tag").val() || "all";
+ 
         html.find(".tableforge-item").each((idx, el) => {
             const tableMeta = this.tables[idx];
             if (!tableMeta) return;
@@ -132,7 +147,7 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
                 const itemTheme = fileParts[1];
                 matchesTheme = (theme === `theme:${itemTheme}`);
             }
-
+ 
             // 4. Source PDF filter
             let matchesSource = false;
             if (source === "all") {
@@ -142,8 +157,11 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
                 matchesSource = (source === `pdf:${pdfName}`);
             }
             
+            // 5. Tag filter
+            const matchesTag = (tag === "all" || (tableMeta.tags && tableMeta.tags.includes(tag)));
+            
             // Dynamic evaluation
-            if (matchesSearch && matchesCategory && matchesTheme && matchesSource) {
+            if (matchesSearch && matchesCategory && matchesTheme && matchesSource && matchesTag) {
                 $(el).show();
             } else {
                 $(el).hide();
@@ -317,6 +335,11 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
         html.find("#filter-source").on("change", () => {
             this.applyFilters(html);
         });
+ 
+        // 5. Tag Filter listener
+        html.find("#filter-tag").on("change", () => {
+            this.applyFilters(html);
+        });
 
         // Staging options
         html.find(".select-all-btn").on("click", () => {
@@ -381,6 +404,257 @@ class TableForgeImporterDialog extends HandlebarsApplicationMixin(ApplicationV2)
                 ui.notifications.info("Cancellation signal successfully dispatched to background thread.");
             } catch (err) {
                 console.error(err);
+            }
+        });
+
+        // Combine selected tables into a single table
+        html.find(".btn-combine-execute").on("click", async () => {
+            if (this.selectedTables.size < 2) {
+                ui.notifications.warn("Please select at least 2 tables to combine!");
+                return;
+            }
+
+            // Prompt user for Combined Table Name and combination method using DialogV2
+            const config = await foundry.applications.api.DialogV2.wait({
+                window: { title: "Combine Selected Tables" },
+                classes: ["dialog", "tableforge-combine-dialog"],
+                position: { width: 450 },
+                content: `
+                    <form style="display:flex; flex-direction:column; gap:12px; padding:10px 5px 5px 5px; box-sizing:border-box;">
+                        <div class="form-group" style="display:flex; flex-direction:column; gap:4px;">
+                            <label style="font-weight:bold; color:#f5c992;">Combined Table Name:</label>
+                            <input type="text" id="combine-name" value="Combined TableForge Table" style="background:#1e1a14; color:white; border:1px solid #2e2920; padding:6px; border-radius:4px; font-family:'Signika', sans-serif;">
+                        </div>
+                        <div class="form-group" style="display:flex; flex-direction:column; gap:4px;">
+                            <label style="font-weight:bold; color:#f5c992;">Combination Method:</label>
+                            <select id="combine-method" style="background:#1e1a14; color:white; border:1px solid #2e2920; padding:6px; border-radius:4px; font-family:'Signika', sans-serif;">
+                                <option value="merge" selected>Merge Entries (Concatenate all rows sequentially)</option>
+                                <option value="parent">Roll-On-Table (Parent table rolls on each sub-table)</option>
+                            </select>
+                        </div>
+                    </form>
+                `,
+                buttons: [
+                    {
+                        action: "combine",
+                        label: "<i class='fas fa-object-group'></i> Combine",
+                        default: true,
+                        callback: (event, button, dialog) => {
+                            const form = dialog.element.querySelector("form");
+                            const name = form.querySelector("#combine-name").value.trim() || "Combined TableForge Table";
+                            const method = form.querySelector("#combine-method").value;
+                            return { name, method };
+                        }
+                    },
+                    {
+                        action: "cancel",
+                        label: "<i class='fas fa-times'></i> Cancel",
+                        callback: () => null
+                    }
+                ],
+                rejectClose: false,
+                modal: true
+            });
+
+            if (!config) return;
+
+            const importTarget = html.find("#import-target").val() || "compendium";
+            ui.notifications.info(`Combining and importing to ${importTarget === 'compendium' ? 'Compendium' : 'Sidebar'}...`);
+
+            // Helper function to build folder path recursively in Sidebar
+            async function getOrCreateSidebarFolder(pathParts) {
+                let parentId = null;
+                for (const part of pathParts) {
+                    let folder = game.folders.find(f => f.name === part && f.type === "RollTable" && f.folder?.id === parentId);
+                    if (!folder) {
+                        folder = await Folder.create({
+                            name: part,
+                            type: "RollTable",
+                            folder: parentId
+                        });
+                    }
+                    parentId = folder.id;
+                }
+                return parentId;
+            }
+
+            // Helper function to get or create Compendium Folder hierarchy
+            async function getOrCreateCompendiumFolder(compendium, pathParts) {
+                let parentId = null;
+                for (const part of pathParts) {
+                    let folder = compendium.folders.find(f => f.name === part && f.folder?.id === parentId);
+                    if (!folder) {
+                        folder = await Folder.create({
+                            name: part,
+                            type: "RollTable",
+                            folder: parentId
+                        }, { pack: compendium.metadata.id });
+                    }
+                    parentId = folder.id;
+                }
+                return parentId;
+            }
+
+            // Resolve target container
+            let compendium = null;
+            if (importTarget === "compendium") {
+                const packName = "world.tableforge-extracted-tables";
+                compendium = game.packs.get(packName);
+                if (!compendium) {
+                    compendium = await CompendiumCollection.createCompendium({
+                        type: "RollTable",
+                        label: "TableForge: Extracted Tables",
+                        name: "tableforge-extracted-tables"
+                    });
+                }
+            }
+
+            try {
+                // Fetch and parse all selected tables
+                const tablesData = [];
+                const tableNames = [];
+                for (const file of this.selectedTables) {
+                    const response = await fetch(`modules/jenne-table-forge/data/tables/${file}`);
+                    const data = await response.json();
+                    tablesData.push(data);
+                    tableNames.push(data.name);
+                }
+
+                let finalTableData = null;
+
+                if (config.method === "merge") {
+                    // Merge Entries: Concatenate all table rows sequentially
+                    const mergedResults = [];
+                    let currentRange = 1;
+
+                    for (const tableData of tablesData) {
+                        for (const res of tableData.results) {
+                            const min = res.range?.[0] ?? 1;
+                            const max = res.range?.[1] ?? 1;
+                            const weight = Math.max(1, (max - min) + 1);
+
+                            mergedResults.push({
+                                type: res.type ?? 0,
+                                text: res.text,
+                                weight: weight,
+                                range: [currentRange, currentRange + weight - 1],
+                                drawn: false,
+                                img: res.img ?? "icons/svg/d20-black.svg",
+                                documentCollection: res.documentCollection ?? "",
+                                documentId: res.documentId ?? ""
+                            });
+                            currentRange += weight;
+                        }
+                    }
+
+                    finalTableData = {
+                        name: config.name,
+                        img: "icons/svg/d20-grey.svg",
+                        description: `Merged from: ${tableNames.join(", ")}`,
+                        results: mergedResults,
+                        formula: `1d${currentRange - 1}`
+                    };
+
+                } else {
+                    // Roll-On-Table: Create parent table that rolls on each sub-table.
+                    // First, import each of the sub-tables to ensure they exist as documents and get their IDs.
+                    const childIds = [];
+
+                    for (let i = 0; i < tablesData.length; i++) {
+                        const file = Array.from(this.selectedTables)[i];
+                        const tableData = tablesData[i];
+                        const fileParts = file.split("/");
+                        const category = fileParts[0];
+
+                        let pathParts = [];
+                        if (category === "combined") {
+                            pathParts.push("TableForge (Combined)");
+                            const theme = fileParts[1];
+                            const themeCap = theme.charAt(0).toUpperCase() + theme.slice(1).replace("_", " ");
+                            pathParts.push(themeCap);
+                        } else {
+                            pathParts.push("TableForge (Individual)");
+                            const pdfName = fileParts[1];
+                            const pdfCap = pdfName.split("_").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+                            pathParts.push(pdfCap);
+                        }
+
+                        let childDoc = null;
+                        if (importTarget === "sidebar") {
+                            const folderId = await getOrCreateSidebarFolder(pathParts);
+                            tableData.folder = folderId;
+
+                            let existing = game.tables.find(t => t.name === tableData.name);
+                            if (existing) await existing.delete();
+                            childDoc = await RollTable.create(tableData);
+                            childIds.push(childDoc.id);
+                        } else {
+                            const folderId = await getOrCreateCompendiumFolder(compendium, pathParts);
+                            tableData.folder = folderId;
+
+                            let existing = compendium.index.find(entry => entry.name === tableData.name);
+                            if (existing) {
+                                const doc = await compendium.getDocument(existing._id);
+                                await doc.delete();
+                            }
+                            childDoc = await RollTable.create(tableData, { pack: compendium.metadata.id });
+                            childIds.push(childDoc.id);
+                        }
+                    }
+
+                    // Create the parent table
+                    const parentResults = [];
+                    for (let i = 0; i < tablesData.length; i++) {
+                        parentResults.push({
+                            type: importTarget === "sidebar" ? 1 : 2, // 1 for Document, 2 for Compendium Pack Document
+                            text: tablesData[i].name,
+                            weight: 1,
+                            range: [i + 1, i + 1],
+                            drawn: false,
+                            img: "icons/svg/d20-grey.svg",
+                            documentCollection: importTarget === "sidebar" ? "RollTable" : compendium.metadata.id,
+                            documentId: childIds[i]
+                        });
+                    }
+
+                    finalTableData = {
+                        name: config.name,
+                        img: "icons/svg/d20-grey.svg",
+                        description: `Rolls on sub-tables: ${tableNames.join(", ")}`,
+                        results: parentResults,
+                        formula: `1d${tablesData.length}`
+                    };
+                }
+
+                // Import final combined table
+                if (importTarget === "sidebar") {
+                    const folderId = await getOrCreateSidebarFolder(["TableForge (Combined)"]);
+                    finalTableData.folder = folderId;
+
+                    let existing = game.tables.find(t => t.name === finalTableData.name);
+                    if (existing) await existing.delete();
+
+                    await RollTable.create(finalTableData);
+                    ui.notifications.info(`Successfully combined ${tablesData.length} tables into '${config.name}' inside the Sidebar!`);
+                } else {
+                    const folderId = await getOrCreateCompendiumFolder(compendium, ["TableForge (Combined)"]);
+                    finalTableData.folder = folderId;
+
+                    let existing = compendium.index.find(entry => entry.name === finalTableData.name);
+                    if (existing) {
+                        const doc = await compendium.getDocument(existing._id);
+                        await doc.delete();
+                    }
+
+                    await RollTable.create(finalTableData, { pack: compendium.metadata.id });
+                    ui.notifications.info(`Successfully combined ${tablesData.length} tables into '${config.name}' inside the Compendium!`);
+                }
+
+                this.close();
+
+            } catch (err) {
+                console.error("Failed to combine tables:", err);
+                ui.notifications.error("An error occurred while combining the selected tables!");
             }
         });
 

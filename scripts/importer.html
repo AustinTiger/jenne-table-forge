@@ -42,6 +42,17 @@
                 {{/each}}
             </select>
         </div>
+ 
+        <!-- Tag Filter -->
+        <div class="tableforge-sidebar-section" style="border-top: 1px solid #2e2920; padding-top: 12px;">
+            <div class="tableforge-sidebar-title">TAG FILTER</div>
+            <select id="filter-tag" class="tableforge-select">
+                <option value="all">All Tags</option>
+                {{#each tags}}
+                <option value="{{this.value}}">{{this.label}}</option>
+                {{/each}}
+            </select>
+        </div>
 
         <!-- Python Pipeline Execution Console -->
         <div class="tableforge-sidebar-section" style="border-top: 1px solid #2e2920; padding-top: 12px; margin-top: auto; display: flex; flex-direction: column; gap: 10px;">
@@ -171,6 +182,9 @@
             </select>
         </div>
     </div>
+    <button class="btn-combine-execute btn-secondary" style="margin-right:10px;">
+        <i class="fas fa-object-group"></i> Combine Selected
+    </button>
     <button class="btn-import-execute">
         <i class="fas fa-file-import"></i> Import Selected
     </button>
